@@ -1,0 +1,318 @@
+Markets: An Overview
+Competition, Welfare, Imperfections, and Market Design
+Your Name
+Your Institution
+October 3, 2025
+
+Total slides/pages: 23
+--------------------------------------------------
+
+=== Slide 01 ===
+Markets: An Overview
+Competition, Welfare, Imperfections, and Market Design
+Your Name
+Your Institution
+October 3, 2025
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 1 / 18
+
+=== Slide 02 ===
+Roadmap
+• 1 What is a Market?
+• 2 Competitive Markets & The Invisible Hand
+• 3 First Welfare Theorem (FWT)
+• 4 Imperfect Competition & Oligopoly
+• 5 Market Design
+• 6 Matching Markets
+• 7 How to Design Markets?
+• 8 Mechanism Design (30-second tour)
+• 9 Wrap-Up
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 2 / 18
+
+=== Slide 03 ===
+What is a Market?
+A market is any arrangement that enables buyers and sellers to exchange goods, services, or assets.
+
+Key elements:
+• participants
+• objects of trade
+• rules
+• prices (not always)
+• institutions
+
+Outcomes of interest:
+• allocation
+• prices
+• efficiency
+• surplus
+• fairness
+
+Market forms range from perfect competition to monopoly/oligopoly, and include matching markets with no prices.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 3 / 18
+
+=== Slide 04 ===
+Competitive Markets: Intuition
+• Many small buyers and sellers, each price-taking.
+• Goods are homogeneous; information is complete.
+• No externalities; free entry/exit; well-defined property rights.
+• Supply–demand interaction yields an equilibrium price p* where QS(p*) = QD(p*).
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 4 / 18
+
+=== Slide 05 ===
+Adam Smith’s Invisible Hand
+Core idea:
+Individual self-interest, under the right market institutions, can lead to socially desirable outcomes as if guided by an “invisible hand.”
+
+• Each firm maximizes profit.
+• Each consumer maximizes utility.
+• In competitive equilibrium, no agent can do better given prices.
+• Under appropriate assumptions, the equilibrium allocation is Pareto efficient.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 5 / 18
+
+=== Slide 06 ===
+Adam Smith’s Invisible Hand
+Core idea:
+Individual self-interest, under the right market institutions, can lead to socially desirable outcomes as if guided by an “invisible hand.”
+
+• Each firm maximizes profit.
+• Each consumer maximizes utility.
+• In competitive equilibrium, no agent can do better given prices.
+• Under appropriate assumptions, the equilibrium allocation is Pareto efficient.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 5 / 18
+
+=== Slide 07 ===
+First Welfare Theorem (FWT)
+Statement (informal):
+Any competitive equilibrium allocation is Pareto efficient.
+
+Sketch of logic:
+• At equilibrium prices, each consumer chooses a utility-maximizing bundle subject to budget.
+• Each firm chooses a profit-maximizing production plan.
+• Feasibility and price-taking imply no reallocation can make someone better off without making someone else worse off.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 6 / 18
+
+=== Slide 08 ===
+First Welfare Theorem (FWT)
+Statement (informal):
+Any competitive equilibrium allocation is Pareto efficient.
+
+Sketch of logic:
+• At equilibrium prices, each consumer chooses a utility-maximizing bundle subject to budget.
+• Each firm chooses a profit-maximizing production plan.
+• Feasibility and price-taking imply no reallocation can make someone better off without making someone else worse off.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 6 / 18
+
+=== Slide 09 ===
+Assumptions Behind the FWT (Highlight)
+
+Preferences & Technology:
+• Locally non-satiated (or monotone) preferences.
+• Convex preferences (often assumed).
+• Convex, feasible production sets.
+• No increasing returns.
+
+Market Environment:
+• Price-taking behavior.
+• Complete markets (all goods/states can be traded).
+• No externalities or public goods.
+• Perfect information.
+• Well-defined property rights.
+
+Violations of these assumptions ⇒ potential market failures.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 7 / 18
+
+=== Slide 10 ===
+When Competition Breaks: Sources of Imperfection
+• Market power: monopoly, oligopoly.
+• Externalities: actions impose costs/benefits on others.
+• Public goods: non-rival, non-excludable.
+• Information problems: adverse selection, moral hazard.
+• Missing/Incomplete markets: some risks or goods not tradeable.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 8 / 18
+
+=== Slide 11 ===
+Oligopoly at a Glance
+• Few firms interact strategically ⇒ outcomes depend on conduct.
+
+Models:
+• Cournot (quantity competition): choose qi to maximize πi(qi, q−i).
+• Bertrand (price competition): choose pi; with homogeneous goods and identical costs, equilibrium p ≈ marginal cost.
+• Stackelberg (leadership): first-mover commits to q; follower best-responds.
+
+Additional notes:
+• Product differentiation, capacity constraints, and dynamics shift results away from perfect-competition benchmarks.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 9 / 18
+
+=== Slide 12 ===
+Policy & Institutions
+• Antitrust/competition policy: deter collusion, curb abuse of dominance, scrutinize mergers.
+• Regulation: price caps, access rules for network industries, interoperability.
+• Encouraging entry/innovation: procurement design, IP policy, standards.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 10 / 18
+
+=== Slide 13 ===
+What is Market Design?
+Definition:
+Market design is the engineering of rules and institutions to achieve good outcomes when the “natural” market fails or does not exist.
+
+• Uses tools from game theory, mechanism design, and experiments.
+• Applications:
+  - auctions
+  - matching markets
+  - school choice
+  - kidney exchange
+  - spectrum allocation
+  - ride-hailing
+  - online platforms
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 11 / 18
+
+=== Slide 14 ===
+Design Objectives
+
+Efficiency:
+• High total surplus / Pareto improvements.
+• Allocative efficiency with constraints.
+
+Fairness:
+• Stability, equity, diversity goals.
+• Envy-freeness / no justified envy (context-specific).
+
+Incentives:
+• Strategy-proofness / truth-telling.
+• Low manipulability; simple messages.
+
+Practicality:
+• Simplicity, transparency, legitimacy.
+• Robustness to mistakes and missing data.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 12 / 18
+
+=== Slide 15 ===
+Matching Markets: No Prices (or Limited Prices)
+Examples:
+• medical residencies
+• school choice
+• kidney exchange
+• organ donation
+• dating
+• roommate markets
+
+Objective:
+• Produce a stable matching (no blocking pairs).
+• Respect priorities and constraints.
+
+Canonical tool:
+• Gale–Shapley deferred acceptance algorithm.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 13 / 18
+
+=== Slide 16 ===
+Gale–Shapley Deferred Acceptance (High-Level)
+1. Proposers (e.g., students) apply to top choice.
+2. Receivers (e.g., schools) tentatively hold up to capacity per priority and reject the rest.
+3. Rejected proposers apply to next choice; receivers update holds.
+4. Repeat until no proposals are rejected.
+
+Properties (with student-proposing):
+• Produces a stable matching.
+• Strategy-proof for proposers (truthful ranking is a dominant strategy).
+• Proposer-optimal among all stable matchings.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 14 / 18
+
+=== Slide 17 ===
+Designing a Matching Market: Checklist
+• Define participants, capacities, and constraints (e.g., priorities, diversity, geography).
+• Choose message space: rankings, scores, ties allowed?
+• Select algorithm:
+  - deferred acceptance
+  - Top Trading Cycles (TTC)
+  - variants (ties, couples, quotas)
+• Decide objectives: stability vs. efficiency vs. fairness trade-offs.
+• Build process:
+  - timelines
+  - information disclosure
+  - simulations and pilots
+  - user testing
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 15 / 18
+
+=== Slide 18 ===
+How to Design Markets? (General Playbook)
+1. Diagnose: Identify failures (market power, externalities, information, missing markets, congestion).
+2. Model: Map incentives & constraints. Define feasible outcomes and metrics.
+3. Mechanism: Pick rules (pricing, priorities, auctions, matching, budgets).
+4. Test: Simulate, experiment, stress-test for gaming and edge cases.
+5. Implement: Keep it simple, transparent, enforceable.
+6. Monitor & iterate: Use data to refine; guard against unintended consequences.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 16 / 18
+
+=== Slide 19 ===
+Mechanism Design: Key Concepts
+• A mechanism maps messages (bids, rankings) to outcomes and payments.
+• Incentive compatibility: truthful messages are optimal.
+• Individual rationality: participants prefer joining to opting out.
+• Budget balance and feasibility constraints.
+
+Examples:
+• Vickrey auction (2nd price)
+• VCG mechanisms
+• Deferred acceptance
+• Top Trading Cycles (TTC)
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 17 / 18
+
+=== Slide 20 ===
+Takeaways
+• Competitive markets can deliver efficiency (invisible hand) under strong assumptions (FWT).
+• Real-world frictions (market power, externalities, information) motivate policy and market design.
+• Matching markets show how good outcomes arise without prices via carefully built rules.
+• Good design balances efficiency, fairness, incentives, and practicality.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 18 / 18
+
+=== Slide 21 ===
+Competitive Equilibrium (Formal Sketch)
+Consumers i ∈ I:
+maximize ui(xi) subject to p · xi ≤ p · ωi.
+
+Firms f ∈ F:
+choose yf ∈ Yf to maximize p · yf.
+
+A competitive equilibrium is (p*, {x*i}, {y*f}) such that:
+1. Utility/profit maximization at p*.
+2. Market clearing:
+   Σi x*i = Σi ωi + Σf y*f.
+
+Under FWT assumptions ⇒ allocation {x*i} is Pareto efficient.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 1 / 3
+
+=== Slide 22 ===
+Further Reading (Pointers)
+• Mas-Colell, Whinston, Green: Microeconomic Theory (competitive equilibrium, welfare theorems).
+• Varian: Microeconomic Analysis (foundations).
+• Osborne & Rubinstein: A Course in Game Theory.
+• Roth & Sotomayor: Two-Sided Matching.
+• Milgrom: Putting Auction Theory to Work.
+• Klemperer: Auctions.
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 2 / 3
+
+=== Slide 23 ===
+Questions?
+Footer:
+Your Name (Your Institution) Markets: An Overview October 3, 2025 3 / 3

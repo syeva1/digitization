@@ -1,0 +1,781 @@
+
+
+===== PAGE 1 =====
+
+Introduction
+Lats is a highly sought-after and highly valued commodity. In the
+15 years since the first edition of this book was published, the public
+has become increasingly captivated by the idea of leadership. People con-
+tinue to ask themselves and others what makes good leaders. As individuals,
+they seek more information on how to become effective leaders. As a result,
+bookstore shelves are filled with popular books about leaders and advice on
+how to be a leader. Many people believe that leadership is a way to improve
+their personal, social, and professional lives. Corporations seek those with
+leadership ability because they believe they bring special assets to their
+organizations and, ultimately, improve the bottom Tine, Academie institu-
+tions throughout the country have responded by providing programs in
+leadership studies.
+In addition, leadership has gained the attention of researchers worldwide. A
+review of the scholarly studies on leadership shows that there is a wide variety
+of different theoretical approaches to explain the complexities of the leadex~
+ship process (c.g., Bass, 1990; Bryman, 1992; Bryman, Collinson, Grint, Jack-
+son, & Uhl-Bien, 2011; Day & Antonakis, 2012; Gardner, 1990; Hickman,
+2009; Mumford, 2006; Rost, 1991). Some researchers conceptualize leader-
+ship as a trait or as a behavior, whereas others view leadership from an infor~
+mation-processing perspective or relational standpoint. Leadership has been
+studied using both qualitative and quantitative methods in many contexts,
+including small groups, therapeutic groups, and large organizations. Collec-
+tively, the research findings on leadership from all of these areas provide a
+picture ofa process that is far more sophisticated and complex than the often-
+simplistic view presented in some of the popular books on leadership.
+This book treats leadership as a complex process having multiple dimensions.
+Based on the research literature, this text provides an in-depth description
+Q resernpoetoes J pate ottsesni
+
+
+===== PAGE 2 =====
+
+2. LEADERSHIP | THEORY AND PRACTICE
+and application of many different approaches to leadership. Our emphasis is
+on how theory can inform the practice of leadership. In this book, we describe
+each theory and then explain how the theory can be used in real situations.
+LEADERSHIP DEFINED t—__________
+‘There are many ways to finish the sentence “Leadership is ...” In fact, as
+Stogdill (1974, p. 7) pointed out in a review of leadership research, there are
+almost as many different definitions of leadersbip as there are people who
+have tried to define it. It is much like the words demecracy, love, and peace.
+Although each of us intuitively knows what we mean by such words, the
+‘words can have different meanings for different people. As Box 1.1 shows,
+scholars and practitioners have attempted to define leadership for more
+than a century without universal consensus.
+Box 1.1 The Evolution of Leadership
+Definitions
+While many have a gutlevel grasp of what leadership is, putting a
+definition to the term has proved to be a challenging endeavor for
+scholars and practitioners alike, More than a century has lapsed since
+leadership became a topic of academic introspection, and definitions
+have evolved continuously during that period. These definitions have
+been influenced by many factors from world affairs and politics to the
+perspectives of the discipline in which the topic is being studied. In a
+seminal work, Rost (1981) analyzed materials written from 1900 to
+41990, finding more than 200 different definitions for leadership. His
+analysis provides a succinct history of how leadership has been
+defined through the last century:
+1900-1929
+Definitions of leadership appearing in the first three decades of the
+20th century emphasized control and centralization of power with a
+‘common theme of domination. For example, at a conference on lead-
+ership in 1927, leadership was defined as “the ability to impress the
+will of the leader on those led and induce obedience, respect, loyalty,
+and cooperation” (Moore, 1927, p. 124).
+© cerining Leadership
+
+
+===== PAGE 3 =====
+
+Chapter 1| Introduction 3
+1930s
+Traits became the focus of defining leadership, with an emerging view
+of leadership as influence rather than domination, Leadership was
+also identified as the interaction of an individual's specific personality
+traits with those of a group; it was noted that while the attitudes and
+activities of the many may be changed by the one, the many may also
+influence a leader
+1940s
+The group approach came into the forefront with leadership being
+defined as the behavior of an individual while involved in directing
+group activities (Hemphill, 1949). At the same time, leadership by
+persuasion was distinguished from "drivership” or leadership by coer-
+ion (Copeland, 1942)
+1950s
+Three themes dominated leadership definitions during this decade:
++ continuance of group theory, which framed leadership as what
+leaders do in groups;
++ leadership as a relationship that develops shared goals, which
+defined leadership based on behavior of the leader; and
++ effectiveness, in which leadership was defined by the ability to
+influence overall group effectiveness.
+1960s
+Although a tumultuous time for world affairs, the 1960s saw harmony
+amongst leadership scholars. The prevailing definition of leadership
+as behavior that influences people toward shared goals was under-
+scored by Seeman (1960) who described leadership as “acts by persons
+Which influence other persons in a shared direction” (p. 53)
+1970s
+The group focus gave way to the organizational behavior approach,
+where leadership became viewed as “initiating and maintaining groups
+or organizations to accomplish group or organizational goals" (Rost,
+1991, p. 59). Burns's (1978) definition, however, was the most important
+concept of leadership to emerge: “Leadership is the reciprocal process
+(Continued)
+® Leadership in Nursing
+
+
+===== PAGE 4 =====
+
+4 LEADERSHIP | THEORY AND PRACTICE
+(continued)
+cof mobilizing by persons with certain motives and values, various eco-
+nomic, political, and other resources, in a context of competition and
+conflict, in order to realize goals independently or mutually held by
+both leaders and followers" (p. 425).
+1980s
+This decade exploded with scholarly and popular works on the nature
+of leadership, bringing the topic to the apex of the academic and
+public consciousnesses. As a result, the number of definitions for lead-
+ership became a prolific stew with several persevering themes:
+
+* Do as the leader wishes. Leadership definitions still predomi-
+nantly delivered the message that leadership is getting followers
+‘to do what the leader wants done.
+
++ Influence. Probably the most often used word in leadership
+definitions of the 1980s, influence was examined from every
+angle. In an effort to distinguish leadership from manage-
+ment, however, scholars insisted that leadership is noncoercive
+influence.
+
++ Traits. Spurred by the national best seller In Search of Excellence
+(Peters & Waterman, 1982), the leadership-as-excellence move-
+ment brought leader traits back to the spotlight. As a result,
+many people’s understanding of leadership is based on a trait
+orientation.
+
++ Transformation. Burns (1978) is credited for initiating a move-
+ment defining leadership as a transformational process, stating
+that leadership occurs “when one or more persons engage with
+others in such a way that leaders and followers raise one another
+to higher levels of motivation and morality” (p. 83).
+
+Into the 21st Century
+
+Debate continues as to whether leadership and management are
+separate processes, but emerging research emphasizes the process of
+leadership, whereby an individual influences a group of individuals to
+achieve a common goal, rather than developing new ways of defining
+leadership. Among these emerging leadership approaches are
+
+* authentic leadership, in which the authenticity of leaders and
+their leadership is emphasized;
+
++ spiritual leadership, which focuses on leadership that utilizes
+values and sense of calling and membership to motivate
+followers;
+
+© the Future of Leadership © working Across Generations
+
+
+===== PAGE 5 =====
+
+Chapter 1| Introduction 5
+
++ servant leadership, which puts the leader in the role of servant,
+
+who utilizes “caring principles” to focus on followers’ needs to
+help these followers become more autonomous, knowledge-
+able, and like servants themselves; and
+
++ adaptive leadership, in which leaders encourage followers to
+
+adapt by confronting and solving problems, challenges, and
+changes.
+
+After decades of dissonance, leadership scholars agree on one
+thing: They can’t come up with a common definition for leadership.
+Because of such factors as growing global influences and generational
+differences, leadership will continue to have different meanings for
+different people. The bottom line is that leadership is a complex con-
+cept for which a determined definition may long be in flux.
+
+SOURCE: Adapted from Leadership forthe Twenty-First Century by J.C. Rost, 1991,
+
+New York: Praeger
+Ways of Conceptualizing Leadership
+In the past 60 years, as many as 65 different classification systems have been
+developed to define the dimensions of leadership (Fleishman et al., 1991),
+‘One such classification system, directly related to our discussion, is the
+scheme proposed by Bass (1990, pp. 11—20), He suggested that some defini-
+tions view leadership as the focus of group procesces. From this perspective, the
+leader is atthe center of group change and activity and embodies the will of
+the group. Another set of definitions conceptualizes leadership from a per~
+sonality perspective, which suggests that leadership is a combination of special
+traits or characteristics that some individuals possess. These traits enable
+those individuals to induce others to accomplish tasks. Other approaches to
+leadership define it as an act or a Dehavior—the things leaders do to bring
+about change in a group.
+In addition, some define leadership in terms of the power relationship that
+exists between leaders and followers. From this viewpoint, leaders have
+power that they wield to effect change in others, Others view leadership as
+a transformational process that moves followers to accomplish more than is
+usually expected of them. Finally, some scholars address leadership from a
+skills perspective, This viewpoint stresses the capabilities (knowledge and
+skills) that make effective leadership possible.
+® Perspectives of Leadership
+
+
+===== PAGE 6 =====
+
+6 LEADERSHIP | THEORY AND PRACTICE
+Definition and Components
+Despite the multitude of ways in which leadership has been conceptualized,
+the following components can be identified as central to the phenomenon:
+(a) Leadership is a process, (b) leadership involves influence, (c) leadership
+‘occurs in groups, and (4) leadership involves common goals. Based on these
+components, the following definition of leadership is used in this text:
+Leadership is a process whereby an individual influences a group of
+individuals to achieve a common goal.
+Defining leadership as a process means that it is not a trait or characteristic
+that resides in the leader, but rather 2 transactional event that occurs
+between the leader and the followers. Process implies that a leader affects
+and is affected by followers. It emphasizes that leadership is not a linear,
+one-way event, but rather an interactive event. When leadership is defined
+in this manner, it becomes available to everyone. It is not restrieted to the
+formally designated leader in a group.
+Leadership involves influence. It is concerned with how the leader affects
+followers. Influence is the sine qua non of leadership. Without influence,
+leadership does not exist.
+Leadership occurs in groups. Groups are the context in which leadership
+takes place. Leadership involves influencing a group of individuals who have
+a common purpose. This can be a small task group, a community group, or
+a large group encompassing an entire organization. Leadership is about one
+individual influencing a group of others to accomplish common goals. Oth-
+exs (a group) are required for leadership to occur. Leadership training pro-
+grams that teach people to lead themselves are not considered a part of
+leadership within the definition that is set forth in this discussion
+Leadership includes attention to common goals. Leaders direct their energies
+toward individuals who are trying to achieve something together. By commen,
+‘we mean that the leaders and followers have a mutual purpose. Attention to
+common goals gives leadership an ethical overtone because it stresses the
+need for leaders to work with followers to achieve selected goals. Stressing
+mutuality lessens the possibility that leaders might act toward followers in
+ways that are forced or unethical It also increases the possibility that leaders,
+and followers will work together toward a common good (Rost, 1991).
+Q the Ethical Dimension of Leadership © Fttective Leadership
+
+
+===== PAGE 7 =====
+
+Chapter 1| Introduction 7
+Throughout this text, the people who engage in leadership will be called
+Jeaders, and those toward whom leadership is directed will be called followers.
+Both leaders and followers are involved together in the leadership process.
+Leaders need followers, and followers need leaders (Burns, 1978; Heller &
+Van Til, 1983; Hollander, 1992; Jago, 1982). Although leaders and followers
+are closely linked, it is the leader who often initiates the relationship, creates
+the communication linkages, and carries the burden for maintaining the
+relationship.
+In our discussion of leaders and followers, attention will be directed toward
+follower issues as well as leader issues. Leaders have an ethical responsibility
+to attend to the needs and concerns of followers. As Burns (1978) pointed
+‘out, discussions of leadership sometimes are viewed as elitist because of the
+implied power and importance often ascribed to leaders in the leader
+follower relationship. Leaders are not above or better than followers. Leaders
+and followers must be understood in relation to each other (Hollander,
+1992) and collectively (Burns, 1978). They are in the leadership relationship
+together—and are two sides of the same coin (Rost, 1991).
+LEADERSHIP DESCRIBED ———__________
+In addition to definitional issues, it is important to discuss several other
+questions pertaining to the nature of leadership. In the following section,
+we will address questions such as how leadership as a trait differs from
+leadership as a process; how appointed leadership differs from emergent
+leadership; and how the concepts of power, coercion, and management dif-
+fer from leadership.
+Trait Versus Process Leadership
+We have all heard statements such as “He is born to be a leader” or “She is a
+natural leader.” These statements are commonly expressed by people who
+take a trait perspective toward leadership. The trait perspective suggests that
+certain individuals have special innate or inborn characteristics or qualities
+that make them leaders, and that it is these qualities that differentiate them
+from nonleaders. Some of the personal qualities used to identify leaders
+include unique physical factors (e.g., height), personality features (e.g. extra~
+version), and other characteristics (e.g., intelligence and fluency; Bryman,
+1992). In Chapter 2, we will discuss a large body of research that has exam-
+ined these personal qualities.
+G development of Leadership ® Fotiowership
+
+
+===== PAGE 8 =====
+
+8 LEADERSHIP | THEORY AND PRACTICE
+
+To describe leadership as a trait is quite different from describing it as a
+process (Figure 1.1),'The trait viewpoint conceptualizes leadership as a prop
+erty of set of properties possessed in varying degrees by different people
+(Jago, 1982). This suggests that it resides in select people and restricts lead-
+ership to those who are believed to have special, usually inborn, talents.
+‘The process viewpoint suggests that leadership is a phenomenon that resides
+in the context of the interactions between leaders and followers and makes,
+leadership available to everyone. As a process, leadership can be observed in
+leader behaviors (Jago, 1982), and can be learned. The process definition of
+leadership is consistent with the definition of leadership that we have set
+forth in this chapter.
+
+Assigned Versus Emergent Leadership
+
+Some people are leaders because of their formal position in an organization,
+whereas others are leaders because of the way other group members respond
+to them. These two common forms of leadership are called assigned leader
+ship and emergent leadership. Leadership that is based on occupying a posi-
+tion in an organization is assigned leadership. Team leaders, plant managers,
+department heads, directors, and administrators are all examples of assigned
+leadership.
+
+Yet the person assigned to a leadership position does not always become the
+real leader in a particular setting. When others perceive an individual as the
+most influential member of a group or an organization, regardless of the
+individual’ title, the person is exhibiting emergent leadership. The individual
+acquires emergent leadership through other people in the organization who
+support and accept that individual’ behavior. This type of leadership is not
+assigned by position; rather, it emerges over a period through communication.
+Some of the positive communication behaviors that account for successful
+leader emergence include being verbally involved, being informed, seeking others
+opinions, initiating new ideas, and being firm but not rigid (Fisher, 1974).
+
+In addition to communication behaviors, researchers have found that per-
+sonality plays a role in leadership emergence. For example, Smith and Foti
+(1998) found that certain personality traits were related to leadership emer-
+gence in a sample of 160 male college students. The individuals who were
+more dominant, more intelligent, and more confident about their own per-
+formance (general self-efficacy) were more likely to be identified as leaders
+by other members of their task group. Although it is uncertain whether these
+findings apply to women as well, Smith and Foti suggested that these three
+traits could be used to identify individuals perceived to be emergent leaders.
+Q teadership: skill or Process?
+
+
+===== PAGE 9 =====
+
+Chapter 1 Introduction 9
+Figure 1.1. The Different Views of Leadership
+TRAIT PROCESS
+DEFINITION OF LEADERSHIP DEFINITION OF LEADERSHIP
+Leader Leader
++ Height
+Leadership | inteligence
+> + Extaversion Leadership
+
++ Fluency ‘> meraction
+
+: 7 Traits |
+
+Followers Followers
+SOURCE: Adapted from A Force for Change: How Leaderhip Differ rom Management
+(op. 38), by)». Kote, 1990, New Yor: Free Press
+Leadership emergence may also be affected by gender-biased perceptions
+Ina study of 40 mixed-sex college groups, Watson and Hoffman (2004)
+found that women who were urged to persuade their task groups to adopt
+high-quality decisions succeeded with the same frequency as men with iden-
+tical instructions. Although women were equally influential leaders in their
+groups, they were rated significantly lower than comparable men were on
+leadership. Furthermore, these influential women were also rated as signifi-
+cantly less likable than comparably influential men were. These results sug
+gest that there continue to be barriers to women’s emergence as leaders in
+some settings
+A unique perspective on leadership emergence is provided by social identity
+theory (Hogg, 2001). From this perspective, leadership emergence is the
+degree to which a person fits with the identity of the group as a whole. As
+groups develop over time, a group prototype also develops. Individuals
+emerge as leaders in the group when they become most like the group pro-
+totype. Being similar to the prototype makes leaders attractive to the group
+and gives them influence with the group.
+The leadership approaches we discuss in the subsequent chapters of this
+book apply equally to assigned leadership and emergent leadership. When a
+person is engaged in leadership, that person is a leader, whether leadership
+© ordinary Leaders
+
+
+===== PAGE 10 =====
+
+10 LEADERSHIP | THEORY AND PRACTICE
+
+Table 1.1_ Six Bases of Power
+
+Referent Power Based on followers’ identification and king for the leader. A
+teacher who is adored by students has referent power.
+
+Expert Power Based on followers’ perceptions of the leader's competence, A
+tour guide who is knowledgeable about a foreign country has
+expert power.
+
+Legitimate Power Associated with having status or formal job authority. judge
+Who administers sentences in the courtroom exhibits
+legitimate power.
+
+Reward Power Derived from having the capacity to provide rewards to others
+‘A supervisor who gives rewards to employees who work hard
+is using reward power.
+
+Coercive Power Derived from having the capacity to penalize or punish others
+‘A coach who sits players on the bench for being late to
+practice is using coercive power
+
+Information Derived from possessing knowledge that others want or need
+
+Power ‘A.boss who has information regarding new criteria to decide
+employee promotion eligibility has information power.
+
+SOURCE: Adapted from "The Bases of Social Power” by JR. French Jr. and 8. Raven, 1962 in
+D. Carteright (Ed), Group Dynamics: Research and Theory (pp. 258-269), New York Harper &
+ow, and “Socal Influence and Power” by 8H. Raven, 1965, in. Steiner & M. Fishbein
+(Eds), Curent Stulies in Social Psychology (op. 371-382), New York: Holt, inehart, & Winston
+‘was assigned or emerged. This book focuses on the leadership process that
+occurs when any individual is engaged in influencing other group members
+in their efforts to reach a common goal.
+Leadership and Power
+‘The concept of power is rclated to leadership because it is part of the influ-
+ence process. Power is the capacity or potential to influence. People have
+power when they have the ability to affect others’ beliefs, attitudes, and
+courses of action. Judges, doctors, coaches, and teachers are all examples of
+people who have the potential to influence us. When they do, they are using,
+their power, the resource they draw on to effect change in us
+
+Although there are no explicit theories in the research literature about power
+
+and leadership, power is a concept that people often associate with leader
+
+ship. It is common for people to view leaders (both good and bad) and
+people in positions of leadership as individuals who wield power over others,
+and as a result, power is often thought of as synonymous with leadership. In
+addition, people are often intrigued by how leaders use their power. Studying
+
+
+===== PAGE 11 =====
+
+Chapter 1 | Introduction 11
+
+Table 1.2 Types and Bases of Power
+
+Position Power Personal Power
+
+Legitimate Referent
+
+Reward Expert
+
+Coercive
+
+Information
+SOURCE: Adapted from A Force for Change: How Leadership Difers From Management
+{pp. 3-8), by J.P. Kotter, 1980, New York: Free Press
+how famous leaders, such as Hitler or Alexander the Great, use power to
+effect change in others is titillating to many people because it underscores
+that power can indeed effectuate change and maybe if they had power they
+too could effectuate change. But regardless of people's general interest in
+power and leadership, power has not been a major variable in theories of
+leadership. Clearly itis a component in the overall leadership process, but
+research on its role is limited.
+In her recent book, The End of Leadership (2012), Kellerman argues there has
+been a shift in leadership power during the last 40 years. Power used to be
+the domain of leaders, but that is diminishing and shifting to followers.
+Changes in culture have meant followers demand more from leaders, and
+leaders have responded. Access to technology has empowered followers,
+given them access to huge amounts of information, and made leaders more
+transparent. The result is a decline in respect of leaders and leaders’ legiti
+mate power. In effect, followers have used information power to level the
+playing field. Power is no longer synonymous with leadership, and in the
+social contract between leaders and followers, leaders wield less power,
+according to Kellerman,
+In college courses today, the most widely cited research on power is French
+and Raven's (1959) work on the bases of social power. In their work, they
+conceptualized power from the framework of a dyadic relationship that
+included both the person influencing and the person being influenced. French
+and Raven identified five common and important bases of power—referent,
+expert legitimate, reward, and coercive—and Raven (1965) identified a sixth,
+information power (Table 1.1), Each of these bases of power increases a lead:
+cer's capacity to influence the attitudes, values, or behaviors of others.
+In organizations, there are two major kinds of power: position power
+and personal power. Position power is the power a person derives from a
+particular office or rank in a formal organizational system. It is the influence
+© pes of Power
+
+
+===== PAGE 12 =====
+
+12 LEADERSHIP | THEORY AND PRACTICE
+
+capacity a leader derives from having higher status than the followers have
+Vice presidents and department heads have more power than staff personnel
+do because of the positions they hold in the organization. Position power
+includes legitimate, reward, coercive, and information power (Table 1.2)
+Personal power is the influence capacity a leader derives from being seen by
+followers as likable and knowledgeable. When leaders act in ways that are
+important to followers, it gives leaders power. For example, some managers
+have power because their followers consider them to be good role models.
+Others have power because their followers view them as highly competent
+or considerate. In both cases, these managers’ power is ascribed to them by
+others, based on how they are seen in their relationships with others. Per-
+sonal power inchides referent and expert power (Table 1.2).
+
+In discussions of leadership, it is not unusual for leaders to be described as
+wielders of power, as individuals who dominate others. In these instances,
+power is conceptualized as a tool that leaders use to achieve their own ends.
+Contrary to this view of power, Burns (1978) emphasized power from a
+relationship standpoint. For Burns, power is not an entity that leaders use
+over others to achieve their own ends; instead, power occurs in relationships.
+It should be used by leaders and followers to promote their collective goals.
+In this text, our discussions of leadership treat power as a relational concern
+for both leaders and followers. We pay attention to how leaders work with
+followers to reach common goals.
+
+Leadership and Coercion
+
+Coercive power is one of the specific kinds of power available to leaders
+Coercion involves the use of force to effect change. To ceerce means to influ-
+ence others to do something against their will and may include manipulating
+penalties and rewards in their work environment. Coercion often involves the
+use of threats, punishment, and negative reward schedules. Classic examples
+of coercive leaders are Adolf Hitler in Germany, the Taliban leaders in
+Afghanistan, Jim Jones in Guyana, and North Korea's Supreme Leader Kim
+Jong-il, each of whom has used power and restraint to force followers to
+engage in extreme behaviors.
+
+Ics important to distinguish between coercion and leadership because it
+allows us to separate out from our examples of leadership the behaviors
+of individuals such as Hitler, the Taliban, and Jones. In our discussions of
+leadership, coercive people are not used as models of ideal leadership. Our
+© Leadership and coercion
+
+
+===== PAGE 13 =====
+
+Chapter 1| Introduction 13
+definition suggests that leadership is reserved for those who influence a
+group of individuals toward a common goal. Leaders who use coercion are
+interested in their own goals and seldom are interested in the wants and
+needs of followers. Using coercion runs counter to working with followers
+to achieve a common goal.
+Leadership and Management
+Leadership is a process that is similar to management in many ways. Leader-
+ship involves influence, as does management. Leadership entails working
+with people, which management entails as well. Leadership is concerned
+with effective goal accomplishment, and so is management. In general, many
+of the functions of management are activities that are consistent with the
+definition of leadership we set forth at the beginning of this chapter.
+But leadership is also different from management. Whereas the study of
+leadership can be traced back to Aristotle, management emerged around the
+turn of the 20th century with the advent of our industrialized society. Man-
+agement was created as a way to reduce chaos in organizations, to make
+them run more effectively and efficiently. The primary functions of manage
+ment, as first identified by Fayol (1916), were planning, organizing, staffing,
+and controlling. These functions are still representative of the field of man-
+agement today.
+Ina book that compared the functions of management with the functions of
+leadership, Kotter (1990) argued that the functions of the two are quite dis
+similar (Figure 1.2). The overriding function of management is to provide
+order and consistency to organizations, whereas the primary function of
+leadership is to produce change and movement. Management is about seek-
+ing order and stability; leadership is about seeking adaptive and constructive
+change.
+As illustrated in Figure 1.2, the major activities of management are played
+out differently than the activities of leadership. Although they are different
+in scope, Kotter (1990, pp. 7-8) contended that both management and lead-
+ership ate essential if an organization is to prosper. For example, if an orga~
+nization has strong management without leadership, the outcome can be
+stifling and bureaucratic. Conversely, fan organization has strong leadership
+without management, the outcome can be meaningless or misdirected
+change for change's sake. To be effective, organizations need to nourish both
+competent management and skilled leadership.
+© Managers Require; Leaders inspire
+
+
+===== PAGE 14 =====
+
+14 LEADERSHIP | THEORY AND PRACTICE
+Figure 1.2 Functions of Management and Leadership
+Management Produces Order Leadership Produces Change
+and Consistency and Movement
+Planning and Budgeting Establishing Direction
+
+Establish agendas * Greate a vision
+
+© Set timetables + Clarity big picture
+
+Allocate resources + Sot strategies
+Organizing and Staffing Aligning People
+
+‘© Provide structure * Communicate goals
+
+‘+ Make job placements # Seek commitment
+
+‘© Establish rules and + Build teams and coalitions
+
+procedures
+
+Controlling and Problem Solving Motivating and Inspiring
+
+‘+ Develop incentives + Inspire and energize
+
+‘© Generate creative solutions + Empower followers
+
+‘© Take corrective action + Satisfy unmet needs
+SOURCE: Adapted from A Force for Change: How Leadership Differs From Management
+(@p. 3-8), by J P Kotter, 1990, New York: Free Press
+Many scholars, in addition to Kotter (1990), argue that leadership and man-
+agement are distinct constructs. For example, Bennis and Nanus (1985)
+maintained that there is a significant difference between the two. 7 manage
+means to accomplish activities and master routines, whereas fo /ead means to
+influence others and create visions for change. Bennis and Nanus made the
+distinction very clear in their frequently quoted sentence, “Managers are
+people who do things right and leaders are people who do the right thing”
+(p. 221).
+Rost (1991) has also been a proponent of distinguishing between leadership
+and management. He contended that leadership is a multidirectional influ-
+ence relationship and management is a unidirectional authority relationship.
+Whereas leadership is concerned with the process of developing mutual pur-
+poses, management is directed toward coordinating activities in order to get
+a job done. Leaders and followers work together to create real change,
+whereas managers and subordinates join forces to sell goods and services
+(Rost, 1991, pp. 149-152).
+In a recent study, Simonet and Tett (2012) explored how leadership and
+management are best conceptualized by having 43 experts identify the over-
+lap and differences between leadership and management in regard to 63,
+different competencies. They found a large number of competencies (22)
+@ Leadership in the nHs
+
+
+===== PAGE 15 =====
+
+Chapter 1| Introduction 15
+descriptive of both leadership and management (e.g., productivity, customer
+focus, professionalism, and goal setting), but they also found several unique
+descriptors for each. Specifically, they found leadership was distinguished by
+motivating intrinsically, creative thinking, strategic planning, tolerance of
+ambiguity, and being able to read people, and management was distinguished
+by rule orientation, short-term planning, motivating extrinsically, orderli-
+ness, safety concerns, and timeliness.
+
+Approaching the issue from a narrower viewpoint, Zaleznik (1977) went so
+far as to argue that leaders and managers themselves are distinct, and that
+they are basically different types of people. He contended that managers are
+reactive and prefer to work with people to solve problems but do so with low
+emotional involvement. They act to limit choices. Zaleznik suggested that
+leaders, on the other hand, are emotionally active and involved, They seek to
+shape ideas instead of responding to them and act to expand the available
+options to solve long-standing problems, Leaders change the way people
+think about what is possible.
+
+Although there are clear differences between management and leadership,
+the two constructs overlap. When managers are involved in influencing a
+group to meet its goals, they are involved in leadership. When leaders are
+involved in planning, organizing, stafling, and controlling, they are involved
+in management. Both processes involve influencing a group of individuals
+toward goal attainment. For purposes of our discussion in this book, we
+focus on the leadership process. In our examples and case studies, we treat
+the roles of managers and leaders similarly and do not emphasize the differ:
+ences between them.
+
+PLAN OF THE BOOK
+This book is user-friendly. It is based on substantive theories but is written
+to emphasize practice and application, Each chapter in the book follows the
+same format. The first section of each chapter briefly describes the leader-
+ship approach and discusses various research studies applicable to the
+approach. The second section of each chapter evaluates the approach, high:
+lighting its strengths and criticisms. Special attention is given to how the
+approach contributes or fails to contribute to an overall understanding of
+the leadership process. The next section uses case studies to prompt discus
+sion of how the approach can be applied in ongoing organizations. Finally,
+each chapter provides a leadership questionnaire along with a discussion of
+how the questionnaire measures the reader's leadership style. Each chapter
+ends with a summary and references.
+
+© Leadership and Nursing Theory
+
+
+===== PAGE 16 =====
+
+16 LEADERSHIP | THEORY AND PRACTICE
+
+SUMMARY T+
+Leadership is a topic with universal appeal; in the popular press and aca-
+demic research literature, much has been written about leadership. Despite
+the abundance of writing on the topic, leadership has presented a major
+challenge to practitioners and researchers interested in understanding the
+nature of leadership. Itis a highly valued phenomenon that is very complex.
+‘Through the years, leadership has been defined and conceptualized in many
+ways. The component common to neatly all classifications is that leadership
+is an influence process that assists groups of individuals toward goal attain-
+ment. Specifically, in this book leadership is defined as a process whereby an
+individual influences a group of individuals to achieve a common goal.
+Because both leaders and followers are part of the leadership process, it is
+important to address issues that confront followers as well as issues that
+confront leaders. Leaders and followers should be understood in relation to
+each other.
+
+In prior research, many studies have focused on leadership as a trait. The
+trait perspective suggests that certain people in our society have special
+inborn qualities that make them leaders. This view restricts leadership to
+those who are believed to have special characteristics. In contrast, the
+approach in this text suggests that leadership is a process that can be learned,
+and that it is available to everyone.
+
+‘Two common forms of leadership are assigned and emergent. Assigned leader-
+ship is based on a formal title or position in an organization. Emergent lead-
+ership results from what one does and how one acquires support from fol
+lowers. Leadership, as a process, applies to individuals in both assigned roles,
+and emergent roles.
+
+Related to leadership is the concept of power, the potential to influence. There
+are two major kinds of power: position and personal. Position power, which is
+much like assigned leadership, is the power an individual derives from having
+a title in a formal organizational system. It includes legitimate, reward, infor
+‘mation, and coercive power. Personal power comes from followers and includes
+referent and expert power. Followers give it to leaders because followers believe
+leaders have something of value, Treating power as a shared resource is impor:
+tant because it deemphasizes the idea that leaders are power wielders.
+
+While coercion has been a common power brought to bear by many indi
+vviduals in charge, it should not be viewed as ideal leadership. Our definition
+
+
+===== PAGE 17 =====
+
+Chapter 1| Introduction 17
+of leadership stresses using influence to bring individuals toward a common
+goal, while coercion involves the use of threats and punishment to induce
+«change in followers for the sake of the leaders. Coercion runs counter to
+leadership because it does not treat leadership as a process that emphasizes
+working with followers to achieve shared objectives.
+
+Leadership and management are different concepts that overlap. They are
+different in that management traditionally focuses on the activities of plan-
+ning, organizing, staffing, and controlling, whereas leadership emphasizes
+the general influence process. According to some researchers, management
+is concerned with creating order and stability, whereas leadership is about
+adaptation and constructive change. Other researchers go so far as to argue
+that managers and leaders are different types of people, with managers being
+‘more reactive and less emotionally involved and leaders being more proactive
+and more emotionally involved. The overlap between leadership and man-
+agement is centered on how both involve influencing a group of individuals
+in goal attainment.
+
+In this book, we discuss leadership as a complex process. Based on the
+research literature, we describe selected approaches to leadership and assess
+how they can be used to improve leadership in real situations.
+
+Sharpen your skills with SAGE edge at edge.sagepub.com/northouse7e
+REFERENCES $m
+Bass, B.M. (1990). Bast and Stogdills handbook of leadership: A survey of theory and
+
+research. New York: Free Pres.
+
+Bennis, W. G., 8 Nanus, B, (1985). Leader: The strategie or taking charge. New York:
+
+Harper & Row.
+
+Bryman, A. (1992). Charisma and leadership in organizations, London: SAGE.
+
+Bryman, A., Collinson, D., Grint, K, Jackson, G., 8 Uhl-Bien, M. (Eds). (2011).
+‘The SAGE handbook of leadership. London: SAGE.
+
+Burns, J. M. (1978). Leadership. New York: Harper & Row.
+
+Copeland, N. (1942). Prychology and the solder. Hareisburg, PA: Military Service
+
+Publications
+DayD.V,, & Antonakis,J. Eds.) (2012). The nature of eaderbip (2nd od). Thousand
+
+Oaks, CA: SAGE.
+
+Fayol, H. (1916). General and inductrial management. London: Pitman.
+Fisher, B.A. (1974). Small group decision making: Communication acd the group procs.
+
+New York: MeGraw Hill

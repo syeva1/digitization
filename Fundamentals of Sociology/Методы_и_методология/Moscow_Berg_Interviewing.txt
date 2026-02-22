@@ -1,0 +1,572 @@
+===== PAGE 1 =====
+
+Fifth Edition
+
+QUALITATIVE
+
+RESEARCH
+METHODS |
+
+FOR THE SOCIAL SCIENCES |
+
+BRUCE LL. BERG
+
+===== PAGE 2 =====
+
+CHAPTER THREE
+
+ro, D. (February 27, 2002). New student-survey policy worries some researchers. Education Week. Available online at www.edweek.org /ew /newstory.cfm?slug=24survey.h2l
+
+M. L. (1977). On fieldworkers and those exposed to fieldwork: Federal regulations and
+moral issues. Human Organizations 36(3), 321-327.
+
+stein, C. (January 29, 2002). All that schools survey. The Washington Times.
+
+2t, S, (1990). Ethical obligations and social research. In K. L. Kempf (Ed.), Measurement Issues in Criminology (pp. 78-107). New York: Springer-Verlag.
+
+- : CHAPTER 4
+
+A DRAMATURGICAL LOOK
+-AT INTERVIEWING
+
+interviewing may be defined simply as a conversation with a purpose. Specifcally, the purpose is to gather information. This standard definition of interviewing has been discussed in this manner by Denzin (1978), Spradley (1979),
+Patton (2001), De Santis (1980), Salkind (1991, 1996), Frankfort-Nachmias and
+Nachmias (1996), Nachmias and Nachmias (2000), Babbie (1992, 1998, 2001),
+Leedy (1993), Leedy and Ormrod (2001), and Marshall and Rossman (1999).
+
+Unfortunately, the consensus on how to conduct an interview is not
+nearly as high. Interviewing and training manuals vary from long lists of specific do’s and don’ts to lengthy, abstract, pseudotheoretical discussions on empathy, intuition, and motivation. The extensive literature on interviewing
+contains numerous descriptions of the interviewing process. In some cases,
+being a good interviewer is described as an innate ability or quality possessed
+only by certain people. Interviewing, from this perspective, has been described as an art rather than as a skill or a science. In other cases, interviewing has been described as a game in which the respondents receive intrinsic
+rewards (Holmstrom, cited in Manning, 1967). In still other instances, interviewing has been described as a technical skill you can learn in the same way
+you might learn how to change a flat tire. In this case, an interviewer is like a
+laborer or a hired hand (Roth, 1966). In many sources, interviewing is described as some sort of face-to-face interaction, although exactly what distinpuishes this type of interaction from others is often left to the imagination
+(Leedy and Ormrod, 2001; Salkind, 1996).
+
+Recently, Norman Denzin (2001) suggested that interviews today
+should be more than mere information-gathering devices. They need to be reflexive and reflect the performative aspect of life and the social sciences. According to Denzin (2001, p. 24):
+
+I want to re-read the interview, not as a method of gathering information, but as
+a vehicle for producing performance texts and performance ethnographies
+about self and society.
+
+===== PAGE 3 =====
+
+76 CHAPTER FOUR
+
+Tobe sure, there is some element of truth to each of these preceding characterizations. Certainly, anybody can be instructed in the basic orientations,
+strategies, procedures, and repertoire (to be discussed later in this chapter) of
+interviewing. Gorden (1992), for example, offers a clear, step-by-step description of how to go about the process of interviewing. To a large extent, Gorden
+(1992) and others gffer the basic rules of the game. Furthermore, there is assuredly something extraordinary (if not unnatural) about a conversation in
+which one participant has an explicitly or implicitly scripted set of lines and
+the other participant does not. To judge any of these characteristics exclusively, however, seems inadequate. Just as some artists and actors are perceived by their peers to be exceptional while others in the field are viewed as
+mediocre, so can this assessment be made about interviewers. The previous
+characterizations have served little more than to circumscribe what might be
+termed the possible range of an interviewer's ability; they have not added appreciably to the depth of understanding about the process of interviewing or
+how you might go about mastering this process.
+
+This chapter is devoted to the latter effort and draws on the symbolic interactionist paradigm, the stream of symbolic interaction more commonly referred to as dramaturgy.
+
+DRAMATURGY AND INTERVIEWING
+
+This chapter attempts to illustrate dramaturgy’s beneficial effects on interviewing beyond the interviewer training stage. Discussions will include types
+of interview structures, survey construction, the interviewer role and the role
+of the interviewer (social roles played by the investigator), rapport, reactivity,
+and accessing difficult or sensitive materials.’
+
+It has been suggested by Denzin (2001, p. 26) that we inhabit a performance-based, dramaturgical culture. Indeed, even in research, the line between performer and audience sometimes blurs, and the whole process
+becomes a dramatic performance. In the broader context of society, there are
+likewise blurred boundaries between everyday life, theatrical performances
+on MTV, VH1, videotapes, television, and the movies. Reality-based television
+shows have significantly influenced what we now consider entertainment, further blurring the lines between performance, dramaturgy, and everyday life.
+
+Research, then, is being swept along with the other aspects of culture,
+and it too is being significantly affected by the blurring of lines between performance and reality. Research, particularly field research, is sometimes divided into two separate phases—namely, getting in and analysis (Shaffir et
+al., 1980). Getting in is typically defined as various techniques and procedures
+intended to secure access to a setting, its participants, and knowledge about
+phenomena and activities being observed. Analysis makes sense of the information accessed during the getting-in phase. As a consequence, the literal
+
+ADRAMATURGICAL LOOK AT INTERVIEWING 77
+
+boundaries between these two phases may also become blurred—assuming
+they ever really existed during the process of research.
+
+Nonetheless, this chapter will reclatify the two phases and consider each
+phase as distinct. In the case of the former, getting in means learning the ropes
+of various skills and techniques necessary for effective interviewing (Geer et
+al., 1968; Gorden, 1987; Lofland, 1976; Shaffir et al., 1980; Taylor & Bogdan,
+1998). Regarding the latter, as this chapter will show, there are a number of
+ways you may go about making sense out of accessed information.
+
+Let us look at the process of interviewing, specifically the notion of interviewing, as an “encounter” (Goffman, 1967) or as a “face-to-face interactionary performance” (Babbie, 1992, 1998). All discussions of interviewing are
+guided by some model or image of the interview situation, and here interviewing is perceived as a “social performance” (Goffman, 1959), organized
+around the premise that interviewing is best accomplished if guided by a dramaturgical model (Burke, 1957, 1966).
+
+Dramaturgy, as a theoretical perspective, involves the elements and language of theater, stagecraft, and stage management. This theoretical perspective is derived in part from the symbolic interactionists’ general assumption
+that humans perceive and interact in reality through the use of symbols.
+Drama, then, is a mode of symbolic action in which some individuals act symbolically for others who watch symbolically. In the case of the former, the term
+used to describe acting individuals is usually simply actors. In the case of the
+latter, the reference typically is social audience or simply audience.
+
+The symbolic action that passes between actor and audience is called a
+social performance or a performance, In this chapter, the language of dramaturgy
+is applied metaphorically to a concrete situation—namely, the interview.
+More theoretical and detailed discussions of dramaturgy may be found in
+Burke (1957, 1966), Goffman (1959), Messenger et al. (1962), and more recently,
+Douglas (1985), and Peshkin (1988).
+
+The dramaturgical orientation offered in this chapter is similar in some
+ways to what Douglas (1985) terms creative interviewing. Creative interviewing involves using a set of techniques to move past the mere words and sentences exchanged during the interview process. It includes creating an
+appropriate climate for informational exchanges and for mutual disclosures.
+This means that the interviewer will display his or her own feelings during
+the interview as well as elicit those of the subject. The dramaturgical model of
+interviewing presented here is also similar to what Butler (1997) and Mienczakowski-(1995, 2000) refer to as performance-based or, simply, performance interviews. Performance interviews, then, can be situated in the complex system
+of discourse, where traditional, everyday, and avant-garde meanings of theater, film, video, ethnography, cinema, performance, text, and audience come
+together and inform one another (Denzin, 2001).
+
+Also similar to the dramaturgical perspective presented here is what
+Holstein and Gubrium (1995) call active interviewing. From their perspective,
+
+===== PAGE 4 =====
+
+78 CHAPTER FOUR
+
+the interview is not arbitrary or one-sided. Instead, the interview is viewed
+as a meaning-making occasion in which the actual circumstance of the meaning construction is important (Holstein & Gubrium, 1995). The proposed
+dramaturgical model differs most from the active interview in its emphasis
+on the interviewer using the constructed relationship of the interviewer and
+subject to draw out information from the subject. The various devices used -
+by the dramaturgical interviewer, therefore, move this orientation slightly
+closer to the creative interviewing model and the more reflexive performance interview.
+
+TYPES OF INTERVIEWS
+
+No consideration of interviewing would be complete without some acknowledgment of the major interview structures. These are sometimes teferred to as “the family of qualitative interviews” (Rubin é& Rubin, 1995).
+Some sources mention only two interview structures—namely, formal and informal (see, for example, Fitzgerald & Cox, 2002, pp. 118-119). Other sources
+tefer to this research process as either structured or unstructured (Fontana &
+Frey, 1994; Leedy & Ormrod, 2001). However, at least three major categories
+may be identified (Babbie, 2001; Merriam, 2001; Nachmias & Nachmias, 2000;
+Nieswiadomy, 2002; Polit & Hungler, 1995): the standardized (formal or structured) interview, the unstandardized (informal or nondirective) interview,
+and the semistandardized (guided-semistructured or focused) interview. The
+major difference between these different interview structures is their degree
+of rigidity with regard to presentational structure. Thus, if we cast them onto
+an imaginary continuum of formality, they would look a little like the model
+in Figure 4.1.
+
+The Standardized Interview
+
+The standardized interview, as suggested in Figure 4.1, uses a formally structured
+schedule of interview questions. The interviewers are required to ask subjects
+to respond to each question, exactly as worded. The rationale here is to offer
+each subject approximately the same stimulus so that responses to questions,
+ideally, will be comparable (Babbie, 2001). Researchers using this technique
+have fairly solid ideas about the things they want to uncover during the interview (Merriam, 2001; Schwartz & Jacobs, 1979). In other words, researchers
+assume that the questions scheduled in their interview. instrument are sufficiently comprehensive to elicit from subjects all (or nearly all) information relevant to the study’s topic(s). They further assume that all questions have been
+worded in a manner that allows subjects to understand clearly what they are
+being asked. Stated in slightly different terms, the wording of each question is
+
+ADRAMATURGICAL LOOK AT INTERVIEWING
+
+Semistandardized
+
+79
+
+Standardized Unstandardized
+interviews Interviews Interviews
+* Most formally structured, * More or less structured. * Completely
+No deviations from * Questions may be unstructured.
+question order. reordered during the * No set order to any
+Wording of each interview. questions, ~.
+question asked exactly * Wording of questions * No set wording to any
+as written. flexible. questions.
+No adjusting of level of * Level of language may * Level of language may
+language. _ be adjusted. be adjusted.
+
+No clarifications or ¢ Interviewer may answer Interviewer may answer
+answering of questions questions and make questions and make
+about the interview. Clarifications. Clarifications.
+
+* No additional questions * Interviewer may add or Interviewer may add or
+may be added. delete probes to delete questions
+* Similar in format to.a interview between between interviews.
+subsequent subjects.
+
+pencil-and-papor survey.
+
+FIGURE 4.1 Interview Structure Continuum of Formality
+
+equally meaningful to every subject. Finally, they assume that the meaning of
+each question is identical for every subject. These assumptions, however, remain chiefly “untested articles of faith” (Denzin, 1978, p. 114).
+
+Insum, standardized interviews are designed to elicit information using
+a set of predetermined questions that are expected to elicit the subjects’
+thoughts, opinions, and attitudes about study-related issues. Standardized interviews, thus, operate from the perspective that one’s thoughts are intricately
+related to one’s actions. A typical standardized interview might look like this
+diet history (J. Berg, 1986):
+
+1. When is the first time you eat or drink ona typical day?
+2. What is the first thing you eat?
+3. When is the next time you eat or drink?
+4, What do you eat or drink?
+5. When is the next time you eat or drink?
+6. What do you eat or drink?
+7. What else do you eat or drink ona typical day?
+8. How many times a week do you eat eggs? Cheese? Milk? Fish? Beef?
+Pork? Beans? Corn? Grits? Bread? Cereal? Ice Cream? Fruits? Vegetables?
+9. Which protein foods do you like best?
+10. Which protein foods do you not eat?
+11. What foods do you like to eat between meals?
+
+===== PAGE 5 =====
+
+80 CHAPTER FOUR
+
+The Unstandardized Interview
+
+In contrast to the rigidity of standardized interviews, unstandardized interviews
+do not utilize schedules of questions and are located on the imaginary continuum (as depicted in Figure 4.1) at the opposite extreme from standardized
+interviews. Naturally, unstandardized interviews operate from a different set
+of assumptions. First, interviewers begin with the assumption that they do
+not know in advance what all the necessary questions are. Consequently, they
+cannot predetermine fully a list of questions to ask. They also assume that not
+all subjects will necessarily find equal meaning in like-worded questions—in
+short, that subjects may possess different vocabularies.
+
+In an unstandardized interview, interviewers must develop, adapt, and
+generate questions and follow-up probes appropriate to each given situation
+and the central purpose of the investigation. Schwartz and Jacobs (1979, p. 40)
+note that this will result in appropriate and relevant questions arising from
+interactions during the interview itself.
+
+Unstandardized interviews are sometimes used during the course of
+field research to augment field observations. For example, Diane Barone
+(2002) undertook a field study that examined literacy teaching and learning
+in two kindergarten classes at a school considered to be at risk and inadequate
+by the state. Barone conducted observations in the classrooms and wrote
+weekly field notes. In addition, however, she included ongoing informal interviews with the teachers throughout the yearlong study. Such unstructured
+interviews permit researchers to gain additional information about various
+phenomena they might observe by asking questions. Unstandardized interviews, however, are not restricted to field research projects, as illustrated by
+an archival study recently undertaken by Horowitz and her associates (2000).
+In this study, the researchers were interested in examining the sociocultural
+disparities in health care. Toward this end, the investigators examined the
+contents of health care and health articles with regard to racial, ethnic, and sociceconomic disparities. Their research, in some ways, might even be considered chiefly metatheoretical (where literature serves as the data of the study).
+But, in addition to this more archival approach, they also included informal
+interviews with research, policy, and program experts to assist in developing
+a framework of programs that addressed disparities (Horowitz et al., 2000).
+Thus, the informal interviews provided important information for these investigators along with the data culled from various published and unpublished articles and documents.
+
+ry
+
+The Semistandardized Interview
+
+As drawn in Figure 4.1, the semistandardized interview can be located somewhere between the extremes of the completely standardized and the completely unstandardized interviewing structures. This type of interview
+
+ADRAMATURGICAL LOOK AT INTERVIEWING 81
+
+involves the implementation of a number of predetermined questions and
+special topics. These questions are typically asked of each interviewee ina systematic and consistent order, but the interviewers are allowed freedom to digress; that is, the interviewers are permitted (in fact, expected) to probe far
+beyond the answers to their prepared standardized questions.
+
+Again, certain assumptions underlie this strategy. First, if questions are
+to be standardized, they must be formulated in words familiar to the people
+being interviewed (in vocabularies of the subjects). Police officers, for example, do not speak about all categories of persons in a like manner. Special
+terms they use include “scrots” (derived from the word scrotum), used as a
+derogatory slur when describing an assortment of bad guys; “skinners,” used
+to describe rapists; “dips” to describe pickpockets; and “clouters,” used to describe persons who break into automobiles to steal things. Questions used in
+a semistandardized interview can reflect an awareness that individuals understand the world in varying ways. Researchers, thus, approach the world
+from the subject’s perspective. Researchers can accomplish this by adjusting
+the level of language of given scheduled questions or through unscheduled
+probes (described in greater detail in the following interview excerpt) that
+arise from the interview process itself.
+
+One study of Latino men who have sex with other men (B. Berg et al.,
+2003) used a semistandardized interview schedule. Although many of the primary questions asked each of the 35 subjects derived from the predetermined
+schedule, the men’s perceptions were often more fully elaborated after being
+asked an unscheduled probe. For example, after being asked a question, the
+subject might have responded with a brief “yes” or “no.” In order to elicit additional information, the interviewer would then ask, “And then?” or “Uh
+huh, could you tell me more about that?” or some similar simple inquiry.
+
+On other occasions the interviewer might have asked another full question
+seeking additional information. An example of these scheduled and unscheduled probes from interview number 14 illustrates this (B. Berg, 2002). All questions were asked and answered in Spanish and later translated into English.
+
+Interviewer [Scheduled Question]: How about your family, do they
+know about your sexual activities?
+
+Subject: Yes, yes, they do know how I am, how I see myself. But they
+do not like it. On some occasions they tell me that they are going to
+send me to Mexico. They wanted to bribe me, but that is why I work,
+so I do not have to depend on them economically.
+
+Interviewer [Scheduled Question]: What do your parents (brothers,
+sisters, etc.) think about your participation with sex between same
+masculine genders?
+
+Subject: Okay, my parents found out because I told my sister that I
+was homosexual, because one of my father’s brothers had raped me.
+
+===== PAGE 6 =====
+
+82
+
+CHAPTER FOUR
+
+My sister then told my father and my parents supported me. If the
+rest of my family does not support me, I do not care, just as long as.
+my parents accept me, that is enough for me.
+
+Interviewer [Unscheduled Probe]: When your uncle raped you, did
+he know you were gay?
+
+Subject: “Yes.
+
+Interviewer [Unscheduled Probe]: How old were you at the time of
+the rape?
+
+Subject: Iwas only eight years old when he raped me.
+' Interviewer [Unscheduled Probe]: Yes, and then? (pause)
+
+Subject: I was eight years old when my uncle raped me, we were at the
+ranch, my mother and father went to make a phone call to my brothers who were in the United States so I was left alone with him. I already showed signs of being gay, my uncle took off my clothes, hit
+me and raped me. I still do not know why he did this to me; after all
+we were family. He threatened me, and told me to not say anything
+or he was going to hurt my parents. But at age thirteen I exploded, I
+could not keep it in any longer, so I told my sister what was happening. It was already the second time he had raped me. My sister was
+crying, she hugged me and said that she loved me. She then told my
+father and he made me confront my uncle. My father thought I was
+lying to him, but my uncle could not lie, he lowered his head and admitted that he had raped me. My father questioned him on why he
+did it and his response was that I wanted to do it with a homosexual.
+But J always ask myself, “Why me?”
+
+Interviewer [Unscheduled Probe]: How old was your uncle?
+
+Subject: He was twenty-six years old and I was eight the first time he
+raped me. I already knew I was homosexual, but I would have preferred to experience that with the person that I loved, not by being
+raped. That gets me so upset and I will never forget it. [do not even
+wish for it to happen to my worst enemy.
+
+THE INTERVIEW SCHEDULE
+
+Traditionally, the term survey refers to both interviews-and pencil-and-paper
+questionnaires. In this text, the term survey, unless otherwise indicated, is exclusively used in the context of interviewing. Typically, the choice to use an
+interviewing technique rather than a survey questionnaire technique is based
+on the selected procedure’s ability to provide maximum opportunity for complete and accurate communication of ideas between the researcher and the re-
+
+A DRAMATURGICALLOOK AT INTERVIEWING 83
+
+spondent (Cannell & Kahn, 1968, p. 554). Among other things, this notion of
+accurate communication of ideas implies that researchers have clear ideas
+about the type of information they warit to access and about the purpose and
+aims of their research.
+
+The interview is an especially effective method of collecting information
+for certain types of research questions and, as noted earlier in this chapter, for
+addressing certain types of assumptions. Particularly when investigators are
+interested in understanding the perceptions of participants or learning how
+participants come to attach certain meanings to phenomena or events, interviewing provides a useful means of access (Taylor & Bogdan, 1998, p. 98).
+However, interviewing is only one of a number of ways researchers can obtain answers to questions. The determination of which data-gathering technique to use is necessarily linked to the type of research question being
+asked.
+
+For instance, Becker (1963) suggests that if you are interested in knowing how frequently a subject smokes marijuana (how many times daily,
+weekly, monthly, and so on), then you may effectively use a questionnaire survey. If, however, you are interested in the sensation of marijuana smoking (the
+emotion-laden sensory experience as perceived by the subject), a more effective means of obtaining this information might be an open-ended interview
+question (Mutchnick & Berg, 1996).
+
+A similar consideration is necessary when you determine what sort of
+structure an interview should have. For example, Rossman (1992) used semistructured interviews in his examination of the development of Superfund
+community relations plans (Superfunds are federal funds offered to assist
+communities in environmental clean-up activities). Rossman (1992, p. 107)
+explains:
+
+Because of the nature of the information collected, applied researchers who develop community relations plans are best advised to use interviews and interviewers. Questionnaires lack the flexibility that is required to capture the subtle
+character of risk definition, especially a risk that is often defined ambiguously
+within a community. Risks such as those associated with Superfund sites are a
+major part of the community’s social structure, but are less crystallized than risk
+associated with crime, or even natural environmental risk.
+
+Conversely, Miller (1986) found that in her study of female street hustlers, an
+unstructured interview served her purposes best. Miller (1986, P- 26) writes:
+
+Seventy women agreed to taped interviews with me during which they shared
+with me the details of their lives. Special attention was paid to the initiation of
+these women into street hustling and the development of a career as a street hustler. Although the same broad topics were introduced during each interview,
+many of my questions changed over time.
+
+===== PAGE 7 =====
+
+84 CHAPTER FOUR
+
+Ellis, Kiesinger, and Tillmann-Healy (1997, p. 121) wanted to gain a more
+reflexive and intimate understanding of women’s emotional experiences, and
+decided to use an interactive approach and a more or less unstructured interviewing style:
+
+[We] view interviewing as a collaborative communication process occurring be-
+
+tween researchers and respondents, although we do not focus on validity and
+
+bias. For us, interactive interviewing involves the sharing of personal and social
+
+experiences of both respondents and researchers, who tell (and sometimes
+. write) their stories in the context of a developing relationship.
+
+Thus, when determining what type of interview format to use, you must
+consider the kinds of questions you want to ask and the sorts of answers you
+expect to receive. This line of thought naturally leads to consideration of how
+to create questions and an interview schedule.
+
+SCHEDULE DEVELOPMENT
+
+The first step to interview construction has already been implied: Specifically,
+researchers must determine the nature of their investigation and the objectives of their research. This determination provides the researchers with a
+starting point from which to begin developing a schedule of questions.
+
+Selltiz et al. (1959), Spradley (1979), Patton (1980), and Polit and Hungler
+(1995) suggest that researchers begin with a kind of outline, listing all the
+broad categories they feel may be relevant to their study. This preliminary listing allows them to visualize the general format of the schedule. Next, researchers should develop sets of questions relevant to each of the outlined
+categories. The interview schedule for a study of volunteer police officers
+(Berg & Doerner, 1987) was developed by first listing general relevant areas
+gleaned from a reading of the literature. (See Chapter 2 on the spiraling nature of the research process.) These included:
+
+. Demographics
+
+. Police-related questions
+
+Organizational memberships .
+
+. Friends and family involved in police work
+
+. Personalitystyle (passive, aggressive, authoritative, and so on)
+. Leisure activities
+
+DA PHON ye
+
+Following this, separate lists of questions for each of the six major thematic categories were developed. For instance, under demographics, we
+listed questions about birth date, level of education, marital status, and so
+
+ett wee
+nnn nee eee ee een neni ocne ee eee
+
+A DRAMATURGICAL LOOK AT INTERVIEWING 85
+
+forth. Under police-related questions we asked, “What would you say are the
+teasons you joined the reserve officers unit?” “How long have you been a reserve officer?” “Have you ever served as a regular police officer anywhere?”
+and so on. The purpose of these questions was to elicit information about how
+
+the subjects’ relationships corresponded to various attitudes and behaviors
+described elsewhere in the interviews. -
+
+Question Order, Content, and Style
+
+The specific ordering (sequencing), phrasing, level of language, adherence to
+subject matter, and general style of questions depend on the educational and
+social level of the subjects as well as their ethnic or cultural traits, age, and so
+forth. Additionally, researchers must take into consideration the central aims
+and focuses of their studies.
+
+In order to draw out the most complete story about various subjects or
+situations under investigation, four types or styles of questions must be included in the survey instrument: essential questions, extra questions, throwaway questions, and probing questions.
+
+Essential Questions. Essential questions exclusively concern the central focus
+of the study. They may be placed together or scattered throughout the survey,
+but they are geared toward eliciting specific desired information. For example, Glassner and Berg (1980, 1984) sought to study drinking patterns in the
+Jewish community. Consequently, essential questions addressing this specific
+theme were sprinkled throughout the 144-structured-question survey instrument. For instance, among a series of questions about friends and people the
+family feels proud of, the following question was introduced: “Has anyone in
+the family ever thought anyone else drank too much?” Later during the interview, among general questions about ceremonial participation in the Jewish holiday of Passover, the interviewer systematically asked:
+
+There is a question that we are a little curious about, because there seems to be
+some confusion on it. During the Passover story, there are seven or eight places
+it speaks about lifting a glass of wine. And there are three or four places which
+speak directly of drinking the wine. In some people’s homes they drink a cup
+
+each time, and in some people’s homes they count a sip as a cup. How is it done
+in your home?
+
+Another regularly scheduled question during this segment of the interview
+asked: “Another question that interests us is, what becomes of the cup of wine
+for Elijah [ceremonially poured for the Angel Elijah]?” Later, during a series
+of questions centering on Chanukkah observance styles, the interviewer
+asked: “What drinks are usually served during this time?”
+
+===== PAGE 8 =====
+
+86 CHAPTER FOUR
+
+Separating these essential questions, however, were numerous other essential questions addressing such other research concerns as ritual knowledge
+and involvement, religious organization membership, leisure activities, and
+so on. In addition, there were three other types of questions intended for other
+purposes.
+
+re
+Extra Questions. Extra questions are those questions roughly equivalent to
+certain essential ones but worded slightly differently. These are included in
+order to check on the reliability of responses (through examination of consistency in response sets) or to measure the possible influence a change of wording might have.
+
+Throw-Away Questions. Frequently, you find throw-away questions toward the beginning of an interview schedule. Throw-away questions may be essential demographic questions or general questions used to develop rapport
+between interviewers and subjects. You may also find certain throw-aways
+sprinkled throughout a survey to set the interviewing pace or to allow a
+change in focus in the interview. Throw-away questions, as the term implies,
+are incidental or unnecessary for gathering the important information being
+examined in the study. Nonetheless, these throw-away questions may be invaluable for drawing out a complete story from a respondent.
+
+On occasion, throw-away questions may serve the additional purpose
+of cooling out the subject (Becker, 1963; Goffman, 1967). On these occasions,
+a throw-away question (or a series of them) may be tossed into an interview
+whenever subjects indicate to the interviewers that a sensitive area has been
+entered. The interviewer offhandedly says something to the effect of, “Oh,
+by the way, before we go any further, I forgot to ask you. . . .” By changing
+the line of questions, even for only a few moments, the interviewer moves
+away from the sensitive area and gives the interviewee a moment to cool
+out.
+
+Probing Questions. Probing questions, or simply probes, provide interview-
+
+ers with a way to draw out more complete stories from subjects. Probes fre-
+
+quently ask subjects to elaborate on what they have already answered in
+
+response to a given question—for example, “Could you tell me more about
+
+that?” “How long did you have that?” “What happened next?” “Who else has
+
+ever said that about you?” or simply, “How come?” Along similar lines,
+_ Lofland and Lofland (1984, p. 56) write:
+
+Ininterview|s] . . . the emphasis is on obtaining narratives or accounts in the person’s own terms. You want the character and contour of such accounts to be set
+by the interviewees or informants. You might have a general idea of the kinds of
+things that will compose the account but still be interested in what the inter-
+
+A DRAMATURGIGAL LOOK AT INTERVIEWING 87
+viewees provide on their own and the terms in which they do it. As the informants speak, you should be attentive to what is mentioned and also to what is
+not mentioned but which you feel-might be important. If something has been
+mentioned about which you want to know more, you can ask, “You mentioned
+; could you tell me more about that?” For things not mentioned, you
+might ask, “Did 2” or “Was a consequence?”
+
+Often interviewers incorporate a structured series of probes triggered
+by one or another type of response to some essential question. Probes, then,
+are intended to be largely neutral. Their central purpose is to elicit more information about whatever the respondent has already said in response to a
+question.
+
+Wording of Questions. In order to acquire information while interviewing,
+researchers must word questions so that they will provide the necessary data.
+Thus, you must ask questions in such a manner as to motivate respondents to
+answer as completely and honestly as possible. As in the saying about computers, “garbage in, garbage out,” so it is in interviewing. If the wrong questions are asked or if questions are asked in a manner that inhibits or prevents
+a respondent from answering fully, the interview will not be fruitful—garbage
+will come out. Denzin offers the following guidelines for formulating interview questions (Denzin, 1970, p. 129):
+
+Questions should accurately convey meaning to the respondent; they should
+motivate him to become involved and to communicate clearly his attitudes and
+opinions; they should be clear enough so that the interviewer can easily convey
+meaning to the respondent; they should be precise enough to exactly convey
+what is expected of the respondent. . . ; any specific question should have as a
+goal the discerning of a response pattern that clearly fits the broad contents of
+the investigation . . . ; if questions raise the possibility of the respondent's lying
+or fabricating (which is always a possibility), care should be taken to include
+questions that catch him up, or reveal to him and the interviewer that his previous answers have been incorrect.
+
+COMMUNICATING EFFECTIVELY
+
+Perhaps the most serious problem with asking questions is how to be certain the intentions of the questions have been adequately communicated.
+Researchers must always be sure they have clearly communicated to the subjects what they want to know. The interviewers’ language must be understandable to the subject; ideally, interviews must be conducted at the level or
+language of the respondents.

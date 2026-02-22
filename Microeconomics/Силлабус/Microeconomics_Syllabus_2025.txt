@@ -1,0 +1,239 @@
+Microeconomics – Course Syllabus 2025
+Instructor: Shahir Safi, PhD (Barcelona School of Economics)
+Course: BBA 1, Module 5
+Total pages: 7
+
+==============================
+
+=== Page 1 ===
+
+BBA 1 Module 5
+Microeconomics
+Instructor: Shahir Safi
+PhD, Barcelona School of Economics (BSE)
+
+1. Course description
+
+Microeconomics considers the behavior of decision-makers within the economy, such as individuals, households, and firms. These behaviors are crucial building blocks of the economy to even understand “macro level” (country or global level) issues; as a result, modern macroeconomics is also micro-founded. Thus, microeconomics is the main tool to understand all aspects of economy, whether it’s at the micro level (decisions of consumers and firms) or macro level (decisions of central banks and governments).
+
+Topics include social choice and welfare, market economy, imperfect competition, imperfect information, communication, and informal markets (social networks).
+
+To explore these topics, students will engage in activities (inside and outside the classroom) to ensure an understanding of the course topics and the applications of such concepts.
+
+2. Course goals
+
+This course will help students to “think like an economist”: they will learn to formulate and analyze models that can provide useful predictions about the economy (and society in general).
+
+3. Learning outcomes
+
+Students who successfully complete this course will be able to:
+• understand different types of welfare perspectives, including efficiency and equity.
+• understand different types of markets, from free-market to oligopoly and monopoly, as well as informal markets (social networks).
+• comprehend the value of information and difficulties associated with asymmetric information (principal-agent problems).
+• most importantly, they will be able to develop models about any economic phenomenon and provide valuable predictions about them.
+
+About the professor:
+
+Shahir Safi is a professor of Economics at the New Economic School (NES) in Moscow. He completed his PhD in Economics from the Barcelona School of Economics (BSE), and he has previously worked at Aix-Marseille University in France and Concordia University in Canada, as well as held visiting appointments at University of California San Diego (UCSD) in USA, University College London (UCL) in UK, and Monash Business School in Australia.
+
+==============================
+
+=== Page 2 ===
+
+Professor Safi is a microeconomist with a focus on networks theory and information economics, and his research has been published in top economic journals (like Games and Economic Behavior). His research has covered topics like referrals, organizational management, contract theory, and public policy interventions.
+
+4. Course content
+
+Topic 1: Introduction
+• Course Overview
+• Social Choice and Welfare
+  • Preferences
+  • Aggregating Preferences
+  • Welfare Measures
+
+Reading material:
+• Lecture notes
+• Exercise on building your own aggregation rule
+• Geanakoplos (2005)
+
+Topic 2: Market Economy
+• Efficiency of Free-Markets (Adam Smith’s invisible hand)
+
+Reading material:
+• Lecture notes
+• Diamond (1971)
+• Anant, Basu, and Mukherji (1995)
+• Heywood & Pal (1996)
+
+Topic 3: Imperfect Competition
+• Short-run (price, quantity)
+• Long-run (collusion, entry-deterrence, location)
+
+Reading material:
+• Lecture notes
+• Miller and Pazgal (2001)
+• Van Damme & Hurkens (1999)
+• Chen & Woolley (2001)
+• Athey et al. (2004)
+• Donnenfeld et al. (1995)
+• McAfee et al. (2004)
+• Bester et al. (1996)
+
+Topic 4: Imperfect Information
+• Moral Hazard (separation of ownership & control)
+• Adverse Selection (Market Collapse) and Screening (optimal contracts)
+
+Reading material:
+• Lecture notes
+• Holmstrom (1979)
+• Holmstrom (1982)
+• Guesnerie & Laffont (1984)
+
+==============================
+
+=== Page 3 ===
+
+Additional readings for Imperfect Information:
+• Rothschild & Stiglitz (1976)
+• Mirrlees (1971)
+• Grossman & Hart (1986)
+• Hart & Moore (1990)
+
+Topic 5: Communication
+• Signalling
+• Referrals
+
+Reading material:
+• Lecture notes
+• Crawford & Sobel (1982)
+• Green & Stokey (1981, 2007)
+• Grossman (1981)
+• Milgrom (1981)
+• Safi (2020)
+• Montgomery (1991)
+• Calvo (2004)
+• Calvo & Jackson (2004, 2007)
+
+Topic 6: Informal Markets
+• Connections in Society (Social Networks)
+
+Reading material:
+• Gagnon & Goyal (2017)
+• Safi (2024)
+
+The six topics above are written rather broadly, but this is a comprehensive course and it will cover most concepts and ideas related to economics, including:
+• consumer behavior
+• competitive markets and general equilibrium
+• welfare analysis (efficiency, equity, deadweight loss)
+• monopoly and market power
+• oligopoly
+• game theory (Nash equilibrium, sequential games, repeated games)
+• asymmetric information
+• externalities
+
+==============================
+
+=== Page 4 ===
+
+5. Types of coursework
+
+During the course students work individually and in groups.
+
+Group work:
+• Students are divided into groups on the first day.
+• At the end of each class, each group is assigned a task.
+• On the next class, one member from each group is randomly selected to present the group task.
+
+Note:
+Group tasks involve standard problem sets as well as more advanced analysis.
+
+Individual work:
+• Each student develops an original model about an economic phenomenon.
+• Students provide predictions and present their model and results at the end of the course.
+
+6. Assignments and evaluation
+
+The course uses a 10-point grading system.
+
+Final grade components:
+• Class participation – 10%
+• Group work – 30%
+• Individual work (final project) – 60%
+
+Grading scale:
+10 – Excellent
+9 – Excellent
+8 – Good
+7 – Good
+6 – Satisfactory
+5 – Satisfactory
+4 – Unsatisfactory
+3 – Unsatisfactory
+2 – Unsatisfactory
+1 – Unsatisfactory
+
+This is a compulsory course.
+For each skipped class, 0.5 points are deducted from the final grade.
+
+==============================
+
+=== Page 5 ===
+
+Grades from 10 to 5 are considered “pass”.
+Grades from 4 to 1 are considered “fail”.
+Students who fail must take an examination.
+
+Grading procedure:
+If a student fails to complete course components worth 30% or more of the interim grade for valid reasons, the student may be assigned an individual task by the instructor.
+
+Additional rules:
+• Violations of academic or corporate ethics may lead to removal from class and grade reduction.
+• Late submissions are not accepted and receive 0 points.
+
+Students with insufficient points will have an academic deficiency and must complete a retake session.
+During retakes, all components except class participation may be reassessed.
+
+Grades publication:
+Grades are published on Canvas.
+Students may request feedback individually during the course.
+
+==============================
+
+=== Page 6 ===
+
+7. Reading Materials
+
+1. Anant, T. C. A., Basu, K., & Mukherji, B. (1995). A model of monopoly with strategic government intervention.
+2. Athey, S., Bagwell, K., & Sanchirico, C. (2004). Collusion and price rigidity.
+3. Bester, H. et al. (1996). A noncooperative analysis of Hotelling's location game.
+4. Calvo-Armengol, A. (2004). Job contact networks.
+5. Calvo-Armengol, A., & Jackson, M. O. (2004). The effects of social networks on employment and inequality.
+6. Calvo-Armengol, A., & Jackson, M. O. (2007). Networks in labor markets.
+7. Chen, Z., & Woolley, F. (2001). A Cournot–Nash model of family decision making.
+8. Crawford, V. P., & Sobel, J. (1982). Strategic information transmission.
+9. Diamond, P. A. (1971). A model of price adjustment.
+10. Donnenfeld, S., & Weber, S. (1995). Limit qualities and entry deterrence.
+11. Gagnon, J., & Goyal, S. (2017). Networks, markets, and inequality.
+12. Geanakoplos, J. (2005). Three brief proofs of Arrow’s impossibility theorem.
+13. Green, J. R., & Stokey, N. L. (2007). A two-person game of information transmission.
+14. Grossman, S. J. (1981). The informational role of warranties.
+15. Grossman, S. J., & Hart, O. D. (1986). The costs and benefits of ownership.
+16. Guesnerie, R., & Laffont, J. J. (1984). Principal-agent problems.
+17. Hart, O., & Moore, J. (1990). Property Rights and the Nature of the Firm.
+18. Heywood, J. S., & Pal, D. (1996). How to tax a spatial monopolist.
+19. Holmstrom, B. (1979). Moral hazard and observability.
+20. Holmstrom, B. (1982). Moral hazard in teams.
+21. McAfee, R. P. et al. (2004). What Is a Barrier to Entry?
+22. Milgrom, P. R. (1981). Good News and Bad News.
+23. Miller, N. H., & Pazgal, A. I. (2001). Price and quantity competition.
+24. Mirrlees, J. A. (1971). Optimum income taxation.
+25. Montgomery, J. D. (1991). Social networks and labor-market outcomes.
+26. Rothschild, M., & Stiglitz, J. (1976). Equilibrium in competitive insurance markets.
+
+==============================
+
+=== Page 7 ===
+
+27. Safi, S. (2020). Job Market Signalling Via Social Ties. Working Paper.
+28. Safi, S. (2024). Contagion with Endogenous Social Networks. Working Paper.
+29. Van Damme, E., & Hurkens, S. (1999). Endogenous Stackelberg leadership.

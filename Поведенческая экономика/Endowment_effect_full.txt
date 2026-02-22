@@ -1,0 +1,77 @@
+
+--- Slide 1 ---
+
+Endowment effect
+Nikita Chaplin, David Sogomonyan, Nikita Soin
+
+--- Slide 2 ---
+
+Definition
+The endowment effect, or divestiture aversion as it is sometimes called, describes a circumstance in which an individual places a higher value on an object that they already own than the value they would place on that same object if they did not own it.
+
+--- Slide 3 ---
+
+Explanation
+The endowment effect makes investors hold onto specific securities longer than they should. Without a clear exit plan, investors are strongly susceptible to the endowment effect.
+This type of behavior is typically triggered with items that have an emotional or symbolic significance to the individual. However, it can also occur merely because the individual possesses the object in question.
+
+--- Slide 4 ---
+
+Key terms of the Endowment Effect
+Loss aversion: It is a cognitive bias describing that the pain of losing is psychologically more powerful than the pleasure of gaining. Loss aversion is a foundational concept of prospect theory.
+Prospect theory: Prospect theory is one which describes decision-making under uncertain circumstances such as insurance and gambling. A key assumption of this theory is loss aversion.
+Psychological ownership: A proposed trigger of the endowment effect. Ownership creates an association between the self and the item. This possession-to-self link increases the perceived value of the item.
+
+--- Slide 5 ---
+
+ORIGINS & HISTORY
+“For most things are differently valued by those who have them and by those who wish to get them: what belongs to us, and what we give away, always seems very precious to us.”
+Aristotle, The Nicomachean Ethics book IX
+
+--- Slide 6 ---
+
+The term “endowment effect” was coined by Richard Thaler, a distinguished theorist of behavioral economics, in 1980. He identified this cognitive bias as an explanation for loss aversion, a theory outlined by Kahneman and Tversky in 1979. Specifically, Thaler used the endowment effect as a means to explain the loss of value associated with selling or giving up an item, which is greater than the financial or emotional gain associated with obtaining that item.
+Thaler’s conceptualization of the endowment effect was in direct contrast to economic theory at the time, which assumed that humans consistently make rational decisions. By challenging the existing economic theories, Thaler provided us with a clearer understanding of how humans make economic decisions.
+
+--- Slide 7 ---
+
+Experiment
+Thaler collaborated with Daniel Kahneman and Jack Knetsch in the early 1990s to provide empirical evidence for the endowment effect. In their paper, the researchers recruited undergraduate students, and randomly assigned half of them to either buyer or seller groups. The seller group received mugs with a university logo and were told that they could either keep their mugs or sell them to the buyer group. The buyer group was then instructed to attempt to buy the mugs. The authors also asked students what at price they would be willing to sell or buy the mugs. 
+Their results indicated that students in possession of a mug priced theirs at double the cost of those who were not in possession of a mug. This experiment has successfully been replicated many times and exemplified how individuals often perceive an item that is theirs to be of greater value than something that is not.
+
+--- Slide 8 ---
+
+Pricing and Sales
+Sellers often overvalue their products 
+or services due to the Endowment Effect. 
+They may set higher prices than what the 
+market is willing to pay, leading to reduced 
+sales or slower inventory turnover.
+
+--- Slide 9 ---
+
+Investment and Finance
+Investors who hold a particular stock may be more resistant to selling it at the current market price, even if it's no longer a sound investment. This can lead to holding onto underperforming assets.
+
+Homeowners often overvalue their properties, making it challenging for them to accept market-based pricing when selling their homes. This can lead to homes languishing on the market for extended periods.
+
+--- Slide 10 ---
+
+Negotiation and Contracts
+Employees may resist accepting lower salaries 
+than what they currently earn, even if market 
+conditions warrant it. Employers may need
+ to offer compelling reasons for salary adjustments.
+
+--- Slide 11 ---
+
+Online Marketplaces and Auctions
+Customers who have added items to their 
+online shopping carts may be less likely to 
+complete the purchase if the price is
+ adjusted, as they perceive the originally 
+selected items as valuable.
+
+--- Slide 12 ---
+
+Thanks for attention!

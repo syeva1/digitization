@@ -1,0 +1,799 @@
+===== PAGE 1 =====
+
+Lis |
+pacttcs anne BE
+seeeenaeh a
+The Science of Population
+Second Edition ’
+Jay Weinstein
+Vijayan K. Pillai .
+
+===== PAGE 2 =====
+
+: 4 poke Ri at: ‘ \@
+4 : OF POPULATION _
+1 : SCIENCE 4
+BS i
+4 he world’s population has now surpassed the 7-billion mark, its largest :
+4 size ever. OF these 7 billion people, ‘rwo-thirds live in the less-developed i
+] 4 countries of Africa, Asia, and Latin America. Led by the true population ee
+: giants of China with 1.4 billion people and India with over 1.3 billion, the j i
+poorer nations are growing at an average rate of 2 percent per year. At that rate, their a
+4 4 population sizes will have doubled by the year 2045. In contrast, many countries in ki
+4 Europe are experiencing no population growth at all, and many—led by Russia—are a
+a actually losing people at rates of up to 0.5 percent annually. The United States’ popu- ig
+, Jation stands between these two extremes. With approximately 308.7 million people 4
+4 enumerated by Census 2010, its growth rate is approximately 0.7 percent per year.
+‘ Although there are obvious and substantial demographic gaps between these ;
+* sets of nations, there are also many important connections. The most significant, of a
+te course, is that we all occupy the same, finite planet. ‘And, because changes in popula- « i
+4 tion size are bound to affect our environment and resource base, one nation’s growth
+: 4 rate will impact on the standard of living and quality of life of all other nations. ‘ i
+3 3 Migration is another factor that links the fates of countries now experiencing, ie
+f- rapid population increase with those that are barely growing at all. As a rule, the te
+a less-developed nations are rural, with only a small proportion of their populations J i”
+ec living in one or a few very large cities. In contrast, the industrialized countries are a
+a nearly completely urbanized, with more than 80 percent of their populations living ‘4
+: in numerous cities of various sizes. Yet, the metropolises of Asia, Africa, and Latin i
+4 a ‘America are dramatically overcrowded and they continue to expand by the day,
+: as seemingly endless streams of migrants from the impoverished countryside con- 4
+4 tinue to arrive in search of the “good life.” ‘As a result of this rapid urban growth, a
+4 frequent shortages of food, housing, and basic amenities regularly emerge. In turn, 4
+ig political violence often breaks out, all of which places demands on the industrialized q HM
+te countries for emergency assistance, long-term development aid, and diplomatic or i
+> military intervention. i iq
+x q
+a 4j
+1
+i
+i
+
+===== PAGE 3 =====
+
+| 2 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE
+The rapid urban growth in the poorer nations creates a strong incentive for
+people to emigrate to Europe and especially the United States and Canada, in search
+of jobs and security. Although the number of those who do find haven is just a frac- 3
+tion of those who want to come to Europe and America, each year hundreds of
+thousands do manage to make the trek. On arrival at their destinations, the new
+immigrants increase the size of and change in other ways their host populations.
+
+i t Many European populations would be experiencing even more rapid decrease were
+
+1 it not for the inflows of migrant workers from Africa and Western Asia. And immi-
+
+| grants, especially from Latin America and Eastern Asia, account for as much as 40
+
+percent of the total annual increase in the United States’ population.
+k The four chapters that make up our overview of population science are designed
+i} to provide a foundation for exploring these remarkable and critical demographic
+| trends of our times. Because these topics and issues will be considered and reconsidE ered at several points in later chapters, Part I will also serve as a framework for the
+discussion that follows in the remainder of the book.
+
+5 The purpose of Chapter 1, “The Nature of Populations,” is to help us begin
+
+} using and feeling comfortable with the uniquely demographic way of looking at the
+
+i world. With this perspective our attention is directed not to individual human beings
+but to groups of them as they are aggregated—either naturally or for statistical
+purposes. Although demographers do not deny the importance of individuals, they
+are primarily concerned with the size, the structure, the territorial features, and the
+dynamics of the collective wholes that individuals form and in which they partici-
+
+: pate. These include especially certain kinds of aggregates, such as nations and cit-
+
+; ies, we call “populations.” These have characteristics that set them apart from mere
+
+} collections and give them the power to affect and be affected by key aspects of our
+
+H social lives and our natural environments.
+
+Thus, much of the first chapter is devoted to considering the ways in which
+aggregates and populations have a real, concrete existence above and beyond the
+individuals that make them up. To help in making this point, and in understanding
+
+; the implications of a collective (“trans-individual”) level of reality, we introduce
+several well-known demographic principles, including ecological correlation and,
+
+H ecological fallacy, structural effects, demographic determinism, and the use of popu- |
+lations as units of observation. The chapter continues with a section on the study of ie
+population, outlining the principal ways in which population research is conducted.
+Included here is a history of the discipline that focuses on the early founders and .
+
+i originators, such as Thomas Robert Malthus.
+
+\ Chapter 2 begins with a focus on the tools of contemporary demography, including its main sources of data: census information and vital statistics. Next we consider
+the basic demographic variable, population size. Here we compare the sizes of vari-
+
+ie ous types of populations and aggregates: nations, continents, counties, and cities. ;
+
+We The chapter concludes with a survey of the procedures associated with the measure-
+
+| ment of population size and related characteristics.
+
+i Chapter 3, on demographic structure, discusses the elements that make up a
+
+: population and the many ways in which populations can be disaggregated into their
+
+| component parts. Here we introduce the two types of structures, biological and
+sociocultural. In this context, several key variables are introduced, including age,
+gender (sex), and a range of sociocultural structures and stratification systems: fam-
+
+ie ily, ethnicity, occupation, wealth, and income. Throughout the chapter, we discuss /
+key principles in demographic analysis, issues in data collection, the major measures
+
+===== PAGE 4 =====
+
+| CHAPTER:
+ONE:
+: THE NATURE OF |
+» POPULATIONS
+#
+emography, the science of population, is a field of study that lies at the inter- i
+D section of the social and the biological sciences. It is a distinct discipline with f
+a long, rich, and interesting history; a well-articulated body of theory; and a }
+‘i set of specialized techniques for data collection and analysis. Although often classed i
+as a branch of sociology, demography actually incorporates insights and methods a
+drawn from numerous fields, ranging from biology to mathematics. It is employed
+extensively in basic scientific research and, at the same time, it is one of the most '
+( frequently applied of all the social sciences. :
+THE FOCUS ON AGGREGATES i
+The name of the field comes from the Greek word, demos, meaning “the people (col- f
+lectively).” Accordingly, as this first chapter will make clear, its chief concern is with t
+the characteristics of aggregates of living individuals. Generally speaking, an aggre- j
+gate is a collection of two or more objects or units: sheets of paper, stones, items of 4
+clothing, and so forth. However, we stress that in the case of demography the objects F
+or units that make up the aggregates of interest are alive. They are born, they age, i
+they move from place to place, they reproduce, they become ill, and they die. ‘ f
+Our main goal in this chapter is to become better acquainted with the field i
+and with the concepts, materials, and methods commonly employed in demographic ‘ He
+research today. The discussion begins with some basic observations on demographic ‘
+aggregates. Next, we move to a review of the history of population studies. In this id
+context, we note that humans have been interested in the size, structure, geographic " i
+distribution, and dynamics of their populations for a very long time. This look back- a
+ward is then followed by a discussion of contemporary sources of demographic a
+information, in which we identify recent innovations in survey approaches and in a
+vital registration systems—including national censuses, CD-ROM files, the contro- . 7
+versy surrounding using sample information for the decennial census count, and i
+Census-related Internet sites. ‘i
+Populations and Other Aggregates Ht)
+In the demographic sense, there are many different kinds of aggregates, depending ia
+in part on the extent to which the individuals it contains interact with one another, . i
+share the same geographic territory, and maintain prolonged contact over the course Ai
+5 } ai
+
+===== PAGE 5 =====
+
+| 6 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE
+i of one or more generations. At one extreme, some aggregates are mere classifications,
+| created by the researcher for analytical purposes, such as the aggregate of all female
+- persons aged 15 to 45 living in the state of Georgia. Other aggregates are truly interacting groups, such as the specific household that now resides at 105 E. Main St., in
+Mytown, U.S.A. Whereas many of the principles and techniques of demography can
+i be, and routinely are, applied to all types of aggregates, demographers do give major
+y consideration to the special type of aggregate known as a population.
+hi | Naturally Occurring Populations: Human and Nonhuman
+lk
+i Because nearly all species of living organisms, including human beings, form natua rally occurring populations, demography has a unique position in academe: some-
+| . times administered as part of a social science department such as sociology or geogE raphy, sometimes administered as a natural science, such as ecology, and sometimes
+| given its own department. In fact, at some major universities, courses and training
+j in population studies are offered in more than one department at the same time.
+] The fact that populations are not unique to humans should also help remind social
+researchers that the people they study are part of nature and that their field is, after
+all,a branch—albeit a very special branch—of biology (Forsman 2011; Carey 1993).'
+i A naturally occurring population, human or not, has certain defining features ‘
+that set it off from other kinds of aggregates. Primary among these features are:
+1. Populations are relatively endogamous; their individual members tend strongly
+to mate and to reproduce with one another. The “relatively” qualification distint guishes a population from a species. The latter is absolutely endogamous and its
+members are, under ordinary circumstances, incapable of reproducing with members
+Figure 1.1 Home Page for the University of California~Davis Center for
+Population Biology ‘
+Center for Population Biology (CPB)
+a a a CC eeeeerererereorsoweeeVuv_Teeem
+Quick finks P “The Center for Population Biology
+een og ‘ gf & maintenance of diversity in biological erstem
+Sota of Bolin! We ate ge
+=r |’ p< ‘he
+eet EERE ee ane EF ee
+Y
+tewerstyst Our Goals
+t Bovis ca 5018 mentorships, workshops and meetin.
+1 Source: http//cpb.ucdavis.edu.
+
+===== PAGE 6 =====
+
+|
+CHAPTER ONE: THE NATURE oF POPULATIONS | 7
+ifications, ofanother species. Every species, including Homo Sapiens, is thus composed of sevil female 4 ~ eral (possibly hundreds of) populations. Each member of a given human population
+ruly inter- ae is most likely to mate and reproduce with another member. However, anyone can,
+ain St., in _ and some people do, mate and reproduce outside of their own population (Coleman
+raphy can - & 1993). The trait of relative endogamy also helps distinguish between Populations
+ive major . Ss and other aggregates of demographic interest that do not have this trait, such as all
+BS people of a certain age or sex who live in Asia.
+ae The following excerpt from an article published in 2006 both defines the term
+ae “endogamy” and connects with the biological/genetic features of naturally occurring
+3 “ populations.
+m natu- a
+some- The development of demographic studies in anthropology is directly linked to
+geog- ; ae the success of population genetics. The anthropodemographic or anthropogenetimes a netic approach is thus underpinned by questions of genetics. While demograaining zz phers focus on population dynamics and renewal in quantitative terms, poputime. ae lation geneticists refer not to individuals but to the sets of genes carried by
+social Sm individuals in a population. Their aim is to detect the factors and processes
+after eg which influence the genetic evolution of a group, i.e. which modify gene fre993),1 . a quencies from one generation to the next. Among them are the faceons which Hl
+ures —_ affect modes of reproduction. (Cazes 2006: Abstract)
+4 oul 2. Populations share a bounded geographic territory. Other aggregates, such as
+igly ee the set of all persons born into the human species in the Past year, are not defined
+stin- ae by their locale as such. Naturally occurring populations, on the other hand, tend to
+d its z Ba establish an intimate, reciprocal relationship with their territories, which is of special
+ibers concern to evolutionary biologists and ecologists. Nutritional habits, reproductive
+3 4 aa characteristics, annual physiological changes, and other aspects of their members’
+ae existence are shaped in accord with the Opportunities and limitations imposed by the
+3 Be population’s territorial environment, ‘
+In most species, including ours, the population-territory relationship tends to be |
+“ an exclusive one, wherein it is unusual for two or more populations (of the same spe- i |
+: . a cies) to share the same territory for a prolonged period of time. More often, because ]
+‘ Be endogamy is only relative (members of different Populations of the same species “4
+a can and do reproduce under certain circumstances), two populations that occupy te fe]
+. the same territory would likely merge, thus experiencing demographic assimilation |
+i a 4 in becoming a new, larger, and more heterogeneous unit. We consider the territorial
+d 4 aspect of human populations in some detail in Chapter 4, where we discuss geo- eq
+4 q ‘4 graphic distribution, classification, density, and related topics. ; |
+q See The two traits of endogamy and territoriality provide each population with a
+ee distinctive, shared gene pool uniquely developed under the specific conditions of its |
+. s home range. Thus, in any given territory, members of populations of a particular |
+; species have common physical and behavioral traits that are distinct from those of
+7 .s the members of populations of the same species that occupy other territories. Taken |
+q a together, these features give naturally occurring populations a real, concrete, collec3 tive existence, They certainly are aggregates—and not merely single individuals, But, ve
+3 4 3 in contrast to other important collective entities such as Societies and cultures, they
+a. can be readily observed and their characteristics directly measured, ‘
+3. Human populations are especially complex because, in addition to having a
+q 4 common gene pool and territory, their members also share a sociocultural heritage:
+
+===== PAGE 7 =====
+
+i 8 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE
+aH tools, language, or other knowledge that is transmitted from parents to offspring and
+ey from peer to peer through imitation and/or learning. Comparative research indicates
+Bi that the degree of complexity and many qualitative features, as well, differ considerTa ably from population to population.? x
+f The field of demography is affected in several ways by the fact that human popui lations do have such distinct sociocultural heritages. Most generally this character-
+\ istic divides the field into two branches. One branch is formal demography, which
+i focuses on population size, composition, geographic distribution, and the interplay
+{| of vital events as such. These concerns apply to all species, human and nonhuman. The other is social demography, essentially the study of human aggregates.
+This branch explores the relationships among a population’s size, structure, and
+j geographic distribution, its vital events, and social and cultural factors such as the
+i norms and values shared and the intergroup conflict and cooperation experienced
+i] by members. Although this book is clearly a text in social science whose focus is on
+| sociocultural factors such as policy issues, environmental impacts, and population
+\ ethics, the earlier chapters do introduce some basic formal principles.
+The relatively elaborate organization of human populations is reflected in the
+i kinds of population structures studied in social demography, which are more inclui sive than those in formal demography. Whereas the latter deals with biological struci tures only, that is, age and sex, the former must also consider such variables as social
+if class, ethnicity, and language. In addition, social demographers, unlike their formal
+counterparts, seek to relate demographic features and processes to sociocultural phe1 nomena. For instance, they might explain a change in a population’s birth rate as
+: the result of a change in its members’ norms defining what constitutes the “proper”
+\ number of offspring—referred to as a “stopping rule” (something obviously not of
+‘i direct interest to the formal demographer).
+
+Social demographers must also be ever alert to the possibility that the characteristics and changes that they observe in a given population may well be the
+result of conscious acts undertaken by members of the population, acts designed to
+
+| affect its demographic character and fate. For example, migration rates in human
+populations often vary from time to time because the (human) members of thase
+i populations pass and enforce laws that encourage or limit the flow of migrants.
+Death rates may decline because health officials purposely distribute life-saving
+| medication, and so on. .
+Finally, and perhaps of greatest significance, the presence of a sociocultural heri1 tage means that members of a population inherit the traits that make them similar
+and that distinguish them from members of other populations. This occurs in two .
+i separate, but related, ways. One of these is biogenetic inheritance, which is a feature -
+of every population, regardless of species. The other is cultural inheritance through
+enculturation and acculturation (that is, learning), which is characteristic only of
+populations of humans and other species rightly deemed to" have cultures. In such
+populations, members may look alike and share other physical traits (such as being
+susceptible or immune to the same diseases); and they may behave and think in simi-
+\ lar ways, and speak the same language. But they do so for very different reasons. In
+the first case, it is because of a common gene pool; in the second, it is the result of
+common learning experiences.
+
+We make this explicit point about the two sources of inheritance in human populations to illustrate what may already be quite obvious to you: That is, the study of /
+human populations is an especially difficult and challenging branch of demography.
+
+i For centuries, scientists and the general public alike have been especially puzzled by
+
+===== PAGE 8 =====
+
+4 CHAPTER ONE: THE NATURE OF POPULATIONS | 9 :
+ind _ this particular aspect of population dynamics; seeking to determine how much of a 4
+es. 4 person’s heritage is biogenetic and how much is sociocultural, Indeed, this brings us j i
+der- _ close to the notoriously perplexing “nature versus nurture” controversy. | Bi
+; 4 4 It is not possible to give fair consideration in a book like this to the many prob- | i
+mu E lems and issues associated with the fact that human populations do have a dual | {
+4 ’ inheritance, each part of which is subject to different principles. We can note that | i
+h % some serious errors have been made in the past (distant and recent) by those who i }
+y 9 "gave too much emphasis to one or the other factor. The characteristics and dynam- | id
+" 4 ics of a human population—its size, birth rate, and the like—are clearly shaped in | i
+: 4 ___ part by biogenetic processes, wherein Darwin’s principles of evolution, adaptation, I i
+: and competition apply. But it is equally true that these characteristics and dynamics
+2 4 are affected by human interpretation, human will, and human error; and that indi- if
+F | viduals can, in Lamarckian fashion,? acquire new traits in their lifetimes, such as a 4
+q : 3 new language. They can also transmit those traits to their offspring, for instance, by i
+4 4 E teaching them the new language from birth. To one degree or another, both “nature” iy
+4 " and “nurture” play a role in shaping human (and possibly other culture-bearing)
+____ populations, a role whose proportions are not yet entirely understood. Among other i
+2 d ___ things, this makes all of the “laws” and “exact predictions” concerning our kinds of i”
+4 4 populations subject to considerable skepticism. ia
+2: __ The Principles of Demographic Analysis ‘
+CS ____ The characteristics of populations and other aggregates with which demography is q
+ae most directly concerned can be classed into four categories: i
+oo 3 * Size: the number of individuals included in an aggregate or a population;
+es 4 ® Structure: the various ways in which subaggregates and subpopulations are
+we formed; . hi
+se : * Geographic Distribution: how an aggregate or population is dispersed over ! id
+physical space; and ie
+* Changes in Size, Structure, and/or Geographic Distribution: the dynamic aspects “4 LY
+q of these characteristics, as they vary with the passage of time. ‘ 4
+: re!
+4 As we will see, each of these categories can be further divided according to types, ae By
+subtypes, and other special features. q Br
+4 Like other sciences, demography is interested in both description and explana- i
+tion. That is, it consists of tools and concepts designed to aid in carefully observing a
+___ the size and the other characteristics of aggregates, and in conveying such observations to other scientists, consumers of scientific information, and the public. This is ‘
+| the field’s descriptive phase, which, as we will emphasize throughout this text (but |
+__¢specially in Part IV, “Demography in Application”), is applied in a wide range
+'_ of contemporary professions and businesses, from public administration to wildlife
+management, from marketing to city planning.
+4 In addition, much basic research in demography has been dedicated to under- ‘i
+standing population dynamics, to explaining why some aggregates grow faster than
+others, why population structures vary from time to time and place to place, and so
+forth. This is the field’s explanatory phase. Throughout the many decades since the }
+_ field was founded (more about the history of demography later in this chapter), the
+__ fesults of these explorations have contributed significantly to the body of scientific
+i ' _ theory in biology, sociology, anthropology, and other disciplines.
+
+===== PAGE 9 =====
+
+mt)
+10 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE
+|
+Ae
+Size \
+RARER \
+i RRK .
+RR | RX
+RRR|RRR
+is SO Toy Structure
+i
+ii ey
+i x x
+ii 54 ¥4 Geographic
+ta g x distribution
+j x x
+i KR
+i
+RRR
+LLY MMP SS MM LK
+i BB RRR Figure 1.2 Four Applications of
+aa RRX Demographic Analysis
+H The task of explanation begins with an examination of the vital events of demogae. raphy: birth, death, and migration. These are the variables in the “basic balancing
+gi equation” of demography (Shryock and Siegel 1976:4):
+\
+a Formula 1.1 The Basic Balancing Equation of Demography ‘
+i a
+i P.=P,+(B-D) + (I-O)
+where P, is the size of a population at an earlier or initial date, Pt is the size at a later
+date, B is the number of births that occur between the two dates, D is the number of
+i deaths, | is the number of in-migrants, and O is the number of out-migrants. -
+' These four factors, birth, death, in-migration, and out-migration, entirely . |
+is determine the magnitude and rate of population growth. In Part III, we return to |
+this equation and discuss how it is used in the process of demographic explanation, |
+with a chapter devoted to each type of event. At that point we will also examine }
+! the conditions that determine how each varies (or remains constant) in specific |
+| populations.‘ |
+! |
+3 :
+| Growth = 7 |
+Births - Deaths : |
+In-migrants ~ Out-migrants , 4
+Figure 1.3 The Four Components of
+G = (B-D) + (I-0) Population Growth
+|
+
+===== PAGE 10 =====
+
+- AGGREGATES AND INDIVIDUALS
+% a "We have already emphasized that demography focuses on the aggregate and not the
+3 q "individual level of human (and other forms of) life. So, for example, in this book we
+a 4 | are concerned with understanding such things as the size or the age structure or the
+a a "growth rate of a population, but not the heights or “growth rates” or ages of specific
+i 4 "children who belong to such a population. Although somewhat obvious, this is an
+A = ___ important distinction, which we discuss and illustrate in this section.
+4 a a A population or other aggregate surely is made up of individuals. But at the same |
+E "time, as demographers and other social scientists like to stress, “the whole is greater i] |
+P ___ than the sum of its parts.” In practical terms, this means that although there always
+’ E "is a connection between individuals and the aggregates to which they belong, the
+4 3 connection can be tricky; we can make mistakes if we simply add up observations
+B 7 _ of individuals to draw conclusions about population characteristics and dynamics.
+4 ___ Inthis context, we introduce two concepts well known to population scientists. The
+4 4 _ first is ecological fallacy. As the name would suggest, it refers to a common type of
+4 "error, in this case an error made in translating between aggregate and individual lev4 4 _ els of observation. The other is structural effect, a concept first introduced by Emilé
+EE 3 Durkheim (1858-1917), which demonstrates the potential impact that aggregate
+4 3 characteristics can have on individuals.
+4 3 _ Ecological Fallacy
+q a 5 An ecological fallacy is an unwarranted (and possibly false) statement about individaa a 4 ual characteristics based on information that relates to characteristics of an aggre- ;
+4 be gate. The study of voting behavior is especially prone to such problems (see Scott
+= 1998; Johnson, Shively, and Stein 2002). Research in this area has established that
+a. s a electoral districts (precincts, wards, counties, and states) that have large concentra- !
+Od tions of members of certain ethnic groups tend consistently to vote for candidates
+ee > 4 of one party and to defeat other candidates. This observation has often led to the
+ae conclusion that ethnic group members overwhelmingly support their favorite party.
+a a 5 Although this may be true, it does not necessarily follow. For it is possible that memeh 4 bers of the ethnic group are not especially inclined to vote for a particular candidate, :
+ee Es but that all of the other residents of the district support the party. Knowledge about
+poe how members of a specific group vote depends on data that refer to those individu- ‘
+ae 7 als, not to the electoral district as a whole. i
+¥ is 4 The problem of ecological fallacy affects most academic disciplines and public i
+os q policy areas. Moreover, it is a problem with a long pedigree. Information about offi- Ws ‘
+as 4 cial areal units (counties, census districts, and cities) is especially prone to ecological
+BS fallacy because these units tend to be arbitrary, and to coincide poorly with natural
+= ; social areas. The latter are formed according to principles of proximity, which makes i
+mA it quite likely that group boundaries will spill over official district and municipal .
+: lines—especially those of artificially drawn census tracts, Similarly, residents of a i
+a particular district may have little in common except their addresses (see Chapters 4
+ae and 7 for more on this issue).
+s Structural Effects: An Introduction
+PS One of the most interesting discoveries of “hidden” relationships among individual os
+a and aggregate characteristics is credited to the great demographer and sociologist ~
+!
+
+===== PAGE 11 =====
+
+ry
+12 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE
+2 4
+\
+i sf This member of the aggregate is wealthy;
+X therefore he votes Republican q
+\ |
+ih A high percentage of wealthy members of
+i the aggregate vote Republican.
+itn Figure 1.4 The Ecological Fallacy is the attempt to conclude information concerning
+ig iM an Individual from related characteristics observed at an aggregated level.
+i Source: Designed using an image from VectorSilhouettes/Thinkstock.
+j of the 1900 era, Emilé Durkheim. The discovery is known today as the principle
+i of structural effects (see Blau 1960; Kendall and Lazersfeld 1955; and Matras
+i 1973:162-67).
+Durkheim's Study of Suicide
+Throughout his illustrious career as founder of academic sociology in France,
+t Durkheim was engaged in a project to establish that a true aggregate level of reality
+‘ exists and that this level is worthy of scientific study unto itself. In this respect, he
+i was part of a movement, also championed by his contemporaries Herbert Spencer in
+i England, Max Weber in Germany, and Vilfredo Pareto in Italy, to free social science
+i from its prescientific origins in moral philosophy and at the same time to distinguish
+{ it from psychology. Durkheim and the others argued that the characteristics and
+1 dynamics of population, culture, and society studied in social science are legitimate
+bh scientific objects. But, they stressed, these objects cannot be reduced simply to physith cal, biological, or psychological phenomena (you may recall that Durkheim referred
+bf to these as “social facts,” to distinguish them from physical, biological, or psycho- ,
+' logical facts). Rather than accept this reductionist position, he sought to show that
+2 aggregate phenomena do have an independent emergent existence. .
+1 Durkheim’s best-known search for structural effects focused on comparisons
+: between the suicide rates of individuals with given characteristics, for instance Pro- ‘
+testants, unmarried persons, and so on, who reside in aggregates that have those
+t characteristics (e.g., with a majority of the population Protestant, a high propori tion unmarried, etc.). These were then compared to the rates of those who reside in
+i aggregates that lack the characteristic (e.g., where the majority is Roman Catholic, a |
+high proportion married, etc.). A structural effect exists if individual suicide rates are |
+higher for all groups (for instance, Protestant and Catholic) in a largely Protestant
+state or province and lower in a largely non-Protestant one. In symbols, where DRS,,,
+is the death rate by suicide among Protestants in largely Protestant states, DRS_.-is . |
+the suicide rate for Protestants in predominately Roman Catholic aggregates, and so |
+on, a structural effect exist when: ' |
+DRS,, > DRS and '@
+DRS,. > DRS and |
+DRS,, > DRS and |
+as DRS, > DRS. |
+
+===== PAGE 12 =====
+
+ae CHAPTER ONE: THE NATURE OF POPULATIONS | 13 fi
+. Durkheim did find that, in addi- Pe A ae |
+a tion to having higher individual po ee | ‘
+a suicide rates than Catholics, Pro- Pa a i I 3
+3 a ~ testants have higher suicide rates in 4 3 |
+5 _ predominately Protestant aggregates tan 7 é
+E than they do in Catholic ones. He aa 4 OM
+3 - observed that Catholics in predomi- 5 e ¢ ,
+j a nately Protestant countries and prov- bt # BF
+3 é inces have higher rates than Catholics a f
+4 4 "in predominately Catholic countries a
+4 q "and provinces; and so on. From these | | j
+a kinds of findings, he concluded that ia : i
+3 "structural effects do exist.’ In this | gt
+q a specific case, it would appear that the 4
+a "Jess anomic, Roman Catholic charac- | ™ .
+; a ter of the state dampens the effect of
+4 bi _ anomie even on Protestants, with the é@ _
+‘3 result that they are less prone to take oe &
+a their own lives than are their coun- ‘A i
+q 3 terparts living in largely Protestant se i
+j states. Similar results held for the ae
+4 4 other characteristics, such as mariae tal status, indicating that one’s social {
+4 4 environment has a general, indepen- Figure 1.5 Emilé Durkheim introduced
+ee . | dent influence on one’s individual the concept of structural effects into social
+3 4 ___ predispositions: In brief, some kinds gemography ‘
+ae | __ of populations are more conducive to source: Pictorial Press Ltd/Alamy.
+— 4 suicide than others.
+3 4% , Demographic Determinism ; i
+ae and “Laws” of Population s
+i a We have defined demography as the study of naturally occurring populations and pe
+Pg other living aggregates. We have also noted that populations are relatively endoga- . al
+fi E 4 mous, territorial, and are structured along biological (e.g., age) dimensions and, in
+ie q the case of human populations, sociocultural (e.g., social class, ethnicity) dimensions 5
+q as well. We have seen that populations can be divided into subpopulations according z
+- : to one or more of several criteria, including gender, region, age, and social class. In
+% 4 the course of this discussion, we also pointed out that populations are part of nature,
+oS 4 with a visible concrete existence in space and time; and, as emphasized in the last sec- o
+a tion, with their own effects that transcend the behavior of their individual members. |
+3 q In this section, we follow out the implications of a point made earlier to the
+4 a effect that, because of their concreteness, populations (and subpopulations) are espeE cially appropriate macro-level (larger) units of observation and analysis in social
+a ; science. Here we stress that one needs to be careful not to take this point too far. :
+4 3 a For to say that populations are appropriate units of observation does not mean - i
+3 4 aq that population dynamics determine out collective lives. This latter view i$ known
+¥ as demographic determinism and was first introduced in modern academic circles /
+j a by Thomas Robert Malthus (1766-1834). It is a fairly common error that we now :
+E q r know should be avoided.
+
+===== PAGE 13 =====
+
+14 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE
+*
+} Malthus’s is perhaps the most
+f prominent name in the history of i
+. the field of demography (James Ae =) _
+1979; Winch 1987; Turner 1986). biti, Se
+He is well remembered for his 2
+belief that the alternating periods 4
+fi of population growth and decline a 7, wn
+| he observed in demographic gies Co
+if records of his past (the period up to ‘ H
+ie about 1800) would continue for- “| &
+¥ ever. This boom-and-bust kind of \ie
+i population change, which is now SS J
+| referred to as Malthusian growth, ~~
+{ is illustrated in Figure 1.7. As you yi
+ih may know, Malthus based this : er 4
+| forecast on what he considered to / \ a]
+i be immutable laws of population. ms, nes .
+i These are principles whereby pop- (Nata
+| ulations naturally and automati- Kt At
+cally worked: (1) that the needs {\ SSS aes
+for food and for sexual expression <\ >, j
+are permanent parts of the human Ss ~w. S \. be ¢ |
+condition, and (2) that food sup- AS *, Noe:
+| plies always increase more slowly
+than populations grow. In fact, his Figure 1.6 Thomas Robert Malthus
+word for these principles was pos- source: Photos.com/Thinkstock
+tulata, a logical term even stronger
+than “law” because it implies logically necessary truths. These postulata are quoted in full in Chapter 14, as we return
+to Malthus and his influence on past and current population policy.
+Over the years, these views have become the foundation of the doctrine of demo
+i graphic determinism; that is, that human existence is ultimately determined by popu-
+: lation dynamics. This doctrine has had an enormous impact on both scientific and
+popular thinking. In particular, it has given considerable credence to the view held,
+by some pessimistic commentators that human population dynamics always run a
+| certain, disastrous course no matter what we do about it, the “classic Malthusian”
+position. As we shall note in Chapter 11, the doctrine also underlies the more com- 3
+mon understanding that populations may well be on a general runaway course, but
+that certain measures, like fertility control, can be taken to mitigate or avoid the
+| worst consequences—the “neo-Malthusian” position. a
+Hi What many people, including some scientists, fail to notice, however, is that
+Malthus’s argument is false. There may well be inevitable, necessary, and unavoidable outcomes in populations of other species, but human beings long ago took the
+matters of food production and the expression of the sexual passions in hand. By
+exerting conscious control over formerly natural processes, through agriculture and-
+| with mortality- and fertility-control beliefs and technologies, humans have so altered
+things that no one can really say what the “logically necessary” connections may
+i be. We do know that in the years following Malthus’s dire prediction to the effect /
+that food would increase only arithmetically (the line in Figure 1.7) and population ,
+i would increase geometrically (the curve in Figure 1.7), the reverse actually occurred!
+f
+Wei
+
+===== PAGE 14 =====
+
+F CHAPTER ONE: THE NATURE OF POPULATIONS | 15
+a : Figure 1.7 Malthusian Growth |
+3 Crisis 1
+Cig =--=) Sustenance |
+ie q — Population
+: 4 ”
+a j § |
+ES 4 | Sustenance increases arithmetically |
+a 8 - |
+oN § I
+a a Crisis ”
+e : rs ie
+ik a 8 “ I
+w Ps 7]
+% F 3
+: 5 “ |
+Ww £ o
+: > % -
+So} ae Population increases geometrically
+j | Crisis ye
+5 | “ i
+3
+‘ g a
+4 Time {
+Food production, of every grain crop and of most meat products, shot up geometri-
+|__ cally. Meanwhile, population growth became arithmetic, then it dampened further t
+until, today, growth rates in Malthus’s England and other parts of Europe are at zero
+or below.
+Malthus’s forecasts specifically were mistaken, as are all such views that assume
+___ that demographic factors determine everything else, because they ignore the impor- ‘
+tant role that society and culture play in human populations. Malthus’s name and
+_ work will be well remembered; in large part because he directed the attention of all ‘
+future social scientists to populations as key units of observation and analysis in |
+q human affairs (he became England’s first professor of a social science—“Political i ;
+4 Economy”—in 1805). But his record as a prophet is less impressive, in part because " %
+___ hetook his own insights about the power of population too far. Human affairs surely é
+| do take place within and between populations, but in these affairs demographic facq tors are always constrained by sociocultural ones, and vice versa. Fi
+THE HISTORY OF DEMOGRAPHY: AN OVERVIEW
+3 The creation of a Chair in Political Economy and Modern History at London’s East
+India College in 1805 marks the formal beginning of the academic study of populaEE tion. The fact that Malthus, an Anglican Minister trained at Cambridge University,
+was the first occupant of that chair has shaped the field in many ways that are
+apparent to this day. In a discussion of Malthus’s continuing importance, Geoffrey
+4 MeNicoll (1998:309) asks rhetorically: “So, should Malthus therefore be retired .. . :
+with gratitude or disdain, but in either case with acknowledgement that the issue [of ;
+E overpopulation] is all but dead—a piece of intellectual history rather than a continu-
+| ing controversy? As with most important thinkers, the answer is ‘no””
+
+===== PAGE 15 =====
+
+Mi
+16 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE |
+i
+Despite his prestigious appointment and unquestionable influence, Malthus was |
+not England’s first population scientist. According to several sources, including a
+i recent editorial in Population and Development Review, his fellow countryman, ]
+Sir James Steuart (1713-1780), anticipated many of his ideas on the race between
+| sustenance and birth rates (Archives 1998; also see Sullivan 1997). And it is likely
+that Malthus’s views would have been quite different had they not been formed in
+4 debate with William Godwin (1756-1836), as we discuss in Chapter 11. Reaching
+i back even earlier, many historians credit John Graunt (1620-1674) with the honor
+‘| of being the founder, based on his extensive (privately sponsored) studies of death
+i statistics in Metropolitan London, some of which were published as the first treatise
+i in demography, Observations on the Bills of Mortality. Other contemporary scholi ars prefer to recognize a contemporary of Graunt, William Petty (1623-1687) as the
+Hane first true demographer, based on his book, Political Arithmetic (Strauss 1954). In
+ea fact, a controversy has brewed for more than a century about whether it was Petty
+‘hi and not Graunt who actually wrote the Observations (Hull 1896).
+\ Another very important figure in early-modern population research was Edmund
+i Halley (1656-1742; see Figure 1.8). Halley is, of course, best remembered for his
+i careful study of charts indicating the positions of comets, one of which now bears his
+i name (Cook 1998). But he was ‘also fascinated with charting the changes in the size
+\ of human populations, especially as their rates of death varied from one to another, :
+i and from age group to age group (or what is termed a cohort) within a given popula-
+{ tion (Halley 1693 [1942]). A major invention resulting from Halley’s demographic |
+i research, the life table, is today an essential tool in demography, actuarial science,
+i and in the life and health insurance industries in which actuarial science is exten-
+\ sively applied. We will have occasion to mention Halley again in our discussion of
+i his life table in Chapter 9.
+| The contributions of Steuart, Malthus, Graunt, and Halley certainly represent
+Ii landmarks in the creation of modern population science. But they were by no means
+il the first people ever to take an interest in the study of population. As you probii ably know, information about the size and characteristics of populations has been
+Hi gathered for as long as we have written records; in fact, demographic information
+is included among the very first items ever recorded by the ancient civilizations of
+i Egypt, Sumer, Babylon, and Israel.
+i Based on what we now know of these ancient societies, the oldest of which were,
+established in the Near East more than 5,000 years ago, it is apparent that their
+; populations had grown to great size, geographic reach, and structural complexity.
+As a result, it was necessary for the rulers to make a conscious effort to take a count ‘
+i of their subjects accurately and on a regular basis. In the very earliest times, the need ~
+i to count led, in many cases, to the invention of methods of keeping track of these
+accounts: that is, systems of numerals and writing itself, Without such information,
+H captured in some more-or-less permanently preserved form, the two cornerstones of
+‘i the ancient empires (and of most societies to this day), military power and taxation,
+would be impossible to manage. These needs thus led to the first widespread census
+operations. In fact, the word census comes from a Sanskrit word meaning to assess
+or tax. .
+The Egyptian Empire and many other ancient civilizations kept censuses’counts.
+The importance of the census in the traditions of the Western world, as well, is
+evident in the Hebrew Bible, in which God is said to have commanded his people /
+i through His Prophet Moses to count their numbers:
+|
+a |
+
+===== PAGE 16 =====
+
+0 T
+was : a On the first day of the secng a 4 ond month, in the second
+nan, a year following the exodus :
+yeen oe from Egypt, the Lord spoke ie es
+y P to Moses in the wilderness of cS
+fin ) Sinai, in the Tent of Meeting, we us \ |
+ing a saying: “Take a census of the = fs
+~ i whole Israelite community te ¥
+q BS by the clans of its ancestral oS = |
+Re : houses, listing the names, = —
+ol- every male, head by head. &
+You and Aaron shall record % |
+In them by their groups, from \
+y ee the age of twenty years up, all ¥ %
+eS those in Israel who are able am
+og to bear arms. Associated with
+ne you shall be a man from each ;
+5 2 tribe, each one the head of his !
+o ancestral house. (Numbers 1,
+q ay 1-4)s ;
+i - And, of course, Christians j
+a are well aware of the importance
+at of these early censuses because, Figure 1.8 Edmund Halley, a pioneering
+oe according to the New Testa. demographer as well as an astronomer
+q De ment, Christ was born in Beth- source: Georgios Kollidas/Thinkstock.
+4 aa lehem during a taxation count:
+3 E And it came to Pass in those days, that there went out a decree from Caesar
+F a Augustus that all the world should be taxed. (And this taxing was first made
+4 g when Cyrenius was governor of Syria.) And all went to be taxed, every one into
+4 q his own city. And Joseph also went up from Galilee, out of the city of Nazareth, ‘
+q Z into Judaea, unto the city of David, which is called Bethlehem; (because he was
+’ 4 of the house and lineage of David) to be taxed with Mary his espoused wife, ‘
+a being great with child. (King James Version: Luke 2, 1-5) ‘i
+4 4 Even today, census operations in the United States and throughout the world are ~ 4
+: treated as a serious matter, They are universally conducted by national governments
+q under stringent legislative authority and, for virtually all of the world’s countries
+3 that belong to the United Nations (U.N.), in accord with strict U.N. standards of we
+‘ 4 reliability and comparability. In most countries, a resident is required to respond to
+3 : the census survey by law.
+x As the story of Christ’s birth indicates, the Roman Emperor’s subjects reported
+4 7 to the census-taker, often at the place of one’s birth, This ordinarily ‘meant that a
+i man would return to his father’s home, if he had ever left it, with his wife (or wives) f
+| and children, and physically present himself to an officer of the King or Emperor.
+i 4 There he would convey his name and probably other information such as his age,
+i the number of his children, their sexes, and information about his wife and other .
+4 relatives. Under the conditions of life for the vast majority of the people of these”
+
+===== PAGE 17 =====
+
+rr
+18 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE
+ancient empires (over 95 percent of whom were illiterate, rural, and lived at or near
+subsistence levels), the results of the census surveys must have been highly inaccurate. Nevertheless, they were good enough to allow the autharities to estimate their
+i pools of military manpower and to have some idea about the size of the tax base
+they could draw upon to support their regimes.
+
+During the centuries between the fall of Rome and the time of Graunt, Petty,
+iy and Halley, religious organizations in Europe and the Near East assumed the major
+: responsibility for keeping track of population characteristics and dynamics. Churches,
+ib mosques, and synagogues became the recorders and repositories of demographic data
+i through their ceremonial registers marking key life events, what the anthropologist
+ie Arnold Van Gennep (1977) first labeled rites de passage (“rites of passage”): births,
+it baptisms, ritual circumcisions, religious confirmations, illnesses, and deaths.
+if Most of this information was maintained at the local level, especially at parishes
+
+in the case of Christian churches (Cambridge Group 1974); it was rarely centralized
+Hi or collated by official bodies. The faiths with the more centralized organizations,
+4 such as the Roman Catholic Church, did have access to information about larger
+yg regional and (what we would today consider) “national” aggregate populations;
+1 but, in other cases, the information that survives exists in many small, village-level
+: “packets” (Drake 1982). The historical demographer E. A. Wrigley was one of the
+H first contemporary students of population to work extensively with these records
+al (Wrigley 1986; 1997). Wrigley’s innovations in piecing together the many packets
+of information to form a coherent picture about populations that existed four or
+i more centuries ago are considered to be among the major achievements in the field
+ta of social demography.
+f The end of the Middle Ages is marked by the rise of the modern nation-state,
+Ff among many other significant social innovations. One of these innovations is closely
+if tied to the creation of the nation, that is, modern censuses. The first official total popuiki lation count was probably conducted in 1665 in the area that is today Quebec (Petersen
+Fi 1975:21). In 1749, the new constitutional monarchy of Sweden produced the first in a
+it series of continuous government-sponsored reports on the population of a country. In
+iy fact, Sweden’s was a compilation of locally collected (city, town, and village) informaij tion on population size and other characteristics, along with local registration data.
+i But because it was the product of a centralized operation, and because it was tied to.”
+i representative government, some historians designate it as the first modern census. ‘
+st All things considered, the U.S. Census of 1790, conducted by authority of an
+% Act of the First Congress, is the more appropriate choice as the model of its type.
+in! It was the first population count actually undertaken, from design to data analysis.
+and interpretation, by a national government for its entire populace; and its explicit
+purpose was to apportion the electorate in a representative manner.’ Thus, since
+‘bi that time, the connection between demography and democracy—government by the
+; people collectively—has been more than just linguistic. As the founders of the United
+! States and leaders of the other democratic nations that were to follow their lead
+were aware, a strong representative government requires free access to accurate and”
+timely information about population characteristics and dynamics.
+
+At about the time of the first U.S. Census, the elementary concepts of population studies had found their way into various courses in history, natural science, and
+mathematics in colleges and universities in the United States, England, and France
+(Sullivan 1997). From the time of Malthus’s appointment to this day, demogrd-
+
+) phy has been taught as a branch of social science. It is offered in various depart1 ments, especially sociology and geography, at universities throughout the world; and
+Pa a
