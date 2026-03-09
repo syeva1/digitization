@@ -1,19 +1,20 @@
+# Тема: Лекции_дополнительные
+# Источник: Behavioral Economics Introduction
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 Document title: Behavioral Economics – Introduction
 Program: BBA program, SKOLKOVO
 Course: Behavioral Economics
 Instructor: Dr. Alexander Usvitskiy
 Total slides: 11
 
-----------------------------------------
 
-=== Slide 01 ===
 BBA program
 SKOLKOVO
 Behavioral Economics
 Introduction
 Dr. Alexander Usvitskiy
 
-=== Slide 02 ===
 Both are advanced, and relatively new (≈50 years), areas of Economics
 Nobel Prizes: 1994, 2002, 2017, 2019, 2021
 Both are naturally linked to non-Economics areas:
@@ -28,7 +29,6 @@ Why are we bringing the Experimental Economics (i.e., why is there “and”)?
 
 Experimental and Behavioral Economics
 
-=== Slide 03 ===
 Sidenote 1:
 Why is it important to advance our knowledge in the field of economics?
 - To increase the efficiency of resource management!
@@ -39,7 +39,6 @@ By the way, what is a single reason for the existence of economics (as well as b
 
 Experimental and Behavioral Economics
 
-=== Slide 04 ===
 Experimental Economics
 
 It offers, and continuously develops, a specific methodology
@@ -53,7 +52,6 @@ However, “behavioral deviations” will be inevitable observed
 
 Experimental and Behavioral Economics
 
-=== Slide 05 ===
 Behavioral Economics
 
 It studies and explores behavioral deviations from the standard economic theory
@@ -70,7 +68,6 @@ Experimental and Behavioral Economics
 
 i
 
-=== Slide 06 ===
 Experimental and Behavioral Economics
 
 Experimental Economics
@@ -89,7 +86,6 @@ At this point, Experimental and Behavioral Economics have penetrated most
 + so-called “field experiments” in such areas as Development Economics
 (we will discuss them later)
 
-=== Slide 07 ===
 Behavioral Economics
 
 Basic schedule
@@ -99,7 +95,6 @@ Basic schedule
 13:45 – 15:15 Class 3
 15:30 – 17:00 Class 4
 
-=== Slide 08 ===
 Behavioral Economics
 
 Tentative topic list
@@ -111,7 +106,6 @@ Tentative topic list
 • Intertemporal Choice
 • Social Preferences
 
-=== Slide 09 ===
 Behavioral Economics
 
 Grade structure
@@ -126,7 +120,6 @@ Final test 25%
 Interdisciplinary component 25%
 Course total = 100%
 
-=== Slide 10 ===
 Behavioral Economics
 
 Basic expectations
@@ -135,5 +128,4 @@ Basic expectations
 • Being a team player
 • Coming to classes and meetings on time
 
-=== Slide 11 ===
 Questions before we proceed?

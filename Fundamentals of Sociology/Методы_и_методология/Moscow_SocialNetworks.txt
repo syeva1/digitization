@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Методы_и_методология
+# Источник: Moscow SocialNetworks
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 STRUCTURAL ANALYSIS IN THE SOCIALSCIENCES | 8
 
@@ -15,14 +18,12 @@ Stanley Wasserman and Katherine Faust
 
 Roem caatteripsehneranni at «A
 
-===== PAGE 2 =====
 
 2
 
 Social Network Data: Collection and
 Applications
 
-re
 
 This chapter discusses characteristics of social network data, with an
 emphasis on how to collect such data sets. We categorize network data
@@ -52,7 +53,6 @@ records. In addition, the nature of the study determines whether the q
 entire set of actors can be surveyed or whether a sample of the actors :
 must be taken.
 
-28
 
 .
 so «
@@ -100,7 +100,6 @@ nsisting of non-profit organizations. We could then measure the flows
 twork data set containing two sets of actors is referred to as a twonde network, to reflect the fact that there are two sets of actors. A
 o-mode network data set contains measurements on which actors from
 
-===== PAGE 3 =====
 
 30 Social Network Data
 
@@ -197,7 +196,6 @@ indaries and membership as perceived by the actors themselves. For
 mple, a street-corner gang is acknowledged as a social entity by its
 mbers (it may even have a name — “Jets” or “Sharks”) and the memship of the gang is the collection of people the members acknowledge
 
-===== PAGE 4 =====
 
 32 Social Network Data
 
@@ -285,7 +283,6 @@ samples from some population. Most network studies focus on
 defined, completely enumerated sets, rather than on samples of
 ts from larger populations. Methodology for the latter situation is
 
-===== PAGE 5 =====
 
 34 Social Network Data
 
@@ -382,7 +379,6 @@ first with two sets of actors and then with one set of actors and one set
 kinds of social entities in the network. This usage is slightly different from
 use of the term “mode” in the psychometric literature (Tucker 1964;
 
-===== PAGE 6 =====
 
 36 Social Network Data
 
@@ -488,7 +484,6 @@ ntiment, and classically were the focus of the early sociometricians (see
 loreno 1934; Davis 1970; Davis and Leinhardt 1972). Without question,
 ch relations historically have been the most studied.
 
-===== PAGE 7 =====
 
 38 Social Network Data
 
@@ -584,7 +579,6 @@ metropolitan area, and the non-profit organizations (such as the Red
 8s, United Way, public radio and television stations) which rely on
 ributions from the public sector for their Operating budgets. The
 
-===== PAGE 8 =====
 
 40 Social Network Data
 
@@ -681,7 +675,6 @@ designs,
 An actor may also relate to a limited number of “special” other
 actors. For example, one might observe mothers interacting with their
 
-===== PAGE 9 =====
 
 42 Social Network Data
 

@@ -1,6 +1,8 @@
-===== PAGE 1 =====
+# Тема: Литература_классика
+# Источник: Moscow Durkheim Rules
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
 
-===== PAGE 2 =====
+
 
 Chapter II
 
@@ -9,7 +11,6 @@ Social Facts
 
 The first and most basic rule is,to consider.social facts as things.
 
-I
 
 At the moment when a new order of phenomena becomes the
 object of a science they are already represented in the mind, not
@@ -39,20 +40,7 @@ therefore proceeds from ideas to things, and not from things to 4
 
 ideas.
 
-60
 
-of |
-nat
-of z
-sam
-fror
-it is
-hen
-tot
-nam
-to tl
-disc
-ones
 
 + Rules for the Observation of Social Facts 61
 
@@ -97,7 +85,6 @@ ely the present and the past, and in one fell swoop to proceed
 overed and acquired, it immediately undertakes to reveal new
 , More in accord with the ends that men pursue. If men think
 
-===== PAGE 3 =====
 
 62 The Rules of Sociological Method
 
@@ -194,7 +181,6 @@ en supposing this evolution exists, its reality can only be
 hed when the science has been worked out. Thus the
 on cannot be made the subject of research unless it is
 
-===== PAGE 4 =====
 
 64 The Rules of Sociological Method
 
@@ -308,7 +294,6 @@ racy, socialism, communism, etc. Thus our method should
 
 rr
 
-===== PAGE 5 =====
 
 66 The Rules of Sociological Method
 
@@ -401,7 +386,6 @@ finds that it logically entails ideas of natural forces, of work, of
 ls or capital and he then goes on to treat in the same way these
 as which he has derived.?
 
-===== PAGE 6 =====
 
 68 The Rules of Sociological Method
 
@@ -482,7 +466,6 @@ he idea.that men conceive of value i i
 
 ee
 
-===== PAGE 7 =====
 
 70 The Rules of Sociological Method
 
@@ -585,7 +568,6 @@ display much more naturally and immediately all the
 teristics of a thing. Law is enshrined in legal codes, the
 s of daily life are registered in statistical figures and historical
 
-===== PAGE 8 =====
 
 72 The Rules of Sociological Method
 

@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Основы лидерства
+# Источник: Стили лидерства Шапенко BBA
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 ® SKOLKOVO
 
@@ -9,7 +12,6 @@ of Management
 
 Стили управления
 
-===== PAGE 2 =====
 
 Что есть
 общего между
@@ -17,7 +19,6 @@ of Management
 лидерством и ree |
 игрой в гольф?
 
-===== PAGE 3 =====
 
 Что мы развиваем, когда ра
 
@@ -47,7 +48,6 @@ of Management
 Авторизация
 «Награждение»
 
-ie
 действия
 й средой
 дьми
@@ -57,7 +57,6 @@ ie
 
 Фильтр восприятия
 
-===== PAGE 4 =====
 
 Какой стиль управление инженер
 Почему руководитель не смог его
@@ -94,7 +93,6 @@ ie
 от Маргарита? Почему этот стиль
 с Евгением?
 
-===== PAGE 5 =====
 
 Директивный стиль
 
@@ -125,7 +123,6 @@ ie
 
 Ккритикуем личность!
 
-===== PAGE 6 =====
 
 Директивный стиль
 
@@ -172,7 +169,6 @@ otional Intelligence. Boston, MA: HBR Press. McKee, A., Boyatzis, R., and Johnst
 
 Resonant Leader. Boston, Ma: HBR Press. 49
 
-===== PAGE 7 =====
 
 Какой стиль управление инженер
 Почему руководитель не смог его
@@ -209,7 +205,6 @@ Resonant Leader. Boston, Ma: HBR Press. 49
 эт Маргарита? Почему этот стиль
 с Евгением?
 
-===== PAGE 8 =====
 
 Эталонный стиль на практи
 
@@ -252,9 +247,7 @@ Resonant Leader. Boston, Ma: HBR Press. 49
 той сотрудников, начинам давать им
 вуем их деятельность
 
-12
 
-===== PAGE 9 =====
 
 Эталонный стиль
 
@@ -309,7 +302,6 @@ x) Повышенная опасность для здоровья!
 ., and McKee, А. (2013). Primal Leadership: Unleashing the Power of Emotional Intelligence. Boston, MA: а
 ss. McKee, A., Boyatzis, R., and Johnston, Е. (2008}. Becoming а Resonant Leader. Boston, Ma: HBR Press. 3
 
-===== PAGE 10 =====
 
 Какой стиль управление инженер
 Почему руководитель не смог его
@@ -346,7 +338,6 @@ ss. McKee, A., Boyatzis, R., and Johnston, Е. (2008}. Becoming а Resonant Lead
 эт Маргарита? Почему этот стиль
 с Евгением?
 
-===== PAGE 11 =====
 
 Товарищеский стиль
 
@@ -385,9 +376,7 @@ ss. McKee, A., Boyatzis, R., and Johnston, Е. (2008}. Becoming а Resonant Lead
 
 и/ю или разрешению конфликтов
 
-15
 
-===== PAGE 12 =====
 
 Товарищеский стиль
 
@@ -452,7 +441,6 @@ ss. McKee, A., Boyatzis, R., and Johnston, Е. (2008). Becoming a Resonant Leade
 
 ` 16
 
-===== PAGE 13 =====
 
 Какой стиль управление инженер
 Почему руководитель не смог его
@@ -489,7 +477,6 @@ ss. McKee, A., Boyatzis, R., and Johnston, Е. (2008). Becoming a Resonant Leade
 от Маргарита? Почему этот стиль
 с Евгением?
 
-===== PAGE 14 =====
 
 Демократический стиль
 
@@ -531,9 +518,7 @@ Te!»
 ятое руководителем
 ных результатов («разбор полетов»)
 
-18
 
-===== PAGE 15 =====
 
 Демократический стиль
 
@@ -601,7 +586,6 @@ CTBO x)
 ., and McKee, А. (2013). Primal Leadership: Unleashing the Power of Emotional Intelligence. Boston, MA:
 ss. McKee, A., Boyatzis, R., and Johnston, Е. {2008}. Becoming a Resonant Leader. Boston, Ma: HBR Press. 19
 
-===== PAGE 16 =====
 
 Какой стиль управление инженер
 Почему руководитель не смог его
@@ -638,7 +622,6 @@ ss. McKee, A., Boyatzis, R., and Johnston, Е. {2008}. Becoming a Resonant Leade
 эт Маргарита? Почему этот стиль
 с Евгением?
 
-===== PAGE 17 =====
 
 Визионерский стиль
 
@@ -675,9 +658,7 @@ ss. McKee, A., Boyatzis, R., and Johnston, Е. {2008}. Becoming a Resonant Leade
 оответствующие видению
 ую и негативную) обратную связь
 
-21
 
-===== PAGE 18 =====
 
 Визионерский стиль
 
@@ -755,7 +736,6 @@ ional Intelligence. Boston, MA: HBR Press. McKee, A., Boyatzis, R., and Johnston
 
 Resonant Leader. Boston, Ma: HBR Press.
 
-===== PAGE 19 =====
 
 Какой стиль управление инженер
 Почему руководитель не смог его
@@ -792,7 +772,6 @@ Resonant Leader. Boston, Ma: HBR Press.
 эт Маргарита? Почему этот стиль
 с Евгением?
 
-===== PAGE 20 =====
 
 Коучинговый (Наставничес
 
@@ -831,9 +810,7 @@ Resonant Leader. Boston, Ma: HBR Press.
 и успехов и неудач
 бок
 
-24
 
-===== PAGE 21 =====
 
 Коучинговый (Наставничес
 
@@ -895,9 +872,7 @@ omy не умеют выслушивать
 ., and McKee, А. (2013). Primal Leadership: Unleashing the Power of Emotional Intelligence. Boston, MA:
 ss. McKee, A., Boyatzis, R., and Johnston, F. {2008}. Becoming a Resonant Leader. Boston, Ma: HBR Press.
 
-25
 
-===== PAGE 22 =====
 
 Вопрос для обсуждения
 
@@ -907,7 +882,6 @@ ss. McKee, A., Boyatzis, R., and Johnston, F. {2008}. Becoming a Resonant Leader
 
 ольше характерен
 
-===== PAGE 23 =====
 
 Директивный
 (Coercive)
@@ -1012,9 +986,7 @@ ocratic)
 в., Boyatzis, R., and McKee, А. (2013). Primal Leadership: Unleashing the Power of Emotional
 за4ег. Boston, Ma: HBR Press.
 
-28
 
-===== PAGE 24 =====
 
 Ситуационное лидерство: все стили имеют
 
@@ -1105,9 +1077,7 @@ AT . Способствует * Мотивирует * Способствует
 к ленными моральный * Требует
 вен- людьми климат времени и сил
 
-29
 
-===== PAGE 25 =====
 
 Кейс
 
@@ -1145,7 +1115,6 @@ AT . Способствует * Мотивирует * Способствует
 аете, и перед своим отъездом
 ы сделать.
 
-===== PAGE 26 =====
 
 Стили лидерства и климат |
 и эталонный имеют отрица
@@ -1179,7 +1148,6 @@ Source: Goleman, 0. (2000) Leadership that gets results. Harvard Business Review
 $7 .35 .38
 .26 В27
 
-===== PAGE 27 =====
 
 Стили лидерства: уроки дл:
 
@@ -1222,9 +1190,7 @@ OUCXOAMTb HE «из головы», а естественно,
 тучать обратную связь.
 рых отличается от вашего!
 
-32
 
-===== PAGE 28 =====
 
 <) SKOLKOVO
 

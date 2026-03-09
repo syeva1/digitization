@@ -1,3 +1,7 @@
+# Тема: Литература_эксперименты
+# Источник: Chamberlin 1948
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 THE JOURNAL OF POLITICAL ECONOMY
 Volume LVI APRIL 1948 Number 2 AN EXPERIMENTAL IMPERFECT MARKET
@@ -86,7 +90,6 @@ PRICE
 PERFECTLY COMPETITIVC
 EQUILIBRIUM
 50 : < t AVERAGE PRICE
-40
 11I 4 ll 1. I .l. l
 5 10 15 20 TRANSACTIONS FIG. 3 prices to move toward equilibrium during the course of the market or for the last price to be closer to equilibrium than earlier ones is discernible in the data of our experiment.
 In Figure 3 the successive prices are plotted in relation to the equilibrium figure of 57 (also in relation to the average figure of 52.63 and to a "moving equilibrium" to be explained shortly). The trend of prices during the market is evidently upward, thus correcting the earlier bargains at low figures. But, after what might appear to be a "movement toward equilibrium" in the eleventh to
@@ -127,7 +130,6 @@ what appear to be "imperfections" over any substantial period may alternatively 
 only over a period of time but also in
 PRICES
 704 - r
-65
 D|
 12 3 4 .5 AMOUNTS FIG. 4 numerous places at the same time, between groups ranging from two to half a dozen. There was a continual shifting about of individuals, and each momentary grouping constituted a market in a very real sense, with schedules and limits of its own. May it not now be said that each price was necessarily within the limits of these smaller markets, even though outside those defined by the larger ones? The answer is "No," since (in the absence of recontract) these smaller markets are also imperfect. In the vagaries of bargaining, it is always possible that an actual offer made by someone at a figure outside the limits set by the schedules will be accepted by someone else before it is replaced by a competing offer nearer to or within the limits. For the same reasons as in the larger market, therefore, the actual price or prices in these smaller ones need not lie within the range which, according to their schedules, equates demand and supply.
 Let us therefore proceed to a third type of submarket: the still smaller momentary one in which each transaction is made. Before any contract can be closed, actual bids and offers must be made. Such bids and offers give us still another set of schedules, whose nature at any moment must be that all bids lie below all offers so that the demand and supply curves do not meet and no contract can be made until the curves change. When a bid is raised or an offer lowered to a meeting point so that a contract is closed, this "market" includes momentarily within the margin only a single buyer and seller, both of whom then drop out, leaving again a demand curve (bids) lying at all points below the supply curve (offers). Schedules for such a market are illustrated in Figure 4, where the highest bid is 64 and the lowest offer 66.
@@ -202,30 +204,3 @@ One final comment: an objection may be made to this general line of analysis to 
 HARVARD UNIVERSITY
 3 Specific comment made to the writer.
 This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
-PDF to Markdown	26.01.2026, 10:34
-
-PDF to Markdown	26.01.2026, 10:34
-
-
-
-PDF to Markdown	26.01.2026, 10:34
-
-
-PDF to Markdown	26.01.2026, 10:34
-
-PDF to Markdown	26.01.2026, 10:34
-
-
-
-PDF to Markdown	26.01.2026, 10:34
-
-
-PDF to Markdown	26.01.2026, 10:34
-
-PDF to Markdown	26.01.2026, 10:34
-
-
-
-PDF to Markdown	26.01.2026, 10:34
-
-

@@ -1,11 +1,13 @@
-===== PAGE 1 =====
+# Тема: Поведенческая экономика
+# Источник: Smith 1962
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 Chapman University
 Chapman University Digital Commons
 
 Economics Faculty Articles and Research Economics
 
-1962
 An Experimental Study of Competitive Market
 Behavior
 
@@ -24,7 +26,6 @@ This Article is brought to you for free and open access by the Economics at Chap
 in Economics Faculty Articles and Research by an authorized administrator of Chapman University Digital Commons. For more information, please
 contact langhtin@chapman.edu,
 
-===== PAGE 2 =====
 
 An Experimental Study of Competitive Market Behavior
 
@@ -36,7 +37,6 @@ University of Chicago
 
 This article is available at Chapman University Digital Commons: http:/ /digitalcommons.chapman.edu/economics_articles/16
 
-===== PAGE 3 =====
 
 THE JOURNAL OF
 
@@ -115,11 +115,8 @@ see S. Siegel and L. Fouraker, Bargaining and Group
 Decision Making (New York: McGraw-Hill Book
 Co., 1960).
 
-11
 
-===== PAGE 4 =====
 
-112
 
 Chamberlin’s paper was highly suggestive in demonstrating the potentialities
 of experimental techniques in the study
@@ -206,7 +203,6 @@ the commodity during any one trading
 or market period. This rule was for the
 sake of simplicity and was relaxed in
 
-===== PAGE 5 =====
 
 EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR
 
@@ -220,7 +216,6 @@ Since the experiments were conducted
 within a class period, the number of
 trading periods was not uniform among
 
-113
 
 has been closed, and the buyer and seller
 making the deal drop out of the market
@@ -294,9 +289,7 @@ did not lead to transactions could not be recorded.
 In subsequent experiments a tape recorder was used
 for this purpose.
 
-===== PAGE 6 =====
 
-114
 
 of a trading period, this procedure is
 continued. until bids and offers are no
@@ -380,7 +373,6 @@ and demand, changes in supply or demand, and
 changes in the rules of market organization on
 market-price behavior.
 
-===== PAGE 7 =====
 
 EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR
 
@@ -434,7 +426,6 @@ is to determine whether or not these initial schedules
 have any power to predict the observed behavior
 of the market,
 
-115
 
 observe the offers and bids that are tendered, and whether or not they are accepted. These are the public data of the
 market. A marketer can only know his
@@ -470,9 +461,7 @@ end of each trading period if the objective
 is to study the effect of such constantly
 changing conditions on market behavior.
 
-===== PAGE 8 =====
 
-116
 
 In three of the nine experiments, oncefor-all changes in demand and/or supply
 were made for purposes of studying the
@@ -562,7 +551,6 @@ comparing the results in Charts 2 and
 results are, of course, consistent with
 many other hypotheses, including the
 
-===== PAGE 9 =====
 
 TABLE t
 
@@ -622,7 +610,6 @@ OB... i o1 20 20 3.80 3.52 10.3 4 3 2 0
 10.2.0... 2 18 17 3.40 3.36 3.2 4 1 None None
 3 18 17 3.40 3.38 2.2 4 0 None None
 
-===== PAGE 10 =====
 
 $10.00
 
@@ -632,25 +619,14 @@ $10.00
 
 PRICE
 
-950
 9.00
 8.50.
-800
-750
 700}
-650
-600
-550
 500 [
-450
 4.00
-350
 3.00
-250
 2.00
-150
 1.00
-50
 
 9.50
 9.00
@@ -664,7 +640,6 @@ PRICE
 $.00
 4.50
 4.00
-250
 3.00
 2.50
 2.00
@@ -694,13 +669,9 @@ a a ort oa os fs oe an er oe ee j—|__i__1 ___
 QUANTITY TRANSACTION NUMBER (BY PERIOD)
 
 $lou0
-950
 9.00
-850
 6.00
-250
 7.00
-650
 6.00
 5.50
 5.00
@@ -709,21 +680,14 @@ PRICE
 
 4,59
 4.00
-350
 3.00
 25D
-200
-150
-100
 
-50
 
 $10.00
-950
 
 9.00
 
-===== PAGE 11 =====
 
 EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR
 
@@ -737,7 +701,6 @@ supply curve is perfectly elastic—all sellers have cards containing the price 
 Each seller has the same lower bound
 on his reservation price acceptance set.
 
-119
 
 equilibrium since there is a considerable
 excess supply at prices just barely above
@@ -761,13 +724,11 @@ s40
 5.20
 5.00
 4.80
-400
 4.40
 4.20
 zg 4.00
 3.80
 3.60
-340
 3.20
 3.00
 2.80
@@ -790,7 +751,6 @@ Fy= $390, Xo
 
 PRICE
 
-240
 
 PERIOD 2 | PERIOD 3 | PERIOD 4 | PERIOD 1 |PERIODZ
 
@@ -841,9 +801,7 @@ The sellers in this market presented
 a solid front against price being lowered
 to “equilibrium.” In the previous mar-
 
-===== PAGE 12 =====
 
-120
 
 kets there was a divergence of seller
 attitude, so that only a very few marginal and near-marginal sellers might
@@ -920,7 +878,6 @@ of adjustment and that they affect the
 final equilibrium in the market would
 be obtainable hy introducing actual mon-
 
-===== PAGE 13 =====
 
 EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR
 
@@ -934,7 +891,6 @@ might pay each trader a small lump sum
 (say $0.05) just for making a contract in
 any period. This sum would represent
 
-121
 
 any such reluctance that is attributable
 to artificial elements in the present experiments.®
@@ -1011,9 +967,7 @@ in equilibrium. In the third period all trades were
 at $3.10! Apparently $0.05 per period was considered
 satisfactory normal profit.
 
-===== PAGE 14 =====
 
-122
 
 graduate class in economic theory. In
 view of this difference, it is most interesting to find the phenomenally low values
@@ -1099,7 +1053,6 @@ above the predicted equilibrium.
 At the close of trading period 4 in
 test 6A, the old buyer cards corresponding to DD were replaced by new cards
 
-===== PAGE 15 =====
 
 CHART 6
 
@@ -1163,9 +1116,7 @@ PRICE
 
 PRICE
 
-===== PAGE 16 =====
 
-124
 
 corresponding to D’D’ in Chart 6. Trading was resumed with the new conditions
 of decreased demand (test 6B). There
@@ -1191,7 +1142,6 @@ CHART 8
 
 TEST 84 AND TEST 8B
 
-20
 
 ph a
 
@@ -1254,7 +1204,6 @@ in accordance with this crude expectation
 in the first market period only (test 84,
 Chart 8). Since sellers only were making
 
-===== PAGE 17 =====
 
 EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR
 
@@ -1296,7 +1245,6 @@ experiments are necessary toe confirm or
 deny these results, but it would appear
 that important changes in market organization—such as permitting only sellers to make quotations—have a distinctly disturbing effect on the equilibrating
 
-125
 
 process. In particular the conclusion is
 suggested that markets in which only
@@ -1341,9 +1289,7 @@ experiments, as in real markets, the groping process
 is decentralized, with all contracts binding whether
 they are at equilibrium or non-equilibrium prices.
 
-===== PAGE 18 =====
 
-126
 
 Comparison of the results of the three
 trading periods in test 9A with the first
@@ -1471,7 +1417,6 @@ is that
 Abi = pur — pe = flas(dd), (1)
 xe(ps),.. lta,
 
-===== PAGE 19 =====
 
 EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR
 
@@ -1491,7 +1436,6 @@ experiment. To this end note that equation (1) defines a stochastic phase functi
 equilibrium price P, is attained when
 Py = g(Py). Rather than estimate the
 
-127
 
 phase function for each experiment, it
 was found convenient to make linear
@@ -1531,24 +1475,16 @@ O— OFFERS ACCEPTED
 
 7.50
 7.00
-650
-600
-550
 5.00
-450
 4.00
-350
 3.00
-250
 2.00
 1.50
 1,00
 
-50
 
 PRICE
 
-===== PAGE 20 =====
 
 _(¥610'0F) (+10 OF) _ (e0'0F) (6610'0F) (400°0F) (10 0F) (eec' OF)
 x 1100° 0+’ 960°0-+800'0— *x Sc0'O+220'O— | ** 8000°0+7™ 070'0+820'0— "x O20'O+6E0'0— | 7 9Se'O-BBT'T fOr
@@ -1575,7 +1511,6 @@ quay ssa0xq Peyton quay ssaoxq WEISeITE A, PITIPOML wepserye ay +or= td) WeMGST
 
 @ HIAVsL
 
-===== PAGE 21 =====
 
 EXPERIMENTAL STUDY OF CO.
 
@@ -1604,7 +1539,6 @@ the predicted equilibrium is close to the
 theoretical. The four lowest absolute évalues are for experimental designs with
 the smallest difference between equilibri-
 
-129
 
 t
 
@@ -1670,7 +1604,6 @@ Four specific forms for the difference
 equation (1) were studied in detail and
 tested for their ability to predict the
 
-===== PAGE 22 =====
 
 130 VERNON
 theoretical equilibrium price. These will
@@ -1743,7 +1676,6 @@ for the ten fundamental experiments as
 shown in Table 2, columns 2-5. A 95
 per cent confidence interval is shown in
 
-===== PAGE 23 =====
 
 EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR
 
@@ -1777,7 +1709,6 @@ that in most of the experiments | 8o:| >
 | Bo2|, and in those for which the reverse
 is true the difference is quite small, tend-
 
-131
 
 ing thereby to support the excess-rent
 hypothesis. A more exact discrimination
@@ -1818,9 +1749,7 @@ The é-values for the two hypotheses
 Theory and Methodology in Science and Engincering
 (New York: John Wiley & Sons, 1960), pp. 196-99.
 
-===== PAGE 24 =====
 
-132
 
 are shown in columns 4 and 7 of Table
 3. They tend also to be lower for the
@@ -1905,7 +1834,6 @@ of the statement of an ordinary competitive market equilibrium into a correspond
 one desires to attach any welfare significance to the concepts of consumer
 and producer surplus or not, it is com-
 
-===== PAGE 25 =====
 
 EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR
 
@@ -1949,7 +1877,6 @@ transport costs of all interregional ship-
 16 P, A, Samuelson, ‘Spatial Price Equilibrium
 and Linear Programming,” American Economic Review, XLII (June, 1952), 284-92.
 
-133
 
 ments. But, according to Samuelson, “this
 magnitude is artificial in the sense that
@@ -1987,9 +1914,7 @@ purely artificial without any meaningful interpretation; and if we work at it, s
 
 19 Samuelson, of. cét., p. 285.
 
-===== PAGE 26 =====
 
-134
 
 can be shown, minimizes the inefficient,
 wasteful loss of heat energy from electrical systems. Similarly, the market mechanism provides a set of “laws” which
@@ -2072,7 +1997,6 @@ In testing the various equilibrating hypotheses under investigation in this pape
 no attempt was made to distinguish the
 effects of different trading periods. The sample of observations for each experiment embraced all the trading periods of that ex-
 
-===== PAGE 27 =====
 
 EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR 135
 
@@ -2136,27 +2060,14 @@ TEST 10
 
 430 s
 
-460
-440
-420
-490
 3.80}
-360
-340
 3.20
-390
 280b
 
 3 2.60
 & 240
-220
-290
 1.80
 1.60
-140
-120
-100
-80
 faye
 a0
 au
@@ -2168,25 +2079,14 @@ Py= $3.40, Xq= 18
 $5.00
 +4 480
 +] 480
-440
-420
-400
-300
-369
-340
 an
 3.06
 5 280
 2.60
-240
-220
 2,00
-180
 
 PRICE
 
-160
-140
 1,20
 1.00
 
@@ -2206,9 +2106,7 @@ TRANSACTION NUMBER [BY PERIOD)
 
 ys 1 5e3 7
 
-===== PAGE 28 =====
 
-136
 
 chart is the apparent tendency for the variance of the bids and offers to stabilize early,
 with the contract prices continuing to converge within this variation in bids and offers.
@@ -2249,9 +2147,7 @@ rary
 
 0 6.75
 
-450
 
-625
 
 PERIOD 2 PERIOD 3 PERIOD 4- PERIOD 5 71 6.00
 $= $ =. $m. Sm
@@ -2262,7 +2158,6 @@ $215 $4214 5,512 S,=12 50
 3.25
 5.00
 
-475
 
 Si $5
 pit bus 1 L
@@ -2294,13 +2189,9 @@ a75
 
 3:50
 
-325
 3.90
 
-275
-250
 
-225
 
 .00
 TRANSACTION NUMBER (BY PERIOD}
@@ -2319,7 +2210,6 @@ was giving all sellers the option at the
 beginning of each trading period of entering
 the market or remaining “out of produc-
 
-===== PAGE 29 =====
 
 EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR
 
@@ -2347,7 +2237,6 @@ trading periods. In period 1 two sellers with
 a capacity to produce three units (the $4.75
 and $3.00 sellers in Chart 12) elected to
 
-137
 
 remain out of production. They were market
 observers only. Therefore the period 1 shortrun theoretical supply was perfectly inelastic

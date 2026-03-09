@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Силлабус
+# Источник: Experimentality Technology Scientific Method Syllabus 2023
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 @® SKOLKOVO / \ M@TU
 ynpasnenisn [
@@ -38,7 +41,6 @@ observation
 
 1
 
-===== PAGE 2 =====
 
 © sKOLKOvo / \ MOTH
 ynpasnenisn .
@@ -92,7 +94,6 @@ An overview of Lakatos's approach to the problem of demarcation, critique of
 falsificationism, methodology of scientific research programmes, negative and positive
 2
 
-===== PAGE 3 =====
 
 ynpagnenna
 heuristic; the role of crucial experiments, and rational reconstruction of the history of
@@ -133,7 +134,6 @@ rational accounts of (111-134)
 science Response paper due @ 20:00
 3
 
-===== PAGE 4 =====
 
 © SkOLKOVO / \ MeOTU
 ynpasnennn >
@@ -169,7 +169,6 @@ any creative method that helps you discuss your views and analyses with other gr
 and the professor during the fourth timeslot.
 4
 
-===== PAGE 5 =====
 
 @® SKOLKOVO / \ M@TU
 
@@ -208,7 +207,6 @@ Each group will have 7 minutes time for presentations followed by 8 minutes of
 
 5
 
-===== PAGE 6 =====
 
 © SKOLKOVO / \ M@TU |
 Mockosckas wkona _
@@ -243,7 +241,6 @@ publication.
 semantic relationships between the texts where these quotations are taken from.
 6
 
-===== PAGE 7 =====
 
 ynpagnenna
 
@@ -322,7 +319,6 @@ present:
 is a sequential logic structure (introduction, body, and conclusion); b) the essay
 7
 
-===== PAGE 8 =====
 
 ynpagnenna
 demonstrates good knowledge and understanding of all texts analyzed; c) the essay
@@ -367,7 +363,6 @@ one quote is identified incorrectly
 
 8
 
-===== PAGE 9 =====
 
 © sKOLKOvo / \ MOTH l
 Mockosckas wkona _

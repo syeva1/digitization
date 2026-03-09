@@ -1,3 +1,7 @@
+# Тема: Литература_к_курсу
+# Источник: Behavioral Economics7
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 A Course in Behavioral Economics
 This page intentionally left blank
@@ -843,11 +847,8 @@ In Exercise 4.25, you computed the probability of drawing two aces when drawing 
 p
 3
 51 5
-12
-2652
 5
 1
-221
 .
 
 way to get rich. So it might be useful to ask just how likely or unlikely it is to win common lotteries.
@@ -864,7 +865,6 @@ The probability that something happens given that some other thing happens is ca
 (^1) / 221 (^1) / 13
 5
 3
-51
 .
 But we knew this: 3/51 is the probability that the second card is an ace given that the first card was: Pr ( A & B ). So the formula works.
 Exercise 4.33 Ace of spades Use Definition 4.32 to compute the probability that you draw an ace of spades conditional on having drawn an ace when you draw one card from a well-shuffled deck. You can imagine a game show host who draws a card at random and announces that the card is an ace, and a contestant who has to guess what kind of ace it is. Given what you know about that card, what is the probability that it is the ace of spades?
@@ -2362,7 +2362,6 @@ Behavioral Welfare
 Economics, Libertarian
 Paternalism, and the
 Nudge Agenda
-12
 12.1 Introduction
 Although behavioral economics was already firmly established as a subdiscipline of economics by the first decade of the twenty-first century, the enterprise appears to have received a boost from the economic crisis that struck around then. As David Brooks put it in the New York Times: ТMy sense is that this financial crisis is going to amount to a coming-out party for behavioral economists and others who are bringing sophisticated psychology to the realm of public policy.У Brooks is frequently described as a conservative, but commentators across the political spectrum have blamed the crisis in part on inadequate economic models. The former chairman of the Federal Reserve Alan Greenspan is known as a follower of Ayn RandХs objectivism, which celebrates the value of rational self-interest. Yet, in 2008 Congressional testimony, Greenspan said: ТI made a mistake in presuming that the self-interests of organizations, specifically banks and others, were such as that they were best capable of protecting their own shareholders and their equity in the firms.У Similarly, the Nobel laureate and liberal economic commentator Paul Krugman argues:
 [Economists] need to abandon the neat but wrong solution of assuming that everyone is rational and markets work perfectly. The vision that emerges as the profession rethinks its foundations may not be all that clear; it certainly wonХt be neat; but we can hope that it will have the virtue of being at least partly right.
@@ -2566,10 +2565,8 @@ Exercise 2.30 The new menu would be {nothing at all, soup, salad, chicken, beef,
 276 Appendix: Answer Key
 
 (^4) Apples
-123
 (c)
 (^456) Apples
-123
 (a)
 (^4) Apples
 2
@@ -2665,19 +2662,14 @@ Exercise 4.27 It would be a mistake because you would be applying the or rule to
 Exercise 4.28 The answer is:
 
 5
-48
 
 4
-47
 
 3
-46
 
 2
-45
 
 1
-44
 5
 1
 13,983,816
@@ -2728,7 +2720,6 @@ Exercise 4.49 The answer is (1/25,000)^3 5 1/15,625,000,000,000. So if Langford 
 Exercise 4.50 The supposed reason is that economists (who tend to be highly numerate) tend not to gamble, which is a big problem in a hospitality industry heavily dependent on gambling revenue.
 Exercise 4.51 ( a ) 1122
 
-20
 < 0.01. All-male editorial boards of that size are unlikely to result from a purely random process.
 Exercise 4.52 ( a ) 0.250^3 < 0.016. ( b ) (1 2 0.250)^3 < 0.42. ( c ) 3 p 0.250 p (1 2 0.250)^2 < 0.42. ( d ) 1 2 (1 2 0.250)^3 < 0.58.
 Exercise 4.53 ( a ) Because there are 26 letters in the alphabet, the probability is (1/26)^8 5 1/208,827,064,576 < 0.000,000,000,005. ( b ) The probability that any one letter will not spell out the vulgarity is 1 2 1/208,827,064,576 5 208,827,064,575/208,827,064,576. So the probability that at least one of the letters will spell out the vulgarity is 1 2 (208,827,064,575/208,827,064,576)^100 < 0.000,000,000,5. That is a little higher, but not much.
@@ -2754,13 +2745,8 @@ Exercise 5.24 The answer is given by this equation:
 <47%
 Exercise 5.25 The probability is:
 
-999
-1000
-10
 10,000,000
 
-999
-1000
 1
 9,999,990
 10,000,000
@@ -2785,22 +2771,17 @@ Exercise 5.45 ( a ) 0.072. ( b ) 0.092. ( c ) 0.164. ( d ) Approximately 0.439. 
 Exercise 5.46 This problem is in effect the same as Exercise 5.22, so the answer is the same: approximately 41 percent.
 Exercise 5.47 ( a ) Let T mean that a person is a terrorist and M mean that a person is Muslim. Based on the figures provided, I assume that Pr ( T ) 5 10/300,000,000; that Pr ( M^0 T ) 5 9/10; and that Pr ( M^0 ВT ) 5 2/300. If so:
 
-10
 300,000,000
 
 9
-10
-10
 300,000,000
 
 9
-10
 1
 299,999,990
 300,000,000
 
 2
-300
 <0.000, 0055 0.0005%
 ( b ) Obviously, there are many more dangerous things for Juan Williams to worry about. But if the image of a Muslim terrorist is particularly available to him, he would be prone to exaggerating the probability that a random Muslim would fall in that category.
 Exercise 5.48 ...confirmation bias.
@@ -3114,7 +3095,6 @@ A
 actuarially fair lottery, 139 adaptation, 210Р211 addiction, 195, 216 rational, 187 Adler, Alfred, 112 affect heuristic, 119, 121 Affordable Care Act, 63
 Afghanistan, 110, 125 African nations, 65Р66 air fares, 162 airplane crashes, 115, 119 Alabama, 108 alarm clocks, 99 alcohol, 115, 196 Allais problem, 165Р167 alternatives, set of, 15, 29 altruism, 243, 245Р247 ambiguity aversion, 170, 177Р178 American Economic Association (AEA), 69 analytical game theory, 221, 223, 237Р238 and neoclassical economics, 240 anchor, 65
 anchoring and adjustment, 65Р66, 101, 105,
-119
 AND rule, 81, 87Р88, 135 ant and the grasshopper, the, 187 anti-symmetry, 21, 32 anti-vaccination, 115 Apollo 11, 118
 Aristotle, 43
 Armstrong, Neil, 118 Asian disease problem, 153, 156Р157 aspiration treadmill, 60Р61 asymmetric paternalism, 257, 260 asymmetrical domination, 49 athletes, 61 attraction effect, 49 Auburn, 108 auxiliary assumptions, 268 availability, 114 availability bias, 116, 118, 124 availability cascades, 115 availability heuristic, 114Р115, 119 aviation safety, 105 axiomatic theory, 13, 75 axioms, 13
@@ -3142,7 +3122,6 @@ G
 gains, 154Р155, 158, 160Р161 gamblerХs fallacy, 100 gambling, 7, 112, 133Р135, 158 gambling vs. insurance, 171Р172 game shows, 138, 151
 game theory, 221 analytical, 221, 223 behavioral, 240 descriptive vs. normative, 237Р238 evolutionary, 232Р233 games, 222 dictator, 240Р242 impure coordination, 224 pure coordination, 223 sequential, 235 ultimatum, 240Р242 Gandhi, Mahatma, 252 Gangnam Style, 37 gasoline prices, 243 gelato, 13 gender discrimination, 95, 122 General Theory of Employment, Interest and Money, The, 249 genetic enhancement, 64
 genetically modified organisms (GMOs),
-123
 Gervais, Ricky, 120 get-rich-quick schemes, 97 Gilbert, Daniel, 192, 214
 Goodreads.com, 43
 Google, 263
@@ -3174,50 +3153,5 @@ set of alternatives, 15, 29 sex, unsafe, 115, 187 sexism, 112 sexual arousal, 21
 
 
 318 Index
-
-
-PDF to Markdown	25.01.2026, 17:38
-
-PDF to Markdown	25.01.2026, 17:38
-
-
-
-PDF to Markdown	25.01.2026, 17:38
-
-
-PDF to Markdown	25.01.2026, 17:38
-
-PDF to Markdown	25.01.2026, 17:38
-
-
-
-PDF to Markdown	25.01.2026, 17:38
-
-
-PDF to Markdown	25.01.2026, 17:38
-
-PDF to Markdown	25.01.2026, 17:38
-
-
-
-PDF to Markdown	25.01.2026, 17:38
-
-
-PDF to Markdown	25.01.2026, 17:38
-
-PDF to Markdown	25.01.2026, 17:38
-
-
-
-PDF to Markdown	25.01.2026, 17:38
-
-
-PDF to Markdown	25.01.2026, 17:38
-
-PDF to Markdown	25.01.2026, 17:38
-
-
-
-PDF to Markdown	25.01.2026, 17:38
 
 

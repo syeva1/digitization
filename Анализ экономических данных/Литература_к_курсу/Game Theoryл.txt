@@ -1,3 +1,7 @@
+# Тема: Литература_к_курсу
+# Источник: Game Theoryл
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 A PRINCETON UNIVERSITY PRESS
 E-BOOK
@@ -422,7 +426,6 @@ Consider a division manager who has to decide on whether a research and developm
 How should the player approach this more complex problem? As you can imagine, using language like Тmaybe this will happen, or maybe that will happenУ is not very useful for a rational player who is trying to put some structure on his decision problem. We must introduce a method through which the player can compare uncertain consequences in a meaningful way. For this approach, we will use the concept of stochastic (random) outcomes and probabilities, and we will describe a framework within which payoffs are defined over random outcomes.
 2.1 Risk, Nature, and Random Outcomes
 Put yourself in the shoes of our division manager who is deciding whether or not to embark on the R&D project. Denote his actions asgfor going ahead orsfor keeping the status quo, so thatA={g, s}. To make the problem as simple as possible, imagine that there are only two final outcomes: his product line is successful, which is equivalent to a profit of 10 (choose your denomination), or his product line is obsolete, which is equivalent to a profit of 0, so thatX={ 0 , 10 }. However, as already explained, there is no one-to-one correspondence here between actions and outcomes. Instead
-14
 2.1 Risk, Nature, and Random Outcomes. 15
 there is uncertainty about which outcome will prevail, and the uncertainty is tied to the choice made by the player, the division manager.
 In order to capture this uncertainty in a precise way, we will use the wellunderstood notion of randomness, or risk, as described by a random variable. Use of random variables is the common way to precisely and consistently describe random prospects in mathematics and statistics. We will not use the most formal mathematical representation of a random variable but instead present it in its most useful depiction for the problems we will address. Section 19.4 of the mathematical appendix has a short introduction to random variables that you can refer to if this notion is completely new to you. Be sure to make yourself familiar with the concept: it will accompany us closely throughout this book.
@@ -567,7 +570,6 @@ x|a]) and the actual cost of 2a. Thus the playerХs mathematical representation 
 
 1
 
-18
 Г
 
 Solving for the integral, this is equivalent to maximizing the objective function 12
@@ -975,7 +977,6 @@ It will be useful to begin by introducing some new notation. We denoted the payo
 To simplify we will hereafter use a common shorthand notation as follows: We define S?i?S 1 ?S 2 ?...?Si? 1 ?Si+ 1 ?...?Snas the set of all the strategy sets of all players who are not playeri. We then defines?i?S?ias a particular possible profile of strategies for all players who are noti. Hence we can rewrite the payoff of player ifrom strategysasvi(si,s?i), wheres=(si,s?i).
 4.1.1 Dominated Strategies
 The PrisonerХs Dilemma was easy to analyze: each of the two players has an action that is best regardless of what his opponent chooses. Suggesting that each player will choose this action seems natural because it is consistent with the basic concept of rationality. If we assume that the players are rational, then we should expect them to choose whatever they deem to be best for them. If it turns out that a playerХs best strategy does not depend on the strategies of his opponents then we should be all the more confident that he will choose it.
-59
 60. Chapter 4 Rationality and Common Knowledge
 
 
@@ -2146,7 +2147,6 @@ C
 Each player can exit (Efor player 1 andefor player 2), or proceed (P andp, respectively). If the players coordinate on proceeding, then they both receive a payoff of 1 while any other profile of strategies yields each a payoff of 0. There is a good reason to assume that the players will successfully coordinate on the Nash equilibrium profile(P , p): the exit strategy is weakly dominated by the choice to proceed. However, a quick look at the matrix shows that there is another Nash equilibrium:(E, e). Using the terminology of Section 7.3, the players stick to the equilibrium path of player 1 choosingEbecause of player 2Хs threat to choosee off the equilibrium path.
 There is therefore something unappealing about the logic of Nash equilibrium in extensive-form games. The concept asks only for players to act rationally
 
-151
 152. Chapter 8 Credibility and Sequential Rationality
 on the equilibrium path given their beliefs about what will transpire both on and off the equilibrium path. Nevertheless it puts no restrictions on the beliefs of players off the equilibrium path, nor on how they should consider such beliefs. In fact the normal-form representation of a sequential game is not able to address such a requirement, which adds constraints on what we would tolerate as Тrational behavior.У
 We would, however, expect rational players to play optimally in response to their beliefs whenever they are called to move. In the simple coordination game in Figure 8.1 this would require that player 2 commit to playpwhen it is his turn to move. Applying this reasoning to the sequential-move Battle of the Sexes game in Figure 7.11 suggests that of the three Nash equilibria of the game, two are unappealing. The equilibria(O, oo)and(F, ff )have player 2 committing to a strategy that, despite being a best response to player 1Хs strategy, would not have been optimal were player 1 to deviate from his strategy and cause the game to move off the equilibrium path. In what follows we will introduce a natural requirement that will result in more refined predictions for dynamic games. These will indeed rule out equilibria such as(E, e)in the coordination game and(O, oo)and(F, ff )in the sequential-move Battle of the Sexes game.
@@ -2566,14 +2566,12 @@ N 5 , 0 3 , 3
 
 9.6 Augmented Competition: Consider two firms playing a two-stage game with discount factor?. In the first stage they play a Cournot quantity-setting game in which each firm has costsci(qi)= 10 qifori?{ 1 , 2 }and the demand is given byp(q)= 100 ?q, whereq=q 1 +q 2. In the second stage, after the results of the Cournot game are observed, the firms play the following standardsetting game: Player 2 ab
 
-10
 Repeated Games
 T
 he previous chapter on multistage games demonstrated two important lessons. First, when players play a sequence of games over time, it will be to their benefit to use conditional strategies in later stage-games to support desirable behavior in early stage-games. More importantly the behavior that can be supported need not be a static best response in the early stage-game because the conditional strategies in later stage-games can act as a powerful incentive scheme to help players resist the short-run temptation of deviating from the proposed path of play. Second, and equally important, the future that the players face must be important enough to support these dynamic incentives as self-enforcing. Using so-called reward-and-punishment strategies to sustain static non-best-response behavior is possible only if the players do not discount the future too heavily.
 A special case of multistage games has received considerable attention over the years: the case of repeated games. A repeated game is simply a multistage game in which the same stage-game is being played at every stage. These games have been studied for two primary reasons. The first is that repeated games seem to capture many realistic settings. These include firms competing in the same market over long periods of time, politicians engaging in pork-barrel negotiations in session after session of a legislature, and workers on a team production line who perform some joint task day after day. The second reason is that repeating the same game over time results in a very convenient mathematical structure that makes the analysis somewhat simple and elegant. As such, social scientists were able to refine this analytical tool and provide a wide range of models that can be applied to understand different social phenomena. This chapter provides a glimpse into the analysis of repeated games and shows some of the extreme limits to what we can do with reward-and-punishment strategies.
 10.1 Finitely Repeated Games
 
-190
 
 As an example, consider the two-stage repeated game in which the following game is repeated twice with a discount factor of?:
 
@@ -2919,13 +2917,11 @@ the two players that yields average payoffs that approach( (v 1 ,v 2 )=
 
 )
 
-11
 Strategic Bargaining
 O
 f the many possible applications of strategic interaction among a small number of players, one ubiquitous situation surely comes to mind: bargaining. Examples are plentiful: a firm and a union bargaining over wages and benefits; a local municipality bargaining with a private provider over the terms of service; the head of a political party bargaining with other party members over campaign issues; and even the mundane bargaining that occurs between a buyer and a merchant at a street bazaar. In all of these examples, deals are struck by parties bargaining over terms, payments, and other aspects that all boil down to one basic fact: each party wants to get the best deal it can.
 How can we model and analyze bargaining through the lens of game theory? As demonstrated by the examples just mentioned, the issue is often about a surplus that has to be split among the parties, and it involves the parties making proposals, responding to them, and trying to settle on an agreement. Following some early work by Stahl (1972, 1977), Rubinstein (1982) offered a particular stylized model of ? bargaining that has become the standard in most applications. The simple framework considers two players that need to split a ТpieУ (representing the surplus from an agreement or the gains from trade). The pie is assumed to have a total value that is normalized to equal 1, and then the parties bargain on how to split the pie. In order to analyze this process as a strategic game, the bargaining process itself needs to be structured to include actions, outcomes that result from actions, and preferences over the outcomes, as with any other game we can imagine. Stahl suggested a ? prespecified procedure in which the game starts with player 1 making an offer to split the pie and player 2 either accepting or rejecting the offer. If the offer is accepted, the split proposed by player 1 is implemented, and the game ends. If player 2 rejects player 1Хs offer, the players then switch roles: player 2 makes the offer and player 1 responds by accepting or rejecting the offer. The game can either continue this way until some exogenous deadline arrives or simply go on forever.
 Yet, as the saying goes, Тtime is money,У and delay ought to impose some loss on the players. There are two ways to impose this loss. First, there may be a fixed cost of progressing from one round to another, so that a constant piece of the pie is removed every time a rejection occurs. Alternatively we can impose discounting in the same way we did for repeated games: after every period of rejection, the total size of the pie is only a fraction of what it was before. This second approach is the one we will be following here, and we can summarize the game as follows.
-220
 
 . Player 1 offers shares(x, 1 ?x), where player 1 receivesxand player 2 receives 1?x.
 . Player 2 then chooses to accept, causing the game to end with payoffsv 1 =x andv 2 = 1 ?x,or reject, causing the game to move to the second round.
@@ -3146,7 +3142,6 @@ PART IV
 STATIC GAMES
 OF INCOMPLETE
 INFORMATION
-12
 Bayesian Games
 I
 n all the examples and appropriate tools for analysis that we have encountered thus far, we have made an important assumption: that the game played is common knowledge. In particular we have assumed that the players are aware of who is playing, what the possible actions of each player are, and how outcomes translate into payoffs. Furthermore we have assumed that this knowledge of the game is itself common knowledge. These assumptions enabled us to lay the methodological foundation for such solution concepts as iterated elimination of dominated strategies, rationalizability, and most importantly Nash equilibrium and subgame-perfect equilibrium. Little effort is needed to convince anyone that these idealized situations are rarely encountered in reality. For example, consider one of our early examples, the duopoly market game. We have analyzed both the Cournot and Bertrand models of duopolistic competition, and for each we have a clear and precise, easily understood outcome. One assumption of the model was that the payoffs of the firms, like their action spaces, are common knowledge. However, is it reasonable to assume that the production technologies are indeed common knowledge? And if they are, should we believe that the productivity of workers in each firm is known to the other firm? More generally, is it reasonable to assume that the cost function of each firm is precisely known to its opponent?
@@ -3429,7 +3424,6 @@ FIGURE 12.4 Best-response thresholds of the study group game. 258. Chapter 12 Ba
 1
 (^2) ,
 whereBR 2 (c
-21
 )= 1 .Player 1Хs best-response function is symmetric, and the two cross at exactly the point where both equalc
 1
 (^3).
@@ -3576,14 +3570,12 @@ a. Find the Nash equilibria of this game of complete information.
 b. Consider the following perturbation of the game. The payoff structureis the same, with the following addition: When playeriis the only one to grab the dollar his payoff is 1+?i, where?iis playeriХs type and it is uniformly distributed over [??, ?] with?<1. Each player knows only his own type, and the distribution of types is common knowledge. Find the pure-strategy Bayesian Nash equilibrium of this game of incomplete information.
 c. Show that when?converges to 0, the pure-strategy Bayesian Nash equilibrium converges to the mixed-strategy Nash equilibrium of the game with complete information.
 12.10 Purification: Consider the perturbed Matching Pennies game described in Section 12.5 and show that the Bayesian Nash equilibrium identified is the unique Bayesian Nash equilibrium. (Hint: Some insights can be gained by looking at the solution to the study group example in Section 12.2.2.)
-13
 Auctions and Competitive
 Bidding
 T
 he use of auctions to sell goods has become commonplace thanks to the Internet auction platform eBay, which has become a popular shopping destination for over 100 million households across the globe. Before the age of the Internet, the thought of an auction raised visions of the sale of a Picasso or a Renoir in one of the prestigious auction houses, such as SothebyХs (founded in 1744) or ChristieХs (founded in 1766). In fact the use of auctions dates back much further. For a history of auctions see Cassidy (1967). Auctions are also used extensively by private- and public-sector entities to procure goods and services.^1
 The use of game theory to analyze both behavior in auctions and the design of auctions themselves, was introduced by the Nobel Laureate William Vickrey (1961), whose work spawned a large and still-expanding literature. The Тbig pushУ of game theoretical research on auctions happened after the successful use of game theory to advise both the U.S. government and the bidding firms when the Federal Communications Commission first decided to auction off portions of the electromagnetic spectrum for use by telecommunication companies in 1994. This auction was considered so successful that a reference to the work of many game theorists appears in an article in The Economist titled ТRevenge of the NerdsУ (July 23, 1994, page 70). As we will soon see, auctions have many desirable properties, and these have made them a favorite choice of the U.S. Federal Acquisition Regulation as the legally preferred form of procurement in the public sector. They are very transparent, they have well-defined rules, they usually allocate the auctioned good to the party who values it the most, and, if well designed, they are not too easy to manipulate. Generally speaking there are two common types of auctions. The first type, as we will refer to it, is the open auction, in which the bidders observe some dynamic price process that evolves until a winner emerges. There are two common forms of open auctions:
 1. These are often referred to as Тreverse auctionsУ because instead of selling at the highest price the auctioneer wishes to buy at the lowest price.
-270
 Chapter 13 Auctions and Competitive Bidding. 271
 The English Auction: This is the classic auction we often see in movies (e.g., The Red Violin ), in which the bidders are all in a room (or nowadays sitting by a computer or a phone) and the price of the good goes up as long as someone is willing to bid it higher. Once the last increase is no longer challenged, the last bidder to increase the price wins the auction and pays that price for the good. (The price may start at some minimum threshold, which would be the sellerХs reserve price.)
 The Dutch Auction: This less familiar auction almost turns the English auction on its head. As with the English auction, the bidders observe the price changes in real time, but instead of starting low and rising by pressure from the bidders, the price starts at a prohibitively high value and the auctioneer gradually drops the price. Once a bidder shouts Тbuy,У the auction ends and the bidder gets the good at the price at which he cried out. This auction was and still is popular in the flower markets of the Netherlands, hence its name.
@@ -3864,7 +3856,6 @@ a. Show that there is a symmetric Bayesian Nash equilibrium in which each bidder
 13.10 Common Values Linear Bidding: Two players participate in a first-price sealed-bid auction in a common-values setting. The value of the good for each player is given by? 1 +? 2 , where?iis a signal observed only by playeriand is uniformly distributed over the interval [0,1]. Hence if playeriobserves his signal?ithen his expected valuation is equal to 0. 5 +?i(but unlike the previous exercise, this is a common-values setting).
 a. Show that there is a symmetric Bayesian Nash equilibrium in which each bidderiХs bidding strategy is of the formsi?(?i)=a+b?i. b. What is the expected payoff of a player if his type is?i?
 c. Show that for each value of?ithe equilibrium bid of playeriis less than what you found in (a) of the previous exercise.
-14
 Mechanism Design
 T
 here are many economic and political situations in which some central authority wishes to implement a decision that depends on the private information of a set of players. For example, a government agency may wish to choose the design of a public-works project based on the preferences of its citizens, who in turn have private information about how much they prefer one design over another. Alternatively, a monopolistic firm may wish to determine a set of consumersХ willingness to pay for different products it can produce, with the goal of making as high a profit as possible. In this section we provide a short introduction to the theory of mechanism design, which is the study of what kinds of mechanisms such a central authority can devise in order to reveal some or all of the private information that it is trying to extract from the group of players with which it is interacting. In essence the mechanism designer, our central authority, will design a game to be played by the players, and in equilibrium the mechanism designer wishes to both reveal the relevant information and act upon it. The study of mechanism design dates from the early work of Leonid Hurwicz
@@ -3875,7 +3866,6 @@ In 2007 Hurwicz shared the Nobel Prize in economics with Eric Maskin and Roger M
 We start with a set of players,N={ 1 , 2 ,...n}, and a set of public alternatives,
 X. The setXcould represent many possible kinds of alternatives. For example, an
 1. For a survey of the contributions of these three economists, as well as related work, see ТScientific background on the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2007, Mechanism Design Theory, Compiled by the Prize Committee of the Royal Swedish Academy of SciencesУ at http://www.nobelprize.org/nobel_prizes/economics/laureates/ (http://www.nobelprize.org/nobel_prizes/economics/laureates/) 2007/advanced-economicsciences2007.pdf.
-288
 14.1 Setup: Mechanisms as Bayesian Games. 289
 alternativex?Xcould represent the attributes of a public good or service that is provided to the set of players, such as investment in education or in preserving the environment. Another example of an alternativex?Xcan be the allocation of a private good between the players, such as which of thenplayers gets the rights to a patent or a license to pollute. The flexibility of whatXcan be is a key feature of this framework, showing that it can be applied to many interesting and important settings. We callXthe set of public alternatives because the chosen alternative affects all the players inNto the extent that even for a private good, if one player gets it then the consequence is that everyone else does not (e.g., an auction).
 Each playeriprivately observes a signal (his type)?i?iwhich determines his preferences over outcomes just as we described in Chapter 12. The set of types iof playerican be finite or infinite. Given a realization of types?ifor eachi, let?=(? 1 ,? 2 ,...,?n)be the state of the world as it describes the profile of all realized types for thenplayers. The state?is drawn randomly from the state space ? 1 ? 2 ?...?n, which is the set of all possible profiles of types??. The draw of?is according to some prior distribution?(.)over .(?(.)is given by probabilities if the state space is finite and by a density, or cumulative distribution, if the state space is continuous.) As before we assume that?iis playeriХs private information and that the prior?(.)is common knowledge.
@@ -4055,7 +4045,6 @@ c. Does your answer to (a) change if the choice function isf(? 1 ,? 2 ?)=B andf(
 PART V
 DYNAMIC GAMES OF INCOMPLETE
 INFORMATION
-15
 Sequential Rationality with Incomplete
 Information
 A
@@ -4184,7 +4173,6 @@ c. Now assume that for (b)p=^34. What are the pure-strategy BayesianNash equilib
 a. What are the pure-strategy Bayesian Nash equilibria of this game?
 b. Which of the Bayesian Nash equilibria that you found in (a) are perfectBayesian equilibria?
 c. Which of the Bayesian Nash equilibria that you found in (a) aresequential equilibria?
-16
 Signaling Games
 I
 n games of incomplete information there is at least one player who is uninformed about the type of another player. In some instances it will be to the benefit of players to reveal their types to their opponents. For instance, if a potential rival to an incumbent firm or an incumbent politician knows that he is strong, he may want to reveal that information to the incumbent, to suggest ТI am strong and hence you should not waste time and energy fighting me.У Of course even a weak player would like to try to convince his opponent that he is strong, so merely stating ТI am strongУ will not do. There has to be some credible means, beyond such Тcheap talk,У through which the player can signal his type and make his opponent believe him. Games in which such signaling is possible in equilibrium are called signaling games; they originated in the Nobel PrizeРwinning contribution of Michael Spence (1973), which he developed in his Ph.D. thesis. Spence investigated the role of education as an instrument that signals information to potential employers about a personХs intrinsic abilities, but not necessarily what he has learned. Signaling games share a structure that includes the following four components:
@@ -4193,7 +4181,6 @@ n games of incomplete information there is at least one player who is uninformed
 3. Player 1 chooses an action first, and player 2 then responds after observing player 1Хs choice.
 4. Given player 2Хs belief about player 1Хs strategy, player 2 updates his belief after observing player 1Хs choice. Player 2 then makes his choice as a best response to his updated beliefs.
 These games are called signaling games because of the potential signal that player 1Хs actions can convey to player 2. If in equilibrium each type of player 1 is playing a different choice then in equilibrium the action of player 1 will fully reveal player 1Хs type to player 2. That is, even though player 2 does not know the type of player 1, in equilibrium player 2 fully learns the type of player 1 through his actions. Of course, it need not be the case that player 1Хs type is revealed. If, for instance, in equilibrium all the types of player 1 choose the same action then player 2 cannot
-318
 
 1. Pooling equilibria: These are equilibria in which all the types of player 1 choose the same action, thus revealing nothing to player 2. Player 2Хs beliefs must be derived from BayesХ rule only in the information sets that are reached with positive probability. All other information sets are reached with probability zero, and in these information sets player 2 must have beliefs that support his own strategy. The sequentially rational strategy of player 2 given his beliefs is what keeps player 1 from deviating from his pooling strategy.
 2. Separating equilibria: These are equilibria in which each type of player 1 chooses a different action, thus revealing his type in equilibrium to player 2. Player 2Хs beliefs are thus well defined by BayesХ rule in all the information sets that are reached with positive probability. If there are more actions than types for player 1, then player 2 must have beliefs in the information sets that are not reached (the actions that no type of player 1 chooses), which in turn must support the strategy of player 2. Player 2Хs strategy supports the strategy of player 1.
@@ -4502,7 +4489,6 @@ a. Draw the extensive form of this game.
 b. What are the Bayesian Nash equilibria of this game?
 c. What are the perfect Bayesian equilibria?
 d. Of the equilibria you found in (c), which fail the intuitive criterion?
-17
 Building a Reputation
 I
 t is common to hear descriptions of some ruthless businesspeople as having Тa reputation for driving a tough bargainУ or Тa reputation for being greedy.У Others are referred to as having Тa reputation for being trustworthyУ or Тa reputation for being nice.У What does it really mean to have a reputation for being a certain type of person? Would people put in the effort to build a reputation for being someone they really are not? Some of the most interesting applications of dynamic games of incomplete information are in modeling and understanding how reputational concerns affect peopleХs behavior.^1
@@ -4652,7 +4638,6 @@ product. The buyer either accepts or rejects the offer. If he rejects the offer 
 a. If this game had only one period, what would be the effort leveleandthe pricepin the unique perfect Bayesian equilibrium?
 b. Imagine the game is repeated for two periods. Is there a perfectBayesian equilibrium in which strategic sellers exert the level of effort ethat you found in (a) in each period?
 c. Find the unique perfect Bayesian equilibrium of the two-period game.Why is there a difference in the effort levels in each period?
-18
 Information Transmission and Cheap Talk
 C
 hapter 16 showed that in some situations it will be to the benefit of players to reveal their types to their opponents. In the classic signaling example of Spence (1973), a high-productivity worker wishes to convey the information ТI am high productivity and hence you should hire me for a high-paying job.У As we argued, if the only means of communication available is cheap talk, then even a low-productivity worker will try to convince his opponent that he is a high-productivity type, so merely stating ТI am high productivityУ will not do. We concluded that if there is a credible and costly signalСin the case of the worker the signal was educationСthen it can act as a credible way for the player to signal his type and cause his opponent to believe him. However, a credible and costly signal may not be available in every situation in which some types may benefit from revealing their information. This chapter describes the way in which game theoretic reasoning has been applied to situations in which one player can use costless communication to try to convey hidden information to an interested party. As in signaling games, in these cheap-talk or informationtransmission games player 1 has private information and the payoffs exhibit common values, so that both playersХ payoffs depend on player 1Хs private information. Unlike in signaling games, however, player 1Хs action is a message that has no direct effect on payoffs.
@@ -4680,12 +4665,9 @@ This is a dynamic game of incomplete information: player 1Хs type, or the state
 ? = 3 Nature
 1
 3
-15
 3
-15
 3
 5
-234
 2
 2
 2
@@ -4796,7 +4778,6 @@ these situations and consider how much information can be transferred from the a
 
 368. Chapter 18 Information Transmission and Cheap Talk
 
-19
 Mathematical Appendix
 T
 his appendix is intended to refresh your memory in case you have forgotten some of the mathematical concepts that are used in this text. An attempt has been made to keep it as self-contained as possible even for those who may not have studied some of the mathematical tools used, but in those cases you may need to consult other texts as well.
@@ -5119,10 +5100,8 @@ Page numbers for entries occurring in figures are followed by an f and those for
 absent-minded driver, 142, 143f actions: in Bayesian games, 247; definition of, 4; in extensive-form games, 130Р31; finite sets of, 51; in multistage games, 175,
 176; in normal-form games, 46; sets of, 4, 5, 249; in signaling games, 318 action spaces, 10 adverse selection, 258, 260 Akerlof, George, 258 all-pay auctions, 106Р7 antitrust regulation, 201, 323
 auctions: all-pay, 106Р7; common values, 272, 282Р84; independent private values, 272Р82; open, 270Р71; revenue equivalence theorem, 279Р82; strategies in, 273Р74, 275Р79; types of, 270Р71; Vickrey, 299; winnerХs curse, 284 average payoffs: convex hulls of, 210Р11, 211f; of repeated games, 194Р95 babbling equilibria, 360, 361 backward induction, 26Р28, 152Р53, 158,
-160
 Bain, Joe S., 323 bargaining: legislative, 229Р35; Nash solution, 229; strategic, 220, 250, 275 bargaining games: alternating offers, 220Р 21, 222f; closed-rule, 230Р32; with finite end date, 221Р27; finitely many rounds of, 224Р27, 225f; with incomplete information, 343Р44, 344f, 345f, 346f; infinite-horizon, 228Р29; open-rule, 232Р 35; reputations in, 342Р49; rounds of, 221; Rubinstein-St ?ahl model of, 229, 237; sequential rationality in, 224; subgame-perfect equilibria in, 226, 228Р
 
-389
 390. Index
 
 
@@ -5164,7 +5143,6 @@ Spence, Michael, 318
 Stackelberg, Heinrich von, 160 Stackelberg duopoly, 160Р63, 162f stage-games, 176, 178, 181. See also multistage games; repeated games
 Stag Hunt game, 83Р84
 Stahl, Ingolf, 220 ? static games of complete information, 44Р45,
-48
 stationary equilibria, 230, 230n5 stochastic strategies. See mixed strategies strategic bargaining, 220, 250, 275. See also bargaining games strategic-form games. See normal-form
 games
 strategic complements, 93 strategic substitutes, 93 strategies: best responses, 69Р71, 72; definition of, 46; dominant, 61Р63; dominated, 59Р61; grim-trigger, 198Р99, 201Р2; one-stage unimprovable, 185Р 86; solution concepts, 52Р57; weakly dominant, 63, 273Р74, 273f. See also mixed strategies; pure strategies strategy profiles: consistent, 313; pure, 46 strategy sets: continuous, 104; finite, 102Р4 strictly dominant strategies, 61, 70, 114Р16 strictly dominant strategy equilibrium, 61Р 63, 68, 80Р81 strictly dominated strategies, 60, 70
@@ -5172,121 +5150,4 @@ strict preference relations, 5 Strotz, Robert H., 167 subgame-perfect equilibriu
 
 
 396. Index
-
-PDF to Markdown	25.01.2026, 17:42
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-PDF to Markdown	25.01.2026, 17:42
-
-PDF to Markdown	25.01.2026, 17:42
-
-
-
-PDF to Markdown	25.01.2026, 17:42
-
 

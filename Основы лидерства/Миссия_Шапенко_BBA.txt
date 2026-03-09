@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Основы лидерства
+# Источник: Миссия Шапенко BBA
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 «© SKOLKOVO
 Moscow School
@@ -15,23 +18,15 @@ of Management
 -
 >
 (0
-L
-S
-DO
 Г
 an)
-S
 
-S
-S
-Le
 Ф
 |-
 (0
 О
 --
 
-===== PAGE 2 =====
 
 В какой системе мы живем
 
@@ -77,7 +72,6 @@ Le
 
 3
 
-===== PAGE 3 =====
 
 Какими критериями
 KU
@@ -91,7 +85,6 @@ Hb?
 
 ивёте?»)
 
-===== PAGE 4 =====
 
 Зачем люди, НА САМОМ ДЕ)
 HIKOAY живут?
@@ -107,7 +100,6 @@ HIKOAY живут?
 Что я даю
 миру?
 
-===== PAGE 5 =====
 
 Как это бывает статистиче:
 
@@ -147,7 +139,6 @@ SKU
 
 льно успешными
 
-===== PAGE 6 =====
 
 Пять сожалений умирающи
 
@@ -172,7 +163,6 @@ SKU
 - БРОННИ ВЭР Ч
 самая известная в мире паллиатиеная мед
 
-===== PAGE 7 =====
 
 Счастье (праславянское "зъбезще объяс
 есть «хороший удел») Ч СОСТОЯНИЕ ЧЕ
@@ -194,7 +184,6 @@ SKU
 Было слова, означающего
 слова «доля» и «удел»
 
-===== PAGE 8 =====
 
 Как измерить счастье?
 
@@ -222,7 +211,6 @@ ory
 
 naire
 
-===== PAGE 9 =====
 
 Счастливые сотрудники лучш
 
@@ -263,9 +251,7 @@ q|
 
 астливы Ha своей работе (CNNMoney)
 
-10
 
-===== PAGE 10 =====
 
 Человек - существо...
 
@@ -289,7 +275,6 @@ AFA gO for a
 
 =
 
-===== PAGE 11 =====
 
 Физиология и счастье: в
 здоровом теле здоровый д!
@@ -339,9 +324,7 @@ neveasnena на Deore
 
 3-е издание
 
-12
 
-===== PAGE 12 =====
 
 Моя страсть: что делает ме!
 
@@ -357,15 +340,12 @@ Andrey Shapenko, SKOLKOVO
 
 Я делаю с кем-то для других:
 
-===== PAGE 13 =====
 
 Процесс или результат?
 
 © Andrey Shapenko, SKOLKOVO
 
-16
 
-===== PAGE 14 =====
 
 Счастье зависит не только от |
 отношения к ситуации)
@@ -391,7 +371,6 @@ IMMEDIATE MEDAL STAND
 
 Источник: Medvec et al. (1995)
 
-===== PAGE 15 =====
 
 «Расстраивают чело!
 не факты и события, К
@@ -406,7 +385,6 @@ ey Tevilw legs, 1G Pires KRIAVA TONS, 2, ,
 
 Sorserares
 
-===== PAGE 16 =====
 
 Чем мы можем управлять?
 
@@ -448,7 +426,6 @@ tbl ОПЫТОМ ПОВЕДЕНИЕ
 
 Источник: Альберт Эллис
 
-===== PAGE 17 =====
 
 Когнитивные искажения, котс
 несчастными
@@ -487,9 +464,7 @@ tbl ОПЫТОМ ПОВЕДЕНИЕ
 + Персонализация («Я виноват в этом»)
 
 Источник: Д. Бернз «Терапия настроения»
-22
 
-===== PAGE 18 =====
 
 Внимательность помогает быт
 Лангер)
@@ -517,9 +492,7 @@ Craig А. L. (2007). The Science of Happiness. Harvard Magazin
 
 г. https://www.harvardmagazine.com/2007/01/the-science-of-happiness.html
 
-23
 
-===== PAGE 19 =====
 
 Счастье от нематериальны
 
@@ -537,7 +510,6 @@ Craig А. L. (2007). The Science of Happiness. Harvard Magazin
 
 Но
 
-===== PAGE 20 =====
 
 Дособенно если у вас есть |
 
@@ -566,9 +538,7 @@ Craig А. L. (2007). The Science of Happiness. Harvard Magazin
 Annual income (in thousands)
 
 Источник: Van Boven, Gilovich, 2004
-25
 
-===== PAGE 21 =====
 
 Впечатления сильнее вмес
 
@@ -593,9 +563,7 @@ NO ow > oi ao ы со
 Liking of Chocolate Ч Flavorfulness of Chocolate
 
 Источник: Boothby et al, 2014
-26
 
-===== PAGE 22 =====
 
 Счастье можно купить, нод
 
@@ -610,7 +578,6 @@ Annual income
 
 о определенного уровня
 
-51
 
 Key
 
@@ -620,9 +587,7 @@ smiling, laughter yesterday
 Did not feel stressed out yesterday
 
 Источник: Gallup;
-27
 
-===== PAGE 23 =====
 
 Жители богатых стран бол.
 
@@ -660,10 +625,8 @@ a
 ge
 =о
 ЗЕ
-25
 Оо
 Ss
-23
 Фwo
 BS
 5
@@ -685,9 +648,7 @@ Within-country poor (-1 SD) Within-country rich (+1 $0}
 Figure 2. Within and between country comparisons.
 
 Источник: Our World in Data; Diener et al., 2013
-28
 
-===== PAGE 24 =====
 
 ДНО жители бедных стран вид
 
@@ -727,9 +688,7 @@ olled for potential third variables, such as education, fertility rate,
 stated in Man's Search for Meaning, it appears that meaning can
 dire living conditions, and religiosity plays an important role in this
 
-29
 
-===== PAGE 25 =====
 
 Рейтинг стран по уровню с:
 
@@ -767,7 +726,6 @@ dire living conditions, and religiosity plays an important role in this
 
 Источник: World Health Organization: Suicide in the World 2021 30
 
-===== PAGE 26 =====
 
 Distribution of self-reported lif
 Life satisfaction was reported on a scale from 0 to 10 |
@@ -856,9 +814,7 @@ e visualizations on happiness and life-satisfaction. Licensed under GC-BY-SA by 
 счастлива
 
 Источник: Our World т Data
-31
 
-===== PAGE 27 =====
 
 Культура имеет значение
 
@@ -975,7 +931,6 @@ Licensed under CC-BY-SA by the author Max Roser.
 
 Источник: Our World т Data 32
 
-===== PAGE 28 =====
 
 Корреляция между IQ и ypc
 
@@ -1017,7 +972,6 @@ a
 
 явнем счастья минимальна
 
-110
 
 Люди, лучше проходящие тесты на
 интеллект, не отличаются большей
@@ -1037,9 +991,7 @@ a
 ребенка?
 
 Источник: Veenhoven, Choi, 2012
-33
 
-===== PAGE 29 =====
 
 Счастье (и здоровье) - в близи
 («Гарвардский эксперимент»
@@ -1055,9 +1007,7 @@ a
 
 О ДЛИННОГО ИССЛЕДОВАНИЯ О СЧАСТЬЕ
 
-34
 
-===== PAGE 30 =====
 
 Женатые люди более счастли
 
@@ -1093,9 +1043,7 @@ ids и Parent
 
 Family Studies
 
-35
 
-===== PAGE 31 =====
 
 ..HO это пока у пары не появля
 happiness дар)
@@ -1127,9 +1075,7 @@ fying Chart Imaginable
 Study 3
 Study 4
 
-36
 
-===== PAGE 32 =====
 
 «И это пройдет»
 оп мотеп
@@ -1166,9 +1112,7 @@ No. of years before and efter the event No. of years before and after the event
 the baseline hypothesis. The Economic Journal, 118(529).
 n happiness and development.
 
-37
 
-===== PAGE 33 =====
 
 Добрые дела делают вас с'
 
@@ -1194,9 +1138,7 @@ Different Days
 
 Источник: Lyubomirski et al, 2004
 
-38
 
-===== PAGE 34 =====
 
 Люди, живущие духовной »
 
@@ -1243,9 +1185,7 @@ a
 гии и ударившим по экономике кризисом
 
 Источник: Min-Ah- Lee, Ichiro Kawachi, 2004
-39
 
-===== PAGE 35 =====
 
 Или надо просто подождат
 
@@ -1273,9 +1213,7 @@ Source: Blanchflower and Oswald, 2017
 
 Источник: World Economic Forum
 
-40
 
-===== PAGE 36 =====
 
 Удача, |0, эмоциональная
 стабильность,
@@ -1312,7 +1250,6 @@ A успех: Эмоциональное здоровье
 в детстве и далее во
 взрослой жизни
 
-===== PAGE 37 =====
 
 Уроки «Британского
 
@@ -1351,9 +1288,7 @@ Share =+ Add
 
 Read transcript
 
-44
 
-===== PAGE 38 =====
 
 Успешные люди более
 счастливы
@@ -1398,7 +1333,6 @@ Keywords
 
 eminence, outstanding careers, physical health, psychological well-being, replication
 
-===== PAGE 39 =====
 
 Состояние потока
 
@@ -1413,7 +1347,6 @@ eminence, outstanding careers, physical health, psychological well-being, replic
 
 УРОВЕНЬ МАСТЕРСТВА
 
-===== PAGE 40 =====
 
 <<10,000 часов»
 
@@ -1432,7 +1365,6 @@ eminence, outstanding careers, physical health, psychological well-being, replic
 
 Усилия /ВФЕМЯ
 
-===== PAGE 41 =====
 
 Мои таланты: в чем я хорош
 
@@ -1471,9 +1403,7 @@ Andrey Shapenko, SKOLKOVO
 
 3
 
-10
 
-===== PAGE 42 =====
 
 Когда я успешен?
 
@@ -1498,9 +1428,7 @@ Andrey Shapenko, SKOLKOVO
 { Kak He потерять себя
 = в современном мире
 
-===== PAGE 43 =====
 
-===== PAGE 44 =====
 
 Человек в поисках смысла
 
@@ -1528,7 +1456,6 @@ Andrey Shapenko, SKOLKOVO
 
 це)
 
-===== PAGE 45 =====
 
 Смысл - в помощи
 
@@ -1606,7 +1533,6 @@ Travel Related to Household Activities ~
 
 Relaxing and Leisure
 
-===== PAGE 46 =====
 
 Какие профессии
 наиболее
@@ -1679,7 +1605,6 @@ stion, Training, and Library
 
 ly useless jobs by occupation. Credit: Work, Employment and Society (2023). DOI: ...
 
-===== PAGE 47 =====
 
 За что мы помним этого
 человека?
@@ -1714,7 +1639,6 @@ A
 м
 и
 
-===== PAGE 48 =====
 
 А за что мы помним этого
 человека?
@@ -1739,7 +1663,6 @@ A
 
 © Andrey Shapenko, SKOLKOVO
 
-===== PAGE 49 =====
 
 Что Приносит В МОЮ ЖИЗНЬ C
 
@@ -1748,7 +1671,6 @@ A
 
 3
 
-10
 
 Andrey Shapenko, SKOLKOVO
 
@@ -1777,7 +1699,6 @@ Andrey Shapenko, SKOLKOVO
 . О какой помощи вас чаще
 всего просят другие люди?
 
-===== PAGE 50 =====
 
 Три маяка
 
@@ -1821,9 +1742,7 @@ Andrey Shapenko, SKOLKOVO
 ® Дух
 . Teno
 
-62
 
-===== PAGE 51 =====
 
 МИССИЯ
 («ДЕЛАЙ 3TO!»)
@@ -1848,7 +1767,6 @@ fi
 Что я даю
 миру?
 
-===== PAGE 52 =====
 
 Моя миссия
 
@@ -1874,7 +1792,6 @@ fi
 
 МИССИЯ:
 
-===== PAGE 53 =====
 
 @®O SKOLKOVO
 

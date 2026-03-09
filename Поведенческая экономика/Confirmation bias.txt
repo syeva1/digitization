@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Поведенческая экономика
+# Источник: Confirmation bias
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 CONFIRM
 
@@ -10,7 +13,6 @@ Bugaeva Maria
 Glagolev Matveli
 Sadykov Alirat
 
-===== PAGE 2 =====
 
 YOUR TASK IS TO TURN <
 POSSIBLE IN ORDER TO
@@ -38,7 +40,6 @@ e order'!
 
 213]
 
-===== PAGE 3 =====
 
 ANA
 
@@ -83,7 +84,6 @@ BBA
 
 *In the 1960s, Peter Wason
 
-===== PAGE 4 =====
 
 CONFIRMATION Ss the tendency
 
@@ -131,7 +131,6 @@ that doesnt.
 fe
 BBA
 
-===== PAGE 5 =====
 
 @ Biased attention
 
@@ -177,7 +176,6 @@ JUR BRAIN QUICKLY COMBINES NEW AND OLD
 B., Fpuddun K,, Pa“myHo J1., Pappenn C.,, KappurauH P. BnusaHue
 DKAECHUA Ha NAMATb MU MOHUTOPUHT UCTOYUHUKOB. J Gen Psychol . 2015; BBA
 
-===== PAGE 6 =====
 
 SOME HI
 
@@ -218,7 +216,6 @@ IND"
 DESCRIBED THIS PHENOMENON AS
 ROTE ABOUT THE SELECTION TASK.
 
-===== PAGE 7 =====
 
 "oo. HOW TO AVOID CO
 
@@ -261,7 +258,6 @@ ITED INFORMATION.
 D DIFFERENT IDEAS TO AVOID
 ATION BIAS.
 
-===== PAGE 8 =====
 
 OUR I
 
@@ -305,7 +301,6 @@ G HIS BELIEFS, IGNORING EVIDENCE TO
 BIASED ASSESSMENTS AND POTENTIALLY
 NT OF EMPLOYEES.
 
-===== PAGE 9 =====
 
 OUR |
 
@@ -344,4 +339,3 @@ COMPETITORS’ STRENGTHS. THIS BIAS
 NG OF THE COMPETITIVE LANDSCAPE
 TEGIC DECISION-MAKING.
 
-===== PAGE 10 =====

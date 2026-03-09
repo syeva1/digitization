@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Основы лидерства
+# Источник: Culture in Leadership BBA
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 © SKOLKOVO
 
@@ -9,7 +12,6 @@ of Management
 
 Особенности нацис
 
-ms
 ©.
 Ч
 -
@@ -20,18 +22,14 @@ ms
 =
 о
 ии
-O
 |=
 ©
-ae
 
-===== PAGE 2 =====
 
 Как работает культура? Предпосылки
 
 1 и представления
 
-===== PAGE 3 =====
 
 Что такое культура?
 
@@ -44,7 +42,6 @@ ae
 Культура человека
 (видимая)
 
-===== PAGE 4 =====
 
 Столкновение культур
 
@@ -58,7 +55,6 @@ ae
 1 наши представления
 AKAM
 
-===== PAGE 5 =====
 
 Что можно сделате
 
@@ -79,7 +75,6 @@ AKAM
 ылки, чтобы они
 ости (поставить под
 
-===== PAGE 6 =====
 
 Мини-кейс: разгов.
 
@@ -105,7 +100,6 @@ vat will be very difficult. |
 
 и есть у Сергея?
 
-===== PAGE 7 =====
 
 Как наука смотрит на к\
 
@@ -136,7 +130,6 @@ ty avoidance . Survival/ Self-
 
 В orientation
 
-===== PAGE 8 =====
 
 Geert Hofstede Dimensic
 Analysis (1) Individualisn
@@ -170,9 +163,7 @@ subordinate to group interests
 Universalistic:
 What is true for one is true for all
 
-11
 
-===== PAGE 9 =====
 
 Where is Russia?
 
@@ -189,7 +180,6 @@ individualism
 
 38858888
 
-10
 0
 
 Canada Denmark France Germany lapan in
@@ -207,9 +197,7 @@ choices
 
 by country
 
-12
 
-===== PAGE 10 =====
 
 Collective Mentality in Ri
 
@@ -250,9 +238,7 @@ ctions and other factors, exceptions (big or
 bureaucracy (red tape) encourages the
 lis is often the only way to get things done
 
-13
 
-===== PAGE 11 =====
 
 (2) Power Distance
 
@@ -291,23 +277,13 @@ Tolerance of change, receptivity to
 new people and ideas.
 Repetition is not valued
 
-14
 
-===== PAGE 12 =====
 
 Power Distance: Tendenc
 
 Power Я
-100
-90
 80 a0 177
 70 68
-60
-50
-40
-30
-20
-10
 0
 
 Russia China india France
@@ -340,9 +316,7 @@ lutely demand it. Once conditions become
 often making sudden, radical and innovative
 crisis to uncharted territory
 
-15
 
-===== PAGE 13 =====
 
 (3) Uncertainty Avoidanc
 
@@ -364,9 +338,7 @@ Low Uncertainty Avoidance:
 the country has more tolerance
 for a variety of opinions
 
-16
 
-===== PAGE 14 =====
 
 Uncertainty Avoidance: 1
 
@@ -389,9 +361,7 @@ yoidance
 1g uncertainty, which in turn leads to
 ty
 
-17
 
-===== PAGE 15 =====
 
 (4) Masculinity
 
@@ -412,9 +382,7 @@ Low Masculinity/
 Cooperation:
 culture values caring and modesty
 
-18
 
-===== PAGE 16 =====
 
 Masculinity: Tendencies |
 
@@ -450,9 +418,7 @@ es and individuals that operate in a manner
 
 ty
 
-19
 
-===== PAGE 17 =====
 
 (5) Long-term orientatior
 
@@ -481,9 +447,7 @@ long-term traditions and
 commitments do not become
 impediments to change
 
-20
 
-===== PAGE 18 =====
 
 Long-term orientation: T
 
@@ -539,9 +503,7 @@ elayed gratification, planning, and investment)
 
 gust 2007
 
-21
 
-===== PAGE 19 =====
 
 Что все это значит дл;
 
@@ -566,7 +528,6 @@ High
 
 дивидуализм
 
-===== PAGE 20 =====
 
 Мотивация в Росси
 
@@ -590,7 +551,6 @@ High
 ertainty
 dance
 
-===== PAGE 21 =====
 
 Другой взгляд: World Vz
 
@@ -621,9 +581,7 @@ dance
 самовыражения и качества
 Жизни.
 
-24
 
-===== PAGE 22 =====
 
 Secular-Rational Values
 
@@ -698,7 +656,6 @@ Muslim-majority countries are in italics
 -0.50 0.00 0.50 1.00 1.50
 Survival vs. Self-Expression Values
 
-25
 
 2.00
 
@@ -713,7 +670,6 @@ European Values Study
 
 3.5
 
-===== PAGE 23 =====
 
 st Sate р ee agТ fide tags гр 9 Tel А:
 2
@@ -739,7 +695,6 @@ BOUNDARIES OF GLOBAL BUSINESS
 
 ERIN MEYER
 
-===== PAGE 24 =====
 
 1. Обще
 
@@ -767,7 +722,6 @@ is appreciated if it Верх clarify the
 d, nuanced, and layered. Messages are both spoken
 5 are often implied but not plainly expressed.
 
-===== PAGE 25 =====
 
 2. Крити
 
@@ -807,7 +761,6 @@ ed to. wrap negative.ones, Qualifying descriptors: are
 ropriate, slightly unprofessional) when criticizing.
 private.
 
-===== PAGE 26 =====
 
 3. Убеж/
 
@@ -850,7 +803,6 @@ n executive summary or bullet points. Discussions are
 te manner. Theoretical or philosophical discussions
 ment.
 
-===== PAGE 27 =====
 
 4. Лиде]
 
@@ -882,7 +834,6 @@ rational structures are flat, Communication often
 t. Status 15 important. Organizational structures are
 lication follows set hierarchical lines.
 
-===== PAGE 28 =====
 
 5. Приняти
 
@@ -907,7 +858,6 @@ DECIOING
 ы к иерархичности, HO при этом чаще пекутся о
 ременно и невероятно иерархичны и склонны к
 
-===== PAGE 29 =====
 
 6. Дове[|
 
@@ -945,7 +895,6 @@ meals, evening drinks, and visits at coffee
 ме shared personal time with you, I know
 ust you.
 
-===== PAGE 30 =====
 
 7. Hecor.
 
@@ -982,7 +931,6 @@ te is negative for the team or organization.
 nappropriate and will break group harmony
 е relationship.
 
-===== PAGE 31 =====
 
 8. Плани
 
@@ -1016,7 +964,6 @@ thedule. Emphasis is on promptness and good
 th at once and interruptions accepted. The focus is
 is valued over organization.
 
-===== PAGE 32 =====
 
 Где мы на этой шк
 
@@ -1026,7 +973,6 @@ Rationality
 
 wie?
 
-===== PAGE 33 =====
 
 Насколько мы конс
 
@@ -1038,7 +984,6 @@ Propensity towards conflict
 STS
 Avoidance of conflict
 
-===== PAGE 34 =====
 
 The Culture Map (Er
 
@@ -1075,7 +1020,6 @@ Philippines
 AVOIDS
 CONFRONTATION
 
-===== PAGE 35 =====
 
 Россия - между за!
 
@@ -1125,7 +1069,6 @@ mal confrontation
 
 ime Flexible-time
 
-===== PAGE 36 =====
 
 Impact of Culture о!
 
@@ -1189,7 +1132,6 @@ confrontation
 
 рипоты дедлайны???
 
-===== PAGE 37 =====
 
 Роль лидера в Росс
 
@@ -1204,7 +1146,6 @@ confrontation
 
 ИИ
 
-===== PAGE 38 =====
 
 VP
 
@@ -1241,23 +1182,15 @@ Orthodox
 
 Islam
 
-90
 
-80
 
-70
 
-60
 
-50
 
-40
 
 Corruption index (weighted average)
 
-41
 
-===== PAGE 39 =====
 
 НЕЭФФЕК`
 
@@ -1271,7 +1204,6 @@ Corruption index (weighted average)
 
 ИВНОСТЬ
 
-===== PAGE 40 =====
 
 = вулкан медали TD NPN HONE ED
 
@@ -1297,9 +1229,7 @@ SONY
 
 кризисном
 
-43
 
-===== PAGE 41 =====
 
 Стабильный режим
 
@@ -1310,9 +1240,7 @@ SONY
 
 Низкая эффективность
 
-44
 
-===== PAGE 42 =====
 
 Мобилизационный режим
 
@@ -1344,9 +1272,7 @@ SONY
 HOMHOCTb НИЗОВЫХ подразделений Ч кластеров
 лальных, военных, производственных}
 
-45
 
-===== PAGE 43 =====
 
 «Русское государство
 обладает тем
@@ -1361,7 +1287,6 @@ HOMHOCTb НИЗОВЫХ подразделений Ч кластеров
 Иоганн Буркхарт
 Христофор фон Миних
 
-===== PAGE 44 =====
 
 Элементы культуры
 
@@ -1385,9 +1310,7 @@ HOMHOCTb НИЗОВЫХ подразделений Ч кластеров
 система нематериальной
 мотивации
 
-47
 
-===== PAGE 45 =====
 
 Спиральная динамика
 
@@ -1441,7 +1364,6 @@ z
 
 8
 
-===== PAGE 46 =====
 
 = Нет плохих кул!
 
@@ -1466,4 +1388,3 @@ z
 
 развитие компании
 
-49

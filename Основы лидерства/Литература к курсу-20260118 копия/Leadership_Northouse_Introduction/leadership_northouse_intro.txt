@@ -1,6 +1,9 @@
+# Тема: Leadership_Northouse_Introduction
+# Источник: leadership northouse intro
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
 
 
-===== PAGE 1 =====
+
 
 Introduction
 Lats is a highly sought-after and highly valued commodity. In the
@@ -33,7 +36,6 @@ Based on the research literature, this text provides an in-depth description
 Q resernpoetoes J pate ottsesni
 
 
-===== PAGE 2 =====
 
 2. LEADERSHIP | THEORY AND PRACTICE
 and application of many different approaches to leadership. Our emphasis is
@@ -71,7 +73,6 @@ and cooperation” (Moore, 1927, p. 124).
 © cerining Leadership
 
 
-===== PAGE 3 =====
 
 Chapter 1| Introduction 3
 1930s
@@ -111,7 +112,6 @@ concept of leadership to emerge: “Leadership is the reciprocal process
 ® Leadership in Nursing
 
 
-===== PAGE 4 =====
 
 4 LEADERSHIP | THEORY AND PRACTICE
 (continued)
@@ -165,7 +165,6 @@ followers;
 © the Future of Leadership © working Across Generations
 
 
-===== PAGE 5 =====
 
 Chapter 1| Introduction 5
 
@@ -213,7 +212,6 @@ skills) that make effective leadership possible.
 ® Perspectives of Leadership
 
 
-===== PAGE 6 =====
 
 6 LEADERSHIP | THEORY AND PRACTICE
 Definition and Components
@@ -253,7 +251,6 @@ and followers will work together toward a common good (Rost, 1991).
 Q the Ethical Dimension of Leadership © Fttective Leadership
 
 
-===== PAGE 7 =====
 
 Chapter 1| Introduction 7
 Throughout this text, the people who engage in leadership will be called
@@ -294,7 +291,6 @@ ined these personal qualities.
 G development of Leadership ® Fotiowership
 
 
-===== PAGE 8 =====
 
 8 LEADERSHIP | THEORY AND PRACTICE
 
@@ -343,7 +339,6 @@ traits could be used to identify individuals perceived to be emergent leaders.
 Q teadership: skill or Process?
 
 
-===== PAGE 9 =====
 
 Chapter 1 Introduction 9
 Figure 1.1. The Different Views of Leadership
@@ -384,7 +379,6 @@ person is engaged in leadership, that person is a leader, whether leadership
 © ordinary Leaders
 
 
-===== PAGE 10 =====
 
 10 LEADERSHIP | THEORY AND PRACTICE
 
@@ -439,7 +433,6 @@ and as a result, power is often thought of as synonymous with leadership. In
 addition, people are often intrigued by how leaders use their power. Studying
 
 
-===== PAGE 11 =====
 
 Chapter 1 | Introduction 11
 
@@ -488,7 +481,6 @@ particular office or rank in a formal organizational system. It is the influence
 © pes of Power
 
 
-===== PAGE 12 =====
 
 12 LEADERSHIP | THEORY AND PRACTICE
 
@@ -535,7 +527,6 @@ leadership, coercive people are not used as models of ideal leadership. Our
 © Leadership and coercion
 
 
-===== PAGE 13 =====
 
 Chapter 1| Introduction 13
 definition suggests that leadership is reserved for those who influence a
@@ -577,7 +568,6 @@ competent management and skilled leadership.
 © Managers Require; Leaders inspire
 
 
-===== PAGE 14 =====
 
 14 LEADERSHIP | THEORY AND PRACTICE
 Figure 1.2 Functions of Management and Leadership
@@ -632,7 +622,6 @@ different competencies. They found a large number of competencies (22)
 @ Leadership in the nHs
 
 
-===== PAGE 15 =====
 
 Chapter 1| Introduction 15
 descriptive of both leadership and management (e.g., productivity, customer
@@ -680,7 +669,6 @@ ends with a summary and references.
 © Leadership and Nursing Theory
 
 
-===== PAGE 16 =====
 
 16 LEADERSHIP | THEORY AND PRACTICE
 
@@ -726,7 +714,6 @@ While coercion has been a common power brought to bear by many indi
 vviduals in charge, it should not be viewed as ideal leadership. Our definition
 
 
-===== PAGE 17 =====
 
 Chapter 1| Introduction 17
 of leadership stresses using influence to bring individuals toward a common

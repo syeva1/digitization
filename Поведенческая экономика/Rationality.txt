@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Поведенческая экономика
+# Источник: Rationality
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 Behavioral
 
@@ -13,13 +16,11 @@ Decision-making
 
 Dr. Alexander Usvitskiy
 
-===== PAGE 2 =====
 
 Warm up
 
 O Let us play a simple game first
 
-O
 
 Rules are the following:
 
@@ -37,7 +38,6 @@ iber closest to 2/3 of the average
 he concept of rationality
 ults later
 
-===== PAGE 3 =====
 
 Rationality in Economics
 
@@ -56,7 +56,6 @@ Consumer Choice Theory
 nsumers’ preferences are satisfied,
 dered to be rational
 
-===== PAGE 4 =====
 
 Consumer Choice
 
@@ -85,7 +84,6 @@ an [indifference between A and B]
 
 compare bundles
 
-===== PAGE 5 =====
 
 Consumer Choice
 
@@ -114,7 +112,6 @@ What about | VS Gy ?
 tions (alternatives):
 (is better, what is worse
 
-===== PAGE 6 =====
 
 Consumer Choice
 
@@ -138,7 +135,6 @@ Microeconomics
 specific about bundles
 oney (pure preferences)
 
-===== PAGE 7 =====
 
 Consumer Choice
 
@@ -168,7 +164,6 @@ t economists assume people
 
 INdal in their mindc!
 
-===== PAGE 8 =====
 
 Selfishness
 
@@ -188,7 +183,6 @@ yften used interchangeably
 s Behavioral Economics and
 g other things, investigate
 
-===== PAGE 9 =====
 
 Selfishness
 
@@ -223,7 +217,6 @@ ity-selfishness link?
 
 n’t have any problems with that
 
-===== PAGE 10 =====
 
 Selfishness
 
@@ -249,7 +242,6 @@ fort) to help others V
 for yourself
 nteering and apples)
 
-===== PAGE 11 =====
 
 Rationality
 
@@ -272,7 +264,6 @@ spt — split happens
 
 se — both players get $0
 
-===== PAGE 12 =====
 
 Rationality
 
@@ -295,7 +286,6 @@ f you get the (8/2) offer?
 
 if you get the (5/5) offer?
 
-===== PAGE 13 =====
 
 Rationality
 O Let us limit the proposal option:
@@ -320,7 +310,6 @@ and player 2 gets 2
 
 > Games:
 
-===== PAGE 14 =====
 
 Rationality
 
@@ -346,7 +335,6 @@ Fischbacher, 2003)
 18% refused (8/2)
 9% refused (8/2)
 
-===== PAGE 15 =====
 
 Rationality
 
@@ -371,7 +359,6 @@ lering
 
 ional choice
 
-===== PAGE 16 =====
 
 Guessing game
 
@@ -390,7 +377,6 @@ yame again
 numbers
 iber closest to 2/3 of the average
 
-===== PAGE 17 =====
 
 Guessing game
 
@@ -414,7 +400,6 @@ fish, which we discussed)
 
 eal incentives (money prizes),
 
-===== PAGE 18 =====
 
 Guessing game
 
@@ -436,7 +421,6 @@ d to the following concepts
 
 rationality
 
-===== PAGE 19 =====
 
 Summary
 
@@ -460,7 +444,6 @@ e
 relations between rationality of
 lity of another economic agent
 
-===== PAGE 20 =====
 
 Future
 
@@ -493,7 +476,6 @@ ver time)
 
 is so-called “preference for
 
-===== PAGE 21 =====
 
 Rationality
 
@@ -514,7 +496,6 @@ onality
 
 lity
 
-===== PAGE 22 =====
 
 Constructivist rationality
 
@@ -540,7 +521,6 @@ d blowing and trees shaking
 
 nations for HOW wind can cause
 
-===== PAGE 23 =====
 
 Constructivist rationality
 
@@ -562,7 +542,6 @@ the field” (Applied
 
 rmed (or motivated) by the
 
-===== PAGE 24 =====
 
 Two forms of rationality
 
@@ -581,7 +560,6 @@ ybes), who
 created by
 /of human
 
-===== PAGE 25 =====
 
 Two forms of rationality
 
@@ -610,7 +588,6 @@ oses....
 ensity of primitive thought to interpret all
 ign of a thinking mind”
 
-===== PAGE 26 =====
 
 Two forms of rationality
 
@@ -633,7 +610,6 @@ rast)
 n adaptive human decision and with
 1 natural social systems
 
-===== PAGE 27 =====
 
 Two forms of rationality
 
@@ -652,7 +628,6 @@ ically fit is up to socioeconomic
 y always has an empirical,
 asis
 
-===== PAGE 28 =====
 
 Two forms of rationality
 
@@ -672,7 +647,6 @@ ip having such feature (as an
 telligence (Al) is not building “real”
 sults might also perform incredibly
 
-===== PAGE 29 =====
 
 Two forms of rationality
 
@@ -695,7 +669,6 @@ n how it will fare in surviving
 
 re being created
 
-===== PAGE 30 =====
 
 Two forms of rationality
 
@@ -727,7 +700,6 @@ imitted to developing analytical
 yehave rationally, which is plainly
 ously aware form of action
 
-===== PAGE 31 =====
 
 Behavioral Economics
 
@@ -757,7 +729,6 @@ VAG
 references
 John Stuart Mill (1806-1873)
 
-===== PAGE 32 =====
 
 Behavioral Economics
 
@@ -786,7 +757,6 @@ ure which generates these ina
 y that consumers have limited
 1 by three main factors — cognitive
 
-===== PAGE 33 =====
 
 Heuristic:
 
@@ -797,7 +767,6 @@ SKOLKOVO
 
 Dr. Alexander Usvitskiy
 
-===== PAGE 34 =====
 
 Behavioral Economics
 
@@ -842,7 +811,6 @@ sions are driven by either
 
 1 2, considerate, slow, and reflective
 
-===== PAGE 35 =====
 
 Behavioral Economics
 
@@ -861,7 +829,6 @@ infectious disease that will kill 600
 eople will die, and
 people will die
 
-===== PAGE 36 =====
 
 Behavioral Economics
 
@@ -881,7 +848,6 @@ infectious disease that will kill 600
 600 people will be saved, and
 ody will be saved
 
-===== PAGE 37 =====
 
 Behavioral Economics
 
@@ -919,7 +885,6 @@ yndents vs. 78% for option B, while
 
 for option D “Framing effect” !!!
 
-===== PAGE 38 =====
 
 Framing
 
@@ -952,7 +917,6 @@ it did not look ‘as bad’ when converted
 years to depend on whether Clarke’s
 erms of km/h or mph.
 
-===== PAGE 39 =====
 
 Framing
 
@@ -981,7 +945,6 @@ tend to be somewhat mindless,
 
 ions might produce different answers
 
-===== PAGE 40 =====
 
 More heuristics & biases
 
@@ -1009,4 +972,3 @@ OHONOUIPwWNhH =
 
 related and time-related topics
 
-===== PAGE 41 =====

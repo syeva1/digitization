@@ -1,10 +1,12 @@
-===== PAGE 1 =====
+# Тема: Experimentality, Technology, and the Scientific Method
+# Источник: an-enquiry-concerning-human-understanding
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 a a
 pe si tart 2 ¥
 \\
 
-===== PAGE 2 =====
 
 OXFORD WORLD’S CLASSICS
 
@@ -40,7 +42,6 @@ topics, especially the Enquiry, on which he also edited the collection
 Reading Hume on Human Understanding (OUP, 2002). He runs the
 website davidhume.org, and is co-editor of the journal Hume Studies.
 
-===== PAGE 3 =====
 
 OXFORD WORLD’S CLASSICS
 For over 100 years Oxford World's Classics have brought
@@ -58,7 +59,6 @@ religion, philosophy and politics. Each edition includes perceptive
 commentary and essential background information to meet the
 changing needs of readers.
 
-===== PAGE 4 =====
 
 OXFORD WORLD’S CLASSICS
 DAVID HUME
@@ -68,7 +68,6 @@ Edited with an Introduction and Notes by
 PETER MILLICAN
 OXFORD
 
-===== PAGE 5 =====
 
 UNIVERSITY PRESS
 Great Clarendon Street, Oxford ox2 600
@@ -125,7 +124,6 @@ Clays Led, St Ives ple
 ISBN 978-0-19-921158-6
 13579108642
 
-===== PAGE 6 =====
 
 CONTENTS
 
@@ -163,7 +161,6 @@ Advertisement 2
 1. Of the Origin of Ideas 12
 1. Of the Association of Ideas 16
 
-===== PAGE 7 =====
 
 vi Contents
 Iv. Sceptical Doubts concerning the Operations
@@ -193,7 +190,6 @@ Index of Major Themes, Concepts, and Examples 231
 Index of Names Mentioned in the Enquiry 233
 Index of References to Hume's Works 235
 
-===== PAGE 8 =====
 
 ABBREVIATIONS
 
@@ -234,11 +230,9 @@ the Treatise are given using book, part, section, and paragraph
 numbers. Thus, for example, ‘7’ 1.3.6.10" indicates paragraph 10
 of Book 1, Part 3, Section 6.
 
-===== PAGE 9 =====
 
 This page intentionally left blank
 
-===== PAGE 10 =====
 
 INTRODUCTION
 
@@ -275,7 +269,6 @@ similar to that of the other animals, founded on instinct rather than
 quasi-divine insight into things. Hence science must proceed by experiment and systematization of observations, rather than by metaphysical theorizing or a priori speculation. This outlook, revolutionary in its
 time, was to be powerfully vindicated during the twentieth century
 
-===== PAGE 11 =====
 
 x Introduction
 
@@ -314,7 +307,6 @@ because more discriminating. It reveals the relatively humble basis of
 Called ‘the first Enquiry’ to distinguish it from the 1751 Enquiry concerning the
 Principles of Morals
 
-===== PAGE 12 =====
 
 Introduction xi
 human reason, in much the same way as Book I of the Treatise, but
@@ -356,7 +348,6 @@ suppressed all the remaining pagan schools in 529. For a brief review of the var
 philosophical traditions mentioned here, see the Glossarial Index of Major Philosophers
 and Philosophical Movements, below. Likewise the Glossary can be consulted for unfamiliar technical terms or antiquated meanings.
 
-===== PAGE 13 =====
 
 xii Introduction
 all provoked political, economic, and doctrinal instability. Finally the
@@ -398,7 +389,6 @@ to dominate European astronomy for almost 1,500 years.
 In 1543 Nicolaus Copernicus famously advanced the theory that
 the Earth is a planet orbiting the Sun, but it was not until the early
 
-===== PAGE 14 =====
 
 Introduction xiii
 seventeenth century that observational evidence became available
@@ -439,7 +429,6 @@ this undermining of the distinction between the heavenly and earthly domains.
 + Aristotle claimed that heavy objects fall faster than light ones in proportion to their
 weight, whereas in fact they usually fall faster only very marginally, the difference being
 
-===== PAGE 15 =====
 
 xiv Introduction
 
@@ -484,7 +473,6 @@ mind as a substance quite distinct from matter, whose essence is thought rather 
 extension. For a typically forthright Humean dismissal of such ‘substance dualism’, see
 the beginning of his essay ‘Of the Immortality of the Soul’ (Appendix II, below)
 
-===== PAGE 16 =====
 
 Introduction xv
 without matter—becomes an impossibility, so the entire universe
@@ -528,7 +516,6 @@ familiarity (since its action can be observed amongst everyday things
 such as water and billiard balls) and also an apparent intelligibility (in
 that it operates through physical touching which requires only familiar
 
-===== PAGE 17 =====
 
 xvi Introduction
 geometrical properties). Hence the appeal of this sort of ‘mechanical
@@ -566,7 +553,6 @@ through the work of his friend John Locke, a philosopher destined to
 7 It-seems that Boyle was a major focus of natural philosophy teaching in Edinburgh
 when Hume studied there in 1724~5.
 
-===== PAGE 18 =====
 
 Introduction xvii
 eclipse Descartes, and whose epistemology and political theory were to
@@ -608,7 +594,6 @@ the ‘corpuscularian hypothesis’, that material things are made of corpuscles
 the geometrical primary properties (size, shape, motion, etc.) together
 with ‘solidity’ (Boyle’s ‘impenetrability’). Since we cannot know the
 
-===== PAGE 19 =====
 
 xviii Introduction
 
@@ -650,7 +635,6 @@ first law’ (that objects move uniformly unless acted upon by a force),
 but followed Boyle in replacing the Cartesian plenum with a universe
 mainly composed of empty space. He then took the controversial
 
-===== PAGE 20 =====
 
 Introduction xix
 step of positing a force, called ‘gravity’, acting between bodies across
@@ -693,7 +677,6 @@ scientific adequacy as being independent of whether such entities exist. Hume’
 colouring that interprets what it means for a power to exist in terms of its instrumental
 ist adequacy
 
-===== PAGE 21 =====
 
 Xxx Introduction
 
@@ -732,7 +715,6 @@ Another theological minefield, raising problems for both Roman
 Catholics and Protestants, concerned the question of free will. The
 growth of empirical science, and the mechanical philosophy in
 
-===== PAGE 22 =====
 
 Introduction xxi
 particular, put increasing emphasis on laws of nature and the clockwork
@@ -771,7 +753,6 @@ and Necessity’, where he presents his own (subtly different) compatibilist app
 Compatibilism is now very widely accepted, though it remains
 controversial, and the nexus of problems surrounding free will—one
 
-===== PAGE 23 =====
 
 xxii Introduction
 of the most ancient in metaphysics—is still hotly debated today.
@@ -809,7 +790,6 @@ overt infidelity, for example suppressing his own potentially incendiary
 took a similar approach, though most Catholic sects put greater emphasis on good works
 as also contributing to salvation.
 
-===== PAGE 24 =====
 
 Introduction xxiii
 treatment of immortality to be published only posthumously."!
@@ -850,7 +830,6 @@ below pp. 146, 161-2, 202-3
 ® Accordingly Hume’s essay ‘Of Superstition and Enthusiasm’, in which he critically
 discusses them both, could safely be published in 1741
 
-===== PAGE 25 =====
 
 xxiv Introduction
 religious wars that these competing movements had inspired, enlightened intellectuals had moved on to a form of Christianity that fully
@@ -891,7 +870,6 @@ to approximate to God’s transparent perception. Of course we are
 8 For one of the most famous and elegant statements of the Design Argument, see
 Part ii of Hume’s Dialogues, in Appendix III, below
 
-===== PAGE 26 =====
 
 Introduction XXV
 limited creatures, so our pure rational insight may not extend very
@@ -929,7 +907,6 @@ ventured the opinion that God might, if He wished, ‘superadd’ thought
 to matter (Essay, IV. iii. 6). This provoked a great deal of hostility,
 since thought was evidently an ‘active’ power, whereas the mechanical philosophy (inspired by the concept of inertia) encouraged the
 
-===== PAGE 27 =====
 
 Xxvi Introduction
 
@@ -969,7 +946,6 @@ omnipotent and whose intentions are therefore infallibly fulfilled. So
 again we reach Malebranche’s desired conclusion, that God is the
 only true cause.
 
-===== PAGE 28 =====
 
 Introduction xxvii
 
@@ -1010,7 +986,6 @@ attack the Lockean view that there is something in addition, some supposed mater
 believed that God would inevitably create the best world consistent with His nature, so
 that His choice of laws would be determined by His wisdom and goodness.
 
-===== PAGE 29 =====
 
 xxviii Introduction
 
@@ -1050,7 +1025,6 @@ process by which we supposedly come to form general ideas. In fact it seems that
 aspects of an idea) is rather similar to Berkeley’s. Hume’s own account of general ideas,
 developed from Berkeley's, is sketched at E 12.20 endnote [P]
 
-===== PAGE 30 =====
 
 Introduction Xxix
 material mechanisms, and He does this precisely to enable us to
@@ -1088,7 +1062,6 @@ do with insight into the world, it instead involves a projection onto
 the world of our own inferential behaviour. This might seem to
 imply dismal prospects for science, but Hume turns it to advantage
 
-===== PAGE 31 =====
 
 XXX Introduction
 
@@ -1129,7 +1102,6 @@ Enquiry itself.
 The first section of the Enquiry serves as an introduction, but starts out
 as a comparison between two species of ‘moral philosophy’ (i.e. the
 
-===== PAGE 32 =====
 
 Introduction Xxxi
 study of man)."° The ‘easy philosophy” is eloquent and poetic, using
@@ -1170,7 +1142,6 @@ and wisdom. (E 1.1112)
 sense of ethics. Note again that unfamiliar or antiquated terms can be consulted in the
 Glossary below
 
-===== PAGE 33 =====
 
 Xxxxii Introduction
 
@@ -1212,7 +1183,6 @@ is the object of the understanding when a man thinks’ (Essay, I. i. 8).
 Thus according to Locke, anyone who sees the blue sky or feels a
 pain has in his mind an idea of that colour or of that sensation, and
 
-===== PAGE 34 =====
 
 Introduction Xxxxiii
 likewise anyone who merely thinks about the sky or contemplates pain
@@ -1253,7 +1223,6 @@ noticing a vital step in a winning chess combination), while sensations can be v
 and boring (e.g. watching paint dry). Fortunately, very little in the Enguiry depends on
 exactly how ‘force and vivacity’ is interpreted.
 
-===== PAGE 35 =====
 
 xxxiv Introduction
 
@@ -1300,7 +1269,6 @@ formed without being copied from a single corresponding impression. The point is
 every part of the idea must ultimately be copied from part of some impression—i.e. there
 is no part of the idea which is not impression-derived.
 
-===== PAGE 36 =====
 
 Introduction XXXV
 out to have no corresponding impression (E 2.9). However, in the
@@ -1336,7 +1304,6 @@ Hume presents his most celebrated argument, the sceptical argument
 solidity (J 1.4.4.12—14), mental substance (7 1.4.5.3—4), and the self ‘as something
 simple and individual (Appendix, 11),
 
-===== PAGE 37 =====
 
 XXXxvi Introduction
 
@@ -1384,7 +1351,6 @@ prior to experience, it does not follow that the ideas they involve are
 Snnate’ and in that sense prior to experience. On Hume’s principles
 the idea of a bachelor, like all other ideas, is derived from experience
 
-===== PAGE 38 =====
 
 Introduction XXXVii
 (e.g. a baby wouldn’t have the idea): the point is that having acquired
@@ -1423,7 +1389,6 @@ many As that are Bs) to a universal conclusion (e.g. that al! As are Bs); indeed
 ‘own examples are usually of particular inferences (e.g. that all observed 4s have been Bs,
 therefore this A is B). The term is not used by Hume himself in either sense.
 
-===== PAGE 39 =====
 
 XXXViii Introduction
 argument concerning induction, probably the most famous argument
@@ -1461,7 +1426,6 @@ based on rational ‘intuition’, nor on ‘demonstrative argument’ from
 our experience, because we can easily conceive of the future’s turning out differently (£ 4.18). Nor can it be founded on anything that
 we learn by sensory experience, since this tells us nothing about objects’
 
-===== PAGE 40 =====
 
 Introduction XXXIX
 underlying powers—we learn what powers things have only through
@@ -1499,7 +1463,6 @@ to defend himself against a vitriolic pamphlet which had accused him of ‘Unive
 Scepticism . . . downright Atheism . . . denying the Immateriality of the Soul .. . sapping
 the Foundations of Morality’ (L 17—18)
 
-===== PAGE 41 =====
 
 xl Introduction
 
@@ -1538,7 +1501,6 @@ As we saw earlier in Section IV, Hume took over from Locke (Essay,
 IV. xv. 1) a general distinction between demonstrative and probable rea~
 soning, though he generally prefers to call the latter ‘moral reasoning’,
 
-===== PAGE 42 =====
 
 Introduction xli
 or ‘reasoning concerning matter of fact and existence’. On Locke’s
@@ -1577,7 +1539,6 @@ aims in the Enguiry—and arguably his primary aim—will be to spell
 out the implications of systematically taking custom, and custom
 alone, as our touchstone of empirical rationality.
 
-===== PAGE 43 =====
 
 xlii Introduction
 13. Section VII: ‘Of the Idea of Necessary Connexion’
@@ -1618,7 +1579,6 @@ seeking is not strictly that of necessary connexion, but rather the wider notion
 in general, or a consequential link from one thing to another. ‘This also fits with his view,
 implied by Section VI, that the notion of probability is derived from the same source.
 
-===== PAGE 44 =====
 
 Introduction xliii
 If we perceived an impression of necessary connexion between
@@ -1657,7 +1617,6 @@ we cannot perceive the necessity which supposedly governs them.
 All are equally unintelligible, equally opaque to ‘clear and distinct’
 perception.
 
-===== PAGE 45 =====
 
 xliv Introduction
 
@@ -1695,7 +1654,6 @@ have no real idea of any sort of ‘power’ or ‘necessity’ that might be su
 When we say, therefore, that one object is connected with another, we mean
 only, that they have acquired a connexion in our thought (E 7.28)
 
-===== PAGE 46 =====
 
 Introduction xlv
 
@@ -1743,7 +1701,6 @@ not either’. Definition (x) states that the first object has never appeared wi
 second, which implies that if the second object was not, the first was not either. So Hume’s
 gloss is puzzling, seeming to get things the wrong way round.
 
-===== PAGE 47 =====
 
 xlvi Introduction
 nature will observe in the believer once the causal belief has taken
@@ -1779,7 +1736,6 @@ if we chuse to move, we also may. (E 8.23)
 Liberty so defined is obviously compatible with determinism: if our
 actions follow our will, then we do have such liberty, even if our will
 
-===== PAGE 48 =====
 
 Introduction xvii
 itself is entirely causally determined. Hobbes had maintained that
@@ -1822,7 +1778,6 @@ to undermine the supposed metaphysical necessity of the physical world,
 rather than to propose any novel understanding of human action. He
 then goes on to argue for another distinctive claim (E 8.28—30): that
 
-===== PAGE 49 =====
 
 xlviii Introduction
 viewing human behaviour as causally determined, so far from being
@@ -1859,7 +1814,6 @@ nature of things and operating quite independently of brute animal
 28 Darwin’s notebooks of 1838—9 record that he read Hume’s section on the reason of
 animals just at the time that he was developing his theory of evolution.
 
-===== PAGE 50 =====
 
 Introduction xlix
 instincts. Perhaps for this reason Hume’s discussion is quite short, and
@@ -1895,7 +1849,6 @@ rightly—take into account when assessing the overall credibility of
 testimony, which will depend in each case on the balance between
 the positive and negative factors involved.
 
-===== PAGE 51 =====
 
 1 Introduction
 
@@ -1936,7 +1889,6 @@ result as showing that I very probably have the disease. However the one in a mi
 wrong, leaving an overall probability that I have the disease, based on this evidence, of
 only 1 in 1,002. Thus a false test is far more likely than the disease itself.
 
-===== PAGE 52 =====
 
 Introduction li
 prone to invention and fantasy, all the more so if they are propagated
@@ -1971,7 +1923,6 @@ reduced to comparing the reliability of testimony with the reliability
 of the apparent laws of nature (E 10.38). Even for the theist, custom
 and induction provide the only route to factual discovery.
 
-===== PAGE 53 =====
 
 hii Introduction
 17. Section XI: ‘Ofa Particular Providence,
@@ -2014,7 +1965,6 @@ objects involved, so that any inference from human purposes to those
 preference very clearly. Itis instructive to read Section XI of the Enquiry alongside both
 the Dialogues and the essay ‘Of the Immortality of the Soul’ (see Appendix II.
 
-===== PAGE 54 =====
 
 Introduction litt
 of a god is bound to be weak (E 11.257). Hume also hints at two
@@ -2054,7 +2004,6 @@ the Lockean theory is not only groundless but vacuous or incoherent.
 ® Descartes used extreme scepticism as a tool for sweeping away traditional views,
 and claimed to establish his own first principles as ‘clearly and distinctly perceived’, supposedly immune even to the most radical doubt.
 
-===== PAGE 55 =====
 
 liv Introduction
 
@@ -2094,7 +2043,6 @@ This too can be criticized as excessive if it goes to the Pyrrhonian
 extreme of attempting to undermine all belief, but fortunately for our
 survival, human nature is too strong to make such avoidance of belief
 
-===== PAGE 56 =====
 
 Introduction lv
 a genuine possibility. We simply cannot help forming beliefs through
@@ -2136,7 +2084,6 @@ everyday inductive thinking:
 to have more or less of this philosophy; that from our earliest infancy we
 make continual advances in forming more general principles of conduct and
 
-===== PAGE 57 =====
 
 Ii Introduction
 reasoning; that the larger experience we acquire, and the stronger reason we
@@ -2172,7 +2119,6 @@ quantity or number? No. Does it contain any experimental reasoning concerning
 matter of fact and existence? No. Commit it then to the flames: for it can
 contain nothing but sophistry and illusion. (£12.34)
 
-===== PAGE 58 =====
 
 NOTE ON THE TEXT
 Wuar is now known as Hume’s first Enquiry was originally published
@@ -2206,7 +2152,6 @@ Tom Beauchamp’s recent Clarendon critical edition (2000) is vastly
 superior, but he instead takes the 1772 edition as his copytext on the
 basis that this was ‘the last edition to be seen through the press with
 
-===== PAGE 59 =====
 
 Iii Note on the Text
 
@@ -2243,7 +2188,6 @@ then f, | and § as necessary (e.g. in paragraph 3 of Section III). Since
 Hume’s original pagination is almost never referenced by the secondary literature, and these symbols have no other significance, I have
 replaced them by numbers, so as to correspond with the footnote
 
-===== PAGE 60 =====
 
 Note on the Text lix
 numbering in Beauchamp’s critical edition. This causes one small
@@ -2287,7 +2231,6 @@ of his illness, and makes some last requests concerning the printing
 of ‘My Own Life’ in his forthcoming edition, and the future publication of the Dialogues concerning Natural Religion. Here again he
 expresses enthusiasm for the quality of what would become the 1777
 
-===== PAGE 61 =====
 
 Ix Note on the Text
 edition of the Essays and Treatises on Several Subjects (including the
@@ -2322,7 +2265,6 @@ been designed to accommodate both.
 I should like to take this opportunity to acknowledge the debt that
 Iand other Hume scholars owe to Tom Beauchamp, for the painstaking work that he put into his excellent critical edition of the Enquiry.
 
-===== PAGE 62 =====
 
 SELECT BIBLIOGRAPHY
 
@@ -2375,7 +2317,6 @@ Salmon, Wesley, ‘An Encounter with David Hume’, in Joel Feinberg (ed.),
 Reason and Responsibility (Dickenson, 3rd edn. 1975), 190-208
 (on induction).
 
-===== PAGE 63 =====
 
 Isii Select Bibliography
 
@@ -2445,7 +2386,6 @@ of Religion, ed. J. C. A. Gaskin.
 
 —— Selected Essays, ed. Stephen Copley and Andrew Edgar.
 
-===== PAGE 64 =====
 
 A CHRONOLOGY OF DAVID HUME
 
@@ -2495,7 +2435,6 @@ Philosophy at Edinburgh University, his candidature damaged by
 an anonymous pamphlet accusing him of ‘Universal Scepticism’
 and ‘Principles leading to downright Atheism’, to which he replies
 
-===== PAGE 65 =====
 
 Ixiv Chronology
 in A Letter from a Gentleman to his Friend in Edinburgh. He then
@@ -2550,7 +2489,6 @@ in Paris, being lionized in the salons and by the French philosophes.
 1766 Invites Jean-Jacques Rousseau to England, escaping persecution
 in his native Geneva. But the pathologically suspicious Rousseau
 
-===== PAGE 66 =====
 
 Chronology Ixv
 accuses Hume of treachery, prompting him to publish an
@@ -2566,17 +2504,14 @@ which he remains in London before returning to Edinburgh in
 of Hume’s nephew, David Hume the younger, in accordance
 with Hume’s instructions.
 
-===== PAGE 67 =====
 
 This page intentionally left blank
 
-===== PAGE 68 =====
 
 AN ENQUIRY
 CONCERNING
 HUMAN UNDERSTANDING
 
-===== PAGE 69 =====
 
 2 ADVERTISEMENT*
 
@@ -2597,7 +2532,6 @@ employ. Henceforth, the Author desires, that the following Pieces*
 may alone be regarded as containing his philosophical sentiments
 and principles.
 
-===== PAGE 70 =====
 
 SECTION I 5
 Of the DIFFERENT SPECIES of PHILOSOPHY
@@ -2637,7 +2571,6 @@ and deformity, without being able to determine the source of these
 distinctions. While they attempt this arduous task, they are deterred
 by no difficulties; but proceeding from particular instances to general
 
-===== PAGE 71 =====
 
 4 Section I
 
@@ -2679,7 +2612,6 @@ mind, returns into the right path, and secures himself from any dangerous illusi
 of ARISTOTLE is utterly decayed. LA BRUYERE passes the seas, and
 still maintains his reputation: But the glory of MALEBRANCHE
 
-===== PAGE 72 =====
 
 Of the Different Species of Philosophy 5
 is confined to his own nation, and to his own age. And ADDISON,
@@ -2723,7 +2655,6 @@ entertainments. Indulge your passion for science, says she, but let
 your science be human, and such as may have a direct reference to action
 and society. Abstruse thought and profound researches I prohibit, and
 
-===== PAGE 73 =====
 
 6 Section I
 
@@ -2767,7 +2698,6 @@ would we exalt the one by depreciating the other.
 [9] Besides, we may observe, in every art or profession, even those
 which most concern life or action, that a spirit of accuracy, however
 
-===== PAGE 74 =====
 
 Of the Different Species of Philosophy 7
 acquired, carries all of them nearer their perfection, and renders them
@@ -2806,7 +2736,6 @@ break in upon every unguarded avenue of the mind, and overwhelm it
 with religious fears and prejudices, The stoutest antagonist, if he remit
 his watch a moment, is oppressed. And many, through cowardice and
 
-===== PAGE 75 =====
 
 8 Section I
 folly, open the gates to the enemies, and willingly receive them with
@@ -2851,7 +2780,6 @@ powers and faculties of human nature. It is remarkable concerning
 the operations of the mind, that, though most intimately present
 to us, yet, whenever they become the object of reflection, they seem
 
-===== PAGE 76 =====
 
 Of the Different Species of Philosophy 9
 involved in obscurity; nor can the eye readily find those lines and
@@ -2892,7 +2820,6 @@ remote bodies; while we affect to overlook those, who, with so much
 success, delineate the parts of the mind, in which we are so intimately
 concerned?*
 
-===== PAGE 77 =====
 
 10 Section I
 [15] But may we not hope, that philosophy, if cultivated with
@@ -2932,7 +2859,6 @@ may justly be deemed more rash, precipitate, and dogmatical, than even
 the boldest and most affirmative philosophy, that has ever attempted
 to impose its crude dictates and principles on mankind.
 
-===== PAGE 78 =====
 
 Of the Different Species of Philosophy 1
 
@@ -2954,7 +2880,6 @@ still more happy, if, reasoning in this easy manner, we can undermine
 the foundations of an abstruse philosophy, which seems to have hitherto served only as a shelter to superstition, and a cover to absurdity
 and error!
 
-===== PAGE 79 =====
 
 7 SECTION II
 Of the ORIGIN of IDEAS*
@@ -2995,7 +2920,6 @@ name in our language, and in most others; I suppose, because it was
 not requisite for any, but philosophical purposes, to rank them under
 a general term or appellation. Let us, therefore, use a little freedom,
 
-===== PAGE 80 =====
 
 Of the Origin of Ideas 13
 pg By the term impression, then, I mean all
@@ -3031,7 +2955,6 @@ pounded or sublime, we always find, that they resolve themselves into
 such simple ideas as were copied from a precedent feeling or sentiment. Even those ideas, which, at first view, seem the most wide of
 this origin, are found, upon a nearer scrutiny, to be derived from it.
 
-===== PAGE 81 =====
 
 14 Section IT
 The idea of God, as meaning an infinitely intelligent, wise, and good
@@ -3076,7 +2999,6 @@ a1 the same colour; and each shade produces a distinct idea, independent
 of the rest. For if this should be denied, it is possible, by the continual
 gradation of shades, to run a colour insensibly into what is most remote
 
-===== PAGE 82 =====
 
 Of the Origin of Ideas 15
 from it; and if you will not allow any of the means to be different, you
@@ -3118,7 +3040,6 @@ which may arise, concerning their nature and reality’,
 
 * See endnote [A], p. 121
 
-===== PAGE 83 =====
 
 23 SECTION III
 Of the AssocIATION of IDEAS*
@@ -3158,7 +3079,6 @@ The mention of one apartment in a building naturally introduces an
 
 2 Resemblance.
 
-===== PAGE 84 =====
 
 Of the Association of Ideas 7
 enquiry or discourse concerning the others*: And if we think ofa wound,
@@ -3182,7 +3102,6 @@ perhaps, be considered asa mixture of Causation and Resemblance. Where two objec
 contrary, the one destroys the other; that is, [is] the cause of its annihilation, and the idea
 of the annihilation of an object, implies the idea of its former existence
 
-===== PAGE 85 =====
 
 25 SECTION IV
 ScePTICAL Dousrs concerning the OPERATIONS
@@ -3220,7 +3139,6 @@ been little cultivated, either by the ancients or moderns; and therefore
 our doubts and errors, in the prosecution of so important an enquiry,
 may be the more excusable; while we march through such difficult
 
-===== PAGE 86 =====
 
 Sceptical Doubts 19
 paths, without any guide or direction. They may even prove useful, by
@@ -3267,7 +3185,6 @@ conjoined with each other. Let an object be presented to a man of ever
 so strong natural reason and abilities; if that object be entirely new to
 him, he will not be able, by the most accurate examination of its sensible qualities, to discover any of its causes or effects. ADAM,* though
 
-===== PAGE 87 =====
 
 20 Section IV
 
@@ -3314,7 +3231,6 @@ is the influence of custom, that, where it is strongest, it not only
 29 covers our natural ignorance, but even conceals itself, and seems not
 to take place, merely because it is found in the highest degree.
 
-===== PAGE 88 =====
 
 Sceptical Doubts 21
 
@@ -3356,7 +3272,6 @@ It could not, therefore, be discovered in the cause, and the first invention or 
 after it is suggested, the conjunction of it with the cause must appear
 equally arbitrary; since there are always many other effects, which, to
 
-===== PAGE 89 =====
 
 22 Section IV
 
@@ -3395,7 +3310,6 @@ consequently, that a small force may remove the greatest obstacle or
 raise the greatest weight, if, by any contrivance or machinery, we can
 encrease the velocity of that force, so as to make it an overmatch for
 
-===== PAGE 90 =====
 
 Sceptical Doubts 23
 its antagonist. Geometry assists us in the application of this law, by
@@ -3437,7 +3351,6 @@ of cause and effect, our conclusions from that experience are not founded
 on reasoning, or any process of the understanding. This answer we must
 endeavour, both to explain and to defend.
 
-===== PAGE 91 =====
 
 24 Section IV
 [16] It must certainly be allowed, that nature has kept us at a great
@@ -3478,7 +3391,6 @@ here a consequence drawn by the mind; that there is a certain step
 > The word, Power, is here used in a loose and popular sense. The more accurate
 explication of it would give additional evidence to this argument. See Sect. 7.*
 
-===== PAGE 92 =====
 
 Sceptical Doubts 25
 taken; a process of thought, and an inference, which wants to be
@@ -3515,7 +3427,6 @@ May and June? Now whatever is intelligible, and can be distinctly
 conceived, implies no contradiction, and can never be proved false by
 any demonstrative argument or abstract reasoning d priori.
 
-===== PAGE 93 =====
 
 26 Section IV:
 
@@ -3556,7 +3467,6 @@ raising difficulties. I cannot find, I cannot imagine any such reasoning.*
 But I keep my mind still open to instruction, if any one will vouchsafe
 to bestow it on me.
 
-===== PAGE 94 =====
 
 Sceptical Doubts 27
 [21] Should it be said, that, from a number of uniform experiments,
@@ -3595,7 +3505,6 @@ resemblance. Let the course of things be allowed hitherto ever so
 regular; that alone, without some new argument or inference, proves
 not, that, for the future, it will continue so. In vain do you pretend to
 
-===== PAGE 95 =====
 
 28 Section IV:
 
@@ -3642,7 +3551,6 @@ argument; nor have you any pretence to refuse so equitable a demand.
 You cannot say, that the argument is abstruse, and may possibly escape
 your enquiry; since you confess, that it is obvious to the capacity of
 
-===== PAGE 96 =====
 
 Sceptical Doubts 29
 
@@ -3663,7 +3571,6 @@ I be wrong, I must acknowledge myself to be indeed a very backward
 scholar; since I cannot now discover an argument, which, it seems, was
 perfectly familiar to me, long before I was out of my cradle.
 
-===== PAGE 97 =====
 
 40 SECTION V
 SCEPTICAL SOLUTION of these Dousts
@@ -3698,7 +3605,6 @@ passion is mortified by it, except the love of truth; and that passion
 never is, nor can be carried to too high a degree. It is surprising, therefore, that this philosophy, which, in almost every instance, must be
 harmless and innocent, should be the subject of so much groundless
 
-===== PAGE 98 =====
 
 Sceptical Solution of these Doubts 31
 reproach and obloquy. But, perhaps, the very circumstance, which
@@ -3739,7 +3645,6 @@ events to be constantly conjoined together; what is the consequence
 of this experience? He immediately infers the existence of one object
 from the appearance of the other. Yet he has not, by all his experience,
 
-===== PAGE 99 =====
 
 32 Section V
 
@@ -3783,7 +3688,6 @@ expect, for the future, a similar train of events with those which have
 
 ® See endnote [B], p. 121
 
-===== PAGE 100 =====
 
 Sceptical Solution of these Doubts 33
 entirely ignorant of every matter of fact, beyond what is immediately
@@ -3818,7 +3722,6 @@ conjoined together; if flame or snow be presented anew to the senses,
 the mind is carried by custom to expect heat or cold, and to\believey that Oo
 such a quality does exist, and will discover itself upon a nearer approach.
 
-===== PAGE 101 =====
 
 34 Section V
 
@@ -3861,7 +3764,6 @@ daily experience. We can, in our conception, join the head of a man to
 the body of a horse; but it is not in our power to believe, that such an
 animal has ever really existed.
 
-===== PAGE 102 =====
 
 Sceptical Solution of these Doubts 35
 be |
@@ -3900,7 +3802,6 @@ we agree about the thing, it is needless to dispute about the terms.
 The imagination has the command over all its ideas, and can join and
 mix and vary them, in all the ways possible. It may conceive fictitious
 
-===== PAGE 103 =====
 
 36 Section V
 objects with all the circumstances of place and time. It may set them,
@@ -3941,7 +3842,6 @@ principles of connexion or association we have reduced to three,
 namely, Resemblance, Contiguity, and Causation; which are the only
 bonds, that unite our thoughts together, and beget that regular train
 
-===== PAGE 104 =====
 
 Sceptical Solution of these Doubts 37
 of reflection or discourse, which, in a greater or less degree, takes
@@ -3983,7 +3883,6 @@ any other; and this influence they readily convey to those ideas, to
 which they are related, and which they resemble. I shall only infer
 from these practices, and this reasoning, that the effect of resemblance
 
-===== PAGE 105 =====
 
 38 Section V
 in enlivening the ideas is very common; and as in every case a resemblance and a present impression must concur, we are abundantly supplied with experiments to prove the reality of the foregoing principle.
@@ -4023,7 +3922,6 @@ esse videtur postquam est major, solebam intuens, ScIPIONEM, CATONEM, LAELIUM,
 nostrum vero in primis avum cogitare. Tanta vis admonitionis est in locis; ut non sine
 causa ex his memoriae deducta sit disciplina.”* Cicero de Finibus. Lib. v
 
-===== PAGE 106 =====
 
 Sceptical Solution of these Doubts 39
 him by a shorter chain of consequences than any of those, by which
@@ -4066,7 +3964,6 @@ the related idea.
 [21] Here, then, is a kind of pre-established harmony* between the
 Course of nature and the succession of our ideas; and though the powers
 
-===== PAGE 107 =====
 
 4o Section V
 and forces, by which the former is governed, be wholly unknown to us;
@@ -4102,7 +3999,6 @@ to that which she has established among external objects; though we are
 ignorant of those powers and forces, on which this regular course and
 succession of objects totally depends.
 
-===== PAGE 108 =====
 
 SECTION VI 56
 Of PropaBiLity”
@@ -4138,7 +4034,6 @@ to-morrow. But to conform our language more to common use, we ought to divide ar
 into demonstrations, proof, and probabilities.* By proofs meaning such arguments from
 experience as leave no room for doubt or opposition.
 
-===== PAGE 109 =====
 
 2 Section VI
 to the mind.
@@ -4176,7 +4071,6 @@ open throughout that whole month; though this probability varies
 according to the different climates, and approaches to a certainty in
 the more northern kingdoms. Here then it seems evident, that, when
 
-===== PAGE 110 =====
 
 Of Probability B
 we transfer the past to the future, in order to determine the effect,
@@ -4194,7 +4088,6 @@ sufficient, if the present hints excite the curiosity of philosophers, and
 make them sensible how defective all common theories are in treating
 of such curious and such sublime subjects.
 
-===== PAGE 111 =====
 
 60 SECTION VII
 Of the IDEA of NECESSARY CONNEXION*
@@ -4232,7 +4125,6 @@ and the intermediate steps, which lead to the conclusion, much fewer
 than in the sciences which treat of quantity and number. In reality,
 there is scarcely a proposition in EUCLIp* so simple, as not to consist
 
-===== PAGE 112 =====
 
 Of the Idea of Necessary Connexion 45
 of more parts, than are to be found in any moral reasoning which runs
@@ -4269,7 +4161,6 @@ But when we have pushed up definitions to the most simple ideas,
 and find still some ambiguity and obscurity; what resource are we
 © Section IL
 
-===== PAGE 113 =====
 
 46 Section VIE
 then possessed of? By what invention can we throw light upon these
@@ -4309,7 +4200,6 @@ point out any other event which may result from them. The scenes of
 the universe are continually shifting, and one object follows another in
 an uninterrupted succession; but the power or force, which actuates
 
-===== PAGE 114 =====
 
 Of the Idea of Necessary Connexion 47
 the whole machine, is entirely concealed from us, and never discovers
@@ -4355,7 +4245,6 @@ be a power capable of producing them, we arrive at last by this reasoning at the
 power. But no reasoning can ever give us a new, original, simple idea;* as this philosopher
 himself confesses. This, therefore, can never be the origin of that idea
 
-===== PAGE 115 =====
 
 48 Section VIT
 (rr
@@ -4393,7 +4282,6 @@ connexion, which binds them together, and renders them inseparable.
 [14]
 Can there be
 
-===== PAGE 116 =====
 
 Of the Idea of Necessary Connexion 49
 a more certain proof, that the power, by which this whole operation
@@ -4433,7 +4321,6 @@ of the human soul and the nature of an idea, or the aptitude of the
 one to produce the other? This is a real creation; a production of
 8 See endnote [C], p. 123
 
-===== PAGE 117 =====
 
 50 Section VIE
 
@@ -4479,7 +4366,6 @@ extraordinary effects do ever result from a simple act of volition.
 the descent of heavy bodies, the growth of plants, the generation of
 animals, or the nourishment of bodies by food: But suppose, that, in
 
-===== PAGE 118 =====
 
 Of the Idea of Necessary Connexion 51
 all these cases, they perceive the very force or energy of the cause, by
@@ -4517,7 +4403,6 @@ no less ignorant of that power, on which depends the operation of
 
 4 eos amo pqyeoys.*
 
-===== PAGE 119 =====
 
 52 Section VIE
 mind on body, or of body on mind; nor are we able, either from our
@@ -4557,7 +4442,6 @@ of that stupendous machine.
 R ae It seems to me, that this theory of the universal energy
 and operation of the Supreme Being, is too bold ever to carry conviction with it to a man, sufficiently apprized of the weakness of human
 
-===== PAGE 120 =====
 
 Of the Idea of Necessary Connexion 53.
 reason, and the narrow limits, to which it is confined in all its operations. Though the chain of arguments, which conduct to it, were ever (o)
@@ -4596,7 +4480,6 @@ could suppose it to be derived. It appears, that, in single instances of
 '5 Section XIL
 ' See endnote [D], p. 123.
 
-===== PAGE 121 =====
 
 54 Section VIE
 the operation of bodies, We never Can) by Our Utmost scrutiny, discover
@@ -4640,7 +4523,6 @@ and operates with the greatest certainty and strongest necessity.
 [28] It appears, then, that this idea of a necessary connexion*
 among events arises from a number of similar instances, which occur,
 
-===== PAGE 122 =====
 
 Of the Idea of Necessary Connexion 55
 of the constant conjunction of these events; nor can that idea ever be (o
@@ -4682,7 +4564,6 @@ founded all our reasonings concerning matter of fact or existence. By
 means of it alone we attain any assurance concerning objects, which
 are removed from the present testimony of our memory and senses.
 
-===== PAGE 123 =====
 
 56 Section VIT
 The only immediate utility of all sciences, is to teach us, how to control and regulate future events by their causes. Our thoughts and
@@ -4717,7 +4598,6 @@ uniform instances appear, and the same object is always followed by
 
 © See endnote [E], p. 124.
 
-===== PAGE 124 =====
 
 Of the Idea of Necessary Connexion 57
 the same event; we then begin to entertain the notion of cause and
@@ -4741,7 +4621,6 @@ go farther towards illustrating the subject, than by all the eloquence and
 copious expression in the world. This point of view we should endeavour to reach, and reserve the flowers of rhetoric for subjects which are
 more adapted to them.
 
-===== PAGE 125 =====
 
 8 SECTION VIII
 Of Liperry and NECEssiTy
@@ -4776,7 +4655,6 @@ one would think, could preserve the dispute so long undecided, but oO
 some ambiguous expressions, which keep the antagonists still at a
 distance, and hinder them from grappling with each other.
 
-===== PAGE 126 =====
 
 Of Liberty and Necessity 59
 been so much canvassed on all hands, and has led philosophers into
@@ -4815,7 +4693,6 @@ from that moment, be at an end; and the memory and senses remain
 the only canals, by which the knowledge of any real existence could
 possibly have access to the mind. Our idea, therefore, of necessity and
 
-===== PAGE 127 =====
 
 60 Section VIIT
 
@@ -4863,7 +4740,6 @@ wars, intrigues, factions, and revolutions, are so many collections of
 the principles of his science; in the same manner as the physician or
 natural philosopher becomes acquainted with the nature of plants,
 
-===== PAGE 128 =====
 
 Of Liberty and Necessity 61
 minerals, and other external objects, by the experiments, which he
@@ -4903,7 +4779,6 @@ pass for the specious colouring of a cause.* And though virtue and
 honour be allowed their proper weight and authority, that perfect disinterestedness, so often pretended to, is never expected in multitudes
 and parties; seldom in their leaders; and scarcely even in individuals
 
-===== PAGE 129 =====
 
 62 Section VIIT
 
@@ -4944,7 +4819,6 @@ may consider the sentiments, commonly entertained with regard to
 those irregular events, which appear in the course of nature, and the
 operations of external objects. All causes are not conjoined to their
 
-===== PAGE 130 =====
 
 Of Liberty and Necessity 63
 usual effects, with like uniformity. An artificer, who handles only
@@ -4985,7 +4859,6 @@ operations and government.
 [15] The philosopher, if he be consistent, must apply the same 88
 reasoning to the actions and volitions of intelligent agents. The most
 
-===== PAGE 131 =====
 
 64 Section VII
 
@@ -5023,7 +4896,6 @@ them at a reasonable price, he shall find purchasers; and shall be able,
 by the money he acquires, to engage others to supply him with those
 commodities, which are requisite for his subsistence. In proportion
 
-===== PAGE 132 =====
 
 Of Liberty and Necessity 65
 as men extend their dealings, and render their intercourse with
@@ -5067,7 +4939,6 @@ shall make no scruple to allow, that they are of the same nature, and
 derived from the same principles. A prisoner, who has neither money
 nor interest,* discovers the impossibility of his escape, as well when
 
-===== PAGE 133 =====
 
 66 Section VIIT
 he considers the obstinacy of the gaoler, as the walls and bars, with
@@ -5105,7 +4976,6 @@ inferences of a similar nature, attended with more or less degrees of
 certainty, proportioned to our experience of the usual conduct of
 mankind in such particular situations.
 
-===== PAGE 134 =====
 
 Of Liberty and Necessity 67
 [21] I have frequently considered, what could possibly be the 92
@@ -5145,7 +5015,6 @@ incumbent on these philosophers to make good their assertion, by
 defining or describing that necessity, and pointing it out to us in the
 operations of material causes.
 
-===== PAGE 135 =====
 
 68 Section VIIT
 
@@ -5179,7 +5048,6 @@ metaphysics, the most contentious science;
 We cannot surely mean,
 *® See endnote [F], p. 124.
 
-===== PAGE 136 =====
 
 Of Liberty and Necessity 69
 that actions have so little connexion with motives, inclinations, and
@@ -5220,7 +5088,6 @@ to have no existence.
 
 ¥ See endnote [GI], p. 125.
 
-===== PAGE 137 =====
 
 70 Section VII
 
@@ -5257,7 +5124,6 @@ in that with regard to material objects and causes. Nothing therefore
 can be more innocent, at least, than this doctrine.
 [28] All laws being founded on rewards and punishments, it is sup98 posed as a fundamental principle, that these motives have a regular
 
-===== PAGE 138 =====
 
 Of Liberty and Necessity 7
 and uniform influence on the mind,* and both produce the good and
@@ -5301,7 +5167,6 @@ just proofs, they likewise cease to be criminal. But, except upon the
 doctrine of necessity, they never were just proofs, and consequently
 never were criminal.
 
-===== PAGE 139 =====
 
 72 Section VIIT
 
@@ -5346,7 +5211,6 @@ have no place in our Creator. He foresaw, he ordained, he intended
 all those actions of men, which we so rashly pronounce criminal. And
 we must therefore conclude, either that they are not criminal, or that
 
-===== PAGE 140 =====
 
 Of Liberty and Necessity 3
 the Deity, not man, is accountable for them. But as either of these
@@ -5388,7 +5252,6 @@ excite such acute torments. These enlarged views may, for a moment,
 please the imagination of a speculative man, who is placed in ease and
 security; but neither can they dwell with constancy on his mind, even
 
-===== PAGE 141 =====
 
 74 Section VIIT
 
@@ -5432,7 +5295,6 @@ answer; nor is it possible to explain distinctly, how the Deity can be
 the mediate cause of all the actions of men, without being the author
 of sin and moral turpitude. These are mysteries, which mere natural
 
-===== PAGE 142 =====
 
 Of Liberty and Necessity 5
 and unassisted reason is very unfit to handle; and whatever system she
@@ -5449,7 +5311,6 @@ of common life; where she will find difficulties enow to employ her
 enquiries, without launching into so boundless an ocean of doubt,
 uncertainty, and contradiction!
 
-===== PAGE 143 =====
 
 104 SECTION Ix
 Of the REASON of ANIMALS
@@ -5489,7 +5350,6 @@ from their operation. The ignorance and inexperience of the young
 are here plainly distinguishable from the cunning and sagacity of the
 old, who have learned, by long observation, to avoid what hurt them,
 
-===== PAGE 144 =====
 
 Of the Reason of Animals 7
 and to pursue what gave ease or pleasure. A horse, that has been accustomed to the field, becomes acquainted with the proper height, which
@@ -5534,7 +5394,6 @@ operation of such immense consequence in life, as that of inferring
 effects from causes, be trusted to the uncertain process of reasoning
 and argumentation. Were this doubtful with regard to men, it seems
 
-===== PAGE 145 =====
 
 78 Section IX
 
@@ -5569,7 +5428,6 @@ whole oeconomy and order of its nursery.
 
 2 See endnote [H], p. 125,
 
-===== PAGE 146 =====
 
 SECTION X 109
 Of MIRACLES
@@ -5605,7 +5463,6 @@ and prodigies be found in all history, sacred and profane.
 matters of fact; it must be acknowledged, that this guide is not
 altogether infallible, but in some cases is apt to lead us into errors.
 
-===== PAGE 147 =====
 
 80 Section X
 
@@ -5650,7 +5507,6 @@ founded on the relation of cause and effect. I shall not dispute about
 a word. It will be sufficient to observe, that our assurance in any
 argument of this kind is derived from no other principle than our
 
-===== PAGE 148 =====
 
 Of Miracles 81
 observation of the veracity of human testimony, and of the usual conformity of facts to the reports of witnesses. It being a general maxim,
@@ -5688,7 +5544,6 @@ doubtful character; when they have an interest in what they affirm; 113
 when they deliver their testimony with hesitation, or on the contrary,
 with too violent asseverations. There are many other particulars of
 
-===== PAGE 149 =====
 
 82 Section X
 the same kind, which may diminish or destroy the force of any argument, derived from human testimony.
@@ -5730,7 +5585,6 @@ its antagonist.
 2 PLurarcH, in vita Catonis,
 2 See endnote [I], p. 127.
 
-===== PAGE 150 =====
 
 Of Miracles 83
 
@@ -5772,7 +5626,6 @@ my belief or opinion.
 
 % See endnote [K], p. 127
 
-===== PAGE 151 =====
 
 84 Section X
 
@@ -5814,7 +5667,6 @@ believe those miraculous events, of which they are informed, yet love
 to partake of the satisfaction at second-hand or by rebound, and place
 a pride and delight in exciting the admiration of others.
 
-===== PAGE 152 =====
 
 Of Miracles 85
 
@@ -5854,7 +5706,6 @@ condition never see each other twice, but the whole neighbourhood 119
 immediately join them together. The pleasure of telling a piece of
 news so interesting, of propagating it, and of being the first reporters
 
-===== PAGE 153 =====
 
 86 Section X
 
@@ -5900,7 +5751,6 @@ impostures in PAPHLAGONIA, where, as LUCIAN* tells us, the people
 were extremely ignorant and stupid, and ready to swallow even the
 grossest delusion. People at a distance, who are weak enough to think
 
-===== PAGE 154 =====
 
 Of Miracles 87
 the matter at all worth enquiry, have no opportunity of receiving
@@ -5942,7 +5792,6 @@ number of witnesses; so that not only the miracle destroys the credit
 of testimony, but the testimony destroys itself. To make this the better
 understood, let us consider, that, in matters of religion, whatever is
 
-===== PAGE 155 =====
 
 88 Section X
 different is contrary; and that it is impossible the religions of ancient
@@ -5983,7 +5832,6 @@ so great an emperor, who, through the whole course of his life, conversed
 
 % Hist. lib. v. cap. 8. SuETONIUS* gives nearly the same account in vita VESP.
 
-===== PAGE 156 =====
 
 Of Miracles 89
 ina familiar manner with his friends and courtiers, and never affected
@@ -6021,7 +5869,6 @@ cannot be suspected of any concurrence in the holy fraud. He considered justly, 
 nature, to be able accurately to disprove the testimony, and to trace its
 falsehood, through all the circumstances of knavery and credulity which
 
-===== PAGE 157 =====
 
 go Section X
 
@@ -6065,7 +5912,6 @@ BEDE,* or any monkish historian.
 
 % See endnote [L], p. 128.
 
-===== PAGE 158 =====
 
 Of Miracles or
 
@@ -6106,7 +5952,6 @@ in order to undeceive the deluded multitude, the season is now past,
 
 26 Lucrer.
 
-===== PAGE 159 =====
 
 92 Section X
 and the records and witnesses, which might clear up the matter, have
@@ -6154,7 +5999,6 @@ of human testimony, if that testimony be very extensive and uniform.
 [37] But suppose, that all the historians who treat of ENGLAND,
 should agree, that, on the first of JANUARY 1600, Queen ELIZABETH*
 
-===== PAGE 160 =====
 
 Of Miracles 93
 died; that both before and after her death she was seen by her physicians and the whole court, as is usual with persons of her rank; that
@@ -6194,7 +6038,6 @@ may be covered.
 of reasoning. “We ought”, says he, “to make a collection or particular
 history of all monsters and prodigious births or productions, and in a
 
-===== PAGE 161 =====
 
 94 Section X
 word of every thing new, rare, and extraordinary in nature. But this
@@ -6232,7 +6075,6 @@ and miraculous than all the miracles it relates; which is, however, necessary to
 above established.
 2 Nov. Org. lib. ii. aph. 29,
 
-===== PAGE 162 =====
 
 Of Miracles 95
 [41] What we have said of miracles may be applied, without any
@@ -6248,7 +6090,6 @@ veracity: And whoever is moved by Faith to assent to it,* is conscious
 ofa continued miracle in his own person, which subverts all the principles of his understanding, and gives him a determination to believe
 what is most contrary to custom and experience.
 
-===== PAGE 163 =====
 
 132 SECTION XI
 Of a PARTICULAR PROVIDENCE and of a
@@ -6288,7 +6129,6 @@ of calumny and persecution, which blow upon her,
 %® LUCIANI evvouyos.
 8 Td. & Dio.
 
-===== PAGE 164 =====
 
 Of a Providence and Future State 97
 
@@ -6331,7 +6171,6 @@ to have contained any mob, but the more philosophical part of his
 audience, such as might be supposed capable of comprehending his
 arguments.
 
-===== PAGE 165 =====
 
 98 Section XT
 
@@ -6377,7 +6216,6 @@ they argue consistently, must allow to be solid and satisfactory.
 [11] You then, who are my accusers, have acknowledged, that the
 chief or sole argument for a divine existence (which I never questioned)
 
-===== PAGE 166 =====
 
 Of a Providence and Future State 99
 is derived from the order of nature; where there appear such marks
@@ -6421,7 +6259,6 @@ which we examine.
 [14] Allowing, therefore, the gods to be the authors of the existence
 or order of the universe; it follows, that they possess that precise
 
-===== PAGE 167 =====
 
 100 Section XI
 
@@ -6466,7 +6303,6 @@ them into the celestial regions, who admitted them into the councils of
 the gods, who opened to them the book of fate, that they thus rashly
 affirm, that their deities have executed, or will execute, any purpose
 
-===== PAGE 168 =====
 
 Of a Providence and Future State Or
 beyond what has actually appeared? If they tell me, that they have
@@ -6510,7 +6346,6 @@ exist, in the course of nature, which may serve as a fuller display of
 particular attributes; I must admonish you, that you have departed
 from the method of reasoning, attached to the present subject, and have
 
-===== PAGE 169 =====
 
 102 Section XI
 
@@ -6555,7 +6390,6 @@ reasonings on this subject can only be drawn from effects to causes;
 and that every argument, deduced from causes to effects, must of
 necessity be a gross sophism; since it is impossible for you to know
 
-===== PAGE 170 =====
 
 Of a Providence and Future State 103
 any thing of the cause, but what you have antecedently, not inferred,
@@ -6599,7 +6433,6 @@ uncertain and useless. It is uncertain; because the subject lies entirely
 beyond the reach of human experience. It is useless; because our
 knowledge of this cause being derived entirely from the course of
 
-===== PAGE 171 =====
 
 104 Section XT
 
@@ -6643,7 +6476,6 @@ inferences concerning the effect, and examine the alterations, which
 it has probably undergone, or may still undergo. But what is the
 foundation of this method of reasoning? Plainly this; that man is a
 
-===== PAGE 172 =====
 
 Of-a Providence and Future State 105
 being, whom we know by experience, whose motives and designs we
@@ -6684,7 +6516,6 @@ has immediately fallen under our observation. Greater good produced
 by this Being must still prove a greater degree of goodness: A more
 impartial distribution of rewards and punishments must proceed
 
-===== PAGE 173 =====
 
 106 Section XI
 
@@ -6727,7 +6558,6 @@ is already known by practice and observation. So that my apology for
 
 | See endnote [M], p. 130.
 
-===== PAGE 174 =====
 
 Of a Providence and Future State 107
 Epicurus* will still appear solid and satisfactory; nor have the political 147
@@ -6771,7 +6601,6 @@ only when two species of objects are found to be constantly conjoined,
 that we can infer the one from the other; and were an effect presented,
 which was entirely singular, and could not be comprehended under
 
-===== PAGE 175 =====
 
 108 Section XI
 
@@ -6789,7 +6618,6 @@ attention. There is, I own, some difficulty, how we can ever return
 from the cause to the effect, and, reasoning from our ideas of the
 former, infer any alteration on the latter, or any addition to it.
 
-===== PAGE 176 =====
 
 SECTION XII 149
 Of the ACADEMICAL or SCEPTICAL PHILOSOPHY
@@ -6824,7 +6652,6 @@ ever bring us to a state of assurance and conviction upon any subject.
 [4] It must, however, be confessed, that this species of scepticism,
 when more moderate, may be understood in a very reasonable sense,
 
-===== PAGE 177 =====
 
 110 Section XII
 
@@ -6869,7 +6696,6 @@ reasoning, or even almost before the use of reason, we always suppose
 an external universe, which depends not on our perception, but would
 exist, though we and every sensible creature were absent or annihilated.
 
-===== PAGE 178 =====
 
 Academical or Sceptical Philosophy rin
 Even the animal creation are governed by a like opinion, and preserve
@@ -6911,7 +6737,6 @@ the mind must be caused by external objects, entirely different from
 them, though resembling them (if that be possible) and could not arise
 either from the energy of the mind itself, or from the suggestion of some
 
-===== PAGE 179 =====
 
 112 Section XII
 
@@ -6953,7 +6778,6 @@ it requisite to dive so deep, in order to discover arguments and reasonings, whi
 allowed by modern enquirers, that all the sensible qualities of objects,
 such as hard, soft, hot, cold, white, black, &c. are merely secondary,*
 
-===== PAGE 180 =====
 
 Academical or Sceptical Philosophy 113
 and exist not in the objects themselves, but are perceptions of the mind,
@@ -6991,7 +6815,6 @@ PART II
 reason by argument and ratiocination; yet is this the grand scope of all
 2 See endnote [N], p. 130.
 
-===== PAGE 181 =====
 
 114 Section XII
 
@@ -7035,7 +6858,6 @@ the most profound darkness. And between these she is so dazzled and
 
 8 See endnote [O], p. 131
 
-===== PAGE 182 =====
 
 Academical or Sceptical Philosophy 115
 confounded, that she scarcely can pronounce with certainty and assurance concerning any one object.
@@ -7070,7 +6892,6 @@ are put in opposition to the more powerful principles of our nature,
 
 3 See endnote [P], p. 131
 
-===== PAGE 183 =====
 
 116 Section XII
 they vanish like smoke, and leave the most determined sceptic in the
@@ -7114,7 +6935,6 @@ their miserable existence. It is true; so fatal an event is very little to
 be dreaded. Nature is always too strong for principle. And though
 a PYRRHONIAN may throw himself or others into a momentary
 
-===== PAGE 184 =====
 
 Academical or Sceptical Philosophy 117
 amazement and confusion by his profound reasonings; the first and
@@ -7152,7 +6972,6 @@ prejudice against antagonists. The illiterate may reflect on the disposition of 
 reflection, are commonly still diffident in their determinations: And
 if any of the learned be inclined, from their natural temper, to haughtiness and obstinacy, a small tincture of PYRRHONISM might abate
 
-===== PAGE 185 =====
 
 118 Section XII
 
@@ -7197,7 +7016,6 @@ into the natural powers of the human mind, and to compare them with
 their objects, in order to recommend it to us. We shall then find what
 are the proper subjects of science and enquiry.
 
-===== PAGE 186 =====
 
 Academical or Sceptical Philosophy 119
 [27] It seems to me, that the only objects of the abstract sciences
@@ -7234,7 +7052,6 @@ arguments from its cause or its effect; and these arguments are
 founded entirely on experience. If we reason d priori, any thing may
 appear able to produce any thing. The falling of a pebble may, for
 
-===== PAGE 187 =====
 
 120 Section XII
 
@@ -7270,7 +7087,6 @@ and illusion.
 
 * See endnote [QJ, p. 131
 
-===== PAGE 188 =====
 
 HUME’S ENDNOTES
 [For the editorial principles applied here, please see the Note on the Text,
@@ -7314,7 +7130,6 @@ the effects, that must follow from their operation, establish particular princip
 entirely from sense and observation, by which we learn what has actually
 resulted from the operation of particular objects, and are thence able to
 
-===== PAGE 189 =====
 
 122 Hume's Endnotes
 
@@ -7364,7 +7179,6 @@ to put these in practice, he will be extremely liable to error, till time and
 farther experience both enlarge these maxims, and teach him their proper
 use and application. In every situation or incident, there are many particular
 
-===== PAGE 190 =====
 
 Hume's Endnotes 123
 and seemingly minute circumstances, which the man of greatest talents is,
@@ -7411,7 +7225,6 @@ endeavoured to establish that theory upon his authority. On the contrary,
 that great philosopher had recourse to an etherial active fluid to explain his
 universal attraction; though he was so cautious and modest as to allow,
 
-===== PAGE 191 =====
 
 124 Hume's Endnotes
 
@@ -7460,7 +7273,6 @@ Endnote [F] to 8.22, p. 68'*
 
 "Tinother cause, vis. a false sensation or seeming experience which we
 
-===== PAGE 192 =====
 
 Hume’s Endnotes 125
 have, or may have, of liberty or indifference, in many of our actions. The
@@ -7507,7 +7319,6 @@ Endnote [H] to 9.5, p. 78”
 INCE all reasoning concerning facts or causes is derived merely from 107
 Soistom, it may be asked how it happens, that men so much surpass
 
-===== PAGE 193 =====
 
 126 Hume's Endnotes
 animals in reasoning, and one man so much surpasses another? Has not the
@@ -7558,7 +7369,6 @@ thought than those of another.
 It would be easy to discover many other circumstances that make a
 difference in the understandings of men.
 
-===== PAGE 194 =====
 
 Hume's Endnotes 127
 Endnote [I] to 10.10, p. 82”
@@ -7602,7 +7412,6 @@ be discoverable by men or not. This alters not its nature and essence. The
 raising of a house or ship into the air is a visible miracle. The raising of a
 feather, when the wind wants ever so little of a force requisite for that purpose, is as real a miracle, though not so sensible with regard to us.
 
-===== PAGE 195 =====
 
 128 Hume's Endnotes
 Endnote [L] to 10.27, p. 907°
@@ -7651,7 +7460,6 @@ by that medium, and seek particular flaws in the testimony, are almost sure
 to be confounded. It must be a miserable imposture, indeed, that does not
 prevail in that contest.
 
-===== PAGE 196 =====
 
 Hume's Endnotes 129
 
@@ -7702,7 +7510,6 @@ amultitude of nuns, priests, physicians, and men of the world, all of them of
 undoubted credit, could bestow upon it. Several men of letters, particularly
 the bishop of TouRNAY,* thought this miracle so certain, as to employ it in
 
-===== PAGE 197 =====
 
 130 Hume's Endnotes
 
@@ -7748,7 +7555,6 @@ Endnote [N] to 12.15, p. 113
 "Tviitines of that very ingenious author form the best lessons of scepticism, which are to be found either among the ancient or modern philosophers, BAYLE* not excepted. He professes, however, in his title-page
 (and undoubtedly with great truth) to have composed his book against the
 
-===== PAGE 198 =====
 
 Hume's Endnotes 131
 sceptics as well as against the atheists and free-thinkers. But that all his
@@ -7795,11 +7601,9 @@ T which the creation of matter was excluded, ceases to be a maxim, according to 
 matter; but, for aught we know 4 priori, the will of any other being might
 create it, or any other cause, that the most whimsical imagination can assign.
 
-===== PAGE 199 =====
 
 This page intentionally left blank
 
-===== PAGE 200 =====
 
 APPENDIX I
 Abstract of A Treatise of Human Nature (1740)
@@ -7843,7 +7647,6 @@ conclusion.
 The work, of which I here present the Reader with an abstract, has been
 complained of as obscure and difficult to be comprehended, and I am apt to
 
-===== PAGE 201 =====
 
 134 Appendix T
 think, that this proceeded as much from the length as from the abstractedness of the
@@ -7888,7 +7691,6 @@ strongest lights, and with the best turn of thought and expression, without
 following out steadily a chain of propositions, or forming the several truths
 into a regular science. But ’tis at least worth while to try if the science of
 
-===== PAGE 202 =====
 
 Abstract of A Treatise of Human Nature 135
 ‘man will not admit of the same accuracy which several parts of natural philosophy are found susceptible of. There seems to be all the reason in the
@@ -7929,7 +7731,6 @@ of speculations very new and remarkable, it will be impossible to give the
 reader a just notion of the whole. We shall therefore chiefly confine ourselves to his explication of our reasonings from cause and effect. If we can
 make this intelligible to the reader, it may serve as a specimen of the whole.
 
-===== PAGE 203 =====
 
 136 Appendix T
 
@@ -7975,7 +7776,6 @@ precise. And when he suspects that any philosophical term has no idea
 649 annexed to it (as is too common) he always asks fom what impression that pre~
 tended idea is derived? And if no impression can be produced, he concludes
 
-===== PAGE 204 =====
 
 Abstract of A Treatise of Human Nature 137
 that the term is altogether insignificant. "Tis after this manner he examines
@@ -8015,7 +7815,6 @@ to account for this operation of the mind in all instances.
 
 [11] Were a man, such as Adam, created in the full vigour of understanding, without experience, he would never be able to infer motion in the second
 
-===== PAGE 205 =====
 
 138 Appendix T
 ball from the motion and impulse of the first. It is not any thing that reason
@@ -8064,7 +7863,6 @@ without any proof.
 [15] We are determined by cusToM alone to suppose the future conformable to the past. When I see a billiard-ball moving towards another, my mind
 is immediately carry’d by habit to the usual effect, and anticipates my sight
 
-===== PAGE 206 =====
 
 Abstract of A Treatise of Human Nature 139
 by conceiving the second ball in motion. There is nothing in these objects,
@@ -8113,7 +7911,6 @@ adding this idea to it, to believe any thing, which he can conceive.
 [21] Since therefore belief implies a conception, and yet is something
 more; and since it adds no new idea to the conception; it follows, that it is
 
-===== PAGE 207 =====
 
 140 Appendix T
 
@@ -8161,7 +7958,6 @@ that belief consists merely in a peculiar feeling or sentiment. I shall only
 mention one. Our past experience is not always uniform. Sometimes one
 effect follows from a cause, sometimes another: In which case we always
 
-===== PAGE 208 =====
 
 Abstract of A Treatise of Human Nature 141
 believe, that that will exist which is most common. I see a billiard-ball
@@ -8205,7 +8001,6 @@ does. When we consider our will or volition a priori, abstracting from experienc
 the assistance of experience, it only shows us objects contiguous, successive, 657
 and constantly conjoined. Upon the whole, then, either we have no idea at
 
-===== PAGE 209 =====
 
 142 Appendix T
 
@@ -8252,7 +8047,6 @@ regard to Geometry. Having denied the infinite divisibility of extension, our
 author finds himself obliged to refute those mathematical arguments, which
 have been adduced for it; and these indeed are the only ones of any weight.
 
-===== PAGE 210 =====
 
 Abstract of A Treatise of Human Nature 143
 This he does by denying Geometry to be a science exact enough to admit
@@ -8293,7 +8087,6 @@ body; beauty, strength, agility, good mein, address in dancing, riding,
 fencing: from external advantages; country, family, children, relations,
 riches, houses, gardens, horses, dogs, cloaths. He afterwards proceeds to
 
-===== PAGE 211 =====
 
 144 Appendix T
 
@@ -8342,7 +8135,6 @@ evidence, and almost the whole conduct of life.
 [34] Our author pretends, that this reasoning puts the whole controversy
 ina new light, by giving a new definition of necessity. And, indeed, the most
 
-===== PAGE 212 =====
 
 Abstract of A Treatise of Human Nature 145
 zealous advocates for free-will must allow this union and inference with
@@ -8376,7 +8168,6 @@ must, in a great measure, depend on them.
 
 FINIS
 
-===== PAGE 213 =====
 
 APPENDIX II
 ‘Of the Immortality of the Soul’ (1755)
@@ -8419,7 +8210,6 @@ cannot determine what qualities may inhere in the one or in the other.
 ‘Tuey likewise teach us, that nothing can be decided a priori concerning
 any cause or effect; and that experience being the only source of our judgments of this nature, we cannot know from any other principle, whether
 
-===== PAGE 214 =====
 
 ‘Of the Immortality of the Soul” 147
 matter, by its structure or arrangement, may not be the cause of thought.
@@ -8471,7 +8261,6 @@ the most doubtful persuasion of any matter of fact, that occurs in common life.
 THERE arise, indeed, in some minds, some unaccountable terrors with 503
 regard to futurity: But these would quickly vanish, were they not artificially
 
-===== PAGE 215 =====
 
 148 Appendix IT
 
@@ -8525,7 +8314,6 @@ PUNISHMENT, without any proper end or purpose, is inconsistent with
 our ideas of goodness and justice, and no end can be served by it after the
 whole scene is closed.
 
-===== PAGE 216 =====
 
 ‘Of the Immortality of the Soul” 149
 
@@ -8576,7 +8364,6 @@ mankind dye before they are rational creatures.
 * Quint. Curtius, lib. vi. cap. 5
 2 Sueton. August. cap. 3.
 
-===== PAGE 217 =====
 
 150 Appendix IT
 
@@ -8630,7 +8417,6 @@ daring theory is that! How lightly, not to say, how rashly entertained!
 How to dispose of the infinite number of posthumous existences ought
 also to embarrass the religious theory. Every planet, in every solar system,
 
-===== PAGE 218 =====
 
 ‘Of the Immortality of the Soul’ 151
 we are at liberty to imagine peopled with intelligent, mortal beings: At least,
@@ -8675,7 +8461,6 @@ could ascertain this great and important truth.
 
 S Lib. vii. cap. 55
 
-===== PAGE 219 =====
 
 APPENDIX III
 Excerpts from Parts I and II of the
@@ -8714,7 +8499,6 @@ breaking through all fences, profane the inmost sanctuaries of the temple.
 But . . . after we have abandoned ignorance, the surest remedy, there is
 still one expedient left to prevent this profane liberty. Let . . . us become
 
-===== PAGE 220 =====
 
 Dialogues concerning Natural Religion 153
 thoroughly sensible of the weakness, blindness, and narrow limits of human
@@ -8759,7 +8543,6 @@ declamations of their schools, and which they ought to have confined to them.
 In this view, there appears a great resemblance between the sects of
 the Sroics and PYRRHONIANS, though perpetual antagonists: and both of
 
-===== PAGE 221 =====
 
 154. Appendix IT
 
@@ -8806,7 +8589,6 @@ philosophy is nothing but a more regular and methodical operation of the
 same kind. To philosophise on such subjects is nothing essentially different
 from reasoning on common life; and we may only expect greater stability,
 
-===== PAGE 222 =====
 
 Dialogues concerning Natural Religion 155
 if not greater truth, from our philosophy, on account of its exacter and more
@@ -8850,7 +8632,6 @@ Where-ever evidence discovers itself, you adhere to it, notwithstanding
 your pretended scepticism; and I can observe too some of your sect to be as
 decisive as those, who make greater professions of certainty and assurance.
 
-===== PAGE 223 =====
 
 156 Appendix IT
 In reality, would not a man be ridiculous, who pretended to reject NEwTon’s
@@ -8893,7 +8674,6 @@ founded on very abstruse reasoning; yet no man, who has any pretensions
 to science, even no speculative sceptic, pretends to entertain the least
 doubt with regard to them. The CoPERNICAN system contains the most
 
-===== PAGE 224 =====
 
 Dialogues concerning Natural Religion 157
 surprising paradox, and the most contrary to our natural conceptions, to
@@ -8937,7 +8717,6 @@ principles of CLEANTHES, I must allow, that he has fairly represented that
 argument; and I shall endeavour so to state the matter to you, that you will
 entertain no farther scruples with regard to it.
 
-===== PAGE 225 =====
 
 158 Appendix IT
 
@@ -8987,7 +8766,6 @@ to the universe houses, ships, furniture, machines; and from their similarity
 in some circumstances inferred a similarity in their causes? Thought, design,
 intelligence, such as we discover in men and other animals, is no more than
 
-===== PAGE 226 =====
 
 Dialogues concerning Natural Religion 159
 one of the springs and principles of the universe, as well as heat or cold,
@@ -9035,7 +8813,6 @@ move? Have............
 Yes! cried PHILO, interrupting him, we have other earths. Is not the
 moon another earth, which we see to turn round its centre? Is not Venus
 
-===== PAGE 227 =====
 
 160 Appendix TIT
 
@@ -9076,7 +8853,6 @@ your eye? and have you had leisure to observe the whole progress of the
 phenomenon, from the first appearance of order to its final consummation?
 If you have, then cite your experience, and deliver your theory.
 
-===== PAGE 228 =====
 
 APPENDIX IV
 Excerpts from Hume’s Letters
@@ -9115,7 +8891,6 @@ good deal in the Turn of Expression, which will not perhaps appear so proper
 for want of knowing the Context: But the Force of the Argument you'll be
 judge of as it stands. Tell me your Thoughts of it. Is not the Style too diffuse?
 
-===== PAGE 229 =====
 
 162 Appendix IV
 Tho as that was a popular Argument I have spread it out much more than
@@ -9161,7 +8936,6 @@ the heights of Scepticism, I am apt, in a cool hour, to suspect, in general,
 that most of my Reasonings will be more useful by furnishing Hints
 & exciting People’s Curiosity than as containing any Principles that will
 
-===== PAGE 230 =====
 
 Excerpts from Hume’s Letters 163
 augment the Stock of Knowledge that must pass to future Ages.
@@ -9210,7 +8984,6 @@ To John Stewart, February 1754
 and after correcting him on this point, Hume continues with some comments
 indicating that he no longer has any interest in a second edition of the Treatise. |
 
-===== PAGE 231 =====
 
 164 Appendix IV
 
@@ -9257,7 +9030,6 @@ that children adopt blindfold all the opinions, principles, sentiments, and
 passions, of their elders, as well as credit their testimony; nor is this more
 strange, than that a hammer should make an impression on clay.
 
-===== PAGE 232 =====
 
 Excerpts from Hume’s Letters 165
 
@@ -9307,7 +9079,6 @@ Sect. VI. Ifa miracle proves a doctrine to be revealed from God, and
 consequently true, a miracle can never be wrought for a contrary doctrine.
 The facts are therefore as incompatible as the doctrines.
 
-===== PAGE 233 =====
 
 166 Appendix IV
 
@@ -9351,7 +9122,6 @@ interesting a subject as that of miracles. Any little symptoms of vehemence,
 of which I formerly used the freedom to complain, when you favoured me
 with a sight of the manuscript, are either removed or explained away, or
 
-===== PAGE 234 =====
 
 Excerpts from Hume’s Letters 167
 atoned for by civilities, which are far beyond what I have any title to pretend
@@ -9397,7 +9167,6 @@ would become the 1777 edition. See the Note on the Text, pp. lix-lv, for quotati
 from two letters in which he later expresses great satisfaction with how that
 edition is turning out.]
 
-===== PAGE 235 =====
 
 168 Appendix IV
 But we must not part, without my also saying something as an Author.
@@ -9414,7 +9183,6 @@ I believe that I have formerly mention’d to you, that no new Editions
 shoud be made of any of my Writings, without mentioning it to me; I shall
 still have some Corrections to make... . (HL ii. 31).
 
-===== PAGE 236 =====
 
 APPENDIX V
 ‘My Own Life’
@@ -9453,7 +9221,6 @@ very slender. My father, who passed for a man of parts, died when I was an
 infant, leaving me, with an elder brother and a sister, under the care of our
 mother, a woman of singular merit, who, though young and handsome,
 
-===== PAGE 237 =====
 
 170 Appendix V
 
@@ -9502,7 +9269,6 @@ family of that young nobleman were desirous of putting him under my care
 and direction, for the state of his mind and health required it. I lived with
 him a twelvemonth. My appointments during that time made a considerable
 
-===== PAGE 238 =====
 
 ‘My Own Life’ 17I
 accession to my small fortune. I then received an invitation from General
@@ -9546,7 +9312,6 @@ disposed to see the favourable than unfavourable side of things; a turn of
 mind which it is more happy to possess, than to be born to an estate of ten
 thousand a year.
 
-===== PAGE 239 =====
 
 172 Appendix V
 
@@ -9594,7 +9359,6 @@ the illiberal petulance, arrogance, and scurrility, which distinguish the
 Warburtonian school. This pamphlet gave me some consolation for the
 otherwise indifferent reception of my performance.
 
-===== PAGE 240 =====
 
 ‘My Own Life’ 173
 
@@ -9641,7 +9405,6 @@ imagine the reception I met with at Paris, from men and women of all ranks
 and stations. The more I recoiled from their excessive civilities, the more I was
 loaded with them. There is, however, a real satisfaction in living at Paris,
 
-===== PAGE 241 =====
 
 174 Appendix V
 
@@ -9688,7 +9451,6 @@ not unacceptable to the young and careless, as well as to the studious and liter
 Thad no reason to be displeased with the reception I met with from them.
 Ina word, though most men any wise eminent, have found reason to complain
 
-===== PAGE 242 =====
 
 ‘My Own Life’ 175
 of calumny, I never was touched, or even attacked by her baleful tooth: and
@@ -9703,11 +9465,9 @@ is easily cleared and ascertained.
 
 April 18, 1776.
 
-===== PAGE 243 =====
 
 This page intentionally left blank
 
-===== PAGE 244 =====
 
 TEXTUAL VARIANTS
 SECTION I
@@ -9750,7 +9510,6 @@ Gratification of Avarice and Ambition. Here therefore is a considerable
 "Mr. Hutcheson.*
 2 See Butler's Sermons.*
 
-===== PAGE 245 =====
 
 178 Textual Variants
 Adjustment in the Boundaries of the Passions, which had been confounded by the Negligence or Inaccuracy of former Philosophers. These
@@ -9796,7 +9555,6 @@ subject of a poem or history, may be very different, according to the
 different designs of the poet or historian. Ov1p* has formed his plan upon
 the connecting principle of resemblance. Every fabulous transformation,
 
-===== PAGE 246 =====
 
 Textual Variants 179
 produced by the miraculous power of the gods, falls within the compass of
@@ -9845,7 +9603,6 @@ about one individual. For many, indeed countless, things happen to the individua
 which there is no single outcome. Likewise, many are the actions of an individual, out of
 which no unitary action ensues.’ Poetics 1451° 15—19.
 
-===== PAGE 247 =====
 
 180 Textual Variants
 
@@ -9893,7 +9650,6 @@ and the passions make an easy transition from one object to another. The
 strong connexion of the events, as it facilitates the passage of the thought
 or imagination from one to another, facilitates also the transfusion of the
 
-===== PAGE 248 =====
 
 Textual Variants 181
 passions, and preserves the affections still in the same channel and direction. Our sympathy and concern for EVE, prepares the way for a like sympathy with ADAM:* The affection is preserved almost entire in the
@@ -9937,7 +9693,6 @@ that, in history, the connexion among the several events, which unites them
 into one body, is the relation of cause and effect, the same which takes
 place in epic poetry; and that, in the latter composition, this connexion is
 
-===== PAGE 249 =====
 
 182 Textual Variants
 
@@ -9983,7 +9738,6 @@ destroys the other, i.e. is the cause of its annihilation, and the idea of the a
 an object implies the idea of its former existence. [This note was reworded in the 1777
 edition, and moved to the third paragraph of the section. ]
 
-===== PAGE 250 =====
 
 Textual Variants 183
 [18] These loose hints I have thrown together, in order to excite the
@@ -10003,11 +9757,9 @@ enquiry. It is sufficient, at present, to have established this conclusion, that
 the three connecting principles of all ideas are the relations of Resemblance,
 Contiguity, and Causation.
 
-===== PAGE 251 =====
 
 This page intentionally left blank
 
-===== PAGE 252 =====
 
 EXPLANATORY NOTES
 
@@ -10054,7 +9806,6 @@ see Glossarial Index for more information. Jean de la Bruyére (1645-96)
 was a French author, writing principally on moral issues. Joseph Addison
 (1672~1719) was an English essayist and politician, best known today
 
-===== PAGE 253 =====
 
 186 Notes to Pages 5-9
 for having founded The Spectator magazine (1711-12) with Richard
@@ -10105,7 +9856,6 @@ personal gain (e.g. priests and charlatans) thus /ee/ an interest in its perpetu
 1.13 mental geography: systematic description of superficial behaviour of the
 mind, as opposed to discovery of the ‘secret springs and principles’
 
-===== PAGE 254 =====
 
 Notes to Pages g—12 187
 (1.15)—the underlying causes—that are responsible for that behaviour.
@@ -10157,7 +9907,6 @@ rest of the Enquiry.
 Descartes and Locke had called ‘ideas’, and then draws his own distinction within the category of such perceptions, between ‘ideas’ and
 ‘impressions’. See §9 of the Introduction, above.
 
-===== PAGE 255 =====
 
 188 Notes to Pages 12-16
 
@@ -10208,7 +9957,6 @@ not by reason, but instead on the basis of chance, or of custom (i.e. our
 tendency to form habitual trains of thought in response to repeated
 experience). Hume aims to overturn this traditional view, by showing
 
-===== PAGE 256 =====
 
 Notes to Pages 17-20 189
 in Sections IV and V that all factual reasoning depends on custom, so
@@ -10258,7 +10006,6 @@ behaviour of natural objects.
 suspended from a string can act as a compass by aligning itself with the
 Earth’s magnetic field.
 
-===== PAGE 257 =====
 
 190 Notes to Pages 20-24
 
@@ -10314,7 +10061,6 @@ when Section VII will go on to deny that objects in themselves strictly
 have any powers. Hume here indicates that his language of ‘powers’
 should not be taken to prejudge how that language is to be interpreted.
 
-===== PAGE 258 =====
 
 Notes to Pages 25—32 IgI
 
@@ -10371,7 +10117,6 @@ has shown that all such inferences involve a step —namely the supposition
 of uniformity (3.2) —that cannot be founded on reason. Reason does not
 “engage us’ to make that step, but we evidently make it nonetheless, so it
 
-===== PAGE 259 =====
 
 192 Notes to Pages 32-38
 is apparently a basic fact about human nature that we function in
@@ -10423,7 +10168,6 @@ we see over there was Polemo’s. In the same way, even when looking at
 our own senate building—I mean the Hostilia, not the new building,
 which looks slighter to me since it was enlarged—I used to think of
 
-===== PAGE 260 =====
 
 Notes to Pages 39-43 193
 Scipio, Cato, Laelius, and especially my grandfather. So great is the
@@ -10477,7 +10221,6 @@ the bowels; a soporific makes one sleepy (cf. p. xv of the Introduction).
 
 6.4 received... sensible .. . difficulty: ‘received systems’ are those that are standard or widely accepted; ‘sensible of? implies felt awareness.
 
-===== PAGE 261 =====
 
 194 Notes to Pages 44-56
 SECTION VII
@@ -10536,7 +10279,6 @@ of the Introduction. In ‘defining’ a cause, Hume is acknowledging that the
 notion is a /egitimate one, despite any impression to the contrary that his
 arguments might have given. Treatise 1.4.5.32 provides perhaps the
 
-===== PAGE 262 =====
 
 Notes to Pages 58-63 195
 most explicit statement of this: ‘all objects, which are found to be constantly conjoin’d, are upon that account only to be regarded as causes
@@ -10590,7 +10332,6 @@ presentation of a position (what might now be called ‘spin’).
 Treatise (1.3.12.5), introduces a discussion of scientific methodology
 which advocates the search for hidden causes of inconstant phenomena.
 
-===== PAGE 263 =====
 
 196 Notes to Pages 64-70
 We should seek explanations in terms of uniform underlying causes
@@ -10648,7 +10389,6 @@ Enquiry, ‘morality’ replaced ‘Morality and Religion’. Hume apparently
 decided to give up the pretence that his discussion of religion later in the
 section is anything other than negative.
 
-===== PAGE 264 =====
 
 Notes to Pages 70-77 197
 
@@ -10705,7 +10445,6 @@ the Introduction, above. Here he suggests that customary and analogical inferenc
 itself, sharply changing direction, so a dog which anticipates this can
 take advantage.
 
-===== PAGE 265 =====
 
 198 Notes to Pages 78-83
 9.6 the experimental . .. beasts: our reasoning from experience is fundamentally based on a non-rational instinct, just like that of the animals. See
@@ -10756,7 +10495,6 @@ miracle as being an event that is contrary to nature’s normal ways of
 working, brought about by the intervention of some invisible spirit (see
 10.12 endnote [K]).
 
-===== PAGE 266 =====
 
 Notes to Pages 83-88 199
 
@@ -10810,7 +10548,6 @@ Apostleship of St. Paul,”
 10.24 MaHomer: founder and principal Prophet of the Islamic religion, also
 known as Muhammad or Mohammed (c. aD 570—632).
 
-===== PAGE 267 =====
 
 200 Notes to Pages 88—go
 
@@ -10866,7 +10603,6 @@ the Jansenist miracles.
 10.27 Jesuits: members of the Society of Jesus founded by Ignatius Loyola
 (1491~1556), a Roman Catholic order committed to serving the Pope
 
-===== PAGE 268 =====
 
 Notes to Pages 90-94 201
 and noted for its intellectual orientation and for its commitment to education and missionary work. The Jesuits set up many colleges including
@@ -10920,7 +10656,6 @@ Catholic).
 10.40 Pentateuch: the first five books of the Hebrew Bible, namely Genesis,
 Exodus, Leviticus, Numbers, and Deuteronomy.
 
-===== PAGE 269 =====
 
 202 Notes to Pages 95-97
 
@@ -10973,7 +10708,6 @@ speculation, since such speculation does not really have its alleged
 ‘pernicious consequences’, being instead ‘entirely indifferent to the
 peace of society and security of government’.
 
-===== PAGE 270 =====
 
 Notes to Pages 98111 203
 
@@ -11033,7 +10767,6 @@ Enquiry’s argument is summarized in the Introduction above, pp. liii—liv.
 
 12.10 cavils: quibbling arguments.
 
-===== PAGE 271 =====
 
 204 Notes to Pages 112-118
 
@@ -11092,7 +10825,6 @@ above) for Cleanthes’ doubts about the cogency of this recommendation.
 12.25 methodized and corrected: see pp. lv—lvi of the Introduction for a sketch
 of how this approach to science might work.
 
-===== PAGE 272 =====
 
 Notes to Pages 119—120 205
 
@@ -11145,7 +10877,6 @@ atheistic books. Perhaps Hume is suggesting here that the wrong books
 have been destroyed, bearing in mind that Section XII started with a
 comment on atheism.
 
-===== PAGE 273 =====
 
 206 Notes to Pages 121-124
 HUME’S ENDNOTES
@@ -11197,7 +10928,6 @@ morality as depending on Platonic ideas (rather than the Hobbesian
 state). His daughter Damaris, as Lady Masham, was a close friend of
 Locke and corresponded with Leibniz.
 
-===== PAGE 274 =====
 
 Notes to Pages 124-128 207
 
@@ -11252,7 +10982,6 @@ Jansenists.
 MoLINIsT . . . Madamoiselle le FRANC: Molinism, the theological
 system of the Spanish Jesuit Luis de Molina (1535—1600), was strongly
 
-===== PAGE 275 =====
 
 208 Notes to Page 12
 supported by the French Jesuits in opposition to the predestinarian
@@ -11298,7 +11027,6 @@ posthumous benefits of belief (i.e. heaven), and costs of unbelief (i.e. hell).
 RACINE: Jean Racine (1639-99), educated at Port-Royal, was one of
 the most celebrated seventeenth-century French dramatists (along with
 
-===== PAGE 276 =====
 
 Notes to Pages 129-131 209
 Moliére and Corneille). His Abrégé de l'histoire de Port-Royal reports
@@ -11348,7 +11076,6 @@ nothing’, hence anything that exists must have a cause of its
 existence. Hume famously discussed this causal maxim in Treatise 1.3.3,
 concluding that it could not be proved intuitively or demonstratively,
 
-===== PAGE 277 =====
 
 210 Notes to Page 177
 though he evinced (both there and in other sources) a belief in the
@@ -11394,7 +11121,6 @@ well be benevolent as well as self-directed; indeed both Butler and
 Hume are emphatic that humans are naturally inclined towards fellow
 feeling with others, and hence concern for their well-being.
 
-===== PAGE 278 =====
 
 Notes to Pages 178-182 211
 Section IIT
@@ -11446,7 +11172,6 @@ while the Spartans were in control of Athens.
 3.17 MILTON: John Milton (1608-74), English poet and author of Paradise
 Lost, elaborating on the biblical story of creation.
 
-===== PAGE 279 =====
 
 GLOSSARY
 
@@ -11501,7 +11226,6 @@ of (1.3, 1-15, 2-2, §.22, 7.8, 7.11, antecedent prior (7.4, 11.20, 12.3)
 
 7:13, 8.4, 8.34, 12.21) appellation name (2.3, 10.12)
 
-===== PAGE 280 =====
 
 Glossary 213
 application diligence (1.5, 1.15) chimerical fanciful (see p. 1945 1.14)
@@ -11560,7 +11284,6 @@ celestial heavenly (11.16) deceitful misleading or deceptive
 chace to chase (9.2, 1.11) (1.12, 12.3, 12.22)
 check to restrain (12.24) deduct to subtract (10.4, 10.13)
 
-===== PAGE 281 =====
 
 214 Glossary
 
@@ -11631,7 +11354,6 @@ dye die (as ina game of dice) (6.2, 6.3) _ expressly directly, explicitly (10.24
 cat ate (4.16) extension spatial extent (see p. xiv;
 edict authoritative order (L.9) passim)
 
-===== PAGE 282 =====
 
 Glossary 215
 extirpate to destroy, root out hypothenuse hypotenuse: longest
@@ -11690,7 +11412,6 @@ hither here (11.9) inveterate obstinate, bitter (2.7, 11.3)
 humane tending to civilize (1.8) inviolable unbreakable (4.13, 10.20)
 husbandman farmer (8.9) irresolution hesitation (N.1)
 
-===== PAGE 283 =====
 
 216 Glossary
 
@@ -11756,7 +11477,6 @@ mount to ascend or climb (8.9, 8.22, (1.11, 1.13, 4.17, 7.27, 8.21,
 
 11.14, 11.16, 11.25) 10.25, L.6)
 
-===== PAGE 284 =====
 
 Glossary 217
 perception impression or idea prodigious enormous, magnificent
@@ -11820,7 +11540,6 @@ probable reasoning factual reasoning something) (10.5, 12.7, B.4)
 
 (see pp. xxxvii, xli; 4.19, 6.0 n. 10) reproach disgrace or censure (1.2, 5.1)
 
-===== PAGE 285 =====
 
 218 Glossary
 requisite required, necessary (passim) solidity reliability, firmness (see also
@@ -11870,7 +11589,6 @@ singly alone (8.8) (8.27, 11.27)
 soever to any possible extent (1.8) tangent straight line touching a
 solicitations persistent appeals (10.2) curve (12.18)
 
-===== PAGE 286 =====
 
 Glossary 219
 taste faculty of aesthetic discernment _unexceptionable free from
@@ -11918,7 +11636,6 @@ distinguish (2.1) wrought worked, performed
 undistinguished indiscriminate (10.24, 10.27, 10.27, L.8, L.12)
 (12.24) ye you (11.9)
 
-===== PAGE 287 =====
 
 GLOSSARIAL INDEX OF MAJOR
 PHILOSOPHERS AND PHILOSOPHICAL
@@ -11959,7 +11676,6 @@ Pyrrhonian and Academic Scepticism
 Pyrrho of Elis (c.365—270 Bc) was the best-known sceptic of antiquity,
 who supposedly had to be accompanied by friends for his own safety, since
 
-===== PAGE 288 =====
 
 Glossarial Index of Major Philosophers 221
 he saw no reason for believing that carts, precipices, or wild animals would
@@ -12004,7 +11720,6 @@ Epicurus (341-271 BC) was a materialist and atomist, accounting for our
 situation in the universe as due to the ever-changing configuration of
 atoms in the infinite void. Man lives and dies as part of this nature, with
 
-===== PAGE 289 =====
 
 222 Glossarial Index of Major Philosophers
 
@@ -12051,7 +11766,6 @@ Descartes, Malebranche, and Occasionalism
 René Descartes (1596—1650) is often called ‘the father of modern philosophy’,
 because he was so influential in the downfall of Aristotelianism. He used
 
-===== PAGE 290 =====
 
 Glossarial Index of Major Philosophers 223
 sceptical arguments to clear the ground (see above), but his own philosophy was rationalistic, aiming to build a solid edifice of knowledge on pure
@@ -12097,7 +11811,6 @@ echoes in Section VIII of the Enguiry (see §4 of the Introduction, above),
 where Hume presents a compatibilist position serving a fundamentally
 similar agenda: the legitimation of a deterministic science of man.
 
-===== PAGE 291 =====
 
 224 Glossarial Index of Major Philosophers
 
@@ -12142,7 +11855,6 @@ both by Epicurus and scepticism, he attacked Aristotle, denied innate
 ideas, emphasized sense experience as the source of all ideas and knowledge, and displayed a Lockean agnosticism about the essences of things.
 He also anticipated Hume’s views about the reason of animals, though
 
-===== PAGE 292 =====
 
 Glossarial Index of Major Philosophers 225
 whether Hume ever read him is doubtful. His most significant legacy was
@@ -12184,7 +11896,6 @@ from 1734, is commonly thought of as the second of the three classical
 ‘Continental Rationalists’ Descartes, Spinoza, and Leibniz. But this is a
 crude oversimplification, both brought about by (and in its turn promoting) the neglect of philosophers and trends that fit uneasily into that simplistic structure. It is true that Berkeley’s arguments react mainly to
 
-===== PAGE 293 =====
 
 226 Glossarial Index of Major Philosophers
 
@@ -12231,7 +11942,6 @@ Natural Philosophers (i.e. Scientists)
 
 Nicolaus Copernicus (1473~1543) was a Polish astronomer and mathematician who devised the first modern formulation of a heliocentric theory
 
-===== PAGE 294 =====
 
 Glossarial Index of Major Philosophers 227
 of the solar system (i.e. with the Sun at the centre, and Earth orbiting). His
@@ -12277,7 +11987,6 @@ Boyle improved the pneumatic engine invented by Otto Guericke, and was
 thereby enabled to make several new and curious experiments on the air as well as
 on other bodies: His chemistry is much admired by those who are acquainted with
 
-===== PAGE 295 =====
 
 228 Glossarial Index of Major Philosophers
 
@@ -12314,7 +12023,6 @@ aims to dissociate him from some of his ‘Newtonian’ followers who—
 as explained in §6 of the Introduction—tended towards occasionalism with a
 theological agenda.
 
-===== PAGE 296 =====
 
 HUME’S INDEX
 
@@ -12369,7 +12077,6 @@ really sceptics, is the reference (not included here) from ‘ScepTicisM, Religi
 passage in the Natural History of Religion where Hume alleges that ‘the conviction of the
 religionists, in all ages, is more affected than real’,
 
-===== PAGE 297 =====
 
 230 Hume's Index
 Custom or Habit the Source of Miractes, on what their Evidence is
@@ -12422,7 +12129,6 @@ Note [P] (131). their Advantages, Wonder, the Passion of, inclines us to
 71 (44). believe Miracles, 10.16 (84).
 Metaphysics, what, 1.7 (6), 1.8 (6).
 
-===== PAGE 298 =====
 
 INDEX OF MAJOR THEMES,
 CONCEPTS, AND EXAMPLES
@@ -12470,7 +12176,6 @@ easy philosophy Section I matters of fact 4.2, 12.28-34
 Evil, Problem of 8,32~3, 8.35-6 mental geography 1.13—14
 existence, proof of 12.28—29 metaphysics, see abstruse philosophy
 
-===== PAGE 299 =====
 
 232 Major Themes, Concepts, and Examples
 miracles Section X relations of ideas 4.1, 4.18, 12.27
@@ -12499,7 +12204,6 @@ proofs 6.0, 10.4~12, 10.38
 proportionality, when inferring causes vulgar, the 7.21, 8.13, 9.5, 10.21,
 12-14 10.33—343 see also philosophers
 
-===== PAGE 300 =====
 
 INDEX OF NAMES MENTIONED IN
 THE ENQUIRY
@@ -12548,7 +12252,6 @@ Elizabeth I, Queen 10.37 Lucian 10.22, 10.23, 11.2 n. 28,
 England, English 8.7, 10.37, endnote[Dt_ 11.2.0. 29
 Epictetus 5.1 Lucretius Carus, Titus 10.30 n. 26
 
-===== PAGE 301 =====
 
 234 Names Mentioned in the Enquiry
 Mahomet 10.24 Racine, Jean endnote [L.]12
@@ -12585,7 +12288,6 @@ Pyrrhonism 12.21, 12.23, 12.24, 12.25
 Zeuxis 11.13
 Quintus Curtius Rufus 8.8
 
-===== PAGE 302 =====
 
 INDEX OF REFERENCES TO
 HUME’S WORKS
@@ -12631,7 +12333,6 @@ Philosophy): 111 186
 1.6 186 tr x1, 177, 185, 187, 210
 17 xxxi 1.15 xxxii, xl, 187, 190
 
-===== PAGE 303 =====
 
 236 References to Hume's Works
 Section II (Of the Origin of Ideas): 5.3 191
@@ -12686,7 +12387,6 @@ Doubts): 8.8 195, 200
 5.1 191, 221, 222 8.9 195
 5.2 xxxix, 191 8.13. xlvii, 195
 
-===== PAGE 304 =====
 
 References to Hume’s Works 237
 8.1315 Iv 10.28 201, 205
@@ -12741,7 +12441,6 @@ Section X (Of Miracles): 11.24-6 ly
 10.27 200, 207 12.23-5 221
 10.27[L] 207-9 12.24 lv, 204, 221
 
-===== PAGE 305 =====
 
 238 References to Hume's Works
 12.25 lili, lv, 152, 204 12.29 lvi, 205

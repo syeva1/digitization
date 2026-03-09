@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Поведенческая экономика
+# Источник: Self-serving bias
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 Self-serving bias
 
@@ -8,7 +11,6 @@ Vaulina Mé
 Kozyrev Egor, Morozov Vasiliy,
 ria, Zakharov Alexander
 
-===== PAGE 2 =====
 
 Definition
 
@@ -19,7 +21,6 @@ external/random factors.
 hen people tend to attribute their
 kely to assign failures to some
 
-===== PAGE 3 =====
 
 Methods
 
@@ -27,7 +28,6 @@ e Laboratory testing
 e Neural experimentation
 e Naturalistic investigation
 
-===== PAGE 4 =====
 
 Factors and variables
 
@@ -41,7 +41,6 @@ Culture
 
 Role
 
-===== PAGE 5 =====
 
 Consequences
 
@@ -51,7 +50,6 @@ Consequences
 
 -Makes person narcissistic
 
-===== PAGE 6 =====
 
 Discovery and first researc!
 
@@ -82,11 +80,9 @@ effort, the difficulty of task and luck.
 t not only failures and victories can be reasons for person to be
 great role in it.
 
-===== PAGE 7 =====
 
 Examples
 
-===== PAGE 8 =====
 
 Business environment exar
 
@@ -107,7 +103,6 @@ sctive clients, which is why I never
 
 y dedication and perseverance are
 
-===== PAGE 9 =====
 
 Video games
 

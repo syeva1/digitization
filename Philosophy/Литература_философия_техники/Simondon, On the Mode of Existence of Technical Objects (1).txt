@@ -1,3 +1,7 @@
+# Тема: Литература_философия_техники
+# Источник: Simondon, On the Mode of Existence of Technical Objects (1)
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 On the Mode of Existence of Technical Objects
 G ilbert S imondon
@@ -146,8 +150,6 @@ The technical object thus exists as a specific type obtained at the end of a con
 II. - Conditions o f technical evolution
 What are the reasons for this convergence that manifests itself in the evolution of technical structures? A certain number of extrinsic causes no doubt exist, in par ticular those which tend to produce the standardization of spare parts and organs. Nevertheless, these extrinsic causes are not more powerful than those that tend toward the multiplication of types, appropriated for an infinite variety of needs. If technical objects do evolve toward a small number of specific types then this is by virtue of an internal necessity and not as a consequence of economic influences or practical requirements; it is not the production-line that produces standardization, but rather intrinsic standardization that allows for the production-line to exist. An effort to discover the reason for the formation of specific types of technical objects within the transition from artisanal production to industrial production would mistake the consequence for its condition; the industrialization of production is rendered possible by the formation of stable types. Artisanal production corre sponds to the primitive stage of the evolution of the technical object, i.e., to the abstract stage; industry corresponds to the concrete stage. The made-to-measure aspect one finds in the product of artisanal work is inessential; it is the result of this other, essential aspect of the abstract technical object: namely, that it is grounded in an analytical organization that always leaves the path open for new possibilities; these possibilities are the external manifestation of an internal contingency. In the confrontation between the coherence of technical work and the coherence of a system of the needs of utilization, it is the coherence of utilization that prevails, because the technical object that is made to measure is in fact an object without intrinsic measure; its norms are derived from the outside: it has not yet realized its internal coherence; it is not a system of the necessary; it corresponds to an open system of requirements.
 Conversely, during the industrial stage, the object achieves its coherence and it is the system of needs that is now less coherent than the system of the object; needs mold themselves onto the industrial technical object, which in turn acquires the power to shape a civilization. It is utilization that becomes an ensemble chiseled to
-27
-28
 (^30) ON THE MODE OF EXISTENCE OF TECHNICAL OBJECTS
 the measures of the technical object. When individual fancy calls for a customized automobile, the manufacturer can do no more than take a serial engine, a serial chassis, and externally modify some aspects, adding decorative details or externally adjusted accessories to the automobile, which is really the essential technical object: what can be made to measure are inessential aspects, because they are contingent. The type of relation that exists between these inessential aspects and the nature proper to the technical type is a negative one: the more the car is required to answer to a large number of user demands, the more its essential characteristics are encumbered with external servitude; the bodywork burdens itself with acces sories, shapes no longer correspond to the structures facilitating the best air flow. The made-to-measure aspect is not only inessential, it goes against the essence of the technical being, it is like a dead weight imposed from the outside. The carХs center of gravity rises, its mass increases.
 It is not enough, however, to claim that the evolution of the technical object occurs via a passage from an analytic order to a synthetic order, conditioning the passage from artisanal production to industrial production: even if this evolution is necessary, it is not automatic and one ought to seek the causes of this evolv ing movement. These causes essentially reside in the imperfection of the abstract technical object. Because of its analytic aspect, this object uses more material and requires more construction work; it is logically simpler, yet technically more com plicated, because it is made up of a convergence of several complete systems. It is more fragile than the concrete technical object, because the relative isolation of each system that constitutes a functional sub-system threatens, in case of its malfunction, the preservation of the other systems. In an internal combustion engine the cooling process might thus be accomplished by an entirely autono mous sub-system; if this sub-system ceases to work, the engine might deteriorate; if, on the contrary, the cooling process is the effect resulting from the solidar
@@ -1028,48 +1030,3 @@ Director: Drew S. Burk
 Production Manager: Gina Newman
 Publishing Assistant: Raines Whittaker
 Editorial Assistant: Lia Mitchell
-PDF to Markdown	12.02.2026, 09:54
-
-PDF to Markdown	12.02.2026, 09:54
-
-
-
-PDF to Markdown	12.02.2026, 09:54
-
-
-PDF to Markdown	12.02.2026, 09:54
-
-PDF to Markdown	12.02.2026, 09:54
-
-
-
-PDF to Markdown	12.02.2026, 09:54
-
-
-PDF to Markdown	12.02.2026, 09:54
-
-PDF to Markdown	12.02.2026, 09:54
-
-
-
-PDF to Markdown	12.02.2026, 09:54
-
-
-PDF to Markdown	12.02.2026, 09:54
-
-PDF to Markdown	12.02.2026, 09:54
-
-
-
-PDF to Markdown	12.02.2026, 09:54
-
-
-PDF to Markdown	12.02.2026, 09:54
-
-PDF to Markdown	12.02.2026, 09:54
-
-
-
-PDF to Markdown	12.02.2026, 09:54
-
-

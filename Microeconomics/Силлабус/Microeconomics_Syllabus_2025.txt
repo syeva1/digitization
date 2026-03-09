@@ -1,3 +1,7 @@
+# Тема: Силлабус
+# Источник: Microeconomics Syllabus 2025
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 Microeconomics – Course Syllabus 2025
 Instructor: Shahir Safi, PhD (Barcelona School of Economics)
 Course: BBA 1, Module 5

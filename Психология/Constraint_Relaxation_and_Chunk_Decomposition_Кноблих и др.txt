@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Психология
+# Источник: Constraint Relaxation and Chunk Decomposition Кноблих и др
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 ResearchGate
 
@@ -13,7 +16,6 @@ stellan ohisson Hide Haider
 University of Illinois at Chicago University of Cologne
 All content following this page was uploaded by Stellan Ohlsson on 09 April 2015.
 
-===== PAGE 2 =====
 
 Journal of Experimental Eyal: Copyright 1999 by the American Paychologial Assosiaton Jos,
 1999, Vol. 25, No. 6, 1534-1555
@@ -77,9 +79,7 @@ Giinther Knoblich, Max-Planck-Institut fir psychologische Forsch-___ by definiti
 ung, Amalienstrasse 33, 80799 Munich, Germany. Electronic mail encounter an impasse? In contrast, if he or she initially
 may be sent to knoblich @mpipf-muenchen.mpg.de. encounters an impasse, how is the problem solved? What
 
-1534
 
-===== PAGE 3 =====
 
 CONSTRAINTS, CHUNKS, AND INSIGHT 1535
 mental mechanism can explain both the occurrence of an _ ties than of redefining what to search for. To break through a
@@ -138,7 +138,6 @@ Wartenberg, 1998; Richard et al., 1993; Shultz & Lepper, cannot know which chunk
 through a locked door. In this type of situation, problem _ perceptual chunks is an automatic process (Brewer, 1988;
 solving might be less a matter of searching among possibili- | Devine, 1989; Purdue & Gurtman, 1990). If a chunk is
 
-===== PAGE 4 =====
 
 1536 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
 available in a person’s memory, he or she will automatically _ of than a problem solution that requires the decomposition
@@ -219,7 +218,6 @@ need to be decomposed to find the relevant solutions.
 Everything else being equal, a problem solution that requires Figure J. Two matchstick arithmetic problems in the format used
 the decomposition of a tight chunk is more difficult to think _in the experiments.
 
-===== PAGE 5 =====
 
 CONSTRAINTS. CHUNKS, AND INSIGHT 1537
 Constraints in Matchstick Arithmetic transformed into predictions about the relative difficulty of
@@ -293,7 +291,6 @@ straints and moves allows one to predict for any two moves _adds it again to the
 which move is easier. By considering which moves are into another, is a special case. Such a move requires the
 required to solve particular problems, these predictions are decomposition of a single numeral, but it requires the
 
-===== PAGE 6 =====
 
 1538 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
 decomposition of two chunk types: the source chunk and the _ constraints. In addition, it requires decomposition of both
@@ -366,7 +363,6 @@ I = Wl = UL. A, lower for Type B, and lowest for Type C on the first block
 of problems. Solution times in Block 1 are highest for Type
 This solution violates both the operator and tautology — C, lower for Type B, and still lower for Type A.
 
-===== PAGE 7 =====
 
 CONSTRAINTS, CHUNKS, AND INSIGHT 1539
 Table 1
@@ -428,7 +424,6 @@ solution or until they reached the time limit of 5 min. If participants
 did not solve a problem within 5 min, the trial was interrupted, and Figure 2. Cumulative solution rates for Problem Types A-C in
 they were told the solution. Block 1 of Experiment 1A.
 
-===== PAGE 8 =====
 
 1540 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
 20 the contrast between Figures 2 and 3, on the one hand, and
@@ -485,7 +480,6 @@ Time (min) eee
 Figure 4, Cumulative solution rates for Problem Types AD in Lower Q
 Block 2of Experiment 1A. wpe __UpperO ot 190300290
 
-===== PAGE 9 =====
 
 CONSTRAINTS, CHUNKS, AND INSIGHT 1541
 predicted on the basis of tightness of the chunks (Type numerals. The fact that tight chunks add an increment of
@@ -552,7 +546,6 @@ Statistic ABO the cumulative frequencies of solutions across 1-min interMdn 33 3
 Lower Q B 7 a oo experimental conditions. The predicted ordering of the
 Upper problem types held at each interval. Furthermore, problems
 
-===== PAGE 10 =====
 
 1542 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
 Table 4
@@ -603,7 +596,6 @@ Time (min) Time (min)
 Figure 5. Cumulative solution rates for Problem Types AC in Figure 6, Cumulative solution rates for Problem Types A and D in
 Experiment 1B. Experiment 1B.
 
-===== PAGE 11 =====
 
 CONSTRAINTS, CHUNKS, AND INSIGHT 1543
 
@@ -706,7 +698,6 @@ the amount of facilitation is a function of the similarity similar. We refer to 
 
 between the two tasks. Singley and Anderson (1989) refor- (with respect to Problem 1).
 
-===== PAGE 12 =====
 
 1544 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
 Finally, consider the Type A problem As expected, the participants in Experiment 2 (American students)
@@ -781,7 +772,6 @@ D
 Problem XI=M+M W+M=xl ikx=I+m I+mM=Kx
 Solution VI=M+M W+M=vVi iW=i+m I+M=IV
 
-===== PAGE 13 =====
 
 CONSTRAINTS, CHUNKS, AND INSIGHT 1545
 Table 7 80
@@ -841,7 +831,6 @@ Time (min) Time (min)
 Figure 7. Cumulative solution rates for Problem Types A-C in Figure 9. Cumulative solution rates for Problem Types A-D in
 Block 1 of Experiment 2. Block 2 of Experiment 2.
 
-===== PAGE 14 =====
 
 1546 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
 
@@ -914,7 +903,6 @@ and used ordinal tests to assess statistical significance. First, Mdn 45 48 8 18
 we analyzed the main effect of task difficulty in the first Lower Q 26 32 Fd 8
 block of problems, and then we analyzed the transfereffects, ___UpperQ 84 HBT
 
-===== PAGE 15 =====
 
 CONSTRAINTS, CHUNKS, AND INSIGHT 1547
 These differences were not due to the persistence of the | Experiment 1A. Similarity had no measurable effect on
@@ -970,7 +958,6 @@ problems were solved). that equations of the familiar regular form
 The transfer effects between the first and the second block
 of problems followed the same pattern as that observed in X=Y¥+Z
 
-===== PAGE 16 =====
 
 1548 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
 can be transformed into equations of the unfamiliar tautologi- _ tested with problems like
@@ -1042,7 +1029,6 @@ these problems, we predicted that the difference between the ype
 regular and tautological forms should have little impact on Regular-fiet 8 94
 the performance of Type A problems. This prediction can be ___Tawtology-first 8B
 
-===== PAGE 17 =====
 
 CONSTRAINTS, CHUNKS, AND INSIGHT 1549
 
@@ -1108,7 +1094,6 @@ normal. The median solution times and the lower and upper Mdn 12 18 21
 quartiles for the regular problems in both groups are shown Lower Q % 13 12
 in Table 11. The regular-first group once again replicated the __UPPeT@ 6 35M
 
-===== PAGE 18 =====
 
 1550 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
 Type C were solved significantly faster than problems of The results also support our predictions about the effects
@@ -1163,7 +1148,6 @@ A<B Yes <.001 Yes <.001 Yes <.01
 B<C Yes <.05 Yes <.01 ‘Yes <.001
 A<D Yes <.001 Yes <.001 Yes <.001
 
-===== PAGE 19 =====
 
 CONSTRAINTS, CHUNKS, AND INSIGHT 1551
 cant outcomes in the analysis of solution frequency are due Type B problems in Experiment 2 was more than 80%.
@@ -1241,7 +1225,6 @@ D()>D@) Yes <05 ‘Yes <.001 has been proposed many times under different names:
 Note. Numbers in parentheses refer to experiment numbers Variation and selective retention (Campbell, 1960), chance
 (1 = Experiment 1A; 2 = Experiment 2). permutations and configuration formation (Simonton, 1988),
 
-===== PAGE 20 =====
 
 1552 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
 generate and test (Newell & Simon, 1972), generation and _ the problems involved matches. Also, the functional fixedexploration (Finke, 1995; Finke, Ward, & Smith, 1992), and _ ness hypothesis explains why impasses arise but not how
@@ -1299,7 +1282,6 @@ arithmetic symbols. This hypothesis is plausible but cannot _ association hierar
 explain the differences among problem types with respect to _ explain why the associations needed to solve some problem
 either initial difficulty or amount of transfer because all of types are more remote than others.
 
-===== PAGE 21 =====
 
 CONSTRAINTS, CHUNKS, AND INSIGHT 1553
 The related differential recall hypothesis claims that task 9.1, p. 284). The constraint construct is also useful in
@@ -1360,7 +1342,6 @@ be destroyed. The source of this constraint in everyday life is 5 There are N di
 obvious. Isaak and Just (1995) specified the constraints that three pegs. Move the stack to another peg by moving one disk at a
 need to be relaxed for 21 different insight problems (Table __ time and without ever putting a larger disk on a smaller one.
 
-===== PAGE 22 =====
 
 1554 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
 problem by relaxing constraints; decomposing chunks; and, tions to creative problem solving: Converging evidence for
@@ -1425,7 +1406,6 @@ Finke, R., Ward, T., & Smith, S. (1992). Creative cognition. instructions and pr
 Cambridge, MA: MIT Press. Experimental Psychology: Learning, Memory, and Cognition,
 Fiore, S. M., & Schooler, J. W, (1998). Right hemisphere contribu- 11, 804-811.
 
-===== PAGE 23 =====
 
 CONSTRAINTS, CHUNKS, AND INSIGHT 1555
 

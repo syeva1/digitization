@@ -1,3 +1,7 @@
+# Тема: Ридинг_блок_2
+# Источник: 5 - Behavioural Insights Team - EAST - Four simple ways to apply behavioural insights - Revised and updated edition
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 
 Contents
@@ -95,14 +99,9 @@ Box 1.2: Reducing friction to increase TB drug adherence in Moldova
 Moldova had some of the highest incidences of drug-resistant TB in the world, in part due to low drug adherence. One of the main barriers was that patients were required to take pills daily in the presence of a medical professional to ensure compliance, which was costly in terms of time and money for both the patient and the healthcare system. 
 In 2016, BIT ran a randomised trial with United Nations Development Programme Moldova to help solve this problem. We found that allowing patients to record a video of themselves taking their pills, and then submitting it to a medical professional for verification, increased observed drug adherence rates from 44% to 84%. This simple change massively reduced the effort patients needed to make Р and now, all TB patients in Moldova benefit. Our results led to the standard drug adherence process being changed to include self-taped video submissions.25
 Chart 1: Observed patience adherence to TB medication
-100
 ***
-80
 84.17
-60
-40
 43.88
-20
 0
 	Directly-observed treatment	Virtually-observed treatment
 n = 14,699 (for 178 patients) *** p < 0.01, ** p < 0.05, *** p < 0.1
@@ -190,7 +189,6 @@ People may also be motivated by the new meanings and narratives that games bring
 Gamification may not always benefit those playing. BITХs work with the Ontario Securities Commission showed that gamification tactics had a strong impact on inexperienced financial investors. Giving investors nominal ФpointsХ for buying or selling stocks increased trading frequency by 39% in a simulated environment. On average, this is a bad strategy for these investors.78
 Chart 3: Impact of gamification on number of trades made in simulated environment
  
-30
 
 
 
@@ -199,8 +197,6 @@ Chart 3: Impact of gamification on number of trades made in simulated environmen
 
 18.44
 ***
-20
- 10
 0
 	Control	Points
 n = 2,480 *** p < 0.01, ** p < 0.05, *** p < 0.1
@@ -251,14 +247,6 @@ A study looked at how social connections can be used to increase multivitamin us
 In the nominated-friends-targeted villages, 74.3% of multivitamin tickets were redeemed, compared to 66.2% in randomly-targeted villages and 61.0% in those where people with the most social ties were given tickets. Targeting the most connected individuals did not improve adoption rates compared to random targeting.117 
 A more recent study in the same region with 24,072 people in 176 villages looked at how to spread health-promoting behaviours for mothers and children. It confirmed that, when measured two years later, the friend-nomination approach was more effective than random targeting.118 A similar approach has been shown to be effective at increasing vaccination rates in Haryana, India.119 
 Chart 5: Effect of different targeting approaches on spread of multivitamin usage
-80
-70
-60
-50
-40
-30
-20
-10
 0
 	Nominated friends	Random targeting	Social ties targeting
 This field is developing and is still contested. In broad terms, what seems clear is that itХs important to consider the kind of network and the type of behaviour being spread. More complex networks are more likely to see non-linear change, for example when a Фtipping pointХ is reached and a behaviour is suddenly adopted rapidly and widely.120 Knowledge of how to identify and use tipping points is not yet mature, though.121 One influential view is that we need to distinguish between simple and complex contagions. Simple contagion is where spread can happen from a single contact, like the transmission of a virus or exposure to an idea. Complex contagion is where someone needs reinforcement from many different contacts for adoption to occur.122 People need to get prompted repeatedly from people in their network.123 
@@ -300,7 +288,6 @@ Timing is an often-overlooked aspect of the decision-making process. While peopl
 Timing matters. The same offer made at different times can have varying effects. The explanation behavioural science provides is that peopleХs actions can be greatly affected by the context Р whether they realise it or not. Here, we consider the impact of the immediate period before an action, the time of day, the time of week, and the time of someoneХs life. 
 Many interventions have been based around prompts that are delivered around the moment of decision. Timely prompts can ensure that a certain choice or goal is salient when people are acting or deciding whether to act. For example, BIT introduced prompts for employers to include flexible working options during the process of posting positions on the job site, Indeed. These prompts led to a 20% increase in the number of jobs advertised as flexible Р and these jobs attracted up to 30% more applicants.141 
 Chart 7: Effect of timely prompts on probability of including flexible work options in job postings
-50
 
 
 
@@ -321,10 +308,6 @@ Chart 7: Effect of timely prompts on probability of including flexible work opti
 
 36.4
 	***	***	***
-40
-30
-20
-10
 0
 	Control	Prompted choice	PC + Legal 	PC + Gender 
 	(PC)	right	equality
@@ -375,7 +358,6 @@ Behavioural pitfall 3: Why behaviour is different from intentions, beliefs or at
 Changing behaviour is different from changing peopleХs intentions, beliefs or attitudes. The latter often shape our behaviours, but not necessarily directly or in ways that we might expect. When asked to report their past behaviour, people can make errors. In 2008, the UKХs Physical Activity and Fitness Survey both asked people how much they exercise and measured how much they actually did.173 As the chart below shows, there was a considerable gap between the two.
 Chart 9: Gap between physical activity levels measured by self-reports and accelerometers
  
-45
 
 At the same time, people often state an intention to do something that they do not follow through on, a tendency called the Фintention-action gapХ. A large proportion of people who respond positively when asked if they intend to exercise fail to actually do so.174 
 There is an ongoing debate about the value of self-reports Р they may be a good option in some cases.175 As a general rule, though, itХs important to be aware of the gap that can emerge between different measures and to assess the assumptions youХve made about the ones youХve chosen. 

@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Поведенческая экономика
+# Источник: Introduction
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 Behavioral
 
@@ -13,7 +16,6 @@ uction
 
 Dr. Alexander Usvitskiy
 
-===== PAGE 2 =====
 
 Experimental and Behavi
 
@@ -42,7 +44,6 @@ mental Economics (i.e., why is there
 
 uish between the two
 
-===== PAGE 3 =====
 
 Experimental and Behavi
 
@@ -66,7 +67,6 @@ urce management!
 
 1 for the existence of economics (as
 
-===== PAGE 4 =====
 
 Experimental and Behavi
 
@@ -91,7 +91,6 @@ yral consideration
 
 5” will be inevitable observed
 
-===== PAGE 5 =====
 
 Experimental and Behavi
 
@@ -119,7 +118,6 @@ es of the existing theories
 luently comes from the experiments,
 2sting (and fine-tuning) the models
 
-===== PAGE 6 =====
 
 Experimental and Behavi
 
@@ -154,7 +152,6 @@ Organizational Theory, Management, Marketing, etc
 
 as Development Economics (we will discuss them later)
 
-===== PAGE 7 =====
 
 Behavioral Economics
 
@@ -168,7 +165,6 @@ Basic st
 
 >hedule
 
-===== PAGE 8 =====
 
 Behavioral Economics
 
@@ -194,7 +190,6 @@ ental Economics
 ral Choice
 ferences
 
-===== PAGE 9 =====
 
 Behavioral Economics
 
@@ -222,7 +217,6 @@ Course total = 1
 25%
 00%
 
-===== PAGE 10 =====
 
 Behavioral Economics
 
@@ -240,6 +234,5 @@ oO 0 0
 
 son time
 
-===== PAGE 11 =====
 
 e we proceed?

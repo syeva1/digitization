@@ -1,3 +1,7 @@
+# Тема: Тема_ИИ_в_коммуникации
+# Источник: 17.09.2025 ИИ BBA
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 Название документа:
 Курс: Коммуникации, основанные на данных
 Структура и технологии в коммуникациях
@@ -10,9 +14,7 @@
 17 сентября 2025
 
 Общее количество слайдов: 19
---------------------------------------------------
 
-=== Slide 01 ===
 Курс:
 Коммуникации, основанные на данных
 Структура и технологии в коммуникациях
@@ -26,13 +28,11 @@ EQUIS Accredited
 Автор: Людмила Евстратова
 Дата: 17 сентября 2025
 
-=== Slide 02 ===
 Искусственный интеллект не заменит людей, но их заменят другие люди, которые умеют использовать искусственный интеллект.
 
 Цитата (IBM):
 ФManagers that use AI will replace those that do not,” IBM executive says
 
-=== Slide 03 ===
 Прекратите нанимать людей
 
 Ссылки:
@@ -43,7 +43,6 @@ The Story Behind the ФStop Hiring Humans” Billboards in San Francisco
 Описание:
 A controversial billboard campaign in San Francisco featuring the provocative message ФStop Hiring Humans” generated millions of impressions, sparked heated debate, and drove $2M in new ARR for Artisan.
 
-=== Slide 04 ===
 Кейс Shopify:
 Докажите, что ИИ не может что-то сделать, прежде чем нанять человека
 
@@ -61,7 +60,6 @@ A controversial billboard campaign in San Francisco featuring the provocative me
 
 Ссылка:
 
-=== Slide 05 ===
 Кейс Сбербанк:
 Сбер. AI – обязателен
 
@@ -74,7 +72,6 @@ A controversial billboard campaign in San Francisco featuring the provocative me
 
 Ссылка:
 
-=== Slide 06 ===
 История ИИ (Timeline):
 
 1950 Ч Turing Test
@@ -93,7 +90,6 @@ A controversial billboard campaign in San Francisco featuring the provocative me
 2016 Ч Tay
 2017 Ч AlphaGo
 
-=== Slide 07 ===
 Неудачный кейс: Microsoft's Tay chatbot
 
 Описание:
@@ -109,7 +105,6 @@ A controversial billboard campaign in San Francisco featuring the provocative me
 Результат:
 Microsoft закрыла бота в течение 24 часов, получив репутационный ущерб.
 
-=== Slide 08 ===
 AlphaGo vs Ли Седоль
 
 Матч:
@@ -124,7 +119,6 @@ AlphaGo использовала глубокие нейронные сети и
 
 Ссылки:
 
-=== Slide 09 ===
 Как меняется наша речь
 
 Статья:
@@ -132,7 +126,6 @@ ChatGPT Is Changing the Words We Use in Conversation
 
 Ссылка:
 
-=== Slide 10 ===
 Sam Altman says people are starting to talk like AI
 
 Тезис:
@@ -140,7 +133,6 @@ Sam Altman says people are starting to talk like AI
 
 Ссылка:
 
-=== Slide 11 ===
 Трансформация речи / Delve into
 
 После запуска ChatGPT меняются частоты слов в разговорах, а не только в текстах.
@@ -153,7 +145,6 @@ commendable Ч похвальный
 
 Ссылка:
 
-=== Slide 12 ===
 Empirical evidence of Large Language ModelТs influence on human spoken communication
 
 Источник:
@@ -164,7 +155,6 @@ arXiv
 Указание:
 Страница 4
 
-=== Slide 13 ===
 Delving into PubMed Records
 
 Тезис:
@@ -175,7 +165,6 @@ medRxiv
 
 Ссылка:
 
-=== Slide 14 ===
 ИИ приводит к стандартизации языка
 
 Исследования:
@@ -189,7 +178,6 @@ medRxiv
 
 Ссылка:
 
-=== Slide 15 ===
 Креативность
 
 Источник:
@@ -204,7 +192,6 @@ GPT-4 против 200 студентов MBA
 
 Страница: 80
 
-=== Slide 16 ===
 Культурный код искусственного интеллекта
 
 Лаборатория ИИ МШУ Сколково
@@ -214,7 +201,6 @@ GPT-4 против 200 студентов MBA
 
 Ссылка:
 
-=== Slide 17 ===
 Ненадлежащее и беспечное использование ИИ в работе
 
 Нарушение политик:
@@ -240,7 +226,6 @@ KPMG & University of Melbourne, 2025, стр. 76
 
 Ссылка:
 
-=== Slide 18 ===
 Практикум
 
 Задания:
@@ -256,7 +241,6 @@ KPMG & University of Melbourne, 2025, стр. 76
 
 Ссылки:
 
-=== Slide 19 ===
 Театр Маяковского
 Сцена на Сретенке
 

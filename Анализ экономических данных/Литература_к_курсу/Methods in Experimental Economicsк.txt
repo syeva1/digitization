@@ -1,3 +1,7 @@
+# Тема: Литература_к_курсу
+# Источник: Methods in Experimental Economicsк
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 Springer Texts in Business and Economics
 Methods in
@@ -45,7 +49,6 @@ We very much hope that our book will be put to use in teaching and that it will 
 Joachim.Weimann@ovgu.de and
 Jeannette.Brosig-Koch@ibes.uni-due.de
 About This Book
-IX
 1 The Study of Behavior Contents
 1.1 Introduction 1.2 Normative Theory and Behavioral Economics
 1.3 The History of Economic Experiments
@@ -1689,7 +1692,6 @@ Horton, J. J., Rand, D. G., & Zeckhauser, R. J. (2011). The online laboratory: C
 Chapter 3 ? Experimental Practice
 © Springer Nature Switzerland AG 2019
 J. Weimann, J. Brosig-Koch, Methods in Experimental Economics, Springer Texts in Business and Economics, https://doi.org/10.1007/978-3-319-93363-4_4
-169
 The Experiment from a
 Statistical Perspective
 4.1 Introduction 4.2 Operationalizing the Research Question
@@ -2076,8 +2078,6 @@ If two of the four factors are given, the fourth remaining factor can be calcula
 needed to correctly identify it as being ТpresentУ with a probability of 80%?
 Let us start with the simplest case, the example from the previous section. There, a single sample of group size n = 25 was drawn. Now we will test H 0 : ? = 0.4 versus H 1 : ? = 0.5 (right-tailed). The population variance of the normally distributed allocations is again ?^2 = 0.25, or ? = 0.5, with an unknown population mean ?. We determined the power by calculating the probability density of the H 1 sample distribution in the rejection region of the H 0 sample distribution. The critical value of the null distribution was c = 0.565. If Fx () 01 ;;ms/ np =Ј() xx 0 denotes the cumulative distribution function of the sample distribution, which specifies the probability of the event x І x 0 for a given quantile x 0 , then the following applies to the power in our example
 11 10564505
-05
-25
 -=- 1 02595 259
 
 Ц=-
@@ -2225,7 +2225,6 @@ The 36 students in his course obtained an average score of x =82 from the values
 -
 = n Sxx.
 and thus s == 139 .. 77 1182. This is quite a good estimate, because the true value was ? = 12 points. The estimated standard error is then SE ==^1182
-36
 . 19. 7 and the test statistic is
 t = (82Р78)/1.97 = 2.03. If the degrees of freedom v = n — 1 = 35 and the value of the test statistic t = 2.03 are entered in the t distribution of PQRS,. Fig. 4.18 results. The p-value is 2.5% < 5% and we reject H 0 : ?  = 78 at a significance level of 5%.
 4.6.5 t-Test for Two Independent Samples
@@ -2275,7 +2274,6 @@ The following also applies
 S
 (^1) nn
 2 12 12
-11
 =+
 
 4.6 ? Choosing Statistical Tests
@@ -2284,8 +2282,6 @@ S
 S
 (^2) nn
 2 22
-12
-11
 =+
 
 1
@@ -2333,7 +2329,6 @@ The value 9.5 occurs a total of four times. The mid-rank in this case is (20 + 1
 If n 1 or n 2 are greater than 20, the null distributions of both variants can be approximated by a normal distribution with
 
 1
-12
 =
 
 The test statistic R* can then be transformed into standard normally distributed z-values in the usual way.
@@ -2438,7 +2433,6 @@ The test statistic B is the number of successes in a Bernoulli trial repeated n 
 p xnp
 
 with this providing the probability of success x-times in n trials with a probability of success of p. For example, the density function value ? (3, 10, 0.5) =
-10
 3
 053105103
 
@@ -2483,13 +2477,10 @@ Chapter 4 ? The Experiment from a Statistical Perspective
 231 4
 colorУ. After counting out the classes, we get the absolute frequencies x 1 = 5, x 2 = 8 and x 3 = 7 and the empirical probabilities p 1
 5
-20
 
 8
-20
 
 7
-20
 =.
 If x is the vector of the absolute frequencies of a class and p is the vector of the true probability of being in a certain class, then the null distribution (multinomial distribution) is
 
@@ -2499,7 +2490,6 @@ For example, if in Germany exactly 30% of all people are blonde, 40% black-haire
 
 03 5
 04 8
-03
 7
 003475
 
@@ -2920,9 +2910,7 @@ Box 4.5 SimpsonХs Paradox: It Depends on How You Look at It
 Let us assume we want to estimate the relationship between the blood alcohol content (in per mille) and driving ability. Driving ability is measured in the distance in meters covered without collision in a vehicle in an obstacle course. We invite three participants, Anne, Bob and Cindy, who each complete the course with 5 different blood alcohol levels. The data set pooled across all three individuals can be seen in the left part of. Fig. 4.43. If we carried out a linear regression, this would result in a rising regression line, which suggests that roadworthiness increases with increased alcohol consumption.
 This false conclusion results from the failure to take account of the heterogeneity between individuals. In fact, all three subjects have a negative correlation between alcohol and driving ability (see the right-hand side of. Fig. 4.43). It is only by chance that the subjects have particular individual characteristics that cause slight differences in the negative slopes and greater differences in the intercepts. For example, Cindy might have a particularly efficient liver, which ensures that she is still relatively roadworthy even with a relatively high level of alcohol consumption. Therefore, her regression line is at a particularly high level in comparison to the others. What is also not observable but nevertheless relevant for the individual intercepts is what the subjects ate before the experiment and how much. Anne might have had an empty stomach during the test, for example, whereas Cindy may have eaten a tuna pizza with double cheese beforehand. It is therefore possible that strong heterogeneity between the groups may lead to aggregated and individual views of the data resulting in contradictory statements. This phenomenon goes back to Simpson (1951) and is therefore called SimpsonХs Paradox.
 0 0 0.4 0.8 alc. 1.2
-20
 40 meter 60
-80
 
 . Fig. 4.43 Illustration of SimpsonХs paradox. Pooled data are on the left and individual regressions on the right
 
@@ -2959,9 +2947,7 @@ Having chosen to model the different contribution levels using a random effect w
 
 (^40) Р26.36
 Р0.82
-20
 0
-024
 time contrib 68
 . Fig. 4.45 Splitting the total deviation of subject 3 at time 2 into a between-group part and a within-group part
 4.7 ? Statistical Models
@@ -2986,9 +2972,6 @@ The individual contribution level ai is now not only explained using the random 
 . Figure 4.46 illustrates how this model works. The dashed lines show the regression line at the population level (thick) and the random effect deviations (thin) of the women, while those of the men are solid. We see that the womenХs estimation line is above that of men. This suggests that women on contribute more than men. If we were to once again repeat the experiment with new subjects, the trajectories would not change completely randomly in a vertical direction, in contrast to a pure random effects model at
 
 
-20
-30
-40
 
 . Fig. 4.46 Modeling the differences in level of the contributions using the fixed effect gender and a random effect (model B). The trajectories of the women are shown dashed and the trajectories of the men are solid
 
@@ -3016,9 +2999,6 @@ Chapter 4 ? The Experiment from a Statistical Perspective
 Last but not least, we might wonder whether the variations in the slopes also need to be explained. To this end, we will introduce another random effect, using model B as a starting point, to explain the slope at level 2. We thus have model D:
 . Table 4.29 Estimation results of model C
 
-20
-40
-60
 
 . Fig. 4.47 Graphical representation of model C (left) and model D (right). In model C, the treatment ТMPCR lowУ is gray and the treatment ТMPCR highУ is black
 4.7 ? Statistical Models
@@ -3043,9 +3023,6 @@ For the sake of completeness, the variation of the slope can also be modeled usi
 4
 Population-averaged models are often estimated using the generalized estimating equations (GEE) method (Liang and Zeger 1986). The idea behind this is to extend the estimation of generalized linear models (GLMs) so that it can also be applied to longitudinal data and the associated within-subject dependence of the observations. For this purpose, an a priori correlation structure of the observations between two points in time is defined, with this describing the dependency of the observations over time as well as possible. Assuming we consider three points in time t over which an individual was measured, and ? denotes the correlation measure between the observations of two points in time, then different correlation structures can be depicted as a matrix:
 1. Independent: The observations of any two points in time have no correlation.
-100
-010
-001
 ?
 
 Ц
@@ -3209,7 +3186,6 @@ J. Weimann, J. Brosig-Koch, Methods in Experimental Economics, Springer Texts in
 Supplementary
 Information
 Appendix — 290 Index — 303
-290
 Appendix
 A.1 A Basic Game-Theoretical Concepts A.1.1 Game Theory
 Game theory is concerned with the analysis of strategic interactions. Such an interaction exists when actors mutually influence the utility they can gain in a decision-making situation through the decisions they make. We will consider a strategic interaction between two players A and B as an example. Both have a predefined number of possible actions that they can take in a particular situation. Both players want to maximize their own utility by choosing the best action they can take, but the question of what action is best for player A depends on what action player B takes, and the best action for player B depends on what A does. This interdependence is the strategic interaction. For example, A and B could be companies operating on the same market. The question of which price A should choose to maximize its profit depends on which price B chooses. Similarly, the choice of the maximum profit price of B depends on which price A sets. Game theory analyzes such strategic interactions from the perspective of a normative theory, i.e. it does not ask how real persons will probably behave in a strategic interaction, but rather assumes that the players behave strictly rationally and (expected) utility-maximizing, and examines which equilibria (see 7 Sect. A.1.3) arise under this premise. The behavioral assumptions that game theory makes are very extensive. Not only does it require players to always choose the action that gives them the highest payoff (measured as utility), it also assumes that players
@@ -3270,7 +3246,6 @@ The dictator game is similar to the ultimatum game, but it does not allow the re
 A.2.4^ The Trust Game Experiment and The Gift- Exchange Experiment
 
 Appendix
-298
 The subgame perfect equilibrium of this game is easy to determine by means of backward induction. At the second stage, the trustee has no reason to give anything back to the trustor, because his dominant strategy is to choose ? = 0, since any positive ? reduces his payoff. The best response the trustor can have to this strategy is to choose ? = 0, i.e. not to give anything to the trustee. This means that there is no allocation in equilibrium and thus no efficient solution that can be achieved by tripling the amount of the allocation. In equilibrium, therefore, the payoff is the same for both players A. Were the trustor to send all his initial endowment to the trustee, the total payoff to both players would be 4A. If the trustee were then to return 2A to the trustor, both players could double their payoffs compared to the equilibrium by showing trust (first mover) and by being trustworthy (second mover). The sequential structure of the trust game creates scope for reciprocal behavior. This means that people react to other people acting ТnicelyУ by being ТniceУ themselves and are prepared to punish people who have harmed them. The trust game experiment shows that reciprocity can certainly lead to efficiency gains. Closely related to the trust game experiment and directly targeting reciprocal behavior is the gift-exchange game experiment, which has been investigated mainly by Fehr et al. (e.g. 1998). This experiment normally has a very special frame, with it being presented as a game between employers and employees. The subjects representing the employers make wage offers to the employees. The employees choose from the offers and then decide on the work effort they want to make in return for their wages. This effort incurs costs, i.e. the more effort workers put in for a given wage, the lower their payoff and the higher the employ-
 
 A.2.5^ Market Experiments
@@ -3460,7 +3435,6 @@ Prospect theory 12, 13, 20
 Public good game 64, 96, 98, 113, 116, 255, 259, 261, 295, 296
 
 Index
-306
 R
 Random disturbance 245, 264, 267, 269, 270
 Random effect 245Р247, 269, 272Р275, 278, 280
@@ -3527,94 +3501,4 @@ V
 Validity external 4, 5, 23, 28, 48, 80, 82, 125, 135, 182, 184 internal 3, 22, 28, 82, 134 Variable dependent 172, 175, 176, 178, 184, 186, 188, 206, 248Р255, 259, 261, 262, 281Р285 to be explained 250, 254, 255 explanatory 30, 177, 244, 246, 249, 250, 254, 271, 282 independent 172, 175, 250, 258, 262 latent 285 limited 281, 283 uncontrolled 176
 Variance 75, 191, 196, 197, 202, 203, 209, 212, 217,
 221, 247, 271, 274
-
-PDF to Markdown	25.01.2026, 17:46
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-PDF to Markdown	25.01.2026, 17:46
-
-PDF to Markdown	25.01.2026, 17:46
-
-
-
-PDF to Markdown	25.01.2026, 17:46
-
 

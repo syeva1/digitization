@@ -1,3 +1,7 @@
+# Тема: Эвристики_и_искажения
+# Источник: Anchoring effect
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 Anchoring effect
 
 Document title: Anchoring effect
@@ -9,9 +13,7 @@ Zimin Maxim
 
 Total slides: 12
 
---------------------
 
-=== Slide 01 ===
 Anchoring effect
 
 Team A:
@@ -19,7 +21,6 @@ Chumakov Andrey
 Prohorov Roman
 Zimin Maxim
 
-=== Slide 02 ===
 Introduction
 
 Anchoring effect is one the most common cognitive biases.
@@ -27,10 +28,8 @@ The essence of it is that people tend to exaggerate the
 importance of previous information when making decision
 even if this information is not connected to current situation.
 
-=== Slide 03 ===
 One illustrative example
 
-=== Slide 04 ===
 “Fathers” and development
 
 First notion – by Slovic (1967), who studied descriptions of
@@ -40,7 +39,6 @@ Anchoring-and-adjustment heuristics by Tversky and
 Kahneman (1974) in their pioneering work on judgment
 under uncertainty [2]
 
-=== Slide 05 ===
 Classical Experiment
 
 Two randomly generated numbers between 10 and 65
@@ -53,7 +51,6 @@ among the UN members?
 
 Average answers were 25% and 45% accordingly. [1]
 
-=== Slide 06 ===
 Our Research
 
 Questions:
@@ -66,13 +63,11 @@ Is the length of the Bosphorus greater or less than 78 km?
 And what is its length in your opinion?
 10 answers, average – 60.7 km
 
-=== Slide 07 ===
 Reasons of anchoring effect
 
 There are two things which leads to anchoring.
 They are associated with two different systems of our brain:
 
-=== Slide 08 ===
 Anchoring effect as an attempt of adjustment
 
 From this side this effect is a strategy for estimating
@@ -82,7 +77,6 @@ own assessment, mentally «departing from the anchor».
 But we usually start to doubt at some moment
 (Eldar Shafir and Tom Gilovich proved it)
 
-=== Slide 09 ===
 Anchoring as a part of priming effect
 
 System 1 understands sentences and tries to make them
@@ -91,7 +85,6 @@ whole set of mistakes, making us prone to a belief in any
 of our ideas (Thomas Mussweiler and Fritz Strack
 demonstrated it)
 
-=== Slide 10 ===
 Anchoring index
 
 The anchoring effect can be measured, which is very rare
@@ -103,11 +96,9 @@ it.
 
 55% – is a typical result
 
-=== Slide 11 ===
 Everyday examples:
 
 
-=== Slide 12 ===
 Literature
 
 [1] Judgment under Uncertainty: Heuristics and Biases

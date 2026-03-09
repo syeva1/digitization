@@ -1,15 +1,16 @@
+# Тема: Эвристики_и_искажения
+# Источник: Decoy effect
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 Document title: Decoy Effect
 Total slides: 17
 
---------------------------------
 
-=== Slide 01 ===
 what is the decoy effect?
 
 or attraction effect
 or asymmetric dominance effect
 
-=== Slide 02 ===
 choose:
 
 tea
@@ -24,7 +25,6 @@ tea
 610 ml
 $7,5
 
-=== Slide 03 ===
 • it is a sale strategy that aims to manipulate the buying preference of the consumers
 
 option 1  <-->  option 2
@@ -32,12 +32,10 @@ change in perceived preferences
 
 option 3
 
-=== Slide 04 ===
 in classical theory we have:
 
 1. independence of irrelevant alternatives
 
-=== Slide 05 ===
 in classical theory we have:
 
 2. regularity
@@ -46,10 +44,8 @@ in classical theory we have:
 30%    50%
 20%
 
-=== Slide 06 ===
 decoy effect violates it
 
-=== Slide 07 ===
 experiment of Dan Ariely at MIT
 
 • web-only - $59
@@ -59,7 +55,6 @@ experiment of Dan Ariely at MIT
 • print-only - $125
 • web+print - $125
 
-=== Slide 08 ===
 experiment of Dan Ariely at MIT
 
 • web-only - $59
@@ -71,7 +66,6 @@ experiment of Dan Ariely at MIT
 
 68%        84%
 
-=== Slide 09 ===
 value ↑
 
 • a little bit better
@@ -86,14 +80,12 @@ option
 target
 decoy
 
-=== Slide 10 ===
 1981–1982 - Adding Asymmetrically Dominated Alternatives: Violations of Regularity and the Similarity Hypothesis
 
 Joel Huber
 John Payne
 Christopher Puto
 
-=== Slide 11 ===
 examples
 
 IKEA’s “backoff” range
@@ -104,7 +96,6 @@ KULLEN
 MALM
 €59,90
 
-=== Slide 12 ===
 examples
 
 Select a new subscription that’s best for you:
@@ -123,19 +114,16 @@ Extended Weekend (Fri-Sun) for $2.50
 Weekday (Mon-Fri) for $4.99
 Daily Delivery (7 days) for $4.99
 
-=== Slide 13 ===
 how to avoid it?
 
 when making purchasing decisions
 
-=== Slide 14 ===
 how to avoid it?
 
 when making purchasing decisions
 
 1. don’t decide based on your gut feeling
 
-=== Slide 15 ===
 how to avoid it?
 
 when making purchasing decisions
@@ -143,7 +131,6 @@ when making purchasing decisions
 1. don’t decide based on your gut feeling
 2. get suspicious about a set of 3 choices
 
-=== Slide 16 ===
 how to avoid it?
 
 when making purchasing decisions
@@ -152,7 +139,6 @@ when making purchasing decisions
 2. get suspicious about a set of 3 choices
 3. define your deciding factors ahead of time
 
-=== Slide 17 ===
 how to avoid it?
 
 when making purchasing decisions

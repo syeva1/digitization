@@ -1,11 +1,13 @@
-===== PAGE 1 =====
+# Тема: Методы_и_методология
+# Источник: Moscow PersonalityTest
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 Self-Scoring | 7x6
 Personality
 T!IMIIIMMNIMNNM Tests
 Victor Serebriakoff
 
-===== PAGE 2 =====
 
 Published by Sterling Publishing Co., Inc.
 
@@ -37,7 +39,6 @@ Printed in the U.S.A.
 
 All rights reserved
 
-50
 
 For information about custom editions, special sales, premium and
 corporate purchases, please contact Sterling Special Sales Department
@@ -48,7 +49,6 @@ Disclaimer:
 These tests are not meant to replace a professional examination. The accepted view is
 that the only valid test is an individual test administered by a qualified professional.
 
-===== PAGE 3 =====
 
 PERSONALITY FACTORS
 veryone has different behavior patterns that vary from time to time with mood changes,
@@ -76,9 +76,7 @@ attention to psychometrics, which, without prejudice, can help us know ourselves
 when we have taken the measure of our personalities can we get the most out of them.
 
 —Victor Serebriakoff
-1996
 
-===== PAGE 4 =====
 
 Take all four tests first, then use the key on pages 19-23 to interpret your scores.
 PERSONALITY FACTOR 1
@@ -114,7 +112,6 @@ companion or (B) very sociable? AorB
 (12) Would you prefer to be a traveling salesperson (B) or a bookkeeper in
 an office (A)? AorB
 
-===== PAGE 5 =====
 
 Self-Scoring Personality Tests 5
 (13) Would you describe yourself as an optimist (B) or a pessimist (A)? AorB
@@ -145,7 +142,6 @@ than most people? AorB
 working? AorB
 (4) Do you (A) or do you not (B) exercise hard every day? AorB
 
-===== PAGE 6 =====
 
 6 Self-Scoring Personality Tests
 (5) The last time you began to learn a new skill, did you (B) or did you not
@@ -176,7 +172,6 @@ person in many everyday life situations? AorB
 last year? AorB
 (20) Do you (A) or do you not (B) perspire a lot without having exercised? AorB
 
-===== PAGE 7 =====
 
 Self-Scoring Personality Tests 7
 
@@ -212,7 +207,6 @@ Now count your A’s and B’s and write down your score.
 Total score: A. B
 Now go on to the next test. Do not look at the key yet.
 
-===== PAGE 8 =====
 
 8 Self-Scoring Personality Tests
 PERSONALITY FACTOR 3
@@ -223,7 +217,6 @@ begins able images. Draw clearly but quickly. Do not bother with details. Make a
 70 7 72
 Now go on to the next test. Do not look at the key yet.
 
-===== PAGE 9 =====
 
 Self-Scoring Personality Tests 9
 PERSONALITY FACTOR 4
@@ -255,7 +248,6 @@ difficult to calm down and stop? Yes (Y) (?) No (X)
 (13) Are romantic stories among your reading material? Yes (X) (?) No (Y)
 (14) Do you take shortcuts in order to work fast? Yes (Y) (?) No (X)
 
-===== PAGE 10 =====
 
 10 Self-Scoring Personality Tests
 (15) Do you set your goals too low because you are afraid of
@@ -290,7 +282,6 @@ things in life? Yes (Y) (?) No (X)
 
 to you? Yes (Y) (?) No (X)
 
-===== PAGE 11 =====
 
 Self-Scoring Personality Tests rl
 
@@ -327,7 +318,6 @@ than love? Yes (Y) (?) No (X)
 
 climbing? Yes (X) (?) No (Y)
 
-===== PAGE 12 =====
 
 12 Self-Scoring Personality Tests
 (54) Do you win people over by telling them what they want to
@@ -364,7 +354,6 @@ what some politicians say? Yes (X) (?) No (Y)
 same time? Yes (Y) (?) No (X)
 (74) Are you inclined to be lazy? Yes (X) (?) No (Y)
 
-===== PAGE 13 =====
 
 Self-Scoring Personality Tests 13
 
@@ -399,7 +388,6 @@ relationships? Yes (Y) (?) No (X)
 (95) Do you fear boredom? Yes (Y) (?) No (X)
 (96) Are you aware of the beauty surrounding you? Yes (Y) (?) No (X)
 
-===== PAGE 14 =====
 
 14 Self-Scoring Personality Tests
 (97) Would you like to be an astronaut? Yes (Y) (?) No (X)
@@ -428,7 +416,6 @@ in a conflict? Yes (X) (?) No (Y)
 (119) Do you like to take orders? Yes (X) (?) No (Y)
 (120) Does your intuition tell you whether a person is trustworthy? Yes (X) (?) No (Y)
 
-===== PAGE 15 =====
 
 Self-Scoring Personality Tests 15
 (121) Are you easily bored? Yes (Y) (?) No (X)
@@ -458,7 +445,6 @@ Self-Scoring Personality Tests 15
 (145) Does your work keep you awake at night because you find
 it so interesting? Yes (Y) (?) No (X)
 
-===== PAGE 16 =====
 
 16 Self-Scoring Personality Tests
 
@@ -491,7 +477,6 @@ without a struggle? Yes (Y) (?) No (X)
 (167) Do you enjoy horror films? Yes (Y) (?) No (X)
 (168) In an argument, are you firm and forthright? Yes (Y) (?) No (X)
 
-===== PAGE 17 =====
 
 Self-Scoring Personality Tests 17
 (169) | Are you mechanically minded? Yes (Y) (?) No (X)
@@ -521,7 +506,6 @@ in a restaurant? Yes (X) (?) No (Y)
 (189) Do you like autobiographies? Yes (Y) (?) No (X)
 (190) Do you put your interests first? Yes (Y) (?) No (X)
 
-===== PAGE 18 =====
 
 18 Self-Scoring Personality Tests
 (191) | Would you hesitate before shooting a burglar? Yes (X) (?) No (Y)
@@ -547,7 +531,6 @@ in a restaurant? Yes (X) (?) No (Y)
 Now count the Y’s, the ?’s, and the X’s you have circled.
 Total scores Yo? SX
 
-===== PAGE 19 =====
 
 Self-Scoring Personality Tests 19
 KEY TO INTERPRETING YOUR SCORES
@@ -578,7 +561,6 @@ Introversion/Extroversion
 13/12 A shade introverted 0 Extremely extroverted
 11/10/9 Average
 
-===== PAGE 20 =====
 
 20 Self-Scoring Personality Tests
 Personality Factor 2: Emotional Stability
@@ -609,7 +591,6 @@ Both tendencies have advantages in certain social roles. We would not want our l
 phlegmatic and insensitive. But we might prefer our lawyer to be calm enough not to burst into
 tears at a harsh word from the opposing counsel.
 
-===== PAGE 21 =====
 
 Self-Scoring Personality Tests 21
 Personality Factor 3: Creativity
@@ -646,19 +627,14 @@ unrepetitive drawings
 
 9
 
-10
 
 ll
 
-12
 
-13
 
-14
 
 15 Very creative
 
-===== PAGE 22 =====
 
 22 Self-Scoring Personality Tests
 
@@ -688,7 +664,6 @@ submissiveness. Somewhere in between seems best, and that is where most people a
 know the “Win or bust” attitude and the “Don’t get involved” attitude. The first would have
 high scores, the second low ones on this scale.
 
-===== PAGE 23 =====
 
 Self-Scoring Personality Tests 23
 Strong-Mindedness
@@ -734,4 +709,3 @@ your strengths and weaknesses are. This knowledge may help you to tailor your li
 of your personality—rather than strain yourself in order to meet the demands of a life that does not make
 you happy.
 
-===== PAGE 24 =====

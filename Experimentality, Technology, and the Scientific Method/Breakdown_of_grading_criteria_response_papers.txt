@@ -1,5 +1,6 @@
-PDF to Markdown	15.02.2026, 13:55
-
+# Тема: Experimentality, Technology, and the Scientific Method
+# Источник: Breakdown of grading criteria response papers
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
 
 Breakdown of the grading criteria for the response papers
 Grade Meaning What would be expected in terms of content

@@ -1,9 +1,11 @@
+# Тема: Эвристики_и_искажения
+# Источник: Endowment effect
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 Document title: Endowment effect
 Authors: Nikita Chaplin, David Sogomonyan, Nikita Soin
 Total slides: 12
-----------------------------------------
 
-=== Slide 01 ===
 Endowment effect
 
 Nikita Chaplin
@@ -11,7 +13,6 @@ David Sogomonyan
 Nikita Soin
 
 
-=== Slide 02 ===
 Definition
 
 The endowment effect, or divestiture aversion as it is sometimes called, describes a circumstance in which an individual places a higher value on an object that they already own than the value they would place on that same object if they did not own it.
@@ -21,7 +22,6 @@ mine Ч VALUE (larger)
 not mine Ч VALUE (smaller)
 
 
-=== Slide 03 ===
 Explanation
 
 The endowment effect makes investors hold onto specific securities longer than they should.
@@ -31,7 +31,6 @@ This type of behavior is typically triggered with items that have an emotional o
 However, it can also occur merely because the individual possesses the object in question.
 
 
-=== Slide 04 ===
 Key terms of the Endowment Effect
 
 Й Loss aversion:
@@ -48,7 +47,6 @@ Ownership creates an association between the self and the item.
 This possession-to-self link increases the perceived value of the item.
 
 
-=== Slide 05 ===
 ORIGINS & HISTORY
 
 ФFor most things are differently valued by those who have them and by those who wish to get them: what belongs to us, and what we give away, always seems very precious to us.”
@@ -56,7 +54,6 @@ ORIGINS & HISTORY
 Aristotle, The Nicomachean Ethics book IX
 
 
-=== Slide 06 ===
 The term Фendowment effect” was coined by Richard Thaler, a distinguished theorist of behavioral economics, in 1980.
 He identified this cognitive bias as an explanation for loss aversion, a theory outlined by Kahneman and Tversky in 1979.
 
@@ -66,7 +63,6 @@ ThalerТs conceptualization of the endowment effect was in direct contrast to ec
 By challenging the existing economic theories, Thaler provided us with a clearer understanding of how humans make economic decisions.
 
 
-=== Slide 07 ===
 Experiment
 
 Thaler collaborated with Daniel Kahneman and Jack Knetsch in the early 1990s to provide empirical evidence for the endowment effect.
@@ -83,7 +79,6 @@ Students in possession of a mug priced theirs at double the cost of those who we
 This experiment has successfully been replicated many times and exemplified how individuals often perceive an item that is theirs to be of greater value than something that is not.
 
 
-=== Slide 08 ===
 Pricing and Sales
 
 Sellers often overvalue their products or services due to the Endowment Effect.
@@ -94,7 +89,6 @@ Speech bubble text:
 "А МОЙ ТОВАР Ч ЛУЧШИЙ НА РЫНКЕ!"
 
 
-=== Slide 09 ===
 Investment and Finance
 
 Investors who hold a particular stock may be more resistant to selling it at the current market price, even if it's no longer a sound investment.
@@ -104,18 +98,15 @@ Homeowners often overvalue their properties, making it challenging for them to a
 This can lead to homes languishing on the market for extended periods.
 
 
-=== Slide 10 ===
 Negotiation and Contracts
 
 Employees may resist accepting lower salaries than what they currently earn, even if market conditions warrant it.
 Employers may need to offer compelling reasons for salary adjustments.
 
 
-=== Slide 11 ===
 Online Marketplaces and Auctions
 
 Customers who have added items to their online shopping carts may be less likely to complete the purchase if the price is adjusted, as they perceive the originally selected items as valuable.
 
 
-=== Slide 12 ===
 Thanks for attention!

@@ -1,1 +1,5 @@
+# Тема: encoding_type_b_files.txt
+# Источник: encoding type b files
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 encoding_restoration_report.txt

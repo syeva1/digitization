@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Поведенческая экономика
+# Источник: Methods in Experimental Economics
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 Jeannette Brosig-Koch - | |
 
@@ -9,11 +12,9 @@ Economics
 
 An Introduction
 
-===== PAGE 2 =====
 
 Springer Texts in Business and Economics
 
-===== PAGE 3 =====
 
 Springer Texts in Business and Economics (STBE) delivers high-quality instructional content for
 undergraduates and graduates in all areas of Business/Management Science and Economics.
@@ -24,7 +25,6 @@ problems and exercises.
 
 More information about this series at http://www.springer.com/series/10099
 
-===== PAGE 4 =====
 
 Joachim Weimann
 Jeannette Brosig-Koch
@@ -37,7 +37,6 @@ An Introduction
 
 g) Springer
 
-===== PAGE 5 =====
 
 Joachim Weimann Jeannette Brosig-Koch
 
@@ -73,11 +72,9 @@ been made. The publisher remains neutral with regard to jurisdictional claims in
 This Springer imprint is published by the registered company Springer Nature Switzerland AG
 The registered company address is: Gewerbestrasse 11, 6330 Cham, Switzerland
 
-===== PAGE 6 =====
 
 To our families and in memory of Thomas
 
-===== PAGE 7 =====
 
 About This Book
 
@@ -117,7 +114,6 @@ in this by regularly reading the newsletter of the Economic Science Association
 (esa-announce@googlegroups.com), which provided us with many valuable
 ideas. We would like to take this opportunity to thank the ESA Community.
 
-===== PAGE 8 =====
 
 vil
 About This Book
@@ -157,7 +153,6 @@ be reached at:
 Joachim. Weimann@ovgu.de and
 Jeannette. Brosig-Koch@ibes.uni-due.de
 
-===== PAGE 9 =====
 
 Contents
 1 The Study of Behavior 1
@@ -201,7 +196,6 @@ RefEreN COS... sesesesssesssssesesesenesesenacecncucncnesenssnonsnsnsnstorsenese
 2.7.2 Experiments with Real Effort... 122
 2.7.3. Within- Versus Between-Subject Design 125
 
-===== PAGE 10 =====
 
 2.8
 2.8.1
@@ -216,31 +210,25 @@ RefEreN COS... sesesesssesssssesesesenesesenacecncucncnesenssnonsnsnsnstorsenese
 3.3.1
 3.3.2
 
-41
 
-42
 
 4.2.1
 4.2.2
 4.2.3
 4.2.4
 4.2.5
-43
 
 43.1
 4.3.2
-44
 
 44.1
 44.2
 4.43
-45
 
 45.1
 4.5.2
 4.5.3
 45.4
-46
 
 46.1
 4.6.2
@@ -302,7 +290,6 @@ Kolmogorov Test...
 The Wilcoxon Rank-Sum Test and the Mann-Whitney U Tes! .
 Wilcoxon Signed-Rank Test (Two Dependent Samples)......sssssssssscssesssseseserssne
 
-===== PAGE 11 =====
 
 Xl
 
@@ -328,7 +315,6 @@ Supplementary Information
 Appendix
 Index
 
-===== PAGE 12 =====
 
 About the Authors
 
@@ -368,7 +354,6 @@ Laboratory for Experimental Economics (MaXLab). From 2006 to
 professorship for quantitative economic policy at the University
 of Duisburg-Essen. Jeannette Brosig-Koch is a member of the
 
-===== PAGE 13 =====
 
 About the Authors
 
@@ -382,7 +367,6 @@ behavioral research in health economics. The network aims to
 foster the use of experimental methods and behavioral insights
 in health economics, policy, and management.
 
-===== PAGE 14 =====
 
 The Study of Behavior
 
@@ -404,7 +388,6 @@ References — 38
 J, Weimann, J. Brosig-Koch, Methods in Experimental Economics, Springer Texts in Business
 and Economics, https://doi.org/10.1007/978-3-319-93363-4_1
 
-===== PAGE 15 =====
 
 2 Chapter 1 - The Study of Behavior
 
@@ -453,7 +436,6 @@ interwoven with life within the school. As a result, the number of applicants fo
 at the school soared. The school authority did not know what else to do but draw lots
 for the few available places. Thus a wonderful experimental design was created since
 
-===== PAGE 16 =====
 
 1.1 - Introduction
 
@@ -499,7 +481,6 @@ model for which it was designed to test.
 
 1 We thank Nora Szech, who told us this story.
 
-===== PAGE 17 =====
 
 4 Chapter 1 - The Study of Behavior
 
@@ -544,7 +525,6 @@ gain an understanding of the experimental method, although not absolutely essent
 The reader who is solely interested in the “techniques” of experimental research can
 therefore feel free to skip the following comments on the history of the research and
 
-===== PAGE 18 =====
 
 1.2 - Normative Theory and Behavioral Economics
 
@@ -591,7 +571,6 @@ derivation of testable predictions.
 Do you have a hypothesis as to why psychology largely abandoned the development of formal models of decision-making behavior? If you do, it might be worth
 checking it in the light of the explanations in » Sects. 1.2 and 1.5.
 
-===== PAGE 19 =====
 
 6 Chapter 1 - The Study of Behavior
 
@@ -636,7 +615,6 @@ choice model.
 
 2 See DellaVigna (2009) for a survey.
 
-===== PAGE 20 =====
 
 1.3 - The History of Economic Experiments
 
@@ -682,7 +660,6 @@ virtually cry out to be tested experimentally because the games created on paper
 
 3. At the end of the book is an appendix in which, among other things, the most important concepts of game theory are briefly explained.
 
-===== PAGE 21 =====
 
 8 Chapter 1 - The Study of Behavior
 
@@ -729,7 +706,6 @@ Of a somewhat different nature is the experiment published in 1948 by Edward
 Hastings Chamberlin (Chamberlin 1948). Chamberlin, along with Joan Robinson, is
 regarded as the founder of the theory of imperfect competition. He created the concept
 
-===== PAGE 22 =====
 
 1.3 - The History of Economic Experiments
 
@@ -773,7 +749,6 @@ dominant strategy is to choose option 1. At equilibrium both players collect a p
 4 Also see the anthology published on the occasion of the 30th anniversary of the German Society
 for Experimental Economics (Sadrieh and Weimann 2008) with which Reinhard Tietz, another German pioneer of experimental research, was honored.
 
-===== PAGE 23 =====
 
 10 Chapter 1 - The Study of Behavior
 
@@ -815,7 +790,6 @@ to the expected utility theory of von Neumann and Morgenstern. The Allais parado
 
 5 The choice of the optimal sample size will be discussed in » Sect. 4.5.2.
 
-===== PAGE 24 =====
 
 11 1
 
@@ -865,7 +839,6 @@ other hand, he was now searching for a theory of bounded rational behavior. Rein
 Selten responded by saying that he was not schizophrenic, but a methodological dualist.
 This was because it simply made sense, on the one hand, to investigate where perfect
 
-===== PAGE 25 =====
 
 12 Chapter 1 - The Study of Behavior
 
@@ -911,7 +884,6 @@ Series of experiments have emerged from this, i.e. many experiments are conducte
 6 He Shared it with Vernon Smith. Amos Tversky would probably have been awarded the Nobel
 Prize as well had he not passed away in 1996.
 
-===== PAGE 26 =====
 
 13 1
 
@@ -955,7 +927,6 @@ their scarcity and their utility for people. During this phase of its history, i
 of basic principles, economics was only just beginning to become established as an
 independent discipline. Its connections to philosophy and, in particular, psychology
 
-===== PAGE 27 =====
 
 14 Chapter 1 - The Study of Behavior
 
@@ -1003,7 +974,6 @@ achieve with his research program. But how are we to eliminate psychology if we 
 made it possible to make quantitative statements on feelings and sensations and which were
 based on the earlier work of Weber (Fechner 1860).
 
-===== PAGE 28 =====
 
 15 1
 
@@ -1054,7 +1024,6 @@ you 20 different ties and you choose the one with red stripes on a white backgro
 9 The two last paragraphs have been adapted from the manuscript of the book “Measuring Happiness. The Economics of Well-Being” by Andreas Knabe, Ronnie Schéb and Joachim Weimann
 (Weimann et al. 2015).
 
-===== PAGE 29 =====
 
 16 Chapter 1 - The Study of Behavior
 
@@ -1104,7 +1073,6 @@ longer possible for an individual to become better off without at the same time 
 individual becoming worse off. As long as we fail to achieve Pareto efficiency, we are
 clearly wasting resources.
 
-===== PAGE 30 =====
 
 7 1
 
@@ -1152,7 +1120,6 @@ inequity aversion models. This does not represent a contradictory argumentation,
 rather an expression of the flexibility of neoclassical economics. In principle, it assumes
 that people behave selfishly in a material sense. However, in situations in which this is
 
-===== PAGE 31 =====
 
 18 Chapter 1 - The Study of Behavior
 
@@ -1199,7 +1166,6 @@ look like. As in the past, the analysis of both the psychological basis of the p
 10 We will go into this in more detail in » Sect. 2.2.
 11. This point will also be covered in more detail in » Sect. 2.3.
 
-===== PAGE 32 =====
 
 19 1
 
@@ -1252,7 +1218,6 @@ ciled with the rational model of choice by assuming people have “social prefer
 basically means that people not only consider their own well-being, but also that of others when
 making decisions.
 
-===== PAGE 33 =====
 
 20 Chapter 1 - The Study of Behavior
 
@@ -1296,7 +1261,6 @@ falling in black after a long run of black previously.
 
 13 See Camerer (2003), Fehr and Schmidt (2006) and Cooper and Kagel (2015) for a survey.
 
-===== PAGE 34 =====
 
 21 1
 
@@ -1344,7 +1308,6 @@ to the great advantages this efficiency criterion offers. It enables economics t
 
 14 Parts of this section have been taken from Weimann (2015).
 
-===== PAGE 35 =====
 
 22 Chapter 1 - The Study of Behavior
 
@@ -1391,7 +1354,6 @@ a subway map as an example. Such maps are well known, showing only straight line
 but neither streets nor public squares. They are extremely helpful if you want to know
 which line to take to get from A to B and where you have to change lines. But they are
 
-===== PAGE 36 =====
 
 23 1
 
@@ -1442,7 +1404,6 @@ general statements from individual observations, induction is an indispensible m
 
 15 The issue of the context dependency of experimental findings has recently been intensely discussed. We will return to this discussion several times. See, for example, Smith (2010).
 
-===== PAGE 37 =====
 
 24 Chapter 1 - The Study of Behavior
 
@@ -1486,7 +1447,6 @@ identical in many experiments, the necessary replications are obtained in passin
 explores induction as a scientific method, putting experimental economics in a greater methodological context in the process. We will not be dealing with the theoretical aspects of science in
 any greater depth and therefore refer the interested reader to Guala’s book.
 
-===== PAGE 38 =====
 
 25 1
 
@@ -1538,7 +1498,6 @@ For a time, experimental economists provided quite a clever reply to this critic
 made by people in the laboratory are not artificial at all, but that they are most definitely
 real! That is indeed true. Subjects in economic experiments are faced with “real” decisions involving “real” money that they receive as a real payoff. They are not just pretending to make decisions in the laboratory; they really are making decisions. To this extent
 
-===== PAGE 39 =====
 
 26 Chapter 1 - The Study of Behavior
 
@@ -1585,7 +1544,6 @@ field experiment proceeds just as it does in the laboratory, i.e. the subjects a
 of the value the item has for them and make a bid. Suppose that the theoretical model’s
 predictions also appear to be correct in this environment. The last step is then the
 
-===== PAGE 40 =====
 
 27 1
 
@@ -1631,7 +1589,6 @@ methodological chain cannot be extended as far as this since the leap from the l
 up a labor market in which the those who provide jobs and those who seek jobs meet
 to negotiate wages and decide how intensively they would like to work, we need to be
 
-===== PAGE 41 =====
 
 28 Chapter 1 - The Study of Behavior
 
@@ -1682,7 +1639,6 @@ nothing. People donate money, but for charitable purposes, not just to anyone. P
 give presents, but they generally also have good reasons for doing so, which are mostly
 related to the receiver. All this is not the case in dictator games. The dictators do not
 
-===== PAGE 42 =====
 
 29 1
 
@@ -1732,7 +1688,6 @@ Levitt and List’s list concerns the choice of subjects for the experiment. The
 that this involves a selection effect that distorts the results of the experiment. This selection bias is not confined to the fact that generally only students serve as subjects; it also
 includes the fact that it is only particular students who volunteer for the experiments.
 
-===== PAGE 43 =====
 
 30 Chapter 1 - The Study of Behavior
 
@@ -1780,7 +1735,6 @@ out that it can in fact be considered to have been dealt with. It is obviously q
 findings on the question of how higher payoffs affect laboratory behavior are mixed. For
 instance, Carpenter et al. (2005) could not find any difference between treatments with
 
-===== PAGE 44 =====
 
 31 1
 
@@ -1834,7 +1788,6 @@ example, in order to determine Nash equilibria, game-theoretical models require 
 far-reaching assumptions about the behavior of individual players. Not only must they
 be assumed to behave completely and strictly rationally, but it must also be assumed that
 
-===== PAGE 45 =====
 
 32 Chapter 1 - The Study of Behavior
 
@@ -1881,7 +1834,6 @@ knows that everyone is rational, etc.
 18 See Weimann (2015) or the discussion in the fourth chapter of the “Handbook of Experimental
 Methodology” (Fréchette and Schotter 2015).
 
-===== PAGE 46 =====
 
 33 1
 
@@ -1931,7 +1883,6 @@ Apart from a few minor details, it is mainly two fundamental methodological deci
 accept experiments in which the subjects are exposed to real incentives. In almost all
 cases, these incentives are money. The background to this principle of economic experiments is the theoretical basis on which research in experimental economics takes place.
 
-===== PAGE 47 =====
 
 34 Chapter 1 - The Study of Behavior
 
@@ -1981,7 +1932,6 @@ is no longer possible if we cannot assume that the subjects believe the experime
 19 See » Sect. 2.2 and Lichters et al. (2016), where the importance of real incentives for experiments
 in market research is discussed.
 
-===== PAGE 48 =====
 
 35 1
 
@@ -2033,7 +1983,6 @@ measured neural activation of the individual brain areas is compared with those 
 and the statistically significant deviations are depicted. This kind of representation is
 now well known, with an image showing a cross-section through the brain with red
 
-===== PAGE 49 =====
 
 36 Chapter 1 - The Study of Behavior
 
@@ -2081,7 +2030,6 @@ Second, knowledge of neural processes must have economic consequences. These two
 demands make sense and that is why we want to pick up the thread that Bernheim was
 spinning with them.
 
-===== PAGE 50 =====
 
 37 1
 
@@ -2125,7 +2073,6 @@ still remains to be seen.
 
 20 Asummary of the current state of the art can be found in Glimcher et al. (2013).
 
-===== PAGE 51 =====
 
 38 Chapter 1 - The Study of Behavior
 
@@ -2193,7 +2140,6 @@ of Economics, 111(3}, 817-869.
 Cherry, T., Frykblom, P., & Shogren, J. (2002). Hardnose the dictator. American Economic Review, 92(4},
 1218-1221.
 
-===== PAGE 52 =====
 
 39 1
 
@@ -2275,7 +2221,6 @@ Samuelson, P. A. (1938). A note on the pure theory of consumer's behaviour. Econ
 Samuelson, L. (2005). Economic theory and experimental economics. Journal of Economic Literature,
 43(1), 65-107.
 
-===== PAGE 53 =====
 
 40 Chapter 1 - The Study of Behavior
 
@@ -2309,7 +2254,6 @@ Weimann, J. (2015). Die Rolle von Verhaltens6konomik und experimenteller For-sch
 Weimann, J., Knabe, A., & Schdb, R. (2015). Measuring happiness. The Economics of wellbeing. Cambridge,
 MA: MIT Press.
 
-===== PAGE 54 =====
 
 Al
 
@@ -2355,7 +2299,6 @@ of Study Play? - 65
 J, Weimann, J. Brosig-Koch, Methods in Experimental Economics, Springer Texts in Business
 and Economics, https://doi.org/10.1007/978-3-31 9-93363-4_2
 
-===== PAGE 55 =====
 
 2.6
 
@@ -2395,7 +2338,6 @@ The Reproducibility of Experiments - 136
 
 References - 138
 
-===== PAGE 56 =====
 
 43 2
 
@@ -2446,7 +2388,6 @@ design can influence the behavior of the subjects. This is the only way to be ce
 the results obtained are an empirically significant regularity and not just an artifact of a
 bad experiment.
 
-===== PAGE 57 =====
 
 44 Chapter 2 - Methodological Foundations
 
@@ -2493,7 +2434,6 @@ by a “money function’, and by introducing this money function into the exper
 a “payoff function’, one has induced from the outside the utility function that is used for
 the evaluation of options for action. The following example best illustrates this process.
 
-===== PAGE 58 =====
 
 45 2
 
@@ -2546,7 +2486,6 @@ debate on what characteristics a payoff function must have in order to properly 
 preferences. His point was that it is important that the payoff function is not too flat.
 If it is, taking different decisions has little impact on the resulting payoffs, which can
 
-===== PAGE 59 =====
 
 46 Chapter 2 - Methodological Foundations
 
@@ -2592,7 +2531,6 @@ determine it. A second example is the existence of altruistic preferences. If a 
 altruistic or - more generally - social preferences is in fact a case in which the induced
 value method cannot be used meaningfully.
 
-===== PAGE 60 =====
 
 47 2
 
@@ -2651,7 +2589,6 @@ Subjective costs should be minimized This means that it should be made as easy a
 best decision for them. This is one of the reasons why experiments should be simple. One
 of the pitfalls of confronting subjects with complex decision-making problems is that it is
 
-===== PAGE 61 =====
 
 48 Chapter 2 - Methodological Foundations
 
@@ -2698,7 +2635,6 @@ are in fact not one-off occurrences in the real world, but recur at irregular in
 The disadvantage of repeating the session is that the experimenter has no control over
 what happens between the repetitions. It may well be that the subjects in the meantime
 
-===== PAGE 62 =====
 
 49 2
 
@@ -2748,7 +2684,6 @@ to be more attentive and the more they can earn, the more attentive they actuall
 et al. (2017), and Sass et al. (2018).
 2 Fora survey see Feltovich (2011).
 
-===== PAGE 63 =====
 
 50 Chapter 2 - Methodological Foundations
 
@@ -2801,9 +2736,7 @@ example, Frey and Oberholzer-Gee 1997, Gneezy and Rustichini 2000, Mellstré6m a
 4 Coxet al. (1992), Friedman (1992), Harrison (1992), Kagel and Roth (1992) and Merlo and Schotter
 (1992).
 
-===== PAGE 64 =====
 
-51
 2.2 + It’s About Money
 
 In an auction experiment, these are the bids they can make, The payoff space, on the other
@@ -2861,7 +2794,6 @@ be criticized and with some degree of probability the criticism is justified. A 
 and salience, the importance of which no one in experimental research actually doubts. For
 this reason, we recommend the use of sufficiently steep payoff functions.
 
-===== PAGE 65 =====
 
 52 Chapter 2 - Methodological Foundations
 
@@ -2911,7 +2843,6 @@ provide an example of this:
 @ Table 2.2 is obtained by subtracting 60 from the values of the first table and then
 multiplying the result by 3. Transformations of this kind (affine transformations) do
 
-===== PAGE 66 =====
 
 53 2
 
@@ -2953,7 +2884,6 @@ waiting period a payoff took place, ie. the experiment ended with a positive exp
 which should help to maintain the reputation of the laboratory and not complicate the
 recruitment of further subjects. However, this procedure also leads to a loss of control
 
-===== PAGE 67 =====
 
 54 Chapter 2 - Methodological Foundations
 
@@ -3006,7 +2936,6 @@ made public, contributions to the public good will fall overall,
 5 This experience was gained by talking to an experienced experimenter who had often conducted
 such experiments.
 
-===== PAGE 68 =====
 
 35 2
 
@@ -3058,7 +2987,6 @@ possible explanation for the strong deviation from the Nash equilibrium could be
 people are more willing to think about the group and cooperate when using house
 money. However, Clark finds no significant difference between the contributions of the
 
-===== PAGE 69 =====
 
 56 Chapter 2 - Methodological Foundations
 
@@ -3109,7 +3037,6 @@ the dictators gave, on average, about 20% of their endowment to the receivers. T
 subject is doing. How such designs can be achieved and what effects they have will be explained
 in more detail later in » Sect. 2.5.2.
 
-===== PAGE 70 =====
 
 57 2
 
@@ -3158,7 +3085,6 @@ this importance, no mistake should be made in the selection and treatment of the
 
 Experiments in which the subjects can suffer losses are very rare and even rarer are experiments in which they actually have to pay something. Most seldom, however, are experiments in which subjects are lied to - at least in experimental economic research. At first
 
-===== PAGE 71 =====
 
 58 Chapter 2 - Methodological Foundations
 
@@ -3208,7 +3134,6 @@ pools of experimental subjects. In one of them (used by economists) what has com
 
 8 See Ortmann and Hertwig (2002) for a survey.
 
-===== PAGE 72 =====
 
 59 2
 
@@ -3256,7 +3181,6 @@ of knowledge to be gained from the experiment, but the detrimental effect of the
 decision be made as to when results are important enough or when an honest experiment is difficult enough to justify deception? Much the same is true of Cooper's statement that, as an editor of the “Journal of Experimental Economics’, he would strictly
 reject papers in which deception occurs but would be much more generous as an editor
 
-===== PAGE 73 =====
 
 60 Chapter 2 - Methodological Foundations
 
@@ -3308,7 +3232,6 @@ applies to laboratory experiments in economics. Is this the right choice? This i
 
 9 In fact, this is exactly what they do (cf. Andreoni 1988).
 
-===== PAGE 74 =====
 
 “1 2
 
@@ -3360,7 +3283,6 @@ think is expected of them in this situation."
 10 One example is Harrison and List (2004).
 11 We will come back to this point in » Sect. 2.5.1.
 
-===== PAGE 75 =====
 
 62 Chapter 2 - Methodological Foundations
 
@@ -3406,7 +3328,6 @@ subjects. For example, Harrison et al. (2009), Feltovich (2011), Anderson et al.
 (2013), Exadaktylos et al. (2013), Falk et al. (2013), Abeler and Nosenzo (2015), Belot et al. (2015) as
 well as Cappelen et al. (2015}.
 
-===== PAGE 76 =====
 
 63 2
 
@@ -3457,7 +3378,6 @@ for participants (and who could therefore have been influenced by selection bias
 to self-selection) and a group of truck drivers who were in a training program. In the
 last group, 91% of all those solicited took part in the experiment, so it is unlikely that
 
-===== PAGE 77 =====
 
 64 Chapter 2 - Methodological Foundations
 
@@ -3506,7 +3426,6 @@ behave selfishly.
 Bortolotti et al. (2015) observed an interesting difference between students and nonstudents. From the experimental literature, it is known that possibilities to punish in
 public good games lead to a strong increase in the willingness to cooperate (Gachter and
 
-===== PAGE 78 =====
 
 65 2
 
@@ -3555,7 +3474,6 @@ that selection bias occurs in experiments if attention is not paid to the studen
 of study when choosing participants for experiments. For example, if the number of
 economics students in a public good experiment is significantly higher in one treatment
 
-===== PAGE 79 =====
 
 66 Chapter 2 - Methodological Foundations
 
@@ -3607,7 +3525,6 @@ addition, the subjects were asked to put themselves in the position of a manager
 is on the verge of retirement and only has one more decision to make and that is how
 many people should be dismissed. Through these two modifications, it was possible
 
-===== PAGE 80 =====
 
 67 2
 
@@ -3656,7 +3573,6 @@ or a capitalist system played a role. This is the question that we will address 
 
 13 This will be explained in more detail in the next Section.
 
-===== PAGE 81 =====
 
 68 Chapter 2 - Methodological Foundations
 
@@ -3705,7 +3621,6 @@ this mistrust was justified, since the trustees sent back significantly smaller 
 money received than the trustees in other countries. The trust game enables the subjects
 to consideraby increase the total payoff by trusting each other and proving to be trustworthy. The extent to which trust and reciprocity are expressed in the form of behavior
 
-===== PAGE 82 =====
 
 69 2
 
@@ -3759,7 +3674,6 @@ and Brosig-Koch et al. (2011) was that the subjects in the solidarity experiment
 very precise predictions about the average amount of money that the other subjects
 would give. The social norms governing gift behavior were evidently well known to all
 
-===== PAGE 83 =====
 
 70 Chapter 2 - Methodological Foundations
 
@@ -3804,7 +3718,6 @@ of alternatives according to their position in the preference ordering. In this 
 different types of choices are presented: first, the choice between alternative bundles of
 goods; second, the decision on when to consume (consumption today or in the future);
 
-===== PAGE 84 =====
 
 71 2
 
@@ -3852,7 +3765,6 @@ between risk neutrality (second derivative equals zero), risk aversion (second d
 derivative of the utility function, see Kimball 1990) and temperance (negative fourth derivative of
 the utility function, see Kimball 1992).
 
-===== PAGE 85 =====
 
 72 Chapter 2 - Methodological Foundations
 
@@ -3896,7 +3808,6 @@ probabilities is 1. The experiment by Harrison et al. (2015) shows that the ROCL
 seem to hold in simple decision-making situations. However, if several decisions are to
 be made and at the end a random determination is carried out as to which of the decisions is relevant for payment, the ROCL is violated. This means that in experiments with
 
-===== PAGE 86 =====
 
 2.4- Preferences, Payoffs and Beliefs
 
@@ -3937,7 +3848,6 @@ lottery B, i.e. a risk-neutral decision-maker should choose lottery A for the fi
 Experimental Economics” contains about 150 pages on this topic alone.
 16 The numbers and the & Table 2.3 are taken from Harrison and Rutstrém (2008).
 
-===== PAGE 87 =====
 
 74 Chapter 2 - Methodological Foundations
 
@@ -3984,7 +3894,6 @@ Is it necessary to control risk preference even in experiments that do not invol
 testing of a model?
 Is it possible to answer this question in general terms, or is it necessary to examine it on a case-by-case basis?
 
-===== PAGE 88 =====
 
 75 2
 
@@ -4032,7 +3941,6 @@ one-off decision without interacting with other subjects, it is clear that the a
 
 17 InHey and Orme, this is 0, 10, 20 and 30 pounds sterling with 100 decisions having to be made.
 
-===== PAGE 89 =====
 
 76 Chapter 2 - Methodological Foundations
 
@@ -4081,7 +3989,6 @@ decisions while a risk-seeker would choose (B, B). However, if the decision-make
 form a portfolio of both lotteries, it is possible that (A, B) has a higher expected utility
 than (A, A) and the risk-averse decision-maker therefore prefers (A, B) (Cox et al. 2015).
 
-===== PAGE 90 =====
 
 77 2
 
@@ -4134,7 +4041,6 @@ round could be paid off not N times, but only M times, where 1 <M < N. Depending
 the size of M, there is either a stronger “saving effect” or a greater “incentive effect” (also
 see the comments in » Sect. 2.2.2),
 
-===== PAGE 91 =====
 
 78 Chapter 2 - Methodological Foundations
 
@@ -4178,7 +4084,6 @@ to whether the beliefs will not then be adjusted retrospectively. It could well 
 
 18 Indeed, such proposals are almost always accepted. See e.g. Gtith and Kocher (2014).
 
-===== PAGE 92 =====
 
 79 2
 
@@ -4224,7 +4129,6 @@ to pay can be determined, but also probability estimates.”
 
 19 Schotter and Trevino (2014), p. 107, also see Holt and Smith (2009) and Karni (2009).
 
-===== PAGE 93 =====
 
 80 Chapter 2 - Methodological Foundations
 
@@ -4275,7 +4179,6 @@ determined using two measures. On the one hand, the consistency of the individua
 20 Nyarko and Schotter (2002), Costa-Gomes and Weizacker (2008), Ivanov (2011) and Schotter and
 Trevino (2014).
 
-===== PAGE 94 =====
 
 a1 2
 
@@ -4325,7 +4228,6 @@ that hedging is avoided.
 game, for example, responders must specify as of which proposal of the proposer they are willing to
 accept the proposal.
 
-===== PAGE 95 =====
 
 82 Chapter 2 - Methodological Foundations
 
@@ -4374,7 +4276,6 @@ as that of the incentivized methods. Obviously, the absence of monetary incentiv
 experiments with strategic interactions can be a problem, but it need not be. All this can
 be summarized in the following recommendation:
 
-===== PAGE 96 =====
 
 83 2
 
@@ -4423,7 +4324,6 @@ of experimental demand effects in a very structured and thoughtful manner. Much 
 what follows is based on that paper, although we do not share every conclusion that
 Zizzo drew.
 
-===== PAGE 97 =====
 
 84 Chapter 2 - Methodological Foundations
 
@@ -4469,7 +4369,6 @@ something is tested. Giving is the thing to do, because it seems to be what the 
 
 22 See Zizzo (2010), p. 83, footnote 11.
 
-===== PAGE 98 =====
 
 85 2
 
@@ -4522,7 +4421,6 @@ experiments. See » Sect. 2.7.1.
 24 See, for example, the work of Krupka and Weber (2013), which shows that allocations in the dictator
 game can be interpreted as the price to pay for being able to be in accordance with a social norm.
 
-===== PAGE 99 =====
 
 86 Chapter 2 - Methodological Foundations
 
@@ -4568,7 +4466,6 @@ subjects’ previous knowledge of game theory, and this knowledge varies conside
 
 25 This is also pointed out by Zizzo (2010).
 
-===== PAGE 100 =====
 
 87 2
 
@@ -4621,7 +4518,6 @@ declined in later rounds.”
 
 26 See also Abbink and Hennig-Schmidt (2006).
 
-===== PAGE 101 =====
 
 88 Chapter 2 - Methodological Foundations
 
@@ -4673,7 +4569,6 @@ caused by social pressure. Both types have several channels through which they c
 exert their influence. Cognitive experimenter demand effects arise mainly because
 subjects try to determine what the experiment is about and what the appropriate behavior is from the information they receive from the team conducting the
 
-===== PAGE 102 =====
 
 89 2
 
@@ -4722,7 +4617,6 @@ game experiments. But this is exactly what the two formulations implicitly calle
 by stating that the dictator's endowment was only “provisional” and that it had to be
 decided how the amount should be “divided up”.
 
-===== PAGE 103 =====
 
 90 Chapter 2 - Methodological Foundations
 
@@ -4770,7 +4664,6 @@ existence of the experimenter demand effect and it is also possible that the exp
 to imagine representing their country at an international climate negotiation. For the effect of
 such frames, see » Sect. 2.5.3.
 
-===== PAGE 104 =====
 
 °1 2
 
@@ -4818,7 +4711,6 @@ however, the proportion of subjects coming from western Germany was almost 50%.�
 28 In contrast, the proportion of eastern German subjects at the western German university was well
 below 2%.
 
-===== PAGE 105 =====
 
 92 Chapter 2 - Methodological Foundations
 
@@ -4866,7 +4758,6 @@ adopt in a given social interaction and vary this distance by using a double-bli
 that the experimenters cannot observe how the individual subject acts and that also
 maintains anonymity between the subjects. This is generally achieved by having the
 
-===== PAGE 106 =====
 
 93 2
 
@@ -4918,7 +4809,6 @@ for example. In drug studies, this means that neither the physician administerin
 the patient participating in the study knows whether the drug to be tested or a placebo is being
 administered.
 
-===== PAGE 107 =====
 
 94 Chapter 2 - Methodological Foundations
 
@@ -4965,7 +4855,6 @@ under double-blind conditions. This is not a compelling conclusion, however. One
 ask why it is that students donate 30% of their income to the Red Cross in experiments
 but are unlikely to do so in real life. The reason could again be a strong experimenter
 
-===== PAGE 108 =====
 
 95 2
 
@@ -5019,7 +4908,6 @@ subjects were faced with the choice of playing either a so-called P-bet (a high 
 in each case indicating how the choice of one’s own strategy affects one’s own payoff and the
 payoff of the other player.
 
-===== PAGE 109 =====
 
 96 Chapter 2 - Methodological Foundations
 
@@ -5070,7 +4958,6 @@ experiments is, unfortunately, not entirely clear. We will first present some ex
 describe the behavior of EU states, or to Erhard and Keser (1999), who in the same way attempt to
 model joining a trade union.
 
-===== PAGE 110 =====
 
 97 2
 
@@ -5121,7 +5008,6 @@ contributions than the Take-Community treatment.
 34 Literally translated: Remember that he is in your hands. What is meant here is the receiver of the
 dictator's transfer.
 
-===== PAGE 111 =====
 
 98 Chapter 2 - Methodological Foundations
 
@@ -5169,7 +5055,6 @@ they can show that the behavior in the four treatments is compatible both with t
 35 We suspect that the authors use the name “German tipping game” because tips in Germany are
 smaller on average (because waiters are better paid) than in the US.
 
-===== PAGE 112 =====
 
 99 2
 
@@ -5221,7 +5106,6 @@ speculative, but if it is correct, it could explain the declining contributions,
 experimenter is then asking the subjects to contribute to a project that has a negative
 perception.
 
-===== PAGE 113 =====
 
 100 Chapter 2 - Methodological Foundations
 
@@ -5271,7 +5155,6 @@ p. 104) quote: “It may be rather more useful to try to study the impact of con
 pursue the impossible goal of eliminating it”. Attempting to comply with Loome’s demand
 admittedly poses a not inconsiderable problem. Although it is possible to experimentally study the effect of different frames, in the end behavior in one experiment is always
 
-===== PAGE 114 =====
 
 101 2
 
@@ -5325,7 +5208,6 @@ in mind:
 reason for this is very simple: people — including students — often shy away from
 reading long texts. In the age of Twitter and Facebook, this trend has become more
 
-===== PAGE 115 =====
 
 102 Chapter 2 - Methodological Foundations
 
@@ -5374,7 +5256,6 @@ strong impact on the conduct of all the subjects in the experiment, because they
 a kind of coordination device. Since it is not possible to know what kind of questions
 will be asked, it is better not to allow any public questions at all. This eliminates the risk
 
-===== PAGE 116 =====
 
 103 2
 
@@ -5428,7 +5309,6 @@ questions, which are then used in the control questions. Perhaps such measures a
 necessary at all, but implementing them does not cost much and one can rest assured
 that the control questions have not triggered an unwanted effect. There is one point,
 
-===== PAGE 117 =====
 
 104 Chapter 2 - Methodological Foundations
 
@@ -5475,7 +5355,6 @@ well known since the work of van Huyck et al. (1990) that groups of more than 4 
 heterogeneous previous experiences, however, a correspondingly large sample is required (see
 chapter four).
 
-===== PAGE 118 =====
 
 105 2
 
@@ -5523,7 +5402,6 @@ knowing what the others look like had no influence on behavior in the experiment
 Bohnet and Frey (1999) made a very similar finding in a dictator game experiment.
 This experiment was double blind, i.e. the experimenter could not observe dictators’ giving behavior. The interaction between dictator and receiver, however, was varied. All the
 
-===== PAGE 119 =====
 
 106 Chapter 2 - Methodological Foundations
 
@@ -5573,7 +5451,6 @@ social distance plays no role in this decision-making environment. However, othe
 studies on the trust game find positive effects of social distance on behavior (see, for
 example, Buchan et al. 2006 or Charness et al. 2007). In an decision-making environment that has some similarities with the trust game, Brosig-Koch and Heinrich (2018)
 
-===== PAGE 120 =====
 
 107 2
 
@@ -5624,7 +5501,6 @@ Even if we try to justify these conditions with the fact that people in larger g
 more or less anonymously, this is not really convincing, because even then people usually exchange information with other people. It is important to realize at this point that
 a very artificial handling of anonymity and possibilities to communicate can lead to
 
-===== PAGE 121 =====
 
 108 Chapter 2 - Methodological Foundations
 
@@ -5676,7 +5552,6 @@ the sender’s identity.
 
 Finally, the experimenter has to decide in what form and to what extent the communication should be recorded and evaluated. If, for instance, a video conference is
 
-===== PAGE 122 =====
 
 109 2
 
@@ -5725,7 +5600,6 @@ At which points is it relatively easy to imagine that communication between the 
 37 Fora detailed discussion of the behavioral effects of cheap talk predicted by game theory, see
 Crawford (1998).
 
-===== PAGE 123 =====
 
 110 Chapter 2 - Methodological Foundations
 
@@ -5770,7 +5644,6 @@ form of communication and although theoretically it should not trigger any behav
 effects, it did have a clear impact. With chat, the prices that companies set were higher
 than those without chat and corporate profits increased when communication was possible. However, communication did not affect all the player numbers equally. The impact
 
-===== PAGE 124 =====
 
 111 2
 
@@ -5820,7 +5693,6 @@ is influenced by the direct verbal contact that was possible in the third treatm
 
 “influential — not influential’.
 
-===== PAGE 125 =====
 
 112 Chapter 2 - Methodological Foundations
 
@@ -5868,7 +5740,6 @@ played without any interaction between the subjects. The group members sat in so
 each other before or after the experiment. In the further treatments, a communication
 phase, involving a total of six different forms of communication, preceded the actual
 
-===== PAGE 126 =====
 
 113 2
 
@@ -5915,7 +5786,6 @@ to stop cooperating if one member of the group deviated from this solution. Achi
 this solution was only possible, however, if the group members had eye contact during
 the conversation.
 
-===== PAGE 127 =====
 
 114 Chapter 2 - Methodological Foundations
 
@@ -5968,7 +5838,6 @@ communication reduces the free-rider problem that groups face. An important role
 played here by the fact that low levels of effort can be observed and are “punished”
 by the other group members with expressions of verbal disapproval. Harbring (2006)
 
-===== PAGE 128 =====
 
 15 2
 
@@ -6020,7 +5889,6 @@ make much difference, but the face-to-face exchange of information results in ma
 changes in behavior. It should come as no surprise that this form of communication
 plays a special role. For a very long time, face-to-face communication was the only form
 
-===== PAGE 129 =====
 
 116 Chapter 2 - Methodological Foundations
 
@@ -6065,7 +5933,6 @@ outlined as follows.
 Two players, A and B, are in a situation where player B can receive something
 from player A (a transfer payment, a contribution as part of cooperation, or similar).
 
-===== PAGE 130 =====
 
 117 2
 
@@ -6116,7 +5983,6 @@ Dufwenberg (2006, p. 1581) (0, 10)
 
 (12, 10)
 
-===== PAGE 131 =====
 
 118 Chapter 2 - Methodological Foundations
 
@@ -6160,7 +6026,6 @@ correct statistical analysis of the results also plays an important role. We wil
 this in » Chap. 4. The following sections provide an overview of the options available
 for eliciting decisions.
 
-===== PAGE 132 =====
 
 119 2
 
@@ -6207,7 +6072,6 @@ present one of them in more detail.
 39 Awhole series of studies provide different findings, i.e. the strategy method has an effect in some
 of the designs, but not in others. See Brandts and Charness (2011).
 
-===== PAGE 133 =====
 
 120 Chapter 2 - Methodological Foundations
 
@@ -6251,7 +6115,6 @@ strategy method. In their ultimatum game experiment, the responders had to compl
 a questionnaire after making their decision. They were then asked whether they wanted
 to stick to their original decision or change it. Some responders did in fact change their
 
-===== PAGE 134 =====
 
 121 2
 
@@ -6302,7 +6165,6 @@ the case that the way the decision is elicited triggers differences in behavior.
 whether or not the strategy method is neutral in a specific case, a control experiment in
 which the methods are compared is helpful.
 
-===== PAGE 135 =====
 
 122 Chapter 2 - Methodological Foundations
 
@@ -6353,7 +6215,6 @@ observable. Second, learning effects can scarcely be avoided if a task is repeat
 actual efforts and the associated actual costs can also change during the course of the
 experiment,
 
-===== PAGE 136 =====
 
 123 2
 
@@ -6404,7 +6265,6 @@ correct for learning effects in the gift-exchange experiment.
 
 Finally, at the end of the experiment, the subjects were required to complete a questionnaire to determine whether they enjoyed their work. This is a very important question, bearing in mind that the subjects who had the role of workers were given 5 minutes
 
-===== PAGE 137 =====
 
 124 Chapter 2 - Methodological Foundations
 
@@ -6456,7 +6316,6 @@ euros). Measured in the payoff space, this is close to the equilibrium.
 Weimann 2013) 43,300 letters were folded and placed in envelopes. On average, the subjects
 spent 72 minutes in the laboratory, with the duration of their stay being of their choice.
 
-===== PAGE 138 =====
 
 125 2
 
@@ -6505,7 +6364,6 @@ and in the bakery about their willingness to pay, it must be ensured that the as
 to the two groups was purely random and that there was no selection effect. This is
 unnecessary with a within design.
 
-===== PAGE 139 =====
 
 126 Chapter 2 - Methodological Foundations
 
@@ -6556,7 +6414,6 @@ effect. If the treatments differ only in that a single parameter of the experime
 has been changed, then this change very clearly indicates to the subject what is at issue
 in the experiment. In extreme cases, the experimenter’s experimental setup fully reveals
 
-===== PAGE 140 =====
 
 127 2
 
@@ -6608,7 +6465,6 @@ they cannot so easily deduce the research question from the treatments. However,
 an experiment requires more time and resources. In addition, even here one cannot
 exclude learning effects. It can also make sense to combine both designs. Let us assume
 
-===== PAGE 141 =====
 
 128 Chapter 2 - Methodological Foundations
 
@@ -6658,7 +6514,6 @@ It is possible - although rarely done in practice - to repeat experimental sessi
 the same subjects. Here, too, a few things have to be taken into account so that the data
 obtained can still be meaningfully interpreted.
 
-===== PAGE 142 =====
 
 129 2
 
@@ -6707,7 +6562,6 @@ and learning effects, stranger designs should therefore be structured in such a 
 42 Cooper et al. (1996} experimentally show that the difference between repeated one-shot games
 and a repeated game can be substantial.
 
-===== PAGE 143 =====
 
 130 Chapter 2 - Methodological Foundations
 
@@ -6737,7 +6591,6 @@ to realize that there are different things that can be learned in an experiment.
 feedback. The former includes learning about other subjects’ behavior. Different conclusions can be drawn from this behavior. In strategic situations, the information helps to
 form better expectations about future moves of other subjects. But the information can
 
-===== PAGE 144 =====
 
 131 2
 
@@ -6789,7 +6642,6 @@ that an experiment cannot really be repeated indefinitely. The most common metho
 implementing something similar to “infinity” in the laboratory is to repeat experiments
 indefinitely and often. This is achieved by performing a next round only with a predefined
 
-===== PAGE 145 =====
 
 132 Chapter 2 - Methodological Foundations
 
@@ -6837,7 +6689,6 @@ In repeated games, it is important whether the test subjects know how often
 they play or whether they are unaware of it. Games played with random
 termination can be used as a (more or less close) substitute for unending games.
 
-===== PAGE 146 =====
 
 133 2
 
@@ -6889,7 +6740,6 @@ the average opportunity costs per round in the course of the experiment will dec
 and Regner (2013), Clot et al. (2014), Cojoc and Stoian (2014) and Brosig-Koch et al. (2017), for
 example.
 
-===== PAGE 147 =====
 
 134 Chapter 2 - Methodological Foundations
 
@@ -6939,7 +6789,6 @@ exposed between two sessions are likely to go in very different directions. If t
 shows that there is a uniform change in behavior throughout the sessions, it is therefore
 unlikely that this will have been generated by experiences made between the sessions.
 
-===== PAGE 148 =====
 
 135 2
 
@@ -6987,7 +6836,6 @@ experiment.
 
 44 See, for example, the discussion initiated mainly by Levitt and List (2007).
 
-===== PAGE 149 =====
 
 136 Chapter 2 - Methodological Foundations
 
@@ -7034,7 +6882,6 @@ distributed, whether they were read aloud and how questions of understanding wer
 dealt with. Every single detail could be important. Of course, the raw data collected in
 an experiment are also among the things that have to be documented. This is not absolutely necessary for reproducing the experiment, but reproducibility refers not only to
 
-===== PAGE 150 =====
 
 137 2
 
@@ -7085,7 +6932,6 @@ experiment, the less it pays to manipulate the data. If someone invents sensatio
 he can be pretty sure that there will be people who will make the effort to reconstruct the
 experiment. Spectacular examples from the natural sciences show how great the danger
 
-===== PAGE 151 =====
 
 138 Chapter 2 - Methodological Foundations
 
@@ -7136,7 +6982,6 @@ Experimental Economics, 9(2), 103-121.
 Abeler, J., & Nosenzo, D. (2015). Self-selection into laboratory experiments: Pro-social motives versus
 monetary incentives. Experimental Economics, 18(2}, 195-214.
 
-===== PAGE 152 =====
 
 139 2
 
@@ -7220,7 +7065,6 @@ Experimental Economics, 6(1), 75-90.
 Brosig, J., Heinrich, T., Riechmann, T., Schéb, R., & Weimann, J. (2010). Laying off or not? The influence of
 framing and economics education. international Review of Economics Education, 9, 44-55.
 
-===== PAGE 153 =====
 
 140 Chapter 2 - Methodological Foundations
 
@@ -7303,7 +7147,6 @@ Economic Studies, 75(3), 729-762.
 
 Cox, J. C., & Deck, A. A. (2005). On the nature of reciprocal motives. Economic Inquiry, 43(3), 623-635.
 
-===== PAGE 154 =====
 
 141 2
 
@@ -7386,7 +7229,6 @@ The Economic Journal, 118(527), 387-400.
 Fonseca, M. A., & Normann, H. T. (2012). Explicit vs. Tacit collusion - The impact of communication in
 oligogoply experiments. European Economic Review, 56, 1759-1772.
 
-===== PAGE 155 =====
 
 142 Chapter 2 - Methodological Foundations
 
@@ -7469,7 +7311,6 @@ Science, 63, 2832-2846.
 Hey, J. D. (1998). Experimental economics and deception: A comment. Journal of Economic Psychology,
 19, 397-401.
 
-===== PAGE 156 =====
 
 143 2
 
@@ -7553,7 +7394,6 @@ Economic Journal, 109(453), 35-45.
 Manski, C. F. (2002). Identification of decision rules in experiments on simple games of proposal and
 response. European Economic Review, 46(4), 880-891.
 
-===== PAGE 157 =====
 
 144 Chapter 2 - Methodological Foundations
 
@@ -7637,7 +7477,6 @@ Wirtschaftsforschung (pp. 136-168). Tubingen: JCB Mohr (Paul Siebeck).
 
 Selten, R., Sadrieh, A., & Abbink, K. (1999). Money does not induce risk neutral behavior, but binary lotteries do even worse. Theory and Decision, 46, 211-249.
 
-===== PAGE 158 =====
 
 145 2
 
@@ -7680,9 +7519,7 @@ Behavior, 44(1), 134-144.
 Zizzo, D. J. (2010). Experimenter demand effects in economic experiments. Experimental Economics,
 13(1), 75-98.
 
-===== PAGE 159 =====
 
-147
 
 Experimental Practice
 
@@ -7719,7 +7556,6 @@ References - 168
 J, Weimann, J. Brosig-Koch, Methods in Experimental Economics, Springer Texts in Business
 and Economics, https://doi.org/10.1007/978-3-31 9-93363-4_3
 
-===== PAGE 160 =====
 
 148 Chapter 3 - Experimental Practice
 
@@ -7758,7 +7594,6 @@ Magdeburg Experimental
 Laboratory of Economic
 Research (MaXLab)
 
-===== PAGE 161 =====
 
 149 3
 
@@ -7799,7 +7634,6 @@ For the same reason, good ventilation, air conditioning and lighting must be pro
 In addition, fire alarms and the like must be installed in the soundproof booths. All
 these features drive up the cost of a booth (@ Fig. 3.3).
 
-===== PAGE 162 =====
 
 150 Chapter 3 - Experimental Practice
 
@@ -7823,7 +7657,6 @@ from each other laterally by walls and - depending on the location of the open c
 curtain open, direct face-to-face communication between the subjects is possible. This
 is made easier if the workstations are equipped with office chairs on rollers (@& Fig. 3.4).
 
-===== PAGE 163 =====
 
 151 3
 
@@ -7861,7 +7694,6 @@ research, and the competition for these resources, in which experimenters all to
 often find themselves, it would be difficult to justify a laboratory that is permanently
 underutilized.
 
-===== PAGE 164 =====
 
 152 Chapter 3 - Experimental Practice
 
@@ -7905,9 +7737,7 @@ the laboratory.
 2 Electroencephalography.
 3 For example, such a laboratory has recently been inaugurated at the University of Karlsruhe.
 
-===== PAGE 165 =====
 
-153
 3.1 - Setting Up an Experimental Laboratory
 
 Box 3.1 The Right Software
@@ -7962,7 +7792,6 @@ can register online. As soon as enough applications are received, the recruitmen
 4 See Fischbacher (2007).
 5 See Greiner (2015).
 
-===== PAGE 166 =====
 
 154 Chapter 3 - Experimental Practice
 
@@ -8014,7 +7843,6 @@ The choice of the experimental design depends on the specific research question 
 answered by the experiment. Of course, this presupposes that this research question has
 been given careful consideration. Once this question has been formulated, the experi-
 
-===== PAGE 167 =====
 
 155 3
 
@@ -8063,7 +7891,6 @@ can shed light on this. It is a good idea to proceed carefully and invest the ne
 Nothing is more annoying than having an interesting experimental result and then discovering that you are not the first to do so. It should be remembered that experimental works
 are not only published in the relevant economic journals, but also increasingly find their
 
-===== PAGE 168 =====
 
 156 Chapter 3 - Experimental Practice
 
@@ -8114,7 +7941,6 @@ assuming that the subjects always act according to the maxim “a higher payoff 
 
 6 Journals such as Nature, PLOS ONE, PNAS or Science are meant.
 
-===== PAGE 169 =====
 
 157 3
 
@@ -8169,7 +7995,6 @@ Basically, everything that defines the decision-making situation in which the su
 are to be placed falls under this category. When designing these restrictions, a basic
 methodological decision is necessary. Should the experiment be designed in such a way
 
-===== PAGE 170 =====
 
 158 Chapter 3 - Experimental Practice
 
@@ -8220,7 +8045,6 @@ laboratory experience of the subjects, for instance, may also play an important 
 will give an example. In a laboratory, an experiment is carried out in which the subjects
 are left in the dark as to how many parts there are in the experiment. The experimenter
 
-===== PAGE 171 =====
 
 159 3
 
@@ -8272,7 +8096,6 @@ explained in the instructions.
 
 After this general information has been provided, it is time to describe the experimental design. It is important that this is done in such a way that every subject understands exactly what decision he has to make and what consequences this decision has
 
-===== PAGE 172 =====
 
 160 Chapter 3 - Experimental Practice
 
@@ -8322,7 +8145,6 @@ instructions distributed or read aloud? What is the procedure for responding to 
 and every person who conducts the experiment knows exactly what to do, how to do
 and when to do it, from the admission of the subjects to the final payment of the payoffs
 
-===== PAGE 173 =====
 
 161 3
 
@@ -8369,7 +8191,6 @@ experiment, on account of being unusable for the experiment. Exceptions are, how
 cases in which the selected parameterization proved to be unsuitable in the pilot experiment. Here it is in keeping with best scientific practice to report this, as this information is important for the interpretation of the robustness of the results. But it could also
 be useful for the pilot experiment to be published with the experiment, even if something was not successful. Reporting errors discovered during the pilot experiment provides others with an opportunity to learn from these errors. Making this possible may
 
-===== PAGE 174 =====
 
 162 Chapter 3 - Experimental Practice
 
@@ -8418,7 +8239,6 @@ or a representative cross-section of these groups. In such a case, the recruitme
 is of course completely different from that with students - most of all, it is much more
 difficult.
 
-===== PAGE 175 =====
 
 163 3
 
@@ -8463,7 +8283,6 @@ since, first, this can easily go wrong and, second, it can lead to the first sub
 wait a long time until everyone is there and the experiment can commence. It is easier to
 specify an appropriate number of meeting points in the institution and to ask each subject
 
-===== PAGE 176 =====
 
 164 Chapter 3 - Experimental Practice
 
@@ -8514,7 +8333,6 @@ should be as homogeneous as possible across sessions and treatments (ie. ideally
 experimenter should be involved). Once all subjects have read the instructions, they should
 have the opportunity to ask questions. In » Sect. 2.5.4, we explained in detail why it is
 
-===== PAGE 177 =====
 
 165 3
 
@@ -8559,7 +8377,6 @@ account in the evaluation of the experiment.
 
 Once all the decisions have been made and the experiment is over, it is time for the payments to be made to the subjects. Before this can happen, there is occasionally a problem that we would like to discuss briefly. The behavior of the subjects can vary greatly,
 
-===== PAGE 178 =====
 
 166 Chapter 3 - Experimental Practice
 
@@ -8607,7 +8424,6 @@ individually, without the others being able to observe how much each person rece
 
 7 Note that this feature is included in, e.g., the software zTree.
 
-===== PAGE 179 =====
 
 167 3
 
@@ -8658,7 +8474,6 @@ identification number. The envelopes are placed in a cardboard box that is depos
 the corridor in front of the laboratory. Next to it is another box containing empty envelopes of the same type, as well as the pen with which the money envelopes were labeled.
 One after the other, the subjects are asked to go into the corridor, take an empty envelope and mark it with their identification number. They insert the card with their number in the envelope. Then they take the envelope labeled with their number and
 
-===== PAGE 180 =====
 
 168 Chapter 3 - Experimental Practice
 
@@ -8686,9 +8501,7 @@ the Economic Science Association, 1(1}, 114-125.
 Horton, J. J., Rand, D. G., & Zeckhauser, R. J. (2011). The online laboratory: Conducting experiments in a
 real labor market. Experimental Economics, 14(3), 399-425.
 
-===== PAGE 181 =====
 
-169
 
 The Experiment from a
 Statistical Perspective
@@ -8739,7 +8552,6 @@ Analyses - 207
 J. Weirnann, J, Brosig-Koch, Methods in Experimental Economics, Springer Texts in Business
 and Economics, https://doi.org/10.1007/978-3-319-93363-4_4
 
-===== PAGE 182 =====
 
 4.6.5
 
@@ -8758,15 +8570,10 @@ and Economics, https://doi.org/10.1007/978-3-319-93363-4_4
 
 4.7
 
-471
 47.2
-473
 474A
 
-475
-476
 
-48
 
 t-Test for Two Independent Samples
 (Between-Subject Comparison) - 216
@@ -8808,7 +8615,6 @@ Statistics Software - 285
 
 References - 286
 
-===== PAGE 183 =====
 
 171 4
 
@@ -8858,7 +8664,6 @@ In experimental practice, there is unfortunately a very slight risk that the ind
 components of a study are not, or only insufficiently, well matched. Aspiring scientists
 in particular are often under great pressure to publish, which creates the desire to carry
 
-===== PAGE 184 =====
 
 172 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -8933,7 +8738,6 @@ sample is drawn (inference)?
 
 — To make a prediction based on an estimated model?
 
-===== PAGE 185 =====
 
 173 4
 
@@ -8985,7 +8789,6 @@ factors: practical relevance (do the assumptions allow a trouble-free applicatio
 (which method is used particularly frequently in renowned experimental economic
 journals?). One consequence of this is that a particular procedure, which is used in
 
-===== PAGE 186 =====
 
 174 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -9028,7 +8831,6 @@ Kirchsteiger 2004; Falk and Fischbacher 2006) and those based on types (e.g. Lev
 construct-valid way, it must be decided in advance what kind of reciprocity is
 involved.
 
-===== PAGE 187 =====
 
 175 4
 
@@ -9075,7 +8877,6 @@ example of what is called a confounding variable. Confounding variables blur the
 1 Treatment variables are usually factor variables, i.e. variables that can only take a limited number
 of values. The values of a factor variable are generally referred to as /evels.
 
-===== PAGE 188 =====
 
 176 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -9122,7 +8923,6 @@ their impact. The basic idea is to form two groups of subjects across which the 
 
 2 Weill discuss a specific block design later in » Sect. 4.3.2.
 
-===== PAGE 189 =====
 
 177 4
 
@@ -9175,7 +8975,6 @@ makes a difference since the different scales of measurement contain different i
 
 “young’, “old” and “very old”.
 
-===== PAGE 190 =====
 
 178 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -9223,7 +9022,6 @@ does not represent twice the weight of a realization of 20 kg on this scale.
 In the statistical modeling of the relationship between variables, the dependent variable
 is interpreted as a random variable. In an ultimatum game in which 10 single nondivisible plastic coins are to be allocated, it is clear from the outset that the number of
 
-===== PAGE 191 =====
 
 179 4
 
@@ -9274,7 +9072,6 @@ on the number line. The variance is the mean square deviation of all the realiza
 the expected value and thus represents information about the dispersion of the
 random variable. The greater the variance, the wider and flatter the density function.
 
-===== PAGE 192 =====
 
 180 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -9322,9 +9119,7 @@ distribution Sec bem to
 
 ABS 3-25 2-15-14 pli 15 2 25 335 4
 
-===== PAGE 193 =====
 
-181
 4.2 - Operationalizing the Research Question
 
 G Fig. 4.2 Normal dis- aloiad
@@ -9364,7 +9159,6 @@ parameters of this distribution automatically appear in the field below. If we e
 degree of freedom here, we obtain, for example, the ¢-distribution shown in & Fig, 4.4, with
 which we can carry out all the steps discussed above in the same way.
 
-===== PAGE 194 =====
 
 182 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -9407,7 +9201,6 @@ subject has the same chance of being drawn. If this is not the case, the sample 
 3 We will discuss statistical significance and the relationship between sample size, effect size and
 power in more detail in » Sect. 4.5.
 
-===== PAGE 195 =====
 
 183 4
 
@@ -9459,7 +9252,6 @@ are comprehensively documented and well maintained.
 Non-probability sampling always leads to biased samples since not every subject has
 the same probability of being selected. In what is termed a convenience sample only
 
-===== PAGE 196 =====
 
 184 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -9505,7 +9297,6 @@ effects are called the simple effects of the factor Comp under non-anonymity and
 
 4 Areal cube is formed when three factors with two levels each are considered.
 
-===== PAGE 197 =====
 
 185 4
 
@@ -9554,7 +9345,6 @@ Another way to classify experimental designs is based on how subjects are assign
 to each treatment combination. The simplest design is the completely randomized design
 (CRD). As the name suggests, the assignment of the subjects is completely random
 
-===== PAGE 198 =====
 
 186 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -9602,7 +9392,6 @@ available. We then have the three pairs (35,38), (39,41) and (68,69) in a matche
 
 5 Of course, the same procedure can be simulated faster on a computer.
 
-===== PAGE 199 =====
 
 187 4
 
@@ -9653,7 +9442,6 @@ observations. In a 1 x 2 factorial design with multiple measurements, we get a c
 
 6 These data are only for instructional purposes and are not intended to be realistic.
 
-===== PAGE 200 =====
 
 188 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -9696,7 +9484,6 @@ on average, but either more or less than half.
 2. RH2: Northern German men offer less on average than northern German
 women do.
 
-===== PAGE 201 =====
 
 189 4
 
@@ -9750,7 +9537,6 @@ equality, leaving only the “more complicated”, indirect approach B as an opt
 principle of statistical testing is comparable to the presumption of innocence in a court
 case. The initial or null hypothesis is: “The defendant is innocent.” Instead of showing
 
-===== PAGE 202 =====
 
 190 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -9800,7 +9586,6 @@ If our initial conjecture is in fact true, we obtain a more statistically signif
 Hy: #,, — Hy = 0 versus H,: u,, — #,# 0. The rejection area to the right of zero is only half
 as large in the two-tailed formulation as it is in the one-tailed formulation. In other
 
-===== PAGE 203 =====
 
 191 4
 
@@ -9848,7 +9633,6 @@ statistic is always a random variable that takes on a new value for each new ran
 sample. This means that a new sample, and thus a new mean X , would result if we have
 all ten subjects play the ultimatum game again. The distribution the test statistic X¥ follows for each new sample is called the sampling distribution or null distribution if we
 
-===== PAGE 204 =====
 
 192 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -9899,9 +9683,7 @@ reasonable to interpret it as “typical” or “not overly extreme” because 
 1 Fig.4.7 Normal : ain
 distribution
 
-===== PAGE 205 =====
 
-193
 4.4 - Statistical Tests
 
 GFig.4.8 Critical value alolx)
@@ -9955,7 +9737,6 @@ we again do not reject the null hypothesis. We once again calculate the p-value,
 2* Piz < — 0.82} =2* 0.205 = 0.41, We already know this number from the previous paragraph, which confirms that both test methods (one with the untransformed test statistic and
 the other with the transformed test statistic) are equivalent.
 
-===== PAGE 206 =====
 
 194 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -9999,7 +9780,6 @@ versus H, distribution and their
 rejection and non-rejection critical value
 regions for a one-tailed test
 
-===== PAGE 207 =====
 
 195 4
 
@@ -10046,7 +9826,6 @@ Non-rejection H, correct Type Il error
 
 (Prob. 1 — @) (Prob. 1 — £)
 
-===== PAGE 208 =====
 
 196 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -10089,7 +9868,6 @@ G Fig. 4.11 Sample distribution in the example Distribution when Hp is true (no 
 
 0.204 H=04 0.596
 
-===== PAGE 209 =====
 
 197 4
 
@@ -10140,7 +9918,6 @@ it more simply, the test becomes less and less sensitive, the less H, and H, dif
 To illustrate this, we imagine, for example, that the true population mean is = 0.401
 and the null hypothesis is still H,: # = 0.4. Then the H, distribution is only slightly shifted
 
-===== PAGE 210 =====
 
 198 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -10192,7 +9969,6 @@ H, is true (effect)
 
 H=04 p=05
 
-===== PAGE 211 =====
 
 199 4
 
@@ -10245,7 +10021,6 @@ communication,
 
 x
 
-===== PAGE 212 =====
 
 200 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -10288,7 +10063,6 @@ The problem with the whole thing is that the actual effect is unknown. We do not
 know by how much the average amounts allocated would increase within the entire
 population in the case of communication. If we knew this, we would not need hypotheses or inferential statistics. Therefore, there are only two possible ways of incorporating
 
-===== PAGE 213 =====
 
 201 4
 
@@ -10344,7 +10118,6 @@ they are represented by a smaller area under the density function.
 The more subjects we send to the laboratory at the same time, the less likely we
 are to report a non-existent effect (Type I error) or an existing effect as non-existent
 
-===== PAGE 214 =====
 
 202 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -10398,7 +10171,6 @@ abbreviation BEAN is often used as a mnemonic:
 
 4. N (Number of subjects or sample size)
 
-===== PAGE 215 =====
 
 203 4
 
@@ -10452,7 +10224,6 @@ Theoretically, the probability of the Type II error can be calculated with this 
 if the H, distribution function F is known. Even if they are not visible at first glance,
 the equation contains all our BEAN components: Beta (f) and the Number of
 
-===== PAGE 216 =====
 
 204 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -10511,7 +10282,6 @@ and graphical representations, R-codes with which the selected procedure can be 
 For those who do not want to compromise on the functionality and ease of use of power
 analysis software, there are powerful but also very expensive commercial software packages
 
-===== PAGE 217 =====
 
 205 4
 
@@ -10562,7 +10332,6 @@ ee
 
 @ Fig. 4.17 StudySize power analysis
 
-===== PAGE 218 =====
 
 206 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -10604,7 +10373,6 @@ This means that there is no other distribution that delivers an even smaller p-v
 37 28.1
 2.8 22.1
 
-===== PAGE 219 =====
 
 207 4
 
@@ -10653,7 +10421,6 @@ of an experiment, it is standard practice to provide information on the power of
 test and the effect size. However, this is not the case. Instead, the empirical significance
 level (p-value) is almost automatically nearly always compared with the theoretical
 
-===== PAGE 220 =====
 
 208 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -10702,7 +10469,6 @@ false null hypothesis. If we have not already rejected it, there is no longer an
 
 7 Weill discuss an exception in the course of this section.
 
-===== PAGE 221 =====
 
 209 4
 
@@ -10754,7 +10520,6 @@ p-value, the “better” or the more reliable it is. What is usually completely
 8 It can also be shown that the retrospective power is about 50% if the p-value is equal to the
 significance level (Lenth 2007).
 
-===== PAGE 222 =====
 
 210 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -10804,7 +10569,6 @@ interpreting the results.”
 9 Cummings calls this effect “Dance of the p-values” and demonstrates it on YouTube (e.g. » www.
 youtube.com/watch?v=50L 1 RqHrZQ8)
 
-===== PAGE 223 =====
 
 211 4
 
@@ -10853,7 +10617,6 @@ each subject is a decision-maker only once, it can be assumed under conditions o
 anonymity and no feedback that the decision of one person does not influence the
 decision of another person.
 
-===== PAGE 224 =====
 
 212 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -10898,7 +10661,6 @@ method? Alas, it does not. It is unfortunate that it is precisely in experimenta
 imaging are substantially more expensive, and therefore, even sample sizes of 10 are
 considered large there. The quality of a statistical conclusion in such situations can
 
-===== PAGE 225 =====
 
 213 4
 
@@ -10946,7 +10708,6 @@ nominal/ binornial, Fisher's exact McNemar
 
 categorical multinomial X2(2xk
 
-===== PAGE 226 =====
 
 214 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -10990,7 +10751,6 @@ between xX and 4, is significant, the data do not support the hypothesis that th
 was drawn from a population with a mean p = f,. Accordingly, the null hypothesis is
 H,; # = #, and the alternative hypotheses are H,: ¢ #4, or H,:¢ <p, or Hy: p> py.
 
-===== PAGE 227 =====
 
 215 4
 
@@ -11044,7 +10804,6 @@ The 36 students in his course obtained an average score of x = 82 from the value
 81, 82, 78, 94, 91, 89, 97, 92, 76, 74, 74, 92, 98, 70, 55, 56, 83, 65, 83, 91, 76, 79, 79, 86, 82, 93, 86,
 82, 62, 93, 95, 100, 67, 89. The test statistic is then z = (82-78)/(12/ 36) =2,
 
-===== PAGE 228 =====
 
 216 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -11093,7 +10852,6 @@ se
 
 f= (n+m,-2)"
 
-===== PAGE 229 =====
 
 217 4
 
@@ -11144,7 +10902,6 @@ p= a
 V Six Six,
 The following also applies
 
-===== PAGE 230 =====
 
 218 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -11186,7 +10943,6 @@ relatively large sample size to generate valid test decisions. If the Kolmogorov
 nevertheless to be applied to discrete data, it is necessary either to accept significantly
 more conservative test decisions or to use certain modifications of this test that specifically address discrete data (Conover 1972).
 
-===== PAGE 231 =====
 
 219 4
 
@@ -11240,7 +10996,6 @@ ye (n +7)!
 
 nny!
 
-===== PAGE 232 =====
 
 220 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -11281,7 +11036,6 @@ pe?”
 and
 
 a AYN, (N+1)
-12
 
 ‘The test statistic R’ can then be transformed into standard normally distributed z-values
 in the usual way.
@@ -11289,7 +11043,6 @@ in the usual way.
 An alternative method that always leads to the same test result as the Wilcoxon
 rank-sum test is the Mann-Whitney U test. For each rank in one group, we determine
 
-===== PAGE 233 =====
 
 221 4
 
@@ -11337,7 +11090,6 @@ The possible rank totals for the sample ECON are arranged according to size:
 
 126. 64+7+8+9=30
 
-===== PAGE 234 =====
 
 222 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -11384,7 +11136,6 @@ As we can see, the only difference is an adjusted quantile (S” = 2 instead of 
 however, the corresponding p-value in the Mann-Whitney U test is the same as that in the
 Wilcoxon rank-sum test.
 
-===== PAGE 235 =====
 
 223 4
 
@@ -11418,7 +11169,6 @@ The data consist of one observation each of the n random variable tuples (x,, y,
 other, whereas the realizations of the pairs (x, y,) are. All the random variables are
 continuous and measured on at least an ordinal scale. To derive the test statistic, the
 
-===== PAGE 236 =====
 
 224 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -11460,7 +11210,6 @@ Absolute frequency
 
 Probability 1/8 1/8 1/8 2/8 1/8 1/8 1/8 1
 
-===== PAGE 237 =====
 
 225 4
 
@@ -11497,7 +11246,6 @@ though, it has generally become accepted to remove zero differences from the obs
 At this juncture, it would be going too far to describe the precise demarcations of the
 various methods. Interested readers are referred to, for example, Conover (1973).
 
-===== PAGE 238 =====
 
 226 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -11550,7 +11298,6 @@ values and entered in the “Rank |d|” column. Depending on whether the differ
 
 6 10 1 9 5 +5
 
-===== PAGE 239 =====
 
 227 4
 
@@ -11600,7 +11347,6 @@ whether the laboratory data statistically support the specific theoretical value
 In the matching pennies game mentioned above, for example, game theory predicts an
 equilibrium in which both players play both alternatives with equal probability, i.e. with
 
-===== PAGE 240 =====
 
 228 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -11640,7 +11386,6 @@ The test statistic B is the number of successes in a Bernoulli trial repeated n 
 The null distribution of B, which is derived in the same way as other discrete density
 functions, is
 
-===== PAGE 241 =====
 
 229 4
 
@@ -11685,7 +11430,6 @@ n
 
 10 An example is a coin toss, in which “heads’, for instance, is defined as the case of success.
 
-===== PAGE 242 =====
 
 230 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -11732,7 +11476,6 @@ n= 20 persons and assign them to the three categories according to their attribu
 when the probability of success or failure is 0.5. For all other values, the bars at the left and right
 end of the density function would have to be added up individually to obtain the p-value.
 
-===== PAGE 243 =====
 
 231 4
 
@@ -11790,7 +11533,6 @@ i
 package from Uwe Menzel, which is available on every CRAN server. The execution is then done
 using the command multinomial.test().
 
-===== PAGE 244 =====
 
 232 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -11839,7 +11581,6 @@ Events pObs p.value
 13 Because a single class (k = 1) does not provide any indication of a deviation between expectation
 and observation, the number of classes for the degrees of freedom is reduced by one.
 
-===== PAGE 245 =====
 
 233 4
 
@@ -11887,7 +11628,6 @@ Fisher's exact test offers a good solution. As before, the observed frequencies 
 the respective values of the two categorical variables. The simplest case with only k = 2 categories of the variable measured results in @ Table 4.11 with the four values x,, where
 i= 1...g represents the index of the group or sample and j = 1...k the index of the categories.
 
-===== PAGE 246 =====
 
 234 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -11925,15 +11665,12 @@ them have a high school diploma. The probability of this event is
 5] [3
 P(50, 40, 8,5)=4" 2 5" = 0.1471=14.71%.
 
-50
 
 8
 PORS also contains the hypergeometric distribution. After entering the parameters N = 50,
 N, = 40 and n = 8 and clicking on “Apply New Distribution’, we obtain & Fig. 4.29.
 
-===== PAGE 247 =====
 
-235
 
 4.6- Choosing Statistical Tests
 
@@ -11981,7 +11718,6 @@ known for the entire country. The trick in Fisher's exact test is to pretend tha
 sample of size Nis a population from which samples of sizes n, or n, are taken, Under this
 assumption, it would be possible to use any value of the four-field table as the test statistic
 
-===== PAGE 248 =====
 
 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -12015,7 +11751,6 @@ above contingency table (or a single value thereof) is, for example
 ! | [eo]
 P(20,11,8,2)=47 LL 8? J _ 9.9367 =3.67%.
 
-20
 
 8
 In order to calculate the p-value of a one-tailed null hypothesis, we now have to determine the
@@ -12025,7 +11760,6 @@ hypothesis. To do this, we make the values x,, and x,, even more dissimilar by r
 smaller value by one and increasing the larger value by one. This results in the contingency
 table in @ Table 4.14
 
-===== PAGE 249 =====
 
 237 4
 
@@ -12078,7 +11812,6 @@ hypothesis is true. If all the differences are sufficiently large, this does not
 hypothesis. The 2 x k variant of this test involves the comparison of 2 independent samples
 in relation to an attribute with k categories. The null hypothesis is then, “Both samples
 
-===== PAGE 250 =====
 
 238 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -12130,7 +11863,6 @@ is the 7’ test statistic
 
 14 The example in this section will illustrate this using a numerical example.
 
-===== PAGE 251 =====
 
 239 4
 
@@ -12177,7 +11909,6 @@ Yes 20 80 100
 
 110 90 200
 
-===== PAGE 252 =====
 
 240 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -12222,7 +11953,6 @@ shown in @ Fig. 4.32.
 Here, a p-value of 67.14% shows no significant influence of IQ on responsiveness
 (non-rejection of the null hypothesis).
 
-===== PAGE 253 =====
 
 241 4
 
@@ -12265,7 +11995,6 @@ Cc
 
 j=2
 
-===== PAGE 254 =====
 
 242 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -12318,9 +12047,7 @@ This shows the p-value of the one-tailed hypothesis p = 0.0133 + 0.0259 = 0.0392
 on the amount sent. In a two-tailed hypothesis, the p-value would double to p = 0.0784, which
 suggests that the effect is not significant.
 
-===== PAGE 255 =====
 
-243
 4.6- Choosing Statistical Tests
 
 @ Table 4.20 Contingency table 2 in the McNemar test
@@ -12360,7 +12087,6 @@ bte 21
 which in PQRS leads to a more accurate p-value of p = 0.0809 = 8.09% > 5% and to the “correct”
 test decision.
 
-===== PAGE 256 =====
 
 244 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -12412,7 +12138,6 @@ y¥; =at bx;.
 Each individual observation y, is thus explained deterministically by a linear transformation of a single observation x,. Therefore, the right side of this equation is also called
 the (deterministic) linear predictor.
 
-===== PAGE 257 =====
 
 245 4
 
@@ -12427,7 +12152,6 @@ the x-y graph p— e
 e
 > 10-4
 8 e
-64
 I T J T 1
 0 1 2 3 4
 
@@ -12458,7 +12182,6 @@ that on a day when student 1 happens to be in a particularly good mood (he has s
 well, the weather is fine, he has received a good exam result, etc.), the amount given, y,,
 also happens to be particularly high. Although the variable “mood” remains unobserved in the experiment and therefore cannot be controlled, it too has an influence on
 
-===== PAGE 258 =====
 
 246 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -12466,7 +12189,6 @@ also happens to be particularly high. Although the variable “mood” remains u
 disturbances in the four e
 observations 14 oe
 
-12
 
 the endogenous variable y.'° In the same way, of course, a particularly low value can be
 explained if it is assumed that the students happen to be in a bad mood some other day.
@@ -12500,7 +12222,6 @@ considered an effect.
 
 17 Later we will refine this overall random influence and explicitly model random effects.
 
-===== PAGE 259 =====
 
 247 4
 
@@ -12535,7 +12256,6 @@ each of which requires different estimators. An unbiased and efficient estimator
 
 18 Inthe following, we will always indicate estimated values with a “hat”.
 
-===== PAGE 260 =====
 
 248 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -12543,7 +12263,6 @@ each of which requires different estimators. An unbiased and efficient estimator
 squares in four observa-
 
 tions 14—
-12
 ~ 10
 8a
 6—
@@ -12582,7 +12301,6 @@ power of the estimated model.
 will always go exactly through these two observed points, with the result that the residuals assume
 the value zero and, consequently, do not provide any information content with regard to a deviation.
 
-===== PAGE 261 =====
 
 249 4
 
@@ -12636,7 +12354,6 @@ Such a model is always subject to certain assumptions. The more assumptions the 
 requires and the stronger they are, the simpler it becomes, and vice versa. The simple
 linear model already mentioned in » Sect.4.7.1 is very easy to understand and to handle,
 
-===== PAGE 262 =====
 
 250 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -12687,7 +12404,6 @@ immediately follows that there is a correlation between the variable to be expla
 y, and the disturbance variable, u. This correlation is problematic because it leads to
 biased (and inconsistent) estimators. A way out of this so-called endogeneity problem is to use what is known as instrumental variables estimation. The conventional
 
-===== PAGE 263 =====
 
 251 4
 
@@ -12741,7 +12457,6 @@ The value of the artificial “variable” x,, is always 1, so b, is the interce
 If we were to repeatedly draw a random sample with fixed values of the exogenous
 variables and thus constantly obtain new values of the random variables u, and y, then
 
-===== PAGE 264 =====
 
 252 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -12789,7 +12504,6 @@ person trying to hit the black region of a target with a rifle. If each shoots 2
 the same conditions, the dispersion of the biathlete’s 20 bullet holes will be significantly
 smaller than the normal shooter’s. Similarly, for a precise estimator with a small
 
-===== PAGE 265 =====
 
 253 4
 
@@ -12838,7 +12552,6 @@ different from zero.?!
 
 21 The wording “different from zero” is often omitted and then we only say, a parameter is “statistically significant’.
 
-===== PAGE 266 =====
 
 254 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -12891,7 +12604,6 @@ squared t-statistic.
 22 Of course, it is not possible to draw any conclusions about the sign from the coefficient of
 determination, since both signs would be possible when calculating the square root.
 
-===== PAGE 267 =====
 
 255 4
 
@@ -12942,7 +12654,6 @@ model the probability of an acceptance, which means that the above statement rea
 binary variable to be explained, the left-hand side of our model equation contains a
 probability with a value range between zero and one. This value range must now be
 
-===== PAGE 268 =====
 
 256 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -12994,7 +12705,6 @@ Solving the equation for p would result in the (non-linear) regression equation.
 parameters b, and b,are estimated in all GLMs using the maximum likelihood method
 and its variations.
 
-===== PAGE 269 =====
 
 4.7 - Statistical Models
 
@@ -13059,7 +12769,6 @@ p =0.2 is the probability that a horse will win a horse race and 1-p = 0.8 is th
 will not win. Then the odds are 0.2/0.8 = 1/4 which are shown as odds 4:1 in continental European
 horse races. In case of a win you would get 4 Euro for every Euro you bet.
 
-===== PAGE 270 =====
 
 258 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -13104,7 +12813,6 @@ used to (re-)specify generalized linear models. If two models are identical, exc
 single variable that is present in one model and not in the other, the model with the
 smaller AIC value is preferable.
 
-===== PAGE 271 =====
 
 259 4
 
@@ -13153,7 +12861,6 @@ us imagine that the entirety of all the observed decisions of a single subject r
 cluster or a class of decisions. In general, two types of dependence can then occur.
 The first is dependence between classes (between-class dependence, or inter-subject
 
-===== PAGE 272 =====
 
 260 Chapter 4- The Experiment from a Statistical Perspective
 
@@ -13203,7 +12910,6 @@ the outset is more elegant and consistent. The two best-known approaches are mul
 models (MLM) and generalized estimating equations (GEE). Both approaches will now
 be presented briefly.
 
-===== PAGE 273 =====
 
 261 4
 
@@ -13256,7 +12962,6 @@ game on. The first group’s game had an MPCR of 0.3 (coded “low”), while th
 game had an MPCR of 0.4 (coded “high’). Men were coded with the number 0 and women with
 the number 1,
 
-===== PAGE 274 =====
 
 262 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -13296,7 +13001,6 @@ U; ~N(0, 0”).
 expected from an age of 16 years at the earliest. Without zero centering, a positive intercept of
 300 euros, for example, would mean that newborns would receive an average wage of 300 euros.
 
-===== PAGE 275 =====
 
 263 4
 
@@ -13341,7 +13045,6 @@ The regression line for this model is the dashed line in the graph on the right-
 side of @ Fig. 4.42. Although this model estimates the average downward trend fairly
 reliably, the estimation of the intercept, in particular, is subject to a large standard error.
 
-===== PAGE 276 =====
 
 264 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -13390,7 +13093,6 @@ phenomenon goes back to Simpson (1951) and is therefore called Simpson's Paradox
 @ Fig. 4.43 Illustration of Simpson's paradox, Pooled data are on the left and individual
 regressions on the right
 
-===== PAGE 277 =====
 
 265 4
 
@@ -13443,11 +13145,9 @@ of this purely Level 1 model is that we only gain information about specific ind
 We cannot draw any conclusions about any relationship between the contribution made
 and time at the population level. What’s more, we cannot explain the differences between
 
-===== PAGE 278 =====
 
 Chapter 4 - The Experiment from a Statistical Perspective
 
-266
 
 LOO>da xx ‘SO'O>Ayx ‘L'O>dy :210N
 
@@ -13459,7 +13159,6 @@ s s s s s s s s suoleaiasgo
 {v€6'0) (7280) (0180) (00LL) {018°0) {v6s°0) (0180) (zvs°0)
 +x0SV'E— x00€E°T— osZ'L— 20S0°E— #20SL'E— +x00L°E— + 0SS'7— #ex008E— ouly
 
-===== PAGE 279 =====
 
 267 4
 
@@ -13498,7 +13197,6 @@ Level 1 (within-subject):
 contrib, = a, + b, «time, + Vj,
 (Model A)
 
-===== PAGE 280 =====
 
 268 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -13545,7 +13243,6 @@ Est. SE df t Pr(>|t/} 7 ~~ 21,70
 
 time -3,16 0.29 31,00 -10,72 <0,0001***
 
-===== PAGE 281 =====
 
 269 4
 
@@ -13585,7 +13282,6 @@ case, subject 3 would have started the day particularly badly and subject 6 woul
 started particularly well, thus achieving low or high contribution levels, respectively,
 over all the rounds. Carrying out the experiment again would be equivalent to a new
 
-===== PAGE 282 =====
 
 270 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -13628,7 +13324,6 @@ means of a more differentiated modeling of the disturbance variable and therefor
 shows a higher, unbiased value of 6.12. Specifically, model A introduces the timeindependent disturbance ¢_,, whose impact on the contributions is the same in all periods. Thus the disturbances of one individual are “linked” over time, so that the
 disturbance of one period can no longer be independent of the disturbance of another.
 
-===== PAGE 283 =====
 
 271 4
 
@@ -13679,7 +13374,6 @@ Level 1 (within-subject):
 contrib, = a; + btime, + Vy
 (Model B)
 
-===== PAGE 284 =====
 
 272 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -13724,7 +13418,6 @@ contrib
 
 minute
 
-===== PAGE 285 =====
 
 273 4
 
@@ -13766,7 +13459,6 @@ Est. SE df t Pr(>|t}) 5 14.19
 time 3.16 0.29 31.00 -10.72 <0,0001*** 7 14.24
 gender1 15.15 11.41 6.00 1.33 0.2324 8 11.84
 
-===== PAGE 286 =====
 
 274 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -13815,11 +13507,9 @@ p-values are not suitable for specifying models. “Non-significance” does not
 
 necessarily mean “irrelevance”.
 
-===== PAGE 287 =====
 
 4.7 - Statistical Models
 
-275
 
 4
 
@@ -13896,7 +13586,6 @@ Last but not least, we might wonder whether the variations in the slopes also ne
 explained. To this end, we will introduce another random effect, using model B as a
 starting point, to explain the slope at level 2. We thus have model D:
 
-===== PAGE 288 =====
 
 276 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -13944,9 +13633,7 @@ For the sake of completeness, the variation of the slope can also be modeled usi
 mixed effect. However, since the same problems would then arise as in model C, we will
 not pursue this idea further at this point.
 
-===== PAGE 289 =====
 
-277
 
 4.7 - Statistical Models
 
@@ -14025,7 +13712,6 @@ awen sdnoury
 
 SJO}OWIEeIed Jojo WOpueYy
 
-===== PAGE 290 =====
 
 278 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -14070,11 +13756,8 @@ depicted as a matrix:
 
 1. Independent: The observations of any two points in time have no correlation.
 
-100
 01 0
-001
 
-===== PAGE 291 =====
 
 279 4
 
@@ -14130,7 +13813,6 @@ link function g(z) = z in the GEE (with the “exchangeable” correlation struc
 the results shown in & Table 4.31. The coefficients correspond to those of the multilevel
 model C we have already discussed.
 
-===== PAGE 292 =====
 
 280 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -14185,7 +13867,6 @@ E(OR) = exp(a+ bx,) - E(exp €,;))
 
 =exp(i,) - E(exp (xs).
 
-===== PAGE 293 =====
 
 281 4
 
@@ -14236,7 +13917,6 @@ The only problem is that the lecturer himself is regularly a good 5 minutes late
 lecture. Therefore, of the students already present he does not know whether, and if so, by how
 much, they were late. He can only record the times of arrival of the students from the time of
 
-===== PAGE 294 =====
 
 282 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -14259,7 +13939,6 @@ ae] e
 b4 e
 ee
 e
-04
 T T T T
 0 500 1000 1500
 distance [m]
@@ -14291,7 +13970,6 @@ students present is more than 5 minutes late. The lecturer therefore makes no di
 between students who are completely punctual (y, = 0) and those who are late by 5 minutes
 {y, = 5) or less, All these students are assigned the lower lateness value yf" =5. This process
 
-===== PAGE 295 =====
 
 283 4
 
@@ -14345,7 +14023,6 @@ like the logit and probit models, can be formulated as a latent variable model. 
 lecturer example, the dependent variable y is assigned the value of the partially
 observed latent variable y* (actual lateness), if this could be observed, ie. if y* > 5, then
 
-===== PAGE 296 =====
 
 284 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -14385,7 +14062,6 @@ Residual Std. Error (df = 48) 1,783 1,534
 
 Note: *p<0.1; **p<0.05; ***p<0.01
 
-===== PAGE 297 =====
 
 285 4
 
@@ -14435,7 +14111,6 @@ To perform a power analysis of statistical hypothesis tests, the free program G*
 (» www.gpowerhhu.de) is also available. This is also extremely helpful for fast and
 straightforward analyses.
 
-===== PAGE 298 =====
 
 286 Chapter 4 - The Experiment from a Statistical Perspective
 
@@ -14519,7 +14194,6 @@ Leonhart, R. (2008). Psychologische Methodenlehre/Statistik. Munchen: UTB.
 Levine, D. K. (1998}. Modeling altruism and spitefulness in experiments. Review of Economic Dynamics,
 1(3), 593-622.
 
-===== PAGE 299 =====
 
 287 4
 
@@ -14573,7 +14247,6 @@ John Wiley & Sons.
 
 Zar, J.H. (1999). Biostatistical analysis (4th ed.}. Upper Saddle River: Prentice Hall.
 
-===== PAGE 300 =====
 
 Supplementary
 Information
@@ -14586,7 +14259,6 @@ Index - 303
 J. Weimann, J. Brosig-Koch, Methods in Experimental Economics, Springer Texts in Business
 and Economics,
 
-===== PAGE 301 =====
 
 290 Appendix
 
@@ -14669,7 +14341,6 @@ static (all the players decide simultaneously) or dynamic (players decide sequen
 informed about another player’s preferences regarding the possible outcome of
 the game, this can also lead to strategic
 
-===== PAGE 302 =====
 
 Appendix
 
@@ -14710,7 +14381,6 @@ vee S; ., 5,) denotes a strategy profile
 
 it, Sine?
 
-291
 
 that contains the strategies of the n-1 other
 players from player ?’s point of view.
@@ -14755,7 +14425,6 @@ Player A> a, a,
 Marv Fa Barz Marz
 Maov Bari ®a20" Maro
 
-===== PAGE 303 =====
 
 292 Appendix
 
@@ -14838,7 +14507,6 @@ Action R
 b1 <1 dl
 b2 <2 d2
 
-===== PAGE 304 =====
 
 Appendix
 
@@ -14884,7 +14552,6 @@ mixed strategies be allowed, i.e. probability distributions across the player’
 penalty shoot-out in soccer. No shooter
 chooses a pure strategy (e.g. “always shoot
 
-293
 
 to the right”). The shooters mix their strategies, sometimes choosing the left corner,
 sometimes the right.
@@ -14929,9 +14596,7 @@ of these subgames with the payoffs that
 the nodes are omitted for the sake of
 simplicity.
 
-===== PAGE 305 =====
 
-294
 
 Appendix
 
@@ -14983,7 +14648,6 @@ we will briefly explain the economic background of the experiments and list what
 we consider to be the most important
 findings.
 
-===== PAGE 306 =====
 
 Appendix
 
@@ -15019,7 +14683,6 @@ a payoff that is twice as high, but that is
 not accessible to rational and strictly selfish players under the rules of the game
 because C is never the best response.
 
-295
 
 Cooperation could benefit both players,
 but this cooperation is not rational from
@@ -15064,7 +14727,6 @@ Player B> G DB,
 6,6 1,7
 7,1 3,3
 
-===== PAGE 307 =====
 
 296 Appendix
 
@@ -15151,7 +14813,6 @@ this offer because it is his best response.
 The equilibrium of the ultimatum
 game results in an extremely unequal split.
 
-===== PAGE 308 =====
 
 Appendix
 
@@ -15194,7 +14855,6 @@ that makes the “game” so interesting,
 
 4 Fora survey, see Gith and Kocher (2014).
 
-297
 
 because we can assume that the dictator's
 decision is not influenced by expectations
@@ -15238,7 +14898,6 @@ the second stage of the game, the trustee has
 the option to return any part 0 < # < 1 ofhis
 endowment (A + 3@A) to the trustor.
 
-===== PAGE 309 =====
 
 298 Appendix
 
@@ -15325,7 +14984,6 @@ refer to a special experimental design, but
 to a whole class of experiments. The aim is
 to model market processes in the laboratory. In particular, the question is how pricing takes place in competitive markets and
 
-===== PAGE 310 =====
 
 Appendix
 
@@ -15370,7 +15028,6 @@ suppliers and the bids of the demanders
 are exchanged and accepted. This is where
 the design of what is termed a double auction, developed by Vernon Smith, proved
 
-299
 
 to be particularly robust. Vernon Smith
 was the first experimental economist to be
@@ -15412,7 +15069,6 @@ the risk preference of a decision-maker.
 Not having any strategic interaction
 between the subjects, lottery choices are, in
 
-===== PAGE 311 =====
 
 300 Appendix
 
@@ -15509,7 +15165,6 @@ Organization, 108, 396-409.
 Gith, W., Schmittberger, R., & Schwarze, B. (1982).
 An experimental analysis of ultimatum
 
-===== PAGE 312 =====
 
 Appendix
 
@@ -15527,7 +15182,6 @@ Roth (Eds.), The Handbook of Experimental
 Economics (pp. 111-194). Princeton: Princeton
 University Press.
 
-301
 
 Nash, J. F. (1950). Equilibrium points in n-person
 games. Proceedings of the national academy of
@@ -15541,7 +15195,6 @@ Zeitschrift fur die gesamte Staatswissenschaft,
 Smith, V. L. (1962). An experimental study of competitive market behavior. Journal of Political
 Economy, 70, 111-137.
 
-===== PAGE 313 =====
 
 Index
 
@@ -15715,7 +15368,6 @@ Dictator game 28, 50, 57, 59, 62, 64, 78, 84, 89,
 
 Differences, cultural 68-70
 
-===== PAGE 314 =====
 
 304 Index
 
@@ -15888,7 +15540,6 @@ Instrumental variables estimation 250
 
 Integrability problem 15
 
-===== PAGE 315 =====
 
 Index
 
@@ -16060,7 +15711,6 @@ Quantile function 179-181
 Quasi-experiment 249
 Quasi-likelinood method 279
 
-===== PAGE 316 =====
 
 306 Index
 
@@ -16264,7 +15914,6 @@ Top-coding 283
 
 Total crash of the computer system 165
 
-===== PAGE 317 =====
 
 Index
 
@@ -16304,7 +15953,6 @@ Variable
 
 - explanatory 30, 177, 244, 246, 249, 250, 254, 271, 282
 
-307
 
 independent 172, 175, 250, 258, 262
 

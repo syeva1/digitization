@@ -1,3 +1,7 @@
+# Тема: Тема_Социальный_выбор_и_благосостояние
+# Источник: Lecture 1 Microeconomics Topic 1
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 Microeconomics — Topic 1
 Social Choice Welfare: Preferences, Aggregation, Welfare Measures
 Shahir Safi
@@ -5,9 +9,7 @@ New Economic School (NES)
 September 11, 2025
 Total slides: 20
 
---------------------------------
 
-=== Slide 01 ===
 Microeconomics — Topic 1
 Social Choice Welfare: Preferences, Aggregation, Welfare Measures
 Shahir Safi
@@ -15,7 +17,6 @@ New Economic School (NES)
 September 11, 2025
 Page 1 / 20
 
-=== Slide 02 ===
 Today’s Agenda (90 min)
 • Preferences: foundations of choice (20 min)
 • Aggregating preferences: the social choice problem (25 min)
@@ -23,7 +24,6 @@ Today’s Agenda (90 min)
 • Practice Q→A (15–20 min)
 Page 2 / 20
 
-=== Slide 03 ===
 What Are Preferences?
 Preferences describe how an individual ranks alternatives.
 Notation: a ≽ b means “a is weakly preferred to b.”
@@ -32,13 +32,11 @@ Transitivity: rankings are consistent (no cycles).
 With completeness & transitivity, preferences can be represented by a utility function.
 Page 3 / 20
 
-=== Slide 04 ===
 Practice Question 1
 Q1. Define completeness and transitivity in preferences.
 Why are they important for rational choice?
 Page 4 / 20
 
-=== Slide 05 ===
 Answer 1
 Completeness:
 For any two alternatives a, b, either a ≽ b or b ≽ a (or both ⇒ a ∼ b).
@@ -47,7 +45,6 @@ If a ≽ b and b ≽ c, then a ≽ c.
 These properties ensure coherent, predictable choices (no preference cycles).
 Page 5 / 20
 
-=== Slide 06 ===
 From Individuals to Society
 A social choice rule combines individual rankings into a social ranking.
 Examples:
@@ -57,7 +54,6 @@ Examples:
 Issue: heterogeneous preferences can yield cycles/inconsistencies.
 Page 6 / 20
 
-=== Slide 07 ===
 Practice Question 2 — Majority Rule with 3 Voters
 Three voters rank Pizza (P), Salad (S), Burger (B):
 
@@ -84,7 +80,6 @@ Using majority rule, determine the winner for:
 What do you conclude?
 Page 7 / 20
 
-=== Slide 08 ===
 Answer 2
 P vs S:
 Voters 1 & 3 prefer P → P wins (2–1).
@@ -98,7 +93,6 @@ P ≻ S, S ≻ B, B ≻ P — a Condorcet cycle.
 Society’s preferences can be intransitive even if each individual is rational.
 Page 8 / 20
 
-=== Slide 09 ===
 Arrow’s Impossibility Theorem (Informal)
 No aggregation rule satisfies all at once:
 • Unrestricted domain (any rational profiles allowed)
@@ -110,7 +104,6 @@ Implication:
 Every reasonable rule sacrifices at least one desideratum.
 Page 9 / 20
 
-=== Slide 10 ===
 Measuring Social Welfare
 Utilitarian social welfare function (SWF):
 W = Σ ui  (maximize total utility)
@@ -124,7 +117,6 @@ No feasible change can make someone better off without making someone else worse
 Efficiency vs equity trade-offs are central.
 Page 10 / 20
 
-=== Slide 11 ===
 Practice Question 3 — Welfare Comparison
 Income allocations ($):
 
@@ -141,7 +133,6 @@ Questions:
 • Which does Rawlsian welfare prefer?
 Page 11 / 20
 
-=== Slide 12 ===
 Answer 3
 Utilitarian totals:
 A = 120
@@ -156,7 +147,6 @@ min(B) = 70
 Both criteria select B, but for different reasons (sum vs worst-off).
 Page 12 / 20
 
-=== Slide 13 ===
 Practice Question 4 — Adding a Third Allocation
 Add allocation C:
 
@@ -177,7 +167,6 @@ Rank A, B, C under:
 • Rawlsian welfare
 Page 13 / 20
 
-=== Slide 14 ===
 Answer 4
 Utilitarian sums:
 A = 120
@@ -195,7 +184,6 @@ Both agree here: C dominates.
 In general, the two criteria can diverge.
 Page 14 / 20
 
-=== Slide 15 ===
 Practice Question 5 — When Criteria Diverge
 Consider:
 
@@ -214,7 +202,6 @@ Questions:
 • Which by Rawlsian welfare?
 Page 15 / 20
 
-=== Slide 16 ===
 Answer 5
 Utilitarian totals:
 D = 200
@@ -231,7 +218,6 @@ Utilitarian favors higher total.
 Rawlsian protects the worst-off.
 Page 16 / 20
 
-=== Slide 17 ===
 Practice Question 6 — Pareto Efficiency
 Allocations:
 
@@ -248,7 +234,6 @@ Are the allocations Pareto comparable?
 Is either allocation Pareto dominated?
 Page 17 / 20
 
-=== Slide 18 ===
 Answer 6
 G makes Alice better off (85 vs 80),
 but Bob worse off (55 vs 60).
@@ -257,7 +242,6 @@ Neither F nor G Pareto dominates the other.
 Both are Pareto efficient relative to one another.
 Page 18 / 20
 
-=== Slide 19 ===
 Key Takeaways
 • Individual rationality requires completeness and transitivity.
 • Aggregation can generate cycles (Condorcet).
@@ -267,7 +251,6 @@ Key Takeaways
 • Different criteria can agree or diverge depending on distributions.
 Page 19 / 20
 
-=== Slide 20 ===
 Next Steps
 • Read Geanakoplos (2005) for concise proofs of Arrow’s theorem.
 • Design a simple aggregation rule and identify which Arrow condition it violates.

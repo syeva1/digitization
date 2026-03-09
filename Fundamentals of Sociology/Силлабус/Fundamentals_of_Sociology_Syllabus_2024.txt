@@ -1,3 +1,7 @@
+# Тема: Силлабус
+# Источник: Fundamentals of Sociology Syllabus 2024
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 Year 1 Module 2
 Fundamentals of Sociology
@@ -102,12 +106,3 @@ All readings for the course will be available as digital files. There will be 25
 6. Wasserman, S. and Faust, K. 1994. Social Network Analysis.
 7. Maxfield, M. and Babbie, E. 2015. Research Methods for Criminal Justice and Criminology.
 8. Mongelli, Daniel. 2023. A Return to Rationality.
-PDF to Markdown	15.02.2026, 13:44
-
-PDF to Markdown	15.02.2026, 13:44
-
-
-
-PDF to Markdown	15.02.2026, 13:44
-
-

@@ -1,3 +1,7 @@
+# Тема: Куайн_эпистемология_онтология
+# Источник: From a Logical Point of View
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 FROM A LOGICAL POINT OF VIEW
 f ogico-Philosophical Essays
@@ -24,7 +28,6 @@ I am obliged to Professors Rudolf Carnap and Donald Davidson for helpful critici
 I am grateful to Messrs. Donald P. Quimby and S. Marshall Cohen for able assistance with the index and proofs.
 W. V. QUINE
 
-I
 ON WHAT THERE IS
 A curious thing about the ontological problem is its simplicity. It can be put in three Anglo-Saxon monosyllables: ФWhat is there?Х It can be answered, moreover, in a word-ФEverythingХ -and everyone will accept this answer as true. However, this is merely to say that there is what there is. There remains room for disagreement over cases; and 80 the issue has stayed alive down the centuries.
 Suppose now that two philosophers, McX and I, differ over ontology. Suppose McX maintains there is something which I maintain there is not. McX can, quite consistently with hi8 own point of view, dlescribe our difference of opinion by saying that I refuse to recognize certain entities. I should protest, of course, that he is wrong in hi8 formulation of our disagreement, for I maintain that there are no entities, of the kind which he alleges, for me to recognize; but my finding him wrong in hi formulation of our disagreelment is unimportant, for I am committed to considering him wrong in hi8 ontology anyway. When I try to formulate our difference of opinion, on the other hand, I seem to be in a predicament. I cannot admit that there are 8ome ~things which McX countenances and I do not, for in admitting that there are such things I should be contradicting my own rejection of them.
@@ -309,7 +312,6 @@ IDENTITY, OSTENSION, AND HYPOSTASIS
 
 Identity is a popular source of philosophical perplexity. Undergoing change as I do, how can I be said to continue to be myself? Considering that a complete replacement of my material substance takes place every Sew years, how can I be said to continue to be I for more than such a period at best? It would be agreeable to be driven, by these or other considerations, to belief in a changeless and therefore immortal soul as the vehicle of my persisting self-identity. But we should be less eager to embrace a parallel solution of HeracleitusХs parallel problem regarding a river: ТYou cannot bathe in the same river twice, for new waters are ever flowing in upon you.У The solution of HeracleitusХs problem, though familiar, will afford a convenient approach to some less familiar matters. The truth is that you can bathe in the same river twice, but not in the same river stage. You c,an bathe in two river stages which are stages of the same river, <and this is what constitutes bathing in the same river twice. A river is a process through time, and the river stages are its momentary parts. Identification of the river bathed in once with the river bathed in again is just what determines our subject matter to be a river process as opposed to a river stage.
 Let me speak of any multiplicity of water molecules as a waler. Now a river stage is at the same time a water stage, but two stages of the same river are not in general stages of the same
-65
 
 water. River stages are water stages, but rivers are not waters. You may bathe in the same river twice without bathing in the same water twice, and you may, in these days of fast transpolrtation, bathe in the same water twice while bathing in two different rivers.
 We begin, let us imagine, with momentary things and th.eir interrelations. One of these momentary things, called a, is a momentary stage of the river Cayster, in Lydia, around 4:OO KC. Another, called b, is a momentary stage of the Cayster two days later. A third, c, is a momentary stage, at this same latter date, of the same multiplicity of water molecules which were in the river at the time of a. Half of c is in the lower Cayster val.ley, and the other half is to be found at diffuse points in the .Aegean Sea. Thus a, b, and c are three objects, variously related. We may say that a and b stand in the relation of river kinship, and that a and c stand in the relation of water kinship. Now the introduction of rivers as single entities, namely, processes or time-consuming objects, consists substantially in reading identity in place of river kinship. It would be wrong, indeed, to say that a and b are identical; they are merely riverkindred. But if we were to point to a, and then wait the required two days and point to b, and affirm identity of the objects pointed to, we should thereby show that our pointing was intended not as a pointing to two kindred river stages but as a pointing to a single river which included them both. The imputation of identity is essential, here, to fixing the reference of the ostension.
@@ -380,7 +382,6 @@ NEW FOUNDATIONS FOR
 MATHEMATICAL LOGIC
 In Whitehead ancl RussellХs Princ+a Mathenmttia we hve good evidence that all mathematics is translatable into logic. But this calls for the elucidation of three terms: translatilon, mathematics, and logic. The units of translation are sentences; these comprise statements and also open sentences or matrices, that is, expressions abstracted from statements by supplanting constants by variables. Thus it is not held that every symbol or combination of symbols of mathematics, say ФVХ or Фd/d?, can be equated directly to an expression of logic. But it is held that every such expression can be translated in context, that is, tlhat all sentences containing such an expression can be systematically translated into other sentences which lack the expression in question and contain no new expressions beyond those ofХ logic. These other sentences will be translations of the original ones in the sense of agreeing with them in point of truth or falsehood for all values of the yfariables.
 Given such contextual translatability of all mathematical signs, it follows that every sentence consisting solely of logical and mathematical notation is translatable into a sentence consisting solely of logical notation. In particular, thus, all principles of mathematics reduce to principles of logic-or to principlea, at least, whose formulation needs no extralogical vlocabulary.
-80
 
 Mathematics, in the sense here intended, may be understood as embracing everything which is traditionally classed aa pure mathematics. In Principia Whitehead and Russell present the constructions of the essentia:l notions of set theory, arithmetic, algebra, and analysis from the notions of logic. Geometry is thereby provided for as well, if we think of geometrical notions as identified with algebraic ones through the correlat:ions of analytical geometry. The theory of abstract algebras is derivable from the logic of relations which is developed in Primipia. It must be admitted that the logic which generates all this is a more powerful engine than the one provided by Aristotle. The foundations of Principia are obscured by the notion of propositional function,Х but, if we suppress these functions in favor of the classes and relations which they parallel, we find a three-fold logic of propositions, classes, and relations. The primitive notions in terms of which these calculi are ultimately expressed are not standard notions of traditional logic; still they are of a kind which one would not hesitate to classify as logical. Subsequent investigations have shown that the array of logical notions required is far more meager than was supposed even in Principia. We need only these three: membership, expressed by interposing the tiign Ф6Х and enclosing the whole in parentheses; alternative deniai!, expressed by interposing the sign ФIХ and enclosing the whole in Iparentheses; and universal qmntification, expressed by prefixing a variable enclosed in parentheses. All logic in the sense of Principia, and hence all mathematics as well, can be translated into a language which consists o&y of an infinity of variables ФxХ, ФyХ, Ф2, ФxУ, etc., and these three modes of notational composition.
 The variables are to be regarded as taking as values any objects whatever; and among these objects we are to reckon classes of any objects, hence also classes of any classes. Ф(x a y)Х states that x is a m.ember of y. Prima facie, this makes sense only where y is a class. However, we may agree on an arbitrary supplementary meaning for the case where 21 is an
@@ -690,7 +691,6 @@ NOTES ON THE THEORY OF REFERENCE
 When the cleavage between meaning and reference is lproperly heeded,Х the problems of what is loosely called semantics become separated into two provinces so fundamentally distinct as not to deserve a joint appellation at all. They may be called the theory of meaning and the theory of rejerema. ФSemanticsХ would be a good name for the theory of meaning, were it not for the fact that some of the best work in so-called semantics, notably TarskiХs, belongs to the theory of reference. The main concepts in the theory of meaning, apart from meaning itself, are synonymy (or sameness of meaning), signifitznce (or possession of meaning), and anuZyttity (or truth by virtue of meaning). Another is entdment, or analyticity of the conditional. The main concepts in the theory of reference are naming, truth, den&&m (or truth-of) , and extension. Another is the notion of values of variables,
 Boundaries between fields are not barriers. Given any two fields, it is conceivable that a concept might be compounded of concepts from both fiekls. But if this were to happen in the case of the theory of meaning and the theory of reference, we should probably reckon the hybrid concept to the theory of meaningsimply because the thХeory of meaning is in a wo:rse state than the theory of reference, and is consequently the more serious of the two presuppositions.
 As applied to discourse in an explicitly quantificational form of language, the notion of ontological commitment belongs to the 1 See above, pp. 9, 21.
-130
 
 theory of reference. For to sХay that a given existential quantification presupposes objects of a given kind is to say simply that the open sentence which. follows the quantifier is true of some objects of that kind and none not, of that kind. In so far as we undertake to speak of ontological commitment on the part of discourse not in a4 explicitly quantificational form of language, on the other hand,, and to rest our case on a supposed synonymy between the given statements and their translations in a quantificational language, we are of course .involved in the theory of meaning.
 ФGiven a theory, one philosophically interesting aspect of it into which we can inquire is its ontology. But we can also inquire into its ideology (to give a good sense to a bad word) : what ideas can be expressed in it? The ontology of a theory stands in no simple correspondence to its ideology. Thus, consider the usual theory of real numbers. It#s ontology exhausts the real numbers, but its ideology-the range of severally expressible ideas-embraces individual ideas of only certain of the real numbers. For it is known that no notation is adequate to the separate specification of each real numХber.a On the other hand, the ideology also embraces many such ideas as sum, root, rationality, algebraicity, and the like, which need not have any ontological correlates in the range of the variables of quantification of the theory.
@@ -1083,7 +1083,6 @@ Actuality 3f
 Aggregate 114f. See alSo Class
 Algebra: abstract 81; of classes 87,. 92,
 128; of numbers 18, 45; of relations
-128
 Alternation 84
 Alternative denial Slf, 84,94 Ambiguity 32, 58, 67
 Anla$tmal: geometry 81; philosophy
@@ -1114,7 +1113,6 @@ Bicondrtional32, 84
 Ontology
 Common sense 45
 Bind, 84% Bound Completeness 19, 89, 96, 1X6, 131, 137
-179
 
 Concatenation 117, !37
 Concept 4, 71, 151, 153. See olsc~ Attribute. Pronosition
@@ -1242,7 +1240,6 @@ Phenomenalism 17ff, 38ff
 Philosophy 79. See also Metaphysics
 Phoneme 50f
 Physical, Physics 16-19, 40-45, 69, 77,
-158
 Pxrrn, K. L. 60 PLAY> lf, 5, 8, 14 125 Platonism 14 181 50 76 125 127ff. concealed iO5, Фlid, lh. See alad
 
 
@@ -1289,49 +1286,4 @@ Truth 130, 134-138, 141; logical 22ff,
 90, 96, lOSf, 115f; quantified 118f
 Truth values: preservation of 27-32, 56f, 15Of, 155n, 159; as vahk~ of vanables 71, 109, 115f, 118f; ,assigned and reassigned 23, 42; wanting 64ff
 Types 90-93,124f, 127
-
-PDF to Markdown	15.02.2026, 14:03
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-PDF to Markdown	15.02.2026, 14:03
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-PDF to Markdown	15.02.2026, 14:03
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-PDF to Markdown	15.02.2026, 14:03
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-PDF to Markdown	15.02.2026, 14:03
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-
-PDF to Markdown	15.02.2026, 14:03
-
 

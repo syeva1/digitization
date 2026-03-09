@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Методы_и_методология
+# Источник: Moscow BainBridge IntroToMethods
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 b “Social
 
@@ -17,7 +20,6 @@ Computer-
 
 } ¢ Introduction
 
-oe
 
 | William
 
@@ -25,7 +27,6 @@ _ Sims 2
 _ Bainbridge |
 ei \
 
-===== PAGE 2 =====
 
 |
 |
@@ -75,7 +76,6 @@ how they can be measured. Before undertaking In both science and morality, we st
 !
 1
 
-===== PAGE 3 =====
 
 2 CHAPTER 1 An Introduction to Social Research ‘
 achieve ideals. Good social science gains — manner consistent with the rights of the people r
@@ -121,7 +121,6 @@ pirical research. We would have to do a study,
 * Terms boldfaced in the text are defined in the comparing religious people, with irreligious
 Glossary /Index at the back of this book. people, to see if the former really were more
 
-===== PAGE 4 =====
 
 ' -
 The Logic of Scientific Research 3
@@ -170,7 +169,6 @@ Many recent studies have operationalized re- be total scientific defeat. But the
 | ligiousness in terms of membership ina church we can get certainly does not support the
 or other religious organization. Clearly, this is hypothesis that religion encourages suicide. ~
 
-===== PAGE 5 =====
 
 4 CHAPTER 1 An Introduction to Social Research
 One could frame several other potentially not merely refer to operationalizing concepts in
@@ -216,7 +214,6 @@ should be made as clearly as possible, spelled —_to_ their participants (Blume
 out even in fine detail. The operational part does 1974). Because interpretation is never entirely
 !
 
-===== PAGE 6 =====
 
 The Logic of Scientific Research 5
 neutral, and given the history of interpretive to new possibilities and considering slightly
@@ -266,7 +263,6 @@ those sociologists who happen to have exactly the argument. Inspiration and imag
 your personal beliefs and sentiments. We boldness and perseverance are qualities neces-
 ; all like occasionally having our eyes opened sary to the scientist no less than the artist,
 
-===== PAGE 7 =====
 
 (
 6 CHAPTER 1 An Introduction to Social Research
@@ -326,7 +322,6 @@ out like sore thumbs. 1970s did the federal government make
 
 4 !
 
-===== PAGE 8 =====
 
 q The Logic of Scientific Research 7
 3 available a complete microfilm copy of not, in principle, imagine evidence that would

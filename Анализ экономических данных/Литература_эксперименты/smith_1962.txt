@@ -1,10 +1,13 @@
+# Тема: Литература_эксперименты
+# Источник: smith 1962
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 Chapman University
 Chapman University Digital Commons
 Economics Faculty Articles and Research                                                                                                  Economics
 
 
 
-1962
 
 An Experimental Study of Competitive Market
 Behavior
@@ -764,7 +767,6 @@ any period. This sum would represent                                            
                                                                                                                                                                                                 -
                                                                                                                                                                                                         3.20
                                                                                                                                                                                                          4.4?
-                                                                                                                                                                                                        34
  03.40
         3.00                          r - ;~~~~~~~~~~~~~~~~~~~                                                                                                                                          3.~~~~~~00
   2.8 1,40
@@ -1163,7 +1165,6 @@ in test 10 than in the first three periods                                      
      0 - -
     1.80
    4.2                                                                      ~~~~~        0=1. 21.8          21545.4             0=1. 13.2                 2=03           -          1.80
-                                                                                                                                                                                   3420
    1.60 -                                                                                                                                                                - ~~~~~~~~~~~
                                                                                                                                                                              0
     1.4 0 -                                                                                                                                                              - ~~~~~~~~~~~
@@ -1830,7 +1831,6 @@ gests that the later trading period regres-                                     
     ? -O__
    ,00                 __    _   _    _
                                      ___                                                 _        _     _        _   _.         _        ._.__                   -        -                      $5. O
-  4380
         -                                                                                S                                                                                                  _        4.80
 
   4.60 Pt
@@ -1859,7 +1859,6 @@ gests that the later trading period regres-                                     
 
 
    .11013o
-                                                                                                                                                            00
                                                                                                                                                                                  1~
                                                                                                                                                                                   01        1~
           0        2    4    6   8    10   12   14       16   18   20   22   24   26    28                                1         5           11 1518 3        7   11   17 3    7    11       10

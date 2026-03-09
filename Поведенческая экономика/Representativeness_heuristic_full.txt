@@ -1,3 +1,7 @@
+# Тема: Поведенческая экономика
+# Источник: Representativeness heuristic full
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 --- Slide 1 ---
 
@@ -43,13 +47,10 @@ Insensitivity to prior probability of outcomes
 --- Slide 5 ---
 
 GAMBLER’S FALLACY
-01
 Misconception of chance
 PIGMALION EFFECT
-03
 The illusion of validity
 MONTY HALL PROBLEM
-02
 Insensitivity to prior probability of outcomes
 EXAMPLES
 EXAMPLES

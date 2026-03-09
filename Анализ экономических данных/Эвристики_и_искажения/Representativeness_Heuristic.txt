@@ -1,14 +1,15 @@
+# Тема: Эвристики_и_искажения
+# Источник: Representativeness Heuristic
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 DOCUMENT TITLE: REPRESENTATIVENESS HEURISTIC
 Authors: Kursov, Barsukov, Vodolatskyy
 Total slides: 8
-----------------------------------
 
-=== Slide 01 ===
 GROUP B
 REPRESENTATIVENESS HEURISTIC
 Kursov Barsukov Vodolatskyy
 
-=== Slide 02 ===
 WHAT IS IT?
 DEFINITION
 Mental shortcut for judging the probability of an outcome in terms of how well it seems to represent or match a particular prototype
@@ -18,7 +19,6 @@ Questions:
 • What is the probability that event A originates from process B?
 • What is the probability that process B will generate event A?
 
-=== Slide 03 ===
 ORIGINS
 FOUNDATION / ESTABLISHMENT / HISTORY
 
@@ -32,7 +32,6 @@ Belief in the law of small numbers.
 Psychological Bulletin, 76(2), 105–110.
 doi:10.1037/h0031322
 
-=== Slide 04 ===
 WRITE IT DOWN!
 Types of representativeness heuristic:
 • Insensitivity to prior probability of outcomes
@@ -42,7 +41,6 @@ Types of representativeness heuristic:
 • The illusion of validity
 • Misconceptions of regression
 
-=== Slide 05 ===
 EXAMPLES
 
 01. GAMBLER’S FALLACY
@@ -54,21 +52,18 @@ Insensitivity to prior probability of outcomes
 03. PIGMALION EFFECT
 The illusion of validity
 
-=== Slide 06 ===
 WHY GAMBLERS LOSE?
 Let’s play a game
 
 • The gambler's fallacy, also known as the Monte Carlo fallacy, occurs when an individual erroneously believes that a certain random event is less likely or more likely to happen based on the outcome of a previous event or series of events.
 • This can also be implied towards the stock market when you are an aggressive trader.
 
-=== Slide 07 ===
 Y SHOULD U SWITCH DOOR?
 Monty Hall Problem visual explanation with three doors:
 Door 1 – ?
 Door 2 – ?
 Door 3 – Goat (revealed)
 
-=== Slide 08 ===
 HOW RACISM WORKS?
 
 In theory:

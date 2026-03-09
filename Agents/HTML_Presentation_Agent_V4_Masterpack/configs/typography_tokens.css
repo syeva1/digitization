@@ -1,0 +1,13 @@
+:root{
+  --font-display:"Montserrat","Space Grotesk","Sora","Avenir Next","SF Pro Display",-apple-system,"Segoe UI",sans-serif;
+  --font-body:Inter,"IBM Plex Sans","Instrument Sans","Karla",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  --font-ui:"IBM Plex Mono","SFMono-Regular",Consolas,"Courier New",monospace;
+
+  --h1-size:clamp(40px, 6vw, 78px);
+  --h2-size:clamp(28px, 3.8vw, 48px);
+  --body-size:clamp(17px, 1.45vw, 22px);
+  --small-ui-size:12px;
+
+  --tracking-display:-0.04em;
+  --tracking-ui:0.14em;
+}

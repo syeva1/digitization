@@ -1,3 +1,7 @@
+# Тема: encoding_type_a_files.txt
+# Источник: encoding type a files
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 Experimentality, Technology, and the Scientific Method/Куайн У. Слово и объект.txt
 Experimentality, Technology, and the Scientific Method/Литература_на_русском/Куайн У. Онтологическая относительность.txt
 Experimentality, Technology, and the Scientific Method/Литература_на_русском/Куайн У. С точки зрения логики.txt

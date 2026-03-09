@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Методы_и_методология
+# Источник: Moscow Berg Interviewing
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 Fifth Edition
 
@@ -11,7 +14,6 @@ FOR THE SOCIAL SCIENCES |
 
 BRUCE LL. BERG
 
-===== PAGE 2 =====
 
 CHAPTER THREE
 
@@ -51,7 +53,6 @@ I want to re-read the interview, not as a method of gathering information, but a
 a vehicle for producing performance texts and performance ethnographies
 about self and society.
 
-===== PAGE 3 =====
 
 76 CHAPTER FOUR
 
@@ -128,7 +129,6 @@ together and inform one another (Denzin, 2001).
 Also similar to the dramaturgical perspective presented here is what
 Holstein and Gubrium (1995) call active interviewing. From their perspective,
 
-===== PAGE 4 =====
 
 78 CHAPTER FOUR
 
@@ -170,7 +170,6 @@ ADRAMATURGICAL LOOK AT INTERVIEWING
 
 Semistandardized
 
-79
 
 Standardized Unstandardized
 interviews Interviews Interviews
@@ -218,7 +217,6 @@ Pork? Beans? Corn? Grits? Bread? Cereal? Ice Cream? Fruits? Vegetables?
 10. Which protein foods do you not eat?
 11. What foods do you like to eat between meals?
 
-===== PAGE 5 =====
 
 80 CHAPTER FOUR
 
@@ -305,9 +303,7 @@ masculine genders?
 Subject: Okay, my parents found out because I told my sister that I
 was homosexual, because one of my father’s brothers had raped me.
 
-===== PAGE 6 =====
 
-82
 
 CHAPTER FOUR
 
@@ -392,7 +388,6 @@ with me the details of their lives. Special attention was paid to the initiation
 these women into street hustling and the development of a career as a street hustler. Although the same broad topics were introduced during each interview,
 many of my questions changed over time.
 
-===== PAGE 7 =====
 
 84 CHAPTER FOUR
 
@@ -488,7 +483,6 @@ for Elijah [ceremonially poured for the Angel Elijah]?” Later, during a series
 of questions centering on Chanukkah observance styles, the interviewer
 asked: “What drinks are usually served during this time?”
 
-===== PAGE 8 =====
 
 86 CHAPTER FOUR
 

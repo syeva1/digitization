@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Методы_и_методология
+# Источник: Moscow Demography
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 Lis |
 pacttcs anne BE
@@ -8,7 +11,6 @@ Second Edition ’
 Jay Weinstein
 Vijayan K. Pillai .
 
-===== PAGE 2 =====
 
 : 4 poke Ri at: ‘ \@
 4 : OF POPULATION _
@@ -45,10 +47,7 @@ te countries for emergency assistance, long-term development aid, and diplomatic
 x q
 a 4j
 1
-i
-i
 
-===== PAGE 3 =====
 
 | 2 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE
 The rapid urban growth in the poorer nations creates a strong incentive for
@@ -122,7 +121,6 @@ gender (sex), and a range of sociocultural structures and stratification systems
 ie ily, ethnicity, occupation, wealth, and income. Throughout the chapter, we discuss /
 key principles in demographic analysis, issues in data collection, the major measures
 
-===== PAGE 4 =====
 
 | CHAPTER:
 ONE:
@@ -162,7 +160,6 @@ in part on the extent to which the individuals it contains interact with one ano
 share the same geographic territory, and maintain prolonged contact over the course Ai
 5 } ai
 
-===== PAGE 5 =====
 
 | 6 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE
 i of one or more generations. At one extreme, some aggregates are mere classifications,
@@ -199,7 +196,6 @@ tewerstyst Our Goals
 t Bovis ca 5018 mentorships, workshops and meetin.
 1 Source: http//cpb.ucdavis.edu.
 
-===== PAGE 6 =====
 
 |
 CHAPTER ONE: THE NATURE oF POPULATIONS | 7
@@ -246,7 +242,6 @@ a. can be readily observed and their characteristics directly measured, ‘
 3. Human populations are especially complex because, in addition to having a
 q 4 common gene pool and territory, their members also share a sociocultural heritage:
 
-===== PAGE 7 =====
 
 i 8 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE
 aH tools, language, or other knowledge that is transmitted from parents to offspring and
@@ -295,7 +290,6 @@ human populations is an especially difficult and challenging branch of demograph
 
 i For centuries, scientists and the general public alike have been especially puzzled by
 
-===== PAGE 8 =====
 
 4 CHAPTER ONE: THE NATURE OF POPULATIONS | 9 :
 ind _ this particular aspect of population dynamics; seeking to determine how much of a 4
@@ -345,7 +339,6 @@ _ field was founded (more about the history of demography later in this chapter)
 __ fesults of these explorations have contributed significantly to the body of scientific
 i ' _ theory in biology, sociology, anthropology, and other disciplines.
 
-===== PAGE 9 =====
 
 mt)
 10 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE
@@ -393,7 +386,6 @@ Figure 1.3 The Four Components of
 G = (B-D) + (I-0) Population Growth
 |
 
-===== PAGE 10 =====
 
 - AGGREGATES AND INDIVIDUALS
 % a "We have already emphasized that demography focuses on the aggregate and not the
@@ -439,7 +431,6 @@ PS One of the most interesting discoveries of “hidden” relationships among i
 a and aggregate characteristics is credited to the great demographer and sociologist ~
 !
 
-===== PAGE 11 =====
 
 ry
 12 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE
@@ -485,7 +476,6 @@ DRS,. > DRS and |
 DRS,, > DRS and |
 as DRS, > DRS. |
 
-===== PAGE 12 =====
 
 ae CHAPTER ONE: THE NATURE OF POPULATIONS | 13 fi
 . Durkheim did find that, in addi- Pe A ae |
@@ -535,7 +525,6 @@ a ; science. Here we stress that one needs to be careful not to take this point 
 j a by Thomas Robert Malthus (1766-1834). It is a fairly common error that we now :
 E q r know should be avoided.
 
-===== PAGE 13 =====
 
 14 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE
 *
@@ -590,7 +579,6 @@ i would increase geometrically (the curve in Figure 1.7), the reverse actually o
 f
 Wei
 
-===== PAGE 14 =====
 
 F CHAPTER ONE: THE NATURE OF POPULATIONS | 15
 a : Figure 1.7 Malthusian Growth |
@@ -639,7 +627,6 @@ with gratitude or disdain, but in either case with acknowledgement that the issu
 E overpopulation] is all but dead—a piece of intellectual history rather than a continu-
 | ing controversy? As with most important thinkers, the answer is ‘no””
 
-===== PAGE 15 =====
 
 Mi
 16 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE |
@@ -694,7 +681,6 @@ i through His Prophet Moses to count their numbers:
 |
 a |
 
-===== PAGE 16 =====
 
 0 T
 was : a On the first day of the secng a 4 ond month, in the second
@@ -743,7 +729,6 @@ i 4 There he would convey his name and probably other information such as his ag
 i the number of his children, their sexes, and information about his wife and other .
 4 relatives. Under the conditions of life for the vast majority of the people of these”
 
-===== PAGE 17 =====
 
 rr
 18 | PART ONE: AN OVERVIEW OF POPULATION SCIENCE

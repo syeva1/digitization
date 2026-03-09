@@ -1,3 +1,7 @@
+# Тема: Куайн_эпистемология_онтология
+# Источник: Ontological Relativity and Other Essays
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 
 :< 0
@@ -33,7 +37,6 @@ Contents
 6 Propositional Objects
 Index
 1 Speaking of Objects
-I
 We are prone to talk and think of objects. Physical objects are the obvious illustration when the illustrative mood is on us, but there are also all the abstract objects, or so there purport to be: the states and qualities, numbers, attributes, classes. We persist in breaking reality down somehow into a multiplicity of identifiable and discrim inable objects, to be referred to by singular and general terms. We talk so inveterately of objects that to say we do so seems almost to say nothing at all; for how else is there to talk? It is hard to say how else there is to talk, not because our objectifying pattern is an invariable trait of human nature, but because we are bound to adapt any alien pattern to our own in the very process of understanding or translating the alien sen tences.
 Imagine a newly discovered tribe whose language is without known affinities. The linguist has to learn the language directly by obsrving what the natives say under observed circum stances, encountered or contrived. He makes a first crude be ginning by compiling native terms for environing objects; but
 2 I Speaking of Objects
@@ -696,9 +699,7 @@ lation that carries no evident practical problem with it. It is the problem of s
 Index
 Abstract objects 1, 3, 13-17, 21
 Abstract terms 1, 3, 13-17, 38-
-41
 Analytical hypotheses 33 f, 41,
-103
 Analyticity 86
 Arithmetic 43-45
 Atoms 136, 147
@@ -707,7 +708,6 @@ Attributes (or Properties) 15, 17, 101, 117 f; individuation of 19-23
 Background theory 49-51, 55, 57 f, 60; three grades of de pendence 61-67 BACON, John 94
 Behavior 123; as key to first language 26-29, 125, 158; as
 key to translation 45, 103,
-105
 Being 100, 108
 Belief 18, 145 f, 153
 BENACERRAF, Paul 45n
@@ -725,7 +725,6 @@ Descriptions 72, 101
 Desire 146 f, 153
 DEWEY, John 26-29, 47
 Dispositions 130 f, 136, 138,
-144
 DREBEN, Burton 6n, 68n, 107,
 112n, 114n
 DUHEM, Pierre 80
@@ -758,7 +757,6 @@ Ontological reduction 55-62,
 67 f
 Ontological relativity 49, 52-55,
 60, 62, 64 Ontology 68, 91-93, 98; in translation 1-3, 6 f, 103, 106-08; of trivial theories 62-
-64
 Ostension 31, 39 f, 49, 12125; and individuation 30-33, 40, 124; deferred 39-41, 45, 54
 Paradigm 119 f, 136
 Paradoxes 17, 19, 66, 114
@@ -776,7 +774,6 @@ Projectibility 115 f Pronouns 32 f, 35
 Sets, see Classes
 Similarity 116-19, 121-23,
 127 f; theoretical 128 f, 133-
-38
 Simulation 101-03
 Singular terms 1, 10, 95, 106
 SKOLEM, Thoralf 43, 58-60,
@@ -786,7 +783,6 @@ Solubility 130 f, 135 f
 Space 49 f, 148-52; of quali
  ties 123-28
 States of affairs 81, 147, 153-
-55
 Stimulation 75, 81, 84-86, 123,
 155 f; problem of defining
 157-60
@@ -800,31 +796,4 @@ Terms 1 f, 7, 17 f; abstract 1,
 3, 13-17, 38-41; general 1,
 8-10, 12; singular 1, 10, 95, 106; mass (or bulk) 7-9, 11-
 15, 24, 36-38; individuative 8-10, 12; demonstrative 12; relative 13
-
-PDF to Markdown	15.02.2026, 14:03
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-PDF to Markdown	15.02.2026, 14:03
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-PDF to Markdown	15.02.2026, 14:03
-
-PDF to Markdown	15.02.2026, 14:03
-
-
-
-PDF to Markdown	15.02.2026, 14:03
-
 

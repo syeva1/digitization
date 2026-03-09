@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Поведенческая экономика
+# Источник: McCarter et al 2020
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 Journal of Economic Behavior and Organization 178 (2020) 925-946
 
@@ -80,13 +83,9 @@ E-mail address: matthew.mccarter@utsa.edu (M.W. McCarter).
 
 0167-2681/© 2018 Elsevier B.V. All rights reserved.
 
-===== PAGE 2 =====
 
 926 MLW, McCarter et al. /fournal of Economic Behavior and Organization 178 (2020) 925-946
 
-25
-20
-15
 Rn
 oD
 o
@@ -145,7 +144,6 @@ generations - who are interdependently connected.
 each literatures’ findings: the diversity-conflict model (e.g. Mannix and Neale, 2005), social dilemma models (e.g. Van Lange et al., 2013), the behavioralnegotiation model (e.g. Thompson et al., 2010), the social exchange model (e.g. Cropanzano and Mitchell, 2005), and the transaction cost economics model
 (e.g. Silverman, 2002).
 
-===== PAGE 3 =====
 
 M.W. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946 927
 
@@ -220,7 +218,6 @@ organizations.
 Thompson, 1961). These terms, for the most part, declined in use during the 1970s, were near extinct by the 1990s, and now appear but occasionally
 in management research in such developing areas as territoriality in organizations (e.g. Brown et al. 2005) and hypercompetition (e.g. D'aveni and Gunther, 2010). Therefore, we do not address war research in the current review of the management literature,
 
-===== PAGE 4 =====
 
 928 MW. McCarter et al. /fournal of Economic Behavior and Organization 178 (2020) 925-946
 2.1, Diversity-conflict model
@@ -283,7 +280,6 @@ on creating and claiming value and consist of sharing information about interest
 to generate joint gains (Pruitt, 1981). Walton and McKersie’s (1965) were consensus shifter, providing conflict scholars a
 package of context-specific models about how negotiators discover and divide resources.
 
-===== PAGE 5 =====
 
 MW. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946 929
 
@@ -345,7 +341,6 @@ solutions under this category. Encouraging communication among actors in social 
 the give-or-take-some dilemma not a focus of the current review. For further discussion about the give-or-take-some dilemma, the reader may benefit from
 Van Lange et al.'s (2013) review of the psychology of social dilemmas.
 
-===== PAGE 6 =====
 
 930 MW. McCarter et al. /fournal of Economic Behavior and Organization 178 (2020) 925-946
 
@@ -409,7 +404,6 @@ inverse of Party B’s dependence on Party A. Dependence may arise from the need
 bargaining alternatives. Emerson (1962) clarified that power is not isolated to an individual or group but as a relationship of
 one actor over another. Given the relative nature of power, it is important to consider who controls the resource in question
 
-===== PAGE 7 =====
 
 MW. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946 931
 
@@ -471,7 +465,6 @@ such as planning and revising the agreement as well as overseeing the task throu
 § The reader may find of interest work utilizing the social exchange model to understand intragroup in the context of organizational justice, workplace
 politics, incivility, and abusive supervision (e.g. Cropanzano and Mitchell, 2005; Zellars et al., 2002).
 
-===== PAGE 8 =====
 
 932 MW. McCarter et al. /fournal of Economic Behavior and Organization 178 (2020) 925-946
 
@@ -529,7 +522,6 @@ conflict in a racially diverse team compared to a homogeneous one, and the incre
 affects the leaders’ generosity in supplying resources. Lount et al. (2015) complements the other papers by shifting the
 focus of inter-personal prejudice from the team to those looking from outside.
 
-===== PAGE 9 =====
 
 M.W. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946 933
 
@@ -591,7 +583,6 @@ begin with (Babcock et al., 2006).
 
 Recent research has sought to create consensus among inconsistencies regarding the role of gender differences in negotiation styles, Faramand and Tu (2013) found that gender does not significantly affect business negotiation styles, while
 
-===== PAGE 10 =====
 
 934 MLW. McCarter et al. /fournal of Economic Behavior and Organization 178 (2020) 925-946
 
@@ -654,7 +645,6 @@ appropriateness, evolutionary), developments in structural, psychological and dy
 social dilemmas, They suggest that moving forward scholars could explore further the role of emotions, construal processes,
 facial information, intergroup issues, reputation, and gossip.
 
-===== PAGE 11 =====
 
 MW. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946 935
 
@@ -716,7 +706,6 @@ resource dependency identifying bridging mechanisms was carried out by Pfeffer a
 Principle interest centered on actions firms take to minimize dependencies which lessen external constraints namely:
 mergers and acquisitions (Casciaro and Piskorski, 2005), joint venture/alliances (e.g. Mitchell and Singh, 1992), alliance port-
 
-===== PAGE 12 =====
 
 936 MLW. McCarter et al. /fournal of Economic Behavior and Organization 178 (2020) 925-946
 
@@ -776,7 +765,6 @@ particularly interested in hybrid forms of governance (Williamson 1983, 1991) su
 choices between make versus buy ranging from licensing to equity arrangements such as joint ventures (Oxley, 1999; Park
 and Russo, 1996) could be approached as outcomes of transaction cost considerations. Within the management literature
 
-===== PAGE 13 =====
 
 M.W. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946 937
 
@@ -836,7 +824,6 @@ effect is there? In knowing the size of the science behind the diversity-conflic
 significance” (Shaver, 2008). Surprisingly, our review of the diversity-conflict finds little examination of magnitude - at least
 when it comes to quantifiable outcomes. The neglect of putting size to the science is a lack of confidence in the model's
 
-===== PAGE 14 =====
 
 938 MW. McCarter et al. /fournal of Economic Behavior and Organization 178 (2020) 925-946
 
@@ -898,7 +885,6 @@ that today’s selfish or cooperative action may trigger a negative or positive 
 individuals to contemplate their long-term reputations (McCarter et al., 2011b). A non-cooperative reputation can eventually
 lead to ostracism (Kerr et al., 2009). On a more psychological level, people are in fact aware of this effect of transparency and
 
-===== PAGE 15 =====
 
 M.W. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946 939
 
@@ -960,7 +946,6 @@ using conflict to lessen their dependence on resources from other firms.
 Ben-Yossef, 1994; Bornstein et al., 1990}. These experiments are not reviewed in the current paper because they examine conflict between groups and not
 within them,
 
-===== PAGE 16 =====
 
 940 MLW, McCarter et al. /fournal of Economic Behavior and Organization 178 (2020) 925-946
 
@@ -1023,7 +1008,6 @@ review.
 8 Social dilemma models distinguish between opportunistic and defensive conflict or defection (e.g, McCarter et al., 2010; McCarter et al., 2011b; Rockmann and Northcraft, 2008). However, the multidimensionality of conflict here is between why a person chooses a course of action that harms the collective
 and not a course that can benefit the collective through conflict.
 
-===== PAGE 17 =====
 
 M.W. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946 941
 
@@ -1097,7 +1081,6 @@ research summarizes five models used to study intragroup conflict in management.
 scholars to understand how existing conflict can be leveraged (even increased) to an individual's advantage; how conflict
 can be reduced to an individual's advantage; and the contingencies of when conflict is a blessing and a curse for a person or
 
-===== PAGE 18 =====
 
 942 MLW. McCarter et al. /fournal of Economic Behavior and Organization 178 (2020) 925-946
 
@@ -1230,7 +1213,6 @@ De Dreu, C.K., Van De Vliert, E., 1997. Using Conflict in Organizations. Sage, L
 De Dreu, C.K., Weingart, L.R., 2003. Task versus relationship conflict, team performance, and team member satisfaction: a meta-analysis. J. Appl. Psychol.
 88, 741-749.
 
-===== PAGE 19 =====
 
 M.W. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946 943
 
@@ -1365,7 +1347,6 @@ Strateg. Manag. J. 36, 2058-2074.
 Lee, M., Pitesa, M., Pillutla, M.M., Thau, S., 2016. Male immortality: an evolutionary account of sex differences in unethical negotiation behavior. Acad.
 Manag. J. 60, 2014-2044.
 
-===== PAGE 20 =====
 
 944 MLW. McCarter et al. /fournal of Economic Behavior and Organization 178 (2020) 925-946
 
@@ -1507,7 +1488,6 @@ Portney, P., Weyant, J.. 1999. Discounting and Intergenerational Equity. Resourc
 Pratt, M.G., 2008. Fitting oval pegs into round holes: tensions in evaluating and publishing qualitative research in top-tier North American journals. Organ.
 Res. Methods 11, 481-509.
 
-===== PAGE 21 =====
 
 M.W. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946 945
 
@@ -1644,7 +1624,6 @@ harvesting behavior and the role of communication. Organ. Behav. Hum. Decis. Pro
 
 Wade-Benzoni, K.A., Tost, L-P., 2009. The egoism and altruism of intergenerational behavior. Personal. Soc. Psychol. Rev. 13, 165-193.
 
-===== PAGE 22 =====
 
 946 MLW, McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946
 

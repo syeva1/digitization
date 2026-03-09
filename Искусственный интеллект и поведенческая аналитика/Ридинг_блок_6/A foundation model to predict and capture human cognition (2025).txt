@@ -1,3 +1,7 @@
+# Тема: Ридинг_блок_6
+# Источник: A foundation model to predict and capture human cognition (2025)
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 A foundation model to predict and capture human cognition
   
 Received: 26 October 2024
@@ -18,7 +22,6 @@ The human mind is remarkably general3. Not only do we routinely make mundane dec
   If we want to understand the human mind in its entirety, we must move from domain-specific theories to an integrated one. The importance of such a unified approach has already been recognized by the pioneers of our field. For example, in 1990, it was stated that Тunified theories of cognition are the only way to bring [our] wonderful, increasing fund of knowledge under intellectual controlУ2. How can we make meaningful progress towards such theories?
   An important step towards a unified theory of cognition is to build a computational model that can predict and simulate human behaviour in any domain2,9. In this paper, we take up this challenge and introduce CentaurСa foundation model of human cognition10. Centaur was designed in a data-driven manner by fine-tuning a state-of-the-art large language model11 on a large corpus of human behaviour. For this purpose, we curated a large-scale dataset called Psych-101, which covers trial-by-trial data from 160 psychological experiments (see Methods, ФData collectionХ and Extended Data Fig. 1). We transcribed each of these experiments into natural language, which provides a 
   
-a
 Multi-armed bandits
 In this task, you have to repeatedly choose between two slot machines labelled B and C. When you select one of the machines, you will win or lose points. Your goal is to choose the slot machines that will give you the most points.
 You press <<C>> and get Р8 points.
@@ -44,7 +47,6 @@ E: tablet, Z: fox, and B: vent. You press <<Z>>. E: ivy, Z: coop, and B: drink. 
 E: kite, Z: flan, and B: jar. You press <<E>>.
 E: wand, Z: flag, and B: fire. You press <<Z>>.
   
-b
 Centaur: a foundation model of human cognition
 In this task, you have to repeatedly
 choose between two Self- Feedforward ... Self- Feedforward slot machines labelled attention network attention network
@@ -70,10 +72,6 @@ choices using negative log-likelihoods averaged across responses (Methods, ФEva
 Modified cover story	b	Modified problem structure	c	Entirely new domain
   
 
-39
-40
-51
-26
 	0.75	1.2
 	0.70	Random guessing
 1.0
@@ -86,10 +84,6 @@ Modified cover story	b	Modified problem structure	c	Entirely new domain
 model
 Fig. 3 | Evaluation in different held-out settings. a, Negative log-likelihoods averaged over responses (n?=?9,702) for the two-step task with a modified cover story23. b, Negative log-likelihoods averaged over responses (n?=?510,154) for a three-armed bandit experiment25. c, Negative log-likelihoods averaged over responses (n?=?99,204) for an experiment probing logical reasoning26 with 
 
-39
-40
-51
-	26	
 2.2
 Random guessing
 2.1
@@ -309,7 +303,6 @@ Extended Data Fig. 7 | Log-likelihood comparison between Centaur and 	responses.
 1 Institute for Human-Centered AI, Helmholtz Center, Munich, Germany. 2University of T?bingen, T?bingen, Germany. 3University of Oxford, Oxford, UK. 4Max Planck Institute for Biological Cybernetics, T?bingen, Germany. 5New York University, New York, NY, USA. 6Google DeepMind, London, UK. 7Princeton University, Princeton, NJ, USA. 8Max Planck School of Cognition, Leipzig, Germany. 9University of California, San Diego, San Diego, CA, USA. 10Boston University, Boston, MA, USA. 11TU Darmstadt, Darmstadt, Germany. 12Institute of Computational Biology, Helmholtz Center, Munich, Germany. 13TUM School of Computation, Information and Technology, Technical University of Munich, Munich, Germany. 14TUM School of Life Sciences, Technical University  of Munich, Munich, Germany. 15University of Cambridge, Cambridge, UK. 16Georgia Institute of Technology, Atlanta, GA, USA. 17University of Basel, Basel, Switzerland. 18Max Planck Institute for Human Development, Berlin, Germany. ?e-mail: marcel.binz@helmholtz-munich.de
 ---------------
   
-------------------------------------------------------------
   
   ---------------
   

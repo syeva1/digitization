@@ -1,3 +1,7 @@
+# Тема: Experimentality, Technology, and the Scientific Method
+# Источник: thomas-kuhn-the-structure-of-scientific-revolutions-fourth-edition
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 The Structure of Scientific
 REVOLUTIONS
@@ -9,7 +13,6 @@ The University of Chicago Press, Ltd., London © 1962, 1970, 1996, 2012 by The U
 Printed in the United States of America
 
 
-VI
 Anomaly and the Emergence of Scientific Discoveries 52
 
 vi Contents
@@ -31,7 +34,6 @@ Edward N. Zalta, http://plato.stanford.edu/archives/fall2009/entries/thomas-kuhn
 6. Conant illld Haugd.1nd, eds., Rorrci. 1 ir1u Srrw:tcm: (see note.; abowe ).
 7. Kuhn. Tir Stnu:!ur.: of Sdortijic R.:NrlrҐtitlm, 4t!J cd. ( ChiGigo,! L: Unh'crsity of Chicago Press, 2012). Text references are to this edition.
 
-1962
 The present edition commemorates the fiftieth anniversary of Struc ture. Nineteen sixty-two was a long time ago. The sciences themselves have radically changed. The queen of the sciences, then, was physics. Kuhn had been trained as a physicist. Few people knew much phys ics, but everybody knew that physics was where the action was. A cold war was in progress, so everyone knew about the Bomb. American schoolchildren had to practice cowering under their desks. At least once a year towns sounded an air raid siren, at which everyone had to take shelter. Those who protested against a nuclear weapon, by os tentatiously not taking shelter, could be arrested, and some were. Bob Dylan first performed ''A Hard Rain's A-Gonna Fall" in September 1962; everyone assumed it was about nuclear fallout. In October 1962. there was the Cuban Missile Crisis, the closest the world has come, after 1945, to nuclear war. Physics and its threat were on everyone's mind.
 The Cold War is long over, and physics is no longer where the action is. Another event of 1962 was the awarding of Nobel prizes to Francis Crick and James Watson fo r the molecular biology of DNA and to Max Perutz and John Kendrew fo r the molecular biology of hemoglobin. That was the harbinger of change. Today, biotechnology rules. Kuhn took physical science and its history as his model. You will have to decide, after reading his book, about the extent to which what he said about the physical sciences holds true in the teeming, present world of biotechnology. Add in information science. Add in what the computer has done to the practice of science. Even experiment is not what it was, fo r it has been modified and to a certain extent replaced by computer simulation. And everyone knows that the computer has changed communication. In 1962 scientific results were announced at meetings, in special seminars, in preprints, and then in articles pub lished in specialist journals. Today the primary mode of publication is in an electronic archive.
 There is yet another fu ndamental difference between 2012 and
@@ -411,7 +413,6 @@ Finally, at a still higher level, there is another set of commitments without wh
 To discover the relation between rules, paradigms, and normal science, consider first how the historian isolates the particular loci of commitment that have just been described as accepted rules. Close historical investigation of a given specialty at a given time discloses a set of recurrent and quasi-standard illustrations of various theories in their conceptual, observational, and instrumental applications. These are the community's paradigms, revealed in its textbooks, lec tures, and laboratory exercises. By studying them and by practicing with them, the members of the corresponding community learn their trade. The historian, of course, will discover in addition a penumbral area occupied by achievements whose status is still in doubt, but the core of solved problems and techniques will usually be clear. Despite occasional ambiguities, the paradigms of a mature scientific commu nity can be determined with relative ease.
 The determination of shared paradigms is not, however, the de termination of shared rules. That demands a second step and one of a somewhat different kind. When undertaking it, the historian must compare the community's paradigms with each other and with its cur rent research reports. In doing so, his object is to discover what isol
 able elements, explicit or implicit, the members of that community
-43
 
 may have abstracted fr om their more global paradigms and deployed as rules in their research. Anyone who has attempted to describe or analyze the evolution of a particular scientific tradition will necessar ily have sought accepted principles and rules of this sort. Almost cer tainly, as the preceding section indicates, he will have met with at least partial success. But, if his experience has been at all like my own, he will have fo und the search fo r rules both more difficult and less satis fying than the search for paradigms. Some of the generalizations he employs to describe the community's shared beliefs will present no problems. Others, however, including some of those used as illustra tions above, will seem a shade too strong. Phrased in just that way, or in any other way he can imagine, they would almost certainly have been rejected by some members of the group he studies. Neverthe less, if the coherence of the research tradition is to be understood in terms of rules1 some specification of common ground in the corre sponding area is needed. As a result, the search fo r a body of rules competent to constitute a given normal research tradition becomes a source of continual and deep fr ustration.
 Recognizing that fr ustration, however, makes it possible to diag nose its source. Scientists can agree that a Newton, Lavoisier1 Max well, or Einstein has produced an apparently permanent solution to a group of outstanding problems and still disagree, sometimes with out being aware of it1 about the particular abstract characteristics that make those solutions permanent. They can, that is1 agree in their iden tification of a paradigm without agreeing on1 or even attempting to produce, a full interpretation or rationalization of it. Lack of a standard interpretation or of an agreed reduction to rules will not prevent a par adigm fr om guiding research. Normal science can be determined in part by the direct inspection of paradigms1 a process that is often aided by but does not depend upon the fo rmulation of rules and assump tions. Indeed, the existence of a paradigm need not even imply that any fu ll set of rules exists.1
@@ -447,7 +448,6 @@ tion, but their answers were not the same. For the chemist the atom of helium wa
 
 Normal science, the puzzle-solving activity we have just examined, is a highly cumulative enterprise, eminently successful in its aim, the steady extension of the scope and precision of scientific knowledge. In all these respects it fits with great precision the most usual image of scientific work. Ye t one standard product of the scientific enterprise is missing. Normal science does not aim at novelties of fact or theory and, when successful, finds none. New and unsuspected phenomena are, however, repeatedly uncovered by scientific research, and radical new theories have again and again been invented by scientists. History even suggests that the scientific enterprise has developed a uniquely powerful technique for producing surprises of this sort. If this charac teristic of science is to be reconciled with what has already been said, then research under a paradigm must be a particularly effective way of inducing paradigm change. That is what fundamental novelties of fact and theory do. Produced inadvertently by a game played under one set of rules, their assimilation requires the elaboration of another set. After they have become parts of science, the enterprise, at least of those specialists in whose particular field the novelties lie, is never quite the same again.
 We must now ask how changes of this sort can come about, con-
-52
 
 sidering first discoveries, or novelties of fa ct, and then inventions, or novelties of theory. That distinction between discovery and inven tion or between fa ct and theory will, however, immediately prove to be exceedingly artificial. Its artificiality is an important clue to several of this essay's main theses. Examining selected discoveries in the rest of this section, we shall quickly find that they are not isolated events but extended episodes with a regularly recurrent structure. Discovery commences with the awareness of anomaly] i.e., with the recognition that nature has somehow violated the paradigm-induced expectations that govern normal science. It then continues with a more or less ex tended exploration of the area of anomaly. And it closes only when the paradigm theory has been adjusted so that the anomalous has become the expected. Assimilating a new sort of fa ct demands a more than ad ditive adjustment of theory] and until that adjustment is completed until the scientist has learned to see nature in a different way-the new fact is not quite a scientific fa ct at all.
 To see how closely fa ctual and theoretical novelty are intertwined in scientific discovery examine a particularly fa mous example, the dis covery of oxygen. At least three different men have a legitimate claim to it, and several other chemists must, in the early 1770's, have had enriched air in a laboratory vessel without knowing it.1 The progress of normal science, in this case of pneumatic chemistry, prepared the way to a breakthrough quite thoroughly. The earliest of the claimants to prepare a relatively pure sample of the gas was the Swedish apothe cary, C. W Scheele. We may, however, ignore his work since it was not published until oxygen's discovery had repeatedly been announced elsewhere and thus had no effect upon the historical pattern that most concerns us here.2 The second in time to establish a claim was
@@ -610,7 +610,6 @@ Confronted with anomaly or with crisis, scientists take a different attitude tow
 
 These remarks permit us at last to consider the problems that provide this essay with its title. What are scientific revolutions, and what is their function in scientific development? Much of the answer to these questions has been anticipated in earlier sections. In particular, the preceding discussion has indicated that scientific revolutions are here taken to be those non-cumulative developmental episodes in which an older paradigm is replaced in whole or in part by an incompatible new one. There is more to be said, however, and an essential part of it can be introduced by asking one fu rther question. Why should a change of paradigm be called a revolution? In the face of the vast and essential differences between political and scientific development, what paral lelism can justify the metaphor that finds revolutions in both? One aspect of the parallelism must already be apparent. Political revolutions are inaugurated by a growing sense, often restricted to a segment of the political communit}'i that existing institutions have ceased adequately to meet the problems posed by an environment that they have in part created. In much the same way, scientific revo lutions are inaugurated by a growing sense, again often restricted to a narrow subdivision of the scientific community, that an existing par
 adigm has ceased to function adequately in the exploration of an as-
-92
 
 pect of nature to which that paradigm itselfhad previously led the way. In both political and scientific development the sense of malfunc tion that can lead to crisis is prerequisite to revolution. Furthermore, though it admittedly strains the metaphor, that parallelism holds not only fo r the major paradigm changes, like those attributable to Coper nicus and Lavoisier, but also fo r the far smaller ones associated with the assimilation of a new sort of phenomenon, like oxygen or X-rays. Scientific revolutions, as we noted at the end of Section V, need seem revolutionary only to those whose paradigms are affected by them. To outsiders they maYi like the Balkan revolutions of the early twentieth centurYi seem normal parts of the developmental process. Astrono mers, fo r example, could accept X-rays as a mere addition to knowl edge, fo r their paradigms were unaffected by the existence of the new radiation. But fo r men like Kelvin, Crookes, and Roentgen, whose research dealt with radiation theory or with cathode ray tubes, the emergence of X-rays necessarily violated one paradigm as it created another. That is why these rays could be discovered only through something's first going wrong with normal research. This genetic aspect of the parallel between political and scientific development should no longer be open to doubt. The parallel has, however, a second and more profound aspect upon which the signifi cance of the first depends. Political revolutions aim to change political institutions in ways that those institutions themselves prohibit. Their success therefore necessitates the partial relinquishment of one set of institutions in favor of another, and in the interim, society is not fully governed by institutions at all. Initially it is crisis alone that attenu ates the role of political institutions as we have already seen it attenu ate the role of paradigms. In increasing numbers individuals become increasingly estranged fr om political life and behave more and more eccentrically within it. Then, as the crisis deepens, many of these indi viduals commit themselves to some concrete proposal fo r the recon struction of society in a new institutional fr amework. At that point the society is divided into competing camps or parties, one seeking to defend the old institutional constellation, the others seeking to insti tute some new one. And, once that polarization has occurred, political
 
@@ -867,7 +866,6 @@ At the start a new candidate for paradigm may have few support ers, and on occas
 The preceding pages have carried my schematic description of scien tific development as far as it can go in this essay. Nevertheless, they cannot quite provide a conclusion. If this description has at all caught the essential structure of a science's continuing evolution, it will simul taneously have posed a special problem: Why should the enterprise sketched above move steadily ahead in ways that, say, art, political theory, or philosophy does not? Why is progress a perquisite reserved almost exclusively for the activities we call science? The most usual answers to that question have been denied in the body of this essay.
 We must conclude it by asking whether substitutes can be found. Notice immediately that part of the question is entirely semantic. To a very great extent the term 'science' is reserved for fields that do progress in obvious ways. Nowhere does this show more clearly than in the recurrent debates about whether one or another of the con temporary social sciences is really a science. These debates have paral lels in the pre-paradigm periods of fields that are today unhesitatingly labeled science. Their ostensible issue throughout is a definition of that vexing term. Men argue that psychology, for example, is a science be cause it possesses such and such characteristics. Others counter that
 those characteristics are either unnecessary or not sufficient to make
-159
 (^160) The Structure of Scientific Revolutions a field a science. Often great energy is invested1 great passion aroused1 and the outsider is at a loss to know why. Can very much depend upon a definition of 'science'? Can a definition tell a man whether he is a scientist or not? If so1 why do not natural scientists or artists worry about the definition of the term? Inevitably one suspects that the issue is more fundamental. Probably questions like the following are really being asked: Why does my field fail to move ahead in the way that1 saYi physics does? What changes in technique or method or ideology would enable it to do so? These are not1 however1 questions that could respond to an agreement on definition. Furthermore1 if precedent fr om the natural sciences serves1 they will cease to be a source of con cern not when a definition is found1 but when the groups that now doubt their own status achieve consensus about their past and present accomplishments. It maYi for example1 be significant that economists argue less about whether their field is a science than do practitioners of some other fields of social science. Is that because economists know what science is? Or is it rather economics about which they agree? That point has a converse that1 though no longer simply semantic1 may help to display the inextricable connections between our notions of science and of progress. For many centuries1 both in antiquity and again in early modern Europe1 painting was regarded as the cumulative discipline. During those years the artist's goal was assumed to be rep resentation. Critics and historians1 like Pliny and Vasari1 then recorded with veneration the series of inventions from foreshortening through chiaroscuro that had made possible successively more perfect repre sentations of nature.1 But those are also the years1 particularly during the Renaissance, when little cleavage was felt between the sciences and the arts. Leonardo was only one of many men who passed freely back and forth between fields that only later became categorically dis tinct.2 Furthermore1 even after that steady exchange had ceased1 the
 l. E. H. Gornbrich, Art and Illusion: A Study in the Psychology of Pictorial Representa tion (NewYork, 1960),pp. ll-12.
 2. Ibid., p. 97; and Giorgio de Santillana, "The Role of Art in the Scientific Renais sance," in Critical Problems in the History of Science, ed. M. Clagett (Madison, Wis., 1959), pp. 33-65.
@@ -1174,49 +1172,4 @@ theory choice, xxxi-xxxii, 184, 198, 204 thermodynamics: emergence of, 67; post-
 universal constants, determination of, 27-28
 uranium fission, identification of, 60
 Uranus, discovery of, 115-16
-
-PDF to Markdown	15.02.2026, 14:06
-
-PDF to Markdown	15.02.2026, 14:06
-
-
-
-PDF to Markdown	15.02.2026, 14:06
-
-
-PDF to Markdown	15.02.2026, 14:06
-
-PDF to Markdown	15.02.2026, 14:06
-
-
-
-PDF to Markdown	15.02.2026, 14:06
-
-
-PDF to Markdown	15.02.2026, 14:06
-
-PDF to Markdown	15.02.2026, 14:06
-
-
-
-PDF to Markdown	15.02.2026, 14:06
-
-
-PDF to Markdown	15.02.2026, 14:06
-
-PDF to Markdown	15.02.2026, 14:06
-
-
-
-PDF to Markdown	15.02.2026, 14:06
-
-
-PDF to Markdown	15.02.2026, 14:06
-
-PDF to Markdown	15.02.2026, 14:06
-
-
-
-PDF to Markdown	15.02.2026, 14:06
-
 

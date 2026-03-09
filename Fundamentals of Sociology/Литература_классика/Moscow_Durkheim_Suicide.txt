@@ -1,16 +1,18 @@
-===== PAGE 1 =====
+# Тема: Литература_классика
+# Источник: Moscow Durkheim Suicide
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 Suicide I
 
 A STUDY IN SOCIOLOGY
 
-yy Emile Durkheim
+by Emile Durkheim
 
-ANSLATED BY JOHN A. SPAULDING AND GEORGE SIMPSON
+TRANSLATED BY JOHN A. SPAULDING AND GEORGE SIMPSON
 
-ITED WITH AN INTRODUCTION BY GEORGE SIMPSON
+EDITED WITH AN INTRODUCTION BY GEORGE SIMPSON
 
-Fp|
 
 THE FREE PRESS
 A Division of Macmillan, Inc.
@@ -19,7 +21,6 @@ NEW YORK
 Maxwell Macmillan Canada
 TORONTO
 
-===== PAGE 2 =====
 
 Copyright ©1951 by The Free Press, a Corporation
 
@@ -55,7 +56,6 @@ D. Gayer in Economics; Sol W. Ginsburg in Psychiatry; Robert S. Lynd in
 Sociology; and Arthur E. Murphy in
 Philosophy
 
-===== PAGE 3 =====
 
 INTE
 
@@ -89,7 +89,6 @@ e susceptible of scientific treatment. Thus the botanist, speaking
 
 4
 
-===== PAGE 4 =====
 
 42 SUICIDE
 
@@ -164,7 +163,6 @@ stence, and the various methods of doing so can be only varieties
 a single class. They possess too many essential similarities not to
 combined in one generic expression, subject to distinction as the
 
-===== PAGE 5 =====
 
 44 SUICIDE
 
@@ -254,7 +252,6 @@ fusals, flung himself intentionally from a cliff (History of Animals, EX, 47).
 orse-breeders state that horses are by no means averse to incest. On this whole
 sestion see Westcott, Suicide, p. 174-179.
 
-===== PAGE 6 =====
 
 46 SUICIDE
 
@@ -354,7 +351,6 @@ in Germany after the war of 1866, in France somewhat earlier, about
 commercial treaties. Perhaps the same cause occasioned the new
 recrudescence observable in France about 1865. Finally, a new for-
 
-===== PAGE 7 =====
 
 48 SUICIDE
 
@@ -460,7 +456,6 @@ But, first, it is already remarkable that from one year to its successor
 suicide is at least as stable, if not more so, than general mortality
 taken only from period to period. The average rate of mortality,
 
-===== PAGE 8 =====
 
 50 SUICIDE
 
@@ -546,7 +541,6 @@ n in the individual. But we shall revert to this point.
 
 Bk. Il, Chap. 1.
 
-===== PAGE 9 =====
 
 52 SUICIDE
 
@@ -637,7 +631,6 @@ layt, Selbstmordstatistik, In Handwiorterbuch der Staatswissenschaften, herausbe
 
 is, 1898-99.
 
-===== PAGE 10 =====
 
 ED
 ED
@@ -690,9 +683,7 @@ Is suicide a specific incident of madness? Reduction of all vesanic
 Suicides to four types. Existence of reasonable suicides not falling
 under these groups.
 
-399
 
-===== PAGE 11 =====
 
 400 DETAILED TABLE OF CONTENTS
 
@@ -804,7 +795,6 @@ i
 t
 i
 
-===== PAGE 12 =====
 
 402 DETAILED TABLE OF CONTENTS
 
@@ -906,7 +896,6 @@ This choice depends on social causes. But these causes are independent
 of those determining suicide. They are therefore unconnected with the
 present study. Synoptic table of the different types of suicides,
 
-===== PAGE 13 =====
 
 404 DETAILED TABLE OF CONTENTS
 

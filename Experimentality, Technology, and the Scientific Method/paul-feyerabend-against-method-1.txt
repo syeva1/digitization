@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Experimentality, Technology, and the Scientific Method
+# Источник: paul-feyerabend-against-method-1
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 Aegedai #t st
 Method
@@ -6,7 +9,6 @@ LC) al
 | ci
 PAUL FEYERABEND
 
-===== PAGE 2 =====
 
 Contents
 Preface vii
@@ -18,7 +20,6 @@ Parts 1-20 14
 Postscript on Relativism 268
 Index 273
 
-===== PAGE 3 =====
 
 Preface
 
@@ -58,7 +59,6 @@ these effusions together.
 The new edition merges parts of Against Method with excerpts from
 Science in a Free Society. | have omitted material no longer of interest,
 
-===== PAGE 4 =====
 
 vit PREFACE
 
@@ -110,7 +110,6 @@ Berkeley, September 1987
 
 2. London, 1987.
 
-===== PAGE 5 =====
 
 Preface to the Third Edition
 Many things have happened since I first published Against Method
@@ -148,7 +147,6 @@ lots of trash. Kuhn’s main terms (‘paradigm’, ‘revolution’, ‘normal
 
 1. The Structure of Scientific Revolutions, Chicago, 1962.
 
-===== PAGE 6 =====
 
 x PREFACE TO THE THIRD EDITION
 
@@ -200,7 +198,6 @@ emphasis.
 
 6. Science and Rhetoric, forthcoming.
 
-===== PAGE 7 =====
 
 PREFACE TO THE THIRD EDITION xt
 vs Prandtl; Birkhoff vs ‘physical commonsense’; Kinsman illustrating
@@ -256,7 +253,6 @@ Cambridge, 1965.
 
 13. ibid.,p. 10.
 
-===== PAGE 8 =====
 
 xt PREFACE TO THE THIRD EDITION
 
@@ -312,7 +308,6 @@ View of the World a Special Status Compared With Other Views?’, forthcoming.
 
 19. J. Ben-David, Scientific Growth, Berkeley, 1991, p. 525.
 
-===== PAGE 9 =====
 
 PREFACE TO THE THIRD EDITION xt
 detail. Are the new philosophers and sociologists prepared to
@@ -361,7 +356,6 @@ Verlag der Fachvereine, Zurich, 1983-87.
 
 1 For a fictional account, cf. Tom Wolfe’s The Bonfire of the Vanities, New York,
 
-===== PAGE 10 =====
 
 xiv PREFACE TO THE THIRD EDITION
 spiritual problems. They did not abandon what they had learned in
@@ -388,7 +382,6 @@ can’t even tell a story.
 
 Rome, July 1992
 
-===== PAGE 11 =====
 
 Introduction
 
@@ -430,7 +423,6 @@ in nuclear physics. All we can do is to give a historical account of the
 
 1
 
-===== PAGE 12 =====
 
 2 AGAINST METHOD
 details, including social circumstances, accidents and personal
@@ -480,7 +472,6 @@ A consequence to which I allude in Chapter 19 and which is
 closely connected with its basic thesis is that there can be many different
 kinds of science. People starting from different social backgrounds will
 
-===== PAGE 13 =====
 
 INTRODUCTION TO THE CHINESE EDITION 3
 approach the world in different ways and learn different things about
@@ -524,7 +515,6 @@ Today old traditions are being revived and people try again to adapt
 
 2. London, 1987.
 
-===== PAGE 14 =====
 
 4 AGAINST METHOD
 
@@ -538,7 +528,6 @@ to advise. I am not against a science so understood. Such a science is
 one of the most wonderful inventions of the human mind. But I am
 against ideologies that use the name of science for cultural murder.
 
-===== PAGE 15 =====
 
 Analytical Index
 
@@ -574,7 +563,6 @@ theory that is to blame. Facts are constituted by older ideologies, and a clash
 
 5
 
-===== PAGE 16 =====
 
 6 AGAINST METHOD
 
@@ -622,7 +610,6 @@ development’ (Marx, Lenin) of different parts of science. Copernicanism and
 other essential ingredients of modern science survived only because reason
 was frequently overruled in their past.
 
-===== PAGE 17 =====
 
 ANALYTICAL INDEX 7
 12 123
@@ -655,7 +642,6 @@ Appendix 2 209
 18 230
 ‘Yet it is possible to evaluate standards of rationality and to improve them.
 
-===== PAGE 18 =====
 
 8 AGAINST METHOD
 
@@ -674,7 +660,6 @@ interfere with the lives of people, and contempt for the treacly phrases they
 use to embellish their misdeeds was and still is the motive force behind my
 work.
 
-===== PAGE 19 =====
 
 ——— _ Introduction ———
 Ordnung ist heutzutage meistens dort,
@@ -710,7 +695,6 @@ than scientists and methodologists; the lesson, however, is the same. Cf. footno
 Berlin, 1837, p. 9: ‘But what experience and history teach us is this, that nations and
 9
 
-===== PAGE 20 =====
 
 10 AGAINST METHOD
 
@@ -757,7 +741,6 @@ Philosophical Papers, Cambridge, 1981.
 6. Albert Einstein, Albert Einstein: Philosopher Scientist, ed. P.A. Schilpp, New
 York, 1951, pp. 683f.
 
-===== PAGE 21 =====
 
 INTRODUCTION i
 have been set up in advance and without regard to the ever-changing
@@ -807,7 +790,6 @@ traditions they defined in this narrow way? These are the questions I
 intend to ask in the present essay. And to these questions my answer
 will be a firm and resounding NO.
 
-===== PAGE 22 =====
 
 12 AGAINST METHOD
 
@@ -852,7 +834,6 @@ tocrush the state and church, and to overthrow society and morality, still bowed
 Science. And in Science, where freedom ought to reign, the order of the day was
 “believe in the authorities or off with your head”.”
 
-===== PAGE 23 =====
 
 INTRODUCTION 13
 that of the exact natural sciences ... the method of induction and
@@ -882,7 +863,6 @@ Norms, New York, 1964.
 
 Changed. (
 
-===== PAGE 24 =====
 
 This is shown both by an examination of historical episodes and by an
 abstract analysis of the relation between idea and action. The only principle
@@ -915,9 +895,7 @@ advisable to introduce, elaborate, and defend ad hoc hypotheses, or
 hypotheses which contradict well-established and generally accepted
 experimental results, or hypotheses whose content is smaller than the
 
-14
 
-===== PAGE 25 =====
 
 ONE Is
 content of the existing and empirically adequate alternative, or selfinconsistent hypotheses, and so on.'
@@ -970,7 +948,6 @@ Physical problems that had arisen from their use. Both the achievements and the
 problems were produced in a way very different from the ways of those who want to
 Subject everything to the tyranny of ‘logic’.
 
-===== PAGE 26 =====
 
 16 AGAINST METHOD
 
@@ -1019,7 +996,6 @@ training he had received. He will be quite unable to discover that the
 appeal to reason to which he succumbs so readily is nothing but a
 political manoeuvre.
 
-===== PAGE 27 =====
 
 ONE 17
 
@@ -1066,7 +1042,6 @@ Phrases, called ‘observational reports’. And this is not an exception —
 Itis the normal case: theories become clear and ‘reasonable’ only after
 incoherent parts of them have been used for a long time. Such
 
-===== PAGE 28 =====
 
 18 AGAINST METHOD
 
@@ -1104,7 +1079,6 @@ there is only one principle that can be defended under all
 
 3. Hegel, Wissenschaft der Logik, Vol. 1, Hamburg, 1965, p. 6.
 
-===== PAGE 29 =====
 
 ONE 19
 circumstances and in all stages of human development. It is the
@@ -1113,7 +1087,6 @@ principle: anything goes.
 This abstract principle must now be examined and explained in
 concrete detail.
 
-===== PAGE 30 =====
 
 For example, we may use hypotheses that contradict well-confirmed theories
 and/or well-established experimental results. We may advance science by
@@ -1148,9 +1121,7 @@ theory can often be unearthed only with the help of an incompatible
 alternative: (which goes back to Newton and which is still
 very popular toda’
 
-20
 
-===== PAGE 31 =====
 
 TWO 21
 horse. Also, some of the most important formal properties of a theory
@@ -1197,7 +1168,6 @@ the question is, rather, whether the existing discrepancies between
 theory and fact should be increased, or diminished, or what else
 should be done with them.
 
-===== PAGE 32 =====
 
 22 AGAINST METHOD
 
@@ -1245,7 +1215,6 @@ circle. We must invent a new conceptual system that suspends, or
 clashes with, the most carefully established observational results,
 confounds the most plausible theoretical principles, and introduces
 
-===== PAGE 33 =====
 
 TWO 23
 
@@ -1287,7 +1256,6 @@ the same way an actor or a playwright could produce all the outer manifestations
 
 ‘deep love’ in order to debunk the idea of ‘deep love’ itself. Example: Pirandello.)
 
-===== PAGE 34 =====
 
 The consistency condition which demands that new hypotheses agree with
 accepted theories is unreasonable because it preserves the older theory, and
@@ -1319,9 +1287,7 @@ for granted by many 20th-century scientists and philosophers of science.
 2. Pierre Duhem, The Aim and Structure of Physical Theory, New York, 1962,
 pp. 180ff.
 
-24
 
-===== PAGE 35 =====
 
 ‘THREE 25
 decreases (although imperceptibly) with the distance from the centre
@@ -1371,7 +1337,6 @@ _—
 3. C. Truesdell, ‘A Program Toward Rediscovering the Rational Mechanics of
 the Age of Reason’, Archives for the History of Exact Sciences, Vol. 1, p. 14.
 
-===== PAGE 36 =====
 
 26 AGAINST METHOD.
 
@@ -1421,7 +1386,6 @@ important assumption has ever been explicitly formulated as a
 separate postulate of the empirical method. However, it is clearly
 implied in almost all investigations which deal with questions of
 
-===== PAGE 37 =====
 
 THREE 27
 confirmation and test. All these investigations use a model in which a
@@ -1470,7 +1434,6 @@ energy plus the energy spent on overcoming the resistance of the
 fluid; and (b) precise measurements of temperature and heat transfer
 in the surrounding medium in order to establish that any loss
 
-===== PAGE 38 =====
 
 28 AGAINST METHOD
 
@@ -1524,7 +1487,6 @@ p. 67) gave the following theoretical explanation of the discrepancy: ‘since a
 operating with definite means of observation in a definite manner can never perceive
 the actual path transversed in an arbitrarily small time, a certain mean velocity will
 
-===== PAGE 39 =====
 
 THREE 29
 
@@ -1575,7 +1537,6 @@ nature obvious came by way of Bell's theorem. But Bell was on the side of Einste
 of Bohr, whom he regarded as an ‘obscurantist’. Cf. Jeremy Bernstein, Quantum
 Profiles, Princeton, 1991, pp. 3ff (for Bell’s background) and p. 84 (for ‘obscurantist’).
 
-===== PAGE 40 =====
 
 30 AGAINST METHOD
 success, even if it is success surrounded by difficulties. The theory
@@ -1611,7 +1572,6 @@ therefore in danger of concentrating on opinions rather than on
 things (Bacon made a similar point). The two components of mature
 8. Chicago, 1962.
 
-===== PAGE 41 =====
 
 THREE 31
 science perfectly agree with the two stages mentioned above except
@@ -1653,7 +1613,6 @@ greedy victims of some (ancient, or modern) myth, or for the weak and
 Lerner, New York, 1965, p. 119; my emphasis.
 sea, For a more detailed account cf. my Philosophical Papers, Vol. 1, Chapter 16,
 
-===== PAGE 42 =====
 
 32 AGAINST METHOD
 
@@ -1681,7 +1640,6 @@ factors that influenced the rise of modern empiricism in England is found in R.K
 Merton, Science, Technology and Society in Seventeenth Century England, New York, 1970
 (book version of the 1938 article).
 
-===== PAGE 43 =====
 
 EEO oo 4 ——
 ingore, The on fh ae
@@ -1707,9 +1665,7 @@ Bultmann and their followers, we should regard the world-views of the Bible, the
 Gilgamesh epic, the Iliad, the Edda, as fully fledged alternative cosmologies which can be
 used to modify, and even to replace, the ‘scientific’ cosmologies of a given period.
 
-33
 
-===== PAGE 44 =====
 
 34 AGAINST METHOD
 This position, which is a natural consequence of the arguments
@@ -1758,7 +1714,6 @@ by a careful analysis of the problems of the continuum (details on this point in
 naive scientism give themselves the air of presenting arguments when all they do is
 spread unexamined and ill-conceived rumours.
 
-===== PAGE 45 =====
 
 FOUR 35
 the objective criticism of modern science available in Aristotelianism,
@@ -1810,7 +1765,6 @@ earth, to the firmament, and to one another; (b) to present what knowledge there
 the fabric of the world in the form of tales about ‘how the world began’. There are two
 reasons why this code was not discovered earlier. One is the firm conviction of
 
-===== PAGE 46 =====
 
 36 AGAINST METHOD
 case in point. Nobody knows it, everybody uses it as a paradigm of
@@ -1864,7 +1818,6 @@ quotations from newspapers, books, pamphlets, but is often inhibited by his resp
 10. Chou Shao, 1933, as quoted in Croizier, op. cit. p. 109. Cf. also D.W.Y.
 Kwok, Scientism in Chinese Thought, New Haven, 1965.
 
-===== PAGE 47 =====
 
 FOUR 37
 removed from medical practice, or they must be re-educated. Herbal
@@ -1914,7 +1867,6 @@ Organization in Communist China, Berkeley, 1966.
 
 12. Cf. M.B. Krieg, Green Medicine, New York, 1964.
 
-===== PAGE 48 =====
 
 38 AGAINST METHOD
 
@@ -1944,7 +1896,6 @@ to consult Mill’s magnificent essay On Liberty."
 13. Cf. my account of this essay in Vol. 1, Chapter 8 and Vol. 2, Chapter 4 of my
 Philosophical Papers. Cf. also Appendix 1 of the present essay.
 
-===== PAGE 49 =====
 
 5S
 No theory ever agrees with all the facts inits domain, yet it is not always the
@@ -1979,9 +1930,7 @@ absurdity’ of the idea of a moving earth, i.e. on its empirical failures and i
 inadequacy. See also the next quotation and footnote. ‘As to the system of Ptolemy’,
 writes Galileo on this point (184), ‘neither Tycho, nor other astronomers, nor even
 
-39
 
-===== PAGE 50 =====
 
 40 AGAINST METHOD
 
@@ -2039,7 +1988,6 @@ Criticism and the Growth of Knowledge, Cambridge, 1970.
 7. W. Kaufmann, ‘Uber die Konstitution des Elektrons’, Ann. Phys., No. 19, 1906,
 p. 487. Kaufmann stated his conclusion quite unambiguously, and in italics: ‘The
 
-===== PAGE 51 =====
 
 FIVE 41
 though surprisingly successful in a series of occasionally rather
@@ -2096,7 +2044,6 @@ including later developments in Was Einstein Right?, Chapter 5. Note how a new t
 Can be endangered by exploiting its ‘ref uted’ predecessor and carrying out appropriate
 experiments. Cf. also R.H. Dicke, op. cit.
 
-===== PAGE 52 =====
 
 42 AGAINST METHOD
 
@@ -2154,7 +2101,6 @@ text to footnote 6 of the /ntroduction..
 
 On the last page (p. 91) of his Uber die Spezielle und allgemeine Relativititstheorie,
 
-===== PAGE 53 =====
 
 FIVE 43
 The : and, to my mind, the most important example of an
@@ -2195,7 +2141,6 @@ described above? It does not. The passage speaks of the red shifi not of observa
 Guthrie, 4 History of Greek Philosophy, Cambridge, 1962 and 1965, as well as in
 Chapters 1, 2 and 3 of my Farewell to Reason.
 
-===== PAGE 54 =====
 
 44 AGAINST METHOD
 
@@ -2247,7 +2192,6 @@ Salmon (ed.), Zeno’s Paradoxes, New York, 1970.
 266. For a discussion of this aspect of Newton’s method cf. my essay, ‘Classical
 Empiricism’, Philosophical Papers, Vol. 2, Chapter 2.
 
-===== PAGE 55 =====
 
 FIVE 45
 
@@ -2291,7 +2235,6 @@ Phenomenon genuinae Rationes investigantur ac exponentur, London, 1669, p. 125. 
 Passage is used by Berkeley in his attack on the traditional, ‘objectivistic’ optics (4n Essay
 Towards a New Theory of Vision, Works, Vol. 1, ed. Frazer, London, 1901, pp. 137A).
 
-===== PAGE 56 =====
 
 46 AGAINST METHOD
 
@@ -2337,7 +2280,6 @@ times.
 
 21. Rosenfeld in Observation and Interpretation, London, 1957, p. 44.
 
-===== PAGE 57 =====
 
 FIVE 47
 electromagnetic fields should have actedas insatiable sinks of energy.
@@ -2389,7 +2331,6 @@ Kuhn, ‘The Genesis of the Bohr Atom’, Historical Studies in the Physical Sci
 California and London, 1965, Chapter 34.6. For a somewhat clearer account cf. R.
 Becker, Theorie der Elektrizitat, Leipzig, 1949, p. 132.
 
-===== PAGE 58 =====
 
 48 AGAINST METHOD
 famous 43” are accounted for by classical mechanics. This is how the
@@ -2439,7 +2380,6 @@ was a later achievement whose absence did not prevent scientists from arguing, a
 arguing well, about the new ideas. Theories are not only used as premises for
 derivations; they are even more frequently used as a general background for novel
 
-===== PAGE 59 =====
 
 FIVE 49
 
@@ -2491,7 +2431,6 @@ Procedures. No measuring instruments can be specified for the great majority of
 observables (Wigner, American Journal of Physics, Vol. 31, 1963, p. 14), and where
 specification is possible it becomes necessary to modify well-known and unrefuted
 
-===== PAGE 60 =====
 
 50 AGAINST METHOD
 
@@ -2543,7 +2482,6 @@ Augustine, Contra Julianum, V, xiv, 51 - Migne, Vol. 44), was used by the Church
 fathers to defuse objections which the science of their time had raised against parts of
 the Christian faith, such as the doctrine of the corporeal resurrection.
 
-===== PAGE 61 =====
 
 FIVE js
 eee
@@ -2585,7 +2523,6 @@ dealing with the structure of the eye and of telescopes, and with the
 behaviour of light; and dynamical laws describing motion in moving
 systems. Most importantly, however, the auxiliary sciences contained
 
-===== PAGE 62 =====
 
 52 AGAINST METHOD
 
@@ -2635,7 +2572,6 @@ examined. But in order for this examination to start there must be a
 measuring-stick in the first place. Therefore, the first step in our
 criticism of customary concepts and customary reactions is to step
 
-===== PAGE 63 =====
 
 FIVE 53
 outside the circle and either to invent a new conceptual system, for
@@ -2660,7 +2596,6 @@ Scientist,’ ibid,, p. 184. Confusionists and superficial intellectuals mave ah
 ‘deep’ thinkers descend into the darker regions of the status quo or, to express it in a
 different way, they remain stuck in the mud.
 
-===== PAGE 64 =====
 
 Asan example of such an attempt I examine the tower argument which the
 Aristotelians used to refute the motion of the earth. The argument involves
@@ -2711,9 +2646,7 @@ intention of shaking the very fundament of the commonweal, then it
 
 would seem to be not only reasonable, but permissible, and even
 
-54
 
-===== PAGE 65 =====
 
 SIX 5S
 praiseworthy to aid the good cause with sham reasons rather than
@@ -2761,7 +2694,6 @@ ideas occur in his account of world history.
 
 2. Dialogue, op. cit., p. 126.
 
-===== PAGE 66 =====
 
 56 AGAINST METHOD
 
@@ -2807,7 +2739,6 @@ complications arising from an interaction of impression and
 
 4. ibid., p. 256.
 
-===== PAGE 67 =====
 
 SIX 57
 proposition.) But it enters new observation statements and plays new,
@@ -2851,7 +2782,6 @@ Yet, I shall for the moment, remain within these limits.
 Making the additional simplifying assumption, we can now
 distinguish between sensations and those ‘mental operations which
 
-===== PAGE 68 =====
 
 58 AGAINST METHOD
 
@@ -2899,7 +2829,6 @@ relative to some visible mark in the visual field of the observer, or its
 
 8. ibid., p. 248.
 
-===== PAGE 69 =====
 
 SIX 59
 observed motion, but rather its motion in the solar system or in
@@ -2947,7 +2876,6 @@ Situations in which we first learn our kinematic vocabulary. From our
 very childhood we learn to react to them with concepts which have
 Naive realism built right into them, and which inextricably connect
 
-===== PAGE 70 =====
 
 60 AGAINST METHOD
 
@@ -2997,7 +2925,6 @@ observation statements are not likely to reveal themselves in the more
 abstract parts of language. If they do, it will still be difficult to nail
 them down; concepts, just like percepts, are ambiguous and
 
-===== PAGE 71 =====
 
 SIX 61
 dependent on background. Moreover, the content of a concept is
@@ -3046,7 +2973,6 @@ and possibly refuted, by facts. Facts contain ideological components, oO
 older views which have vanished from sight or were perhaps never
 formulated in an explicit manner. Such components are highly
 
-===== PAGE 72 =====
 
 62 AGAINST METHOD
 
@@ -3094,7 +3020,6 @@ exploration, but only with respect to the reality of relative motion. Motion
 9. Hegel, Vorlesungen iiber die Geschichte der Philosophie, |, ed. C.L. Michelet,
 Berlin, 1840, p. 289.
 
-===== PAGE 73 =====
 
 SIX 63
 eae eee
@@ -3140,7 +3065,6 @@ forced, and which may therefore (?) be assumed to go on for ever.
 11. J.L. Austin, Sense and Sensibilia, New York, 1964, p. 74. Adjustor words play
 an important role in the Aristotelian philosophy.
 
-===== PAGE 74 =====
 
 64 AGAINST METHOD
 
@@ -3168,7 +3092,6 @@ fluently.
 
 Let us now continue with our analysis of Galileo’s reasoning.
 
-===== PAGE 75 =====
 
 The new natural interpretations constitute a new and highly abstract
 observation language. They are introduced and concealed so that one fails to
@@ -3196,9 +3119,7 @@ observer and permit him to carry out some simple operations.
 
 Sagredo: There has just occurred to me a certain fantasy which
 passed through my imagination one day while I was sailing to Aleppo,
-65
 
-===== PAGE 76 =====
 
 66 AGAINST METHOD
 where I was going as consul for our country. ... If the point of a pen
@@ -3247,7 +3168,6 @@ motions."
 
 1. Dialogue, op. cit., pp. 171.
 
-===== PAGE 77 =====
 
 SEVEN 67
 Or
@@ -3300,7 +3220,6 @@ uses the example of a boat leaving the harbour: Heiberg, vii, 283. The example i
 repeated by Copernicus in Book 1, Chapter viii, of De Revol. It was a commonplace in
 mediaeval optics. Cf. Witelo, Perspectiva, iv par 138 (Basel, 1572, p. 180).
 
-===== PAGE 78 =====
 
 68 AGAINST METHOD
 
@@ -3356,7 +3275,6 @@ absolute positions and motions as well (cf. Aristotle, Physics, 208b8ff), and wh
 has developed the art of using different notions on different occasions without running
 into a contradiction. Now if this is the position to be attacked, then showing that an
 
-===== PAGE 79 =====
 
 SEVEN 69
 
@@ -3411,7 +3329,6 @@ century, appeals to this meaning when he asks (Divinae Institutiones, 111, De Fa
 Sapientia): ‘Is one really going to be so confused as to assume the existence of humans
 whose feet are above their heads? Where trees and fruit grow not upwards, but
 
-===== PAGE 80 =====
 
 70 AGAINST METHOD
 
@@ -3456,7 +3373,6 @@ common sense, see E.M.W. Tillyard, The Elizabethan World Picture, London, 1963.
 ‘The agreement between popular opinion and the centrally symmetric universe is
 frequently asserted by Aristotle, e.g. in De Coelo, p. 308a23f.
 
-===== PAGE 81 =====
 
 SEVEN 71
 which move absolutely. Taking this into consideration, it is apparent
@@ -3505,7 +3421,6 @@ own.’ Note that empirical reasons are absent from the argument and have to be,
 Copernicus himself admits (Commentariolus, op. cit., p. 57) that the Ptolemaic theory is
 ‘consistent with the numerical data’.
 
-===== PAGE 82 =====
 
 72 AGAINST METHOD
 
@@ -3552,7 +3467,6 @@ the idea of a stable and unchanging basis. The clash between this
 
 15. Dialogue, op. cit., p. 120.
 
-===== PAGE 83 =====
 
 SEVEN 73
 discussion 3 the ae argument is not yet
@@ -3591,7 +3505,6 @@ earth will continue moving with the same angular velocity for ever.
 _!7. This is the general account of motion. In the cosmological account we have
 circular motion above and up-and-down motions on earth.
 
-===== PAGE 84 =====
 
 74 AGAINST METHOD
 
@@ -3645,7 +3558,6 @@ applied in a determined way.
 
 19. Dialogue, op. cit., p. 145.
 
-===== PAGE 85 =====
 
 SEVEN 75
 will carry out a ‘boundless’, a ‘perpetual’ motion. We know, of
@@ -3693,7 +3605,6 @@ Syntaxis, i, 8. Copernicus discusses it in the same chapter of De Revol, but tri
 defuse it in the next chapter. Its role in the Middle Ages is described in M. Clagett, The
 Science of Mechanics in the Middle Ages, Madison, 1959, Chapter 10.
 
-===== PAGE 86 =====
 
 76 AGAINST METHOD
 (common sense; Speaking paradoxically, but not incorrectly, one may
@@ -3741,7 +3652,6 @@ scientists stumbled at this point) and thus had to be argued for. This is not at
 surprising, as my discussion of qualitative difficulties in Chapter 5 shows. Besides, is it
 really true that a traveller on a boat sees the harbour as receding as if itwere removed
 
-===== PAGE 87 =====
 
 In addition to natural interpretations, Galileo also changes sensations that
 seem to endanger Copernicus. He admits that there are such sensations, he
@@ -3776,9 +3686,7 @@ interplanetary space. In his Assayer‘Galileo talked about comets [and interpre
 as illusions, similar to rainbows] in order to protect the Copernican system from
 Possible falsifications.’ P. Redondi, Galileo Heretic, Princeton, 1987, pp. 145, 31.
 
-77
 
-===== PAGE 88 =====
 
 7 AGAINST METHOD
 theory of change, comprising locomotion, qualitative change,
@@ -3829,7 +3737,6 @@ difficulties raised by Zeno and anticipated quantum theoretical ideas on motion 
 foomote 15 and text of Chapter 5). Most physicists returned to the idea of acontinuum
 consisting of indivisible elements — if they considered such recondite matters, that is.
 
-===== PAGE 89 =====
 
 EIGHT 79
 small number of Copernicans, Salviati, who ‘act[s] the part of
@@ -3881,7 +3788,6 @@ S. ibid., p. 335.
 
 6. ibid, p. 339.
 
-===== PAGE 90 =====
 
 80 AGAINST METHOD
 times as large as when, at conjunction, it becomes hidden behind the
@@ -3931,7 +3837,6 @@ Miinster, 1917) has found that the predictions concerning Mercury and Venus made
 by Ptolemy differ at most by an amount of 30’ from those of Copernicus. The
 deviations found between modern predictions and those of Ptolemy (and Copernicus),
 
-===== PAGE 91 =====
 
 EIGHT él
 such tremendous difficulties. He praises them for having proceeded
@@ -3987,7 +3892,6 @@ loved to possess a better instrument, had to wait.
 13. The Sidereal Messenger of Galileo Galilel, transl. E. St Carlos, London, 1880,
 reissued by Dawsons of Pall Mall, 1960, p. 10.
 
-===== PAGE 92 =====
 
 82 AGAINST METHOD
 
@@ -4040,7 +3944,6 @@ treated in Kepler’s Dioptrice.
 
 19. Kepler, the most knowledgeable and most lovable of Galileo’s contemporaries, gives a clear account of the reasons why, despite his superior knowledge of
 
-===== PAGE 93 =====
 
 EIGHT. 83
 conclusion of Professor E. Hoppe, who sums up the situation as
@@ -4102,7 +4005,6 @@ howit can enter the mind of anyone that I have simple-mindedly remained deceived
 my observations.’ The hundreds and thousands of experiments remind one of
 Hooke, and are most likely equally spurious. Cf. footnote 9 of Chapter 9.
 
-===== PAGE 94 =====
 
 84 AGAINST METHOD
 
@@ -4158,14 +4060,12 @@ ex illis miranda conficere, et specula in quibus quis videre poterit quaecunque 
 a longissima distantia’. ‘So may the toy of one age come to be the precious treasure of
 another’, Henry Morley, The Life of Cornelius Agrippa von Nettesheim, Vol. Il, p. 166.
 
-===== PAGE 95 =====
 
 EIGHT 85
 The terrestrial success of the telescope was, therefore, assured.
 Its application to the stars, however, was an entirely different
 matter.
 
-===== PAGE 96 =====
 
 Nor does the initial experience with the telescope provide such reasons. The
 first telescopic observations of the sky are indistinct, indeterminate,
@@ -4194,9 +4094,7 @@ the appearance of the moon. On the earth large but distant objects in familiar s
 of the moon, however, gives us an entirely false idea of its distance and its
 size.
 
-86
 
-===== PAGE 97 =====
 
 NINE 87
 itself. Moreover, all the familiar cues (such as background, overlap,
@@ -4246,7 +4144,6 @@ Present chapter.
 7. This is how the ring of Saturn was seen at the time. Cf. also R.L. Gregory, The
 Intelligent Eye, p. \N9.
 
-===== PAGE 98 =====
 
 88 AGAINST METHOD
 
@@ -4303,7 +4200,6 @@ with Platter’s anatomical investigations (cf. S.L. Polyak, The Retina, Chicago
 pp. 134ff for details and literature), was well aware of the need for a physiological
 criticism of astronomical observations.
 
-===== PAGE 99 =====
 
 NINE 89
 confirmation by others should take so long in turning up....
@@ -4357,7 +4253,6 @@ be on the lookout and as a result | met more illusions than I had bargained for.
 Were well known to mediaeval writers on optics, who treated them in special chapters
 Of their textbooks. Moreover, they treated lens-images as psychological phenomena, as
 
-===== PAGE 100 =====
 
 90 AGAINST METHOD
 
@@ -4418,7 +4313,6 @@ of the powerful Jesuit Collegium Romanum, praises Galileo as the first to have
 observed the moons of Jupiter and he recognizes their reality. Magini, Grienberger,
 and others soon followed suit. It is clear that, in doing so, they did not proceed
 
-===== PAGE 101 =====
 
 NINE 91
 when we consider that many reports of even the best observers were
@@ -4468,7 +4362,6 @@ himself had seen with the unaided eye: ‘You ask why the moon’soutermostcircl
 not also appear irregular. I do not know how carefully you have thought about this
 subject or whether your query, as is more likely, is based on popular impression. For in
 
-===== PAGE 102 =====
 
 92 AGAINST METHOD
 
@@ -4525,7 +4418,6 @@ description of the debate which was based on the published account.
 26. Messenger, op. cit., p. 38; cf.also the more detailed account in Dialogue, op. cit,
 pp. 336ff. ‘The telescope, as it were, removes the heavens from us,’ writes A. Chwalina
 
-===== PAGE 103 =====
 
 NINE 93
 The strangest features of the early history of the telescope emerge,
@@ -4581,7 +4473,6 @@ Phenomena briefly described in footnote 34 to this chapter.
 29. The discovery and identification of the moons of Jupiter were no mean achieve-
 ™ents, especially as a useful stable support forthe telescope had notyet been developed.
 
-===== PAGE 104 =====
 
 94 AGAINST METHOD
 
@@ -4637,7 +4528,6 @@ caused by the clouds that rise from the waters in the moon. .. .’ For the inst
 images of unknown objects and their dependence on belief (or ‘knowledge’) cf.
 Ronchi, Optia, op. cit., Chapter IV.
 
-===== PAGE 105 =====
 
 NINE 95
 have survived.°° Subtracting instrumental peculiarities, such a
@@ -4684,7 +4574,6 @@ Astronomy from Thales to Kepler, New York, 1953.
 38. For Berossos, cf. Toulmin’s article in /sis, No. 38, 1967, p. 65. Lucretius
 writes (On the Nature of Things, transl. Leonard, New York, 1957, p. 216): ‘Again, she
 
-===== PAGE 106 =====
 
 96 AGAINST METHOD
 
@@ -4738,7 +4627,6 @@ the improvements of Polemarchus and Kalippus. Cf. footnote 7 of Chapter 8.
 42. op. cit., p. 37, cf. also S. Sambursky, The Physical World of the Greeks, New
 York, 1962, pp. 244ff.
 
-===== PAGE 107 =====
 
 NINE 97
 ~
@@ -4747,7 +4635,6 @@ SARC
 FIGURE 1. The shape of a lunar mountain and a walled plain, from Galileo
 ‘Sidereus Nuncius, Venice, 1610 (cf. p. 111).
 
-===== PAGE 108 =====
 
 98 AGAINST METHOD
 
@@ -4805,7 +4692,6 @@ on the Earth, if it were shut in on all sides by very lofty mountains arranged o
 circumference of a perfect circle; for the tract in the moon is walled in with peaks of
 such enormous height that the furthest side adjacent to the dark portion of the moon is
 
-===== PAGE 109 =====
 
 NINE 99
 diameter is larger than 3! minutes of arc), while a single glance
@@ -4846,7 +4732,6 @@ the Cusp of the caustic; but a connection with what is seen on direct vision is 
 established. For the difficulties which were removed by Kepler’s simple and ingenious
 hypothesis cf. Ronchi, Histoire de la Lumiére, Chapter Ill.
 
-===== PAGE 110 =====
 
 100 AGAINST METHOD
 
@@ -4904,7 +4789,6 @@ oculorum’ (Dioptrice, quoted from Renati Descartes Specima Philosophiae, Amste
 1657, p. 87). ‘But,’ says Barrow, ‘neither thisnor any other difficulty shall ... make me
 renounce that which I know to be manifestly agreeable to reason.’ It is this attitude
 
-===== PAGE 111 =====
 
 NINE 101
 This, then, was the actual situation in 1610 when Galileo
@@ -4958,7 +4842,6 @@ structural constitution of the retina itself (p. 176), adding that it may be a f
 the brain also (p. 429). None of these hypotheses covers ail the facts known about
 irradiation. Gullstrand, Ronchi, and Polyak (if we omit his reference to the brain
 
-===== PAGE 112 =====
 
 102 AGAINST METHOD
 
@@ -4979,7 +4862,6 @@ with the diameter of the object and under the conditions of telescopic vision re
 unexplored. Galileo’s hypothesis received support mainly from its agreement with the
 Copernican point of view and was, therefore, largely ad hoc.
 
-===== PAGE 113 =====
 
 On the other hand, there are some telescopic phenomena which are plainly
 Copernican. Galileo introduces these phenomena as independent evidence
@@ -5015,9 +4897,7 @@ magnitude respectively.
 
 2. Dialogue, op. cit,, p. 328.
 
-103
 
-===== PAGE 114 =====
 
 104 AGAINST METHOD
 
@@ -5067,7 +4947,6 @@ adduce for the motion of the earth, adding that ‘each of these reasons, taken 
 would find only scant belief (Caspar-Dyck, Johannes Kepler in seinen Briefen, Vol. 1,
 Munich, 1930, p. 68).
 
-===== PAGE 115 =====
 
 TEN 105
 available (such a theory arose only much later, in the 18th century).
@@ -5098,7 +4977,6 @@ reasonable, and that any attempt to enforce some of the more familiar
 methodologies of the 20th century would have had disastrous
 consequences.
 
-===== PAGE 116 =====
 
 Such ‘irrational’ methods of support are needed because of the ‘uneven
 development’ (Marx, Lenin) of different parts of science. Copernicanism and
@@ -5131,9 +5009,7 @@ with propositions and not with statements or sentences. However,
 the procedure overlooks that science is a complex and heterogeneous
 historical process which contains vague and incoherent anticipations of
 future ideologies side by side with highly sophisticated theoretical
-106
 
-===== PAGE 117 =====
 
 ELEVEN 107
 ‘systems and ancient and petrified forms of thought. Some of its
@@ -5182,7 +5058,6 @@ Althusser, For Marz, London and New York, 1970, Chapters 3 and 6. The
 Philosophical background is splendidly explained in Mao Tse-tung’s essay On
 Contradiction (Selected Readings, Peking, 1970, p. 70, especially section IV).
 
-===== PAGE 118 =====
 
 108 AGAINST METHOD
 
@@ -5233,7 +5108,6 @@ idealization. For the difficulties in forming a coherent picture of Aristotle hi
 Diiring, Aristoteles, Heidelberg, 1966. For some differences between Aristotle and his
 mediaeval followers cf. Wolfgang Wieland, Die Aristotelische Physik, Gottingen, 1970.
 
-===== PAGE 119 =====
 
 ELEVEN 109
 instruments, for they interfere with the processes in the medium.
@@ -5280,7 +5154,6 @@ look at yourself in a plain mirror. You will see your face at its ‘normal’ s
 
 e.
 
-===== PAGE 120 =====
 
 110 AGAINST METHOD
 The fact remains that no decisive empirical argument could be raised
@@ -5327,7 +5200,6 @@ occur between the eye and the object, and the even more complex
 we perceive to find a core that mirrors the stimulus and nothing else.
 In the case of Copernicus we need a new meteorology (in the good old
 
-===== PAGE 121 =====
 
 ELEVEN 111
 . . « . ole my ‘
@@ -5338,7 +5210,6 @@ sie Ay ve
 aoe tee A
 FIGURE 2. Moon, age seven days (first quarter).
 
-===== PAGE 122 =====
 
 112 AGAINST METHOD
 
@@ -5391,7 +5262,6 @@ unless he have first comprehended the nature of spontaneous motion’: the new m
 needs a new physics in order to give substance to his astronomy. Galileo did not
 succeed in providing such a physics.
 
-===== PAGE 123 =====
 
 ELEVEN 113
 
@@ -5441,7 +5311,6 @@ for not at once falling for Copernicus. He was criticized for this unspeakable c
 philosophers whose own ‘rationalism’ would never have allowed Copernicus to live.
 An example is K.R. Popper, The Open Society and Its Enemies, Vol. 2, p. 16.
 
-===== PAGE 124 =====
 
 114 AGAINST METHOD
 
@@ -5494,7 +5363,6 @@ air, light, humidity, heat, etc.; cf. Diogenes Laertius, IX, 84. However, it see
 sceptical view had only little influence on the development of modern astronomy, and
 understandably so: one does not start a movement by being reasonable.
 
-===== PAGE 125 =====
 
 ELEVEN Ws
 now luiuped together with the Aristotelian cosmology and the
@@ -5547,7 +5415,6 @@ that he widens the domain of possible influences and thus undermines the
 (anachronistic) belief that then as now scientific rationality was restricted to the
 internal problem situation of a scientific discipline.
 
-===== PAGE 126 =====
 
 116 AGAINST METHOD
 
@@ -5596,7 +5463,6 @@ have thought that the philosopher of science would be most interested in picking
 and analysing in detail those moves which are necessary for the advancement of science.
 Such moves, | have tried to show, often resist rational reconstruction.
 
-===== PAGE 127 =====
 
 ELEVEN 117
 
@@ -5644,7 +5510,6 @@ whilst it lies in aphorisms and observations, remains in a growing
 Novum Organum, Aphorisms 79, 86, as well as J.W.N. Watkins’ splendid little book
 Hobbes’ System of Ideas, London, 1965, p. 169.
 
-===== PAGE 128 =====
 
 118 AGAINST METHOD
 
@@ -5695,7 +5560,6 @@ Nin, Voll, p. 277).
 
 12. Cf. A. Koyré, Etudes Galiléennes, Vol. Ill, Paris, 1939, pp. 53ff.
 
-===== PAGE 129 =====
 
 ELEVEN 119
 an uninterpreted postulate system. [Its] terms obtain only an indirect
@@ -5744,7 +5608,6 @@ in the Philosophy of Science, Vol. |, Minneapolis, p. 47.
 14. Autobiography, quoted from Essential Works of John Stuart Mill, ed. Lemer,
 New York, 1965, p, 21.
 
-===== PAGE 130 =====
 
 120 AGAINST METHOD
 
@@ -5795,7 +5658,6 @@ Pera and W.R. Shea (eds), Persuading Science The Art of Scientific Rhetoric, 199
 especially Marcello Pera, Science and Rhetoric, forthcoming, comment on scientific
 rhetoricin general.
 
-===== PAGE 131 =====
 
 ELEVEN 121
 nor the new ideas of motion were acceptable to common sense (or to
@@ -5842,7 +5704,6 @@ style, a sense of humour, an elasticity and elegance, and an awareness
 of the valuable weaknesses of human thinking, which has never been
 €qualled in the history of science. Here is an almost inexhaustible
 
-===== PAGE 132 =====
 
 122 AGAINST METHOD
 source of material for methodological speculation and, much more
@@ -5857,7 +5718,6 @@ passages. I am not against science. | praise its foremost practitioners and (nex
 scientific fashions to all areas of human endeavour — in short what I object to is a
 rationalistic interpretation and defence of science.
 
-===== PAGE 133 =====
 
 ————_ 12. —_—_
 Galileo’s method works in other fields as well. For example, it can be used to
@@ -5893,9 +5753,7 @@ others, such as materialism. (I say ‘apparently’ for the situation is
 much less clear here than it was in the astronomical case.) And we
 may again proceed in the Galilean manner, look for new natural
 
-123
 
-===== PAGE 134 =====
 
 124 AGAINST METHOD
 
@@ -5935,7 +5793,6 @@ of this event.
 1. For amore detailed discussion the reader is referred to my Philosophical Popers,
 Vol. 1, Chapters 9 and 10.
 
-===== PAGE 135 =====
 
 ———_ 13. —
 The Church at the time of Galileo not only kept closer to reason as defined
@@ -5974,9 +5831,7 @@ Tesources of rigor in reserve, when the obstinacy of the impenitent was to be br
 down. History of the Inquisition in Spain, Vol. 2, New York, 1906, p. 534. Prisoners
 accused before secular courts occasionally committed crimes under the jurisdiction of
 
-125
 
-===== PAGE 136 =====
 
 126 AGAINST METHOD
 Inquisition had lost much of its power and aggressiveness. This was
@@ -6031,7 +5886,6 @@ discussed, with many examples, by Peter W. Huber, Galileo's Revenge, New York,
 6. Science, Vol. 237, 1987, pp. 476ff and 593f. An important step towards
 exclusiveness consisted in assigning part of the research to the military.
 
-===== PAGE 137 =====
 
 THIRTEEN 127
 never the free, ‘objective’, and purely intellectual exchange
@@ -6082,7 +5936,6 @@ comments and an introduction by Finocchiaro, op. cit. I shall use his translatio
 Accounts of the trials and their problems are found in G. de Santillana, The Crime of
 Wills Chicago, 1954, Geymonat, op. cit., Redondi, op. cit., and, most recently, in
 
-===== PAGE 138 =====
 
 128 AGAINST METHOD
 falsified documents and that the second trial was therefore a farce,
@@ -6138,7 +5991,6 @@ only analogies in its favour and which suffered from numerous difficulties. And 
 made this suggestion in public while even today it is a deadly sin for a scientist to
 address the public before having consulted his peers (example in A. Pickering,
 
-===== PAGE 139 =====
 
 THIRTEEN 129
 the time. Compared with those facts, theories and standards the idea
@@ -6189,7 +6041,6 @@ cancer-risk down to the smallest dose. Many epidemiologists demand empirical pro
 however, though it is clear that events, when occurring below a certain threshold of
 frequency, cannot be detected in that way.
 
-===== PAGE 140 =====
 
 130 AGAINST METHOD
 
@@ -6240,7 +6091,6 @@ goes back to Tertullian adv. Marciones (E. Evans, ed.), 1, 18.
 15. For the exact wording see Denzinger-Schoenmetzer, Enchiridion Symbolorum,
 36th edition, Freiburg, 1976, pp. 365f.
 
-===== PAGE 141 =====
 
 THIRTEEN 131
 
@@ -6298,7 +6148,6 @@ puritan arrogance, how could such an idea win acceptance? It did not; it still h
 'a8 however commanded recognition; but that it did only because of its prodigious
 power of performance.’
 
-===== PAGE 142 =====
 
 132 AGAINST METHOD
 
@@ -6350,7 +6199,6 @@ demonstration may be available, but I have very great doubts about the second, a
 case of doubt we must not abandon the Holy Scripture as interpreted by the Holy
 Fathers.’ In his Considerations on the Copernican Opinion, Finocchiaro, op. cit,, pp. 70ft,
 
-===== PAGE 143 =====
 
 THIRTEEN 133
 now many scientists, especially in high energy physics, who view all
@@ -6400,7 +6248,6 @@ extent still does conflict with the attitude of many modern research institution
 John Paul Il on the centenary of Einstein’s birth, published as an Epilogue in Paul
 Cardinal Poupard (ed.), Galileo Galilei: Towards a Resolution of 350 Years of Debate,
 
-===== PAGE 144 =====
 
 134 AGAINST METHOD
 
@@ -6414,7 +6261,6 @@ the earth), C.F. von Weizsicker (Galileo leads directly to the atom bomb) and my
 (the chapter heading of the present chapter). | commented on the speech in two
 interviews, I Sabato, 12 May 1990, pp. 54ff and La Repubblica, 14 July 1990, p. 20.
 
-===== PAGE 145 =====
 
 —_——_ 14 —
 Galileo’s inquiries formed only a small part of the so-called Copernican
@@ -6449,9 +6295,7 @@ accept the Copernican arrangement of the planetary orbits (it still
 and the Wittenberg Interpretation of the Copernican Theory’, /sis, Vol. 66, 1975,
 Pp. 165ff.
 
-135
 
-===== PAGE 146 =====
 
 136 AGAINST METHOD
 
@@ -6503,7 +6347,6 @@ the constellations have the same size, no matter where the daily rotation puts t
 and ‘quicquid a medio movetur versus circumferentiam ascendit. Terra a medio
 movetur, ergo ascendit, quod pro impossibile relinquitur’ (p. 85). Equant, deferent
 
-===== PAGE 147 =====
 
 FOURTEEN 137
 it was used as a basis for rather advanced critical comments down to
@@ -6556,7 +6399,6 @@ defence of Aristotle’s theory of mathematics ct. Chapter 8 of my Farewell to R
 ‘occur here on pages 153 (moon illusion and the northward displacement of the sun
 and the fixed stars, explained by vapours near the horizon), 209 (scintillation of the
 
-===== PAGE 148 =====
 
 138 AGAINST METHOD
 
@@ -6609,7 +6451,6 @@ Retroversus I’, Colloquia Copernicana III and IV, Proceedings of the Joint Sym
 of the IAU and the IUHPS, Torun, 1973, p. 119. In what follows I shall also use
 Krafft, ‘Copernicus Retroversus II’, loc. cit.
 
-===== PAGE 149 =====
 
 FOURTEEN 139
 The planetary theories of Ptolemaics and most other astronomers .. .
@@ -6640,7 +6481,6 @@ of introducing new observations he emphasizes that
 —____
 8. Rosen, op. cit., p. 59.
 
-===== PAGE 150 =====
 
 140 AGAINST METHOD
 
@@ -6698,7 +6538,6 @@ Westman, ‘The Melanchthon Circle, op. cit., pp. 175, 177.
 12. The mean sun in Copemicus. Kepler effects a reduction to the true sun and
 thereby strengthens the Copernican arrangement.
 
-===== PAGE 151 =====
 
 FOURTEEN 141
 elements; a purely formal element and a reality assertion. Formally it
@@ -6749,7 +6588,6 @@ astronomy the sun was indeed in the middle of the planets, with Mars, Jupiter an
 Planets in the sense that its motion was mirrored in the motions ofall planets (the moon
 excepted). Cf. eg. Macrobius, Somnium Scipionis.
 
-===== PAGE 152 =====
 
 142 AGAINST METHOD
 
@@ -6799,7 +6637,6 @@ New York, 1969, pp. 174f, footnotes 12 and 13. Cf. also Vol. vi, Chapter »0odi 
 
 18. Progymnasmata, p. 548.
 
-===== PAGE 153 =====
 
 FOURTEEN 143
 nature (which was an Aristotelian idea), they did not refute specific
@@ -6856,7 +6693,6 @@ notes,”* ‘is wholly in accord with reason. Such is the arrangement of
 
 24. Ibid.
 
-===== PAGE 154 =====
 
 144 AGAINST METHOD
 
@@ -6905,7 +6741,6 @@ to modify an already empirical doctrine.
 Baltimore, 1977. Newton shows that many of Ptolemy’s ‘data’ were manufactured to fit
 his model. For his optics this has been known for along time.
 
-===== PAGE 155 =====
 
 FOURTEEN 145
 
@@ -6956,7 +6791,6 @@ Vol. 17, 1974. Gingerich compares the ‘ables of Stoeffler, Stadius, Maestlin, 
 and Origanus and finds all of them beset by errors of roughly the same magnitude
 (though not of the same distribution along the ecliptic).
 
-===== PAGE 156 =====
 
 146 AGAINST METHOD
 degeneration’. The theory overlooks the fact that the Copernican
@@ -6979,7 +6813,6 @@ the later examination of these theories shows.”
 edition of Galileo’s Dialogue, Chicago, 1964.
 28. Cf. footnote 26 above.
 
-===== PAGE 157 =====
 
 15.
 The results obtained so far suggest abolishing the distinction between a
@@ -7017,9 +6850,7 @@ Philosophy of science), which are quite jealous of their independence. But the q
 1. ‘The Orthodox View of Theories, in Radner—Winokur (eds), Analyses of
 Theories and Methods of Physics and Psychology, Minneapolis, 1970, p. 4.
 
-147
 
-===== PAGE 158 =====
 
 148 AGAINST METHOD
 
@@ -7065,7 +6896,6 @@ take them seriously. The activities which according to Feig] belong to
 
 3. ‘Empiricism at Bay’, MS, 1972, p. 2.
 
-===== PAGE 159 =====
 
 FIFTEEN 149
 the context of discovery are, therefore, not just different from what
@@ -7111,7 +6941,6 @@ you have a person who is completely disoriented and incapable of
 Carrying outthe simplest action. Eliminate further knowledge and his
 Sensory world (his ‘observation language’) will start disintegrating,
 
-===== PAGE 160 =====
 
 150 AGAINST METHOD
 
@@ -7151,7 +6980,6 @@ More especially, let us look at the standards of the Popperian school,
 others] and thus unwittingly throws empiricism overboard’, K.R. Popper, The Logic of
 ‘Scientific Discovery, New York and London, 1959, p. 97.
 
-===== PAGE 161 =====
 
 FIFTEEN 151
 which are still being taken seriously in the more backward regions of
@@ -7200,7 +7028,6 @@ will develop in the following manner.
 We start with a problem, such as the problem of the planets at the
 time of Plato. This problem (which I shall discuss in a somewhat
 
-===== PAGE 162 =====
 
 152 AGAINST METHOD
 
@@ -7242,7 +7069,6 @@ and then by Heracleides of Pontos.
 
 Next comes the criticism of the theory that has been put forth in the
 
-===== PAGE 163 =====
 
 FIFTEEN 153
 new
@@ -7284,7 +7110,6 @@ than the second. True, science and related institutions play an
 important part in our culture, and they occupy the centre of interest
 for many philosophers (most philosophers are opportunists). Thus
 
-===== PAGE 164 =====
 
 154 AGAINST METHOD
 
@@ -7335,7 +7160,6 @@ the question raised by Kierkegaard; cf. footnote 2 to Chapter 4.
 6. Cf. the brief comments on the relation between idea and action in Chapter 1.
 For details cf. footnotes 31 ff of ‘Against Method’, Minnesota Studies, Vol. 4, 1970.
 
-===== PAGE 165 =====
 
 FIFTEEN ISS
 
@@ -7383,7 +7207,6 @@ hypotheses, ad hoc approximations, redefinition of terms, or by simply
 Lakatos~Musgrave (eds), Criticism and the Growth of Knowledge, Cambridge, 1970,
 Pp. 93ff. (‘Naive falsificationism’ is here also called ‘dogmatic’.)
 
-===== PAGE 166 =====
 
 156 AGAINST METHOD
 asserting, without any more detailed study of the matter, that the core
@@ -7414,7 +7237,6 @@ explained everything that Newton’s theory had successfully explained ...’, L
 op.cit., p. 214.
 9. Lakatos, discussing Copernicus and Bohr, ibid,, p. 143.
 
-===== PAGE 167 =====
 
 FIFTEEN 157
 domain D representing the problems and facts of the old theory
@@ -7466,7 +7288,6 @@ Peete Special Relativity as a Stage in the Development of Quantum Theory’,
 
 ‘cientarium, No. 34, 1988, pp. S7ff.
 
-===== PAGE 168 =====
 
 158 AGAINST METHOD
 ‘sloppy’ and ‘irrational’ than its methodological image. And they are
@@ -7494,7 +7315,6 @@ means that his standards permit a criminal to commit as many crimes as he wants
 Provided he never lies about them. Details in my Philosophical Papers, Vol. 2, Chaptet
 10.
 
-===== PAGE 169 =====
 
 Appendix 1
 
@@ -7533,9 +7353,7 @@ in competitive potential to a group of people with unusual opinions
 and business has found ways of incorporating the most amazing
 nonconformists into their machinery. Special problems arise with
 
-159
 
-===== PAGE 170 =====
 
 160 AGAINST METHOD
 
@@ -7584,7 +7402,6 @@ verbiage full of strange and esoteric terms claims to express profound
 
 1. An example was discussed in the text to foomotes 9-12 of Chapter 4.
 
-===== PAGE 171 =====
 
 APPENDIX 1 161
 insights, ‘experts’ without brains, character, and without even a
@@ -7630,7 +7447,6 @@ profession and he may start taking it seriously forthwith. This
 2. Even the law now seems to support these tendences, as is shown in Peter
 Huber’s Galileo’s Revenge, New York, 1991.
 
-===== PAGE 172 =====
 
 162 AGAINST METHOD
 
@@ -7682,7 +7498,6 @@ means exclusive form of knowledge that has many advantages but
 
 4. ibid, p. 111.
 
-===== PAGE 173 =====
 
 APPENDIX | 163
 also many drawbacks: ‘Although science taken as a whole is a
@@ -7732,7 +7547,6 @@ Gottfried Benn, Lynik und Prosa, Briefe und Dokumente, Wiesbaden, 1962, p. 235.
 
 10. Cf. text to footnotes 9-12 of Chapter 4.
 
-===== PAGE 174 =====
 
 Finally, the kind of comparison that underlies most methodologies is possible
 only in some rather simple cases. It breaks down when we try to compare
@@ -7771,9 +7585,7 @@ different types of observations ...’, ibid., p. 221.
 
 4. ibid. p.69. :
 
-164
 
-===== PAGE 175 =====
 
 SIXTEEN 165
 picture until and unless special situations of discourse require
@@ -7831,7 +7643,6 @@ grammar’.
 
 9. ibid., p. 247.
 
-===== PAGE 176 =====
 
 166 AGAINST METHOD
 
@@ -7873,7 +7684,6 @@ pigment on the canvas transformed themselves into a vision of transfigured reali
 stepped back. But try as he might, stepping backward and forward, he could never hold
 bothvisions at the same time ...’, E. Gombrich, Art and Illusion, Princeton, 1956, p. 6.
 
-===== PAGE 177 =====
 
 SIXTEEN 167
 
@@ -7910,7 +7720,6 @@ i cannot make use of an illusion and watch it,’ says Gombrich in such cases, o
 
 12. J. Piaget, The Construction of Reality in the Child, New York, 1954, pp. Sff.
 
-===== PAGE 178 =====
 
 168 AGAINST METHOD
 
@@ -7958,7 +7767,6 @@ concepts centring upon ‘pseudo-after-image’ are incommensurable
 reformed,’ writes Stratton in his epoch-making essay ‘Vision without Inversion of the
 Retinal Image’. The Psychological Review IV, 1897, p. 471.
 
-===== PAGE 179 =====
 
 SIXTEEN 169
 in precisely the sense that is at issue here; these families cannot be
@@ -8008,7 +7816,6 @@ But we can makethem, by a dictionary, inconsistent and their content comparable.
 
 15. Popper in Criticism and the Growth of Knowledge, p. 56.
 
-===== PAGE 180 =====
 
 170 AGAINST METHOD
 
@@ -8065,7 +7872,6 @@ philosophy’.
 
 20. Beazly and Ashmole, op.cit., p. 3.
 
-===== PAGE 181 =====
 
 SIXTEEN 171
 by Loewy on the basis of psychological mechanisms: ‘Side by side
@@ -8122,7 +7928,6 @@ Painting. In this revolution figures were reduced to their minimum silhouettes, 
 out of these minimum silhouettes the new art was built up. Webster, op. cit.,
 p. 205.
 
-===== PAGE 182 =====
 
 172 AGAINST METHOD
 
@@ -8174,7 +7979,6 @@ onze.
 
 29. Beazly and Ashmole, op. cit, p. 3.
 
-===== PAGE 183 =====
 
 SIXTEEN 173
 of a notation as if the artist wanted to say: ‘and beside all these other
@@ -8224,7 +8028,6 @@ arms, two legs, and a manly chest.’
 Webster, op. cit., p. 204. Late Mycenaean pottery, on the other hand, has the legs of
 the occupants concealed by the side.
 
-===== PAGE 184 =====
 
 174 AGAINST METHOD
 by support’ where it is understood that the front legs are connected
@@ -8257,7 +8060,6 @@ arrangementis liable to hide important elements. All parts are on the
 
 35. Gombrich, op. cit., p. 134, with literature.
 
-===== PAGE 185 =====
 
 SIXTEEN 175
 same level, we are supposed to ‘read’ the lists rather than ‘see’ them
@@ -8309,7 +8111,6 @@ isp Narration in Greek Art’, American Journal of Archacology, Vol. 61, January
 
 +p. 74.
 
-===== PAGE 186 =====
 
 176 AGAINST METHOD
 
@@ -8362,7 +8163,6 @@ part of a systematic course of education.
 
 41. Schafer, op. cit, p. 63.
 
-===== PAGE 187 =====
 
 SIXTEEN 177
 after his ascension to the throne which shows that the technical ability
@@ -8411,7 +8211,6 @@ Philology, Vols. 41, 1930, 43, 1932. For a brief account cf. D.. Page, History a
 Homeric Iliad, Berkeley, 1966, Chapter VI, as well as G.S. Kirk, Homer and the Epic,
 Cambridge, 1965, Part 1.
 
-===== PAGE 188 =====
 
 178 AGAINST METHOD
 
@@ -8460,7 +8259,6 @@ characters who have formulae of this type, which includes all those
 
 45. M. Parry, Harvard Stud Cl. Phil., 41, 1930, p. 77.
 
-===== PAGE 189 =====
 
 SIXTEEN 179
 having any importance in the poems, there are only three names
@@ -8516,7 +8314,6 @@ An Land, um dicke Damme zu zerdriicken.
 Die meisten Menschen haben einen Schnupfen.
 Die Eisenbahnen fallen von den Brucken.
 
-===== PAGE 190 =====
 
 180 AGAINST METHOD
 
@@ -8569,7 +8366,6 @@ at any given moment always occupies a space equal to itself, it cannot move’ (
 Physics, 239b). We cannot say that the theory was held by Zeno himself, but we may
 conjecture that it played a role in Zeno’s time.
 
-===== PAGE 191 =====
 
 SIXTEEN 181
 arms and his head (Iliad, 11.146 -— 6Apoc, round stone of
@@ -8620,7 +8416,6 @@ decision, a conscious choice made by an acting human being. A human being who is
 faced with various possibilities never thinks: “now it depends on me, it depends on
 what I decide to do”.’
 
-===== PAGE 192 =====
 
 182 AGAINST METHOD
 
@@ -8678,7 +8473,6 @@ events part of a wider context and thereby lend them substantiality.
 
 62. Dodds, op. cit, p. 6.
 
-===== PAGE 193 =====
 
 SIXTEEN 183
 used for explaining them: ‘The gods are present. To recognize this as
@@ -8733,7 +8527,6 @@ aim, in order to save his life and the life of his associates.’ B. Snell, Die 
 und Wir, Gottingen, 1962, p. 48. In this place also.a more detailed analysis of pertinent
 terms. Cf. also footnote 56 on the apparent non-existence of personal decisions.
 
-===== PAGE 194 =====
 
 184 AGAINST METHOD
 experienced by the individuals using the concepts. These individuals live
@@ -8787,7 +8580,6 @@ moon, the paradoxical rising and falling of the Nile), each of them
 
 70. Heraclitus, after Diogenes Laertius, IX, 1.
 
-===== PAGE 195 =====
 
 SIXTEEN 185
 explained in its own particular way and without the use of universal
@@ -8841,7 +8633,6 @@ Knowledge. The example was familiar in antiquity.
 
 74. This is also the way in which J.L. Austin takes care of the case. Cf. Sense and
 
-===== PAGE 196 =====
 
 186 AGAINST METHOD
 
@@ -8894,7 +8685,6 @@ carpenter (an ‘expert carpenter’ translates Lattimore).
 
 77. Cf. Snell, Ausdnicke, p. 50.
 
-===== PAGE 197 =====
 
 SIXTEEN 187
 Such events may reside in him, they may also enter from the outside.
@@ -8941,7 +8731,6 @@ consolidate the objection.
 80. Cf. Part Il of Hedwig Kenner, Das Theater und der Realismus in der Griechischen
 Kunst, Vienna, 1954, especially pp. 121f.
 
-===== PAGE 198 =====
 
 188 AGAINST METHOD
 
@@ -8993,7 +8782,6 @@ a ‘logic’ of its own, not found in any Western language. In the course
 
 83. ibid, p. 82.
 
-===== PAGE 199 =====
 
 SIXTEEN 189
 of the comparison the anthropologist may rephrase certain native
@@ -9043,7 +8831,6 @@ Social Anthropology, pp. 102ff.
 
 85. The Nuer, p. 103.
 
-===== PAGE 200 =====
 
 190 AGAINST METHOD
 
@@ -9094,7 +8881,6 @@ History of Quantum Physics, American Philosophical Society, Philadelphia, 1967. 
 material assembled under the programme described in this report can be consulted at
 various universities, the University of California in Berkeley among them.
 
-===== PAGE 201 =====
 
 SIXTEEN 191
 
@@ -9145,7 +8931,6 @@ contortions of the medicine-men of a newly discovered association of
 tribes. And we must be prepared for the discovery that these
 Contortions are wildly illogical (when judged from the point of view of
 
-===== PAGE 202 =====
 
 192 AGAINST METHOD
 a particular system of formal logic) and have to be wildly illogical in
@@ -9192,7 +8977,6 @@ the bits and pieces of field work available today, mainly as the result of
 88. British Journal for the Philosophy of Science, August 1970, pp. 257ff and
 February 1971, pp. 39ff.
 
-===== PAGE 203 =====
 
 SIXTEEN 193
 the work of Hanson, Kuhn, Lakatos and the numerous historians
@@ -9239,7 +9023,6 @@ as well as in meta-science. The terms of the new language become
 clear only when the process is fairly advanced, so that each single
 Word is the centre of numerous lines connecting it with other words,
 
-===== PAGE 204 =====
 
 194 AGAINST METHOD
 sentences, bits of reasoning, gestures which sound absurd at first but
@@ -9289,7 +9072,6 @@ foomote 13.
 90. Plato, Theaitetes, 184c. Cf. also I. Diiring, Aristoteles, Heidelberg, 1966, p. 379,
 criticizing Aristotle's demand for instant precision.
 
-===== PAGE 205 =====
 
 SIXTEEN 195
 by obvious examples. Classical logic arrived on the scene only
@@ -9338,7 +9120,6 @@ Sentence, which will read ‘it appears that it moves and does not change place�
 appearances belong to the domain of phenomenological psychology we have made our
 Point, viz. that this domain contains self-inconsistent elements.
 
-===== PAGE 206 =====
 
 196 AGAINST METHOD
 
@@ -9375,7 +9156,6 @@ we ES Tranckjacr-Rasmussen, Perspectoid Distances’, Ada Psychologica, XI,
 95. Mainly bythe work of Imre Lakatos, ‘Proofs and Refutation’, British Journal for
 the Philosophy of Science, 1962/63.
 
-===== PAGE 207 =====
 
 SIXTEEN 197
 machinery that might work in certain ideal conditions, but they never
@@ -9424,7 +9204,6 @@ __ 96. Besides, the imprecisions which he removes from the formalism now reappea
 in the relation between theory and fact. Here the correspondence principle still reigns
 supreme. Cf. footnote 25 of Chapter 5.
 
-===== PAGE 208 =====
 
 198 AGAINST METHOD
 The archaic cosmology (which from now on I shall call cosmology A)
@@ -9478,7 +9257,6 @@ has developed similar ideas. And he has criticized the development from Thales v
 Plato to the present essentialism. Cf. the first chapter of Sense and Sensibilia. Chapter 3
 of Farewell to Reason contains details.
 
-===== PAGE 209 =====
 
 SIXTEEN 199
 
@@ -9528,7 +9306,6 @@ Dodds, Greets, p. 35. For Xenophanes cf. Chapter 2 of Farewell to Reason.
 
 104. Snell, Discovery, p. 69.
 
-===== PAGE 210 =====
 
 200 AGAINST METHOD
 either as the corner ofacube that extends towards the viewer, or as the
@@ -9570,7 +9347,6 @@ sky, while the other tries to develop astronomy, ‘while leaving the heavens al
 
 106. Xenophanes, fr. 34.
 
-===== PAGE 211 =====
 
 SIXTEEN 201
 essence underlying a multitude of deceptive phenomena. (We may
@@ -9623,7 +9399,6 @@ trunk, neck, head, '°7 (s)he is a puppet set in motion by outside forces
 legs; he speaks of hands, lower arms, upper arms, feet, calves, and thighs. Nor is there
 comprehensive term for the trunk.’ Snell, Discovery, Chapter 1, footnote 7.
 
-===== PAGE 212 =====
 
 202 AGAINST METHOD
 
@@ -9676,7 +9451,6 @@ anthropological method can lead to knowledge that is more than a reflection of w
 thinking. A similar situation in the course of individual developments described in the
 text to fn. 12 of the present chapter.
 
-===== PAGE 213 =====
 
 SIXTEEN 203
 fact an accident, or has A some structural properties that prevent the
@@ -9717,7 +9491,6 @@ manifestations. A statement such as Heraclitus’ ‘you could not find
 the limits of the soul though you are travelling every way, so deep is its
 logos’ (Diels, B 45) does not just add to cosmos A, it undercuts
 
-===== PAGE 214 =====
 
 204 AGAINST METHOD
 
@@ -9772,7 +9545,6 @@ not ashamed to tell so many lies to so many people. When Thespis said there was
 nothing dreadful in representing such works and actions in fun, Solon struck the
 ground violently with his walking stick: “If we applaud these things in fun,” he said,
 
-===== PAGE 215 =====
 
 SIXTEEN 205
 seen to be a necessary presupposition of change and, possibly,
@@ -9822,7 +9594,6 @@ by saying ‘Because they are too stupid’. Plutarch, Deaud. poet, ISD.
 
 116. Chapter 11, text to footnote 5.
 
-===== PAGE 216 =====
 
 206 AGAINST METHOD
 
@@ -9871,7 +9642,6 @@ not even in memory: presenting B-facts means suspending principles
 Cosmos, Pittsburgh, 1966. The classifications achieved by the principles are ‘covert’ in
 the sense of Whorf: cf. above. footnote 4 and text down to footnote 9.
 
-===== PAGE 217 =====
 
 SIXTEEN 207
 assumed in the construction of A-facts. All we can do is draw Bpictures of A-facts in B, or introduce B-statements of A-facts into B.
@@ -9918,7 +9688,6 @@ their appearance, their perceived implications and, with them, the
 ‘misuses’ the language he has at his disposal by asserting a difference
 between ‘real’ honour and its social manifestations. Asserting
 
-===== PAGE 218 =====
 
 208 AGAINST METHOD
 
@@ -9941,7 +9710,6 @@ define them; it is this feature that makes them capable of connecting
 entirely different conceptual systems. More about this in my (I
 promise!) last book, The Conquest of Abundance.
 
-===== PAGE 219 =====
 
 Appendix 2
 
@@ -9986,9 +9754,7 @@ to be ‘used in reporting the same experience’”® and where we read that
 
 7. ibid., p. 209.
 
-209
 
-===== PAGE 220 =====
 
 210 AGAINST METHOD
 
@@ -10039,7 +9805,6 @@ and how I arrived at the idea.
 
 9. ibid., pp. 68m.
 
-===== PAGE 221 =====
 
 APPENDIX 2 211
 
@@ -10089,7 +9854,6 @@ Circle and supervised by Professor Victor Kraft of the University of Vienna.
 11. ‘An Attempt at a Realistic Interpretation of Experience’, Proc. Arist. Soc. 1958,
 reprinted in Philosophical Papers, Vol. 1. The passage (initalics) is on p. 31.
 
-===== PAGE 222 =====
 
 212 AGAINST METHOD
 
@@ -10140,7 +9904,6 @@ Frankfurt, 1987.
 
 14. Philosophical Papers, Vol. 1, pp. 176.
 
-===== PAGE 223 =====
 
 APPENDIX 2 213
 own which cannot be reduced to theoretical assumptions and are
@@ -10160,7 +9923,6 @@ I at least want to escape from — the rigid, though chimaerical
 15. Cf. my ‘Realism and the Historicity of Knowledge’, The Journal of Philosophy,
 Vol. boawvi, 1989, pp. 353ff, esp. footnote 26 and the postscript to the present essay.
 
-===== PAGE 224 =====
 
 Neither science nor rationality are universal measures of excellence. They are
 particular traditions, unaware of their historical grounding.
@@ -10198,9 +9960,7 @@ a practice.
 
 The problems I have sketched are old ones and much more
 
-214
 
-===== PAGE 225 =====
 
 SEVENTEEN 215
 general than the problem of the relation between science and
@@ -10249,7 +10009,6 @@ reality. We can surmise that Brunelleschi arrived at his construction
 by a natural extension of the architects’ method of representing
 three-dimensional objects and that his contacts with contemporary
 
-===== PAGE 226 =====
 
 216 AGAINST METHOD
 
@@ -10302,7 +10061,6 @@ group, not taken seriously by the rest of the profession?
 
 The questions of a participant are: this is a strange book indeed —
 
-===== PAGE 227 =====
 
 SEVENTEEN 217
 should I take it seriously? Should I study it in detail or only
@@ -10352,7 +10110,6 @@ entering the process. So a pragmatist must be both a participant and
 an observer even in those extreme cases where he decides to live in
 accordance with his momentary whims entirely.
 
-===== PAGE 228 =====
 
 218 AGAINST METHOD
 
@@ -10402,7 +10159,6 @@ concepts which, having just been introduced, reveal a good deal of
 
 1. For details see Chapter 16.
 
-===== PAGE 229 =====
 
 SEVENTEEN 219
 their structure and which can be linked in many ways. They are poor
@@ -10453,7 +10209,6 @@ different view. First he restored what he thought to be the real
 2. ‘Vorrede zum “Sterbenden Cato”’ quoted from J. Chr. Gottsched, Schriften zur
 Literatur, Stuttgart, 1972, p. 200.
 
-===== PAGE 230 =====
 
 220 AGAINST METHOD
 
@@ -10504,7 +10259,6 @@ claims of the ‘original geniuses’ of his time in Stick 96. Lessing’s accou
 relation between ‘reason’ and practice is quite complex and in agreement with the view
 developed further below.
 
-===== PAGE 231 =====
 
 SEVENTEEN 221
 proposal and the fact that the proposal has been accepted, and the
@@ -10552,7 +10306,6 @@ Ripper on the side. Did the playwright mean to say that our modern ‘objectivis
 have been through the fire of relativism can return to normalcy only if they are
 permitted to annihilate all disturbing elements?
 
-===== PAGE 232 =====
 
 222 AGAINST METHOD
 
@@ -10603,7 +10356,6 @@ to ‘act rationally’ he also wants his rational actions to have results.
 And he wants these results to occur not only among the idealizations
 he uses but in the real world he inhabits. For example, he wants real
 
-===== PAGE 233 =====
 
 SEVENTEEN 223
 human beings to build up and maintain the society of his dreams, he
@@ -10654,7 +10406,6 @@ improved by the addition of reason.
 5. Plato, Republic, 530bf.
 6. Epinomis.
 
-===== PAGE 234 =====
 
 224 AGAINST METHOD
 
@@ -10704,7 +10455,6 @@ of Fationalists who don’t understand (or pretend not to understand) such a sim
 int.
 ar Cf. my short comments on ‘covert classifications’ in Chapter 16.
 
-===== PAGE 235 =====
 
 SEVENTEEN 225
 observer’s attitude towards the latter further separates what is so
@@ -10751,7 +10501,6 @@ Corollary: rationality is not an arbiter of traditions, it is itself a
 tradition or an aspect of a tradition. It is therefore neither good nor
 bad, it simply is.
 
-===== PAGE 236 =====
 
 226 AGAINST METHOD
 
@@ -10800,7 +10549,6 @@ one may use an as yet unspecified and unspecifiable practice. One may base
 
 9. Protagoras is discussed in detail in Chapter 1, sections 3ff of Farewell to Reason.
 
-===== PAGE 237 =====
 
 SEVENTEEN 227
 judgements and actions on standards that cannot be specified in
@@ -10851,7 +10599,6 @@ philosophy. The tradition adopted by the parties is unspecified in the
 ‘maturity of their faculties’ — i.e. to fellow intellectuals and their pupils. ‘On Liberty’,
 in ThePhilosophy of John Stuart Mill, ed. M. Cohen, New York, 1961, p. 197.
 
-===== PAGE 238 =====
 
 228 AGAINST METHOD
 
@@ -10898,7 +10645,6 @@ his own person entirely. It is somewhat depressing to see how many
 intelligent people have fallen for such a shallow trick. We remove it by
 observing:
 
-===== PAGE 239 =====
 
 SEVENTEEN 229
 
@@ -10943,7 +10689,6 @@ about this topic in Chapter 19.
 —___
 11. Cf. Norman Mailer, Ofa Fire on the Moon, London, 1970.
 
-===== PAGE 240 =====
 
 Yat it is possible to evaluate standards of rationality and to improve them.
 The principles of improvement are neither above tradition nor beyond
@@ -10982,9 +10727,7 @@ standards by more ‘revolutionary’ rules such as proliferation and
 counterinduction and almost everyone has ascribed to me a
 ‘methodology’ with ‘anything goes’ as its one ‘basic principle’. But in
 
-230
 
-===== PAGE 241 =====
 
 EIGHTEEN 231
 Chapter 2 I say quite explicitly that ‘my intention is not to replace one
@@ -11031,7 +10774,6 @@ Philosopher to give reasons for his choice of science over myth
 
 1. Philosophical Papers, Vol. 2, Chapter 10. Cf. also Chapter 19.
 
-===== PAGE 242 =====
 
 232 AGAINST METHOD
 or Aristotle. Naturalism cannot solve the problem of scientific
@@ -11080,7 +10822,6 @@ already known are preferable to theories that have not. Again the
 standard is not untouchable. It is in trouble the moment we discover
 that we inhabit a finite world. The discovery is prepared by the
 
-===== PAGE 243 =====
 
 EIGHTEEN 233
 development of ‘Aristotelian’ theories which refrain from going
@@ -11132,7 +10873,6 @@ For example, a good way of examining the idea that the world is
 finite both qualitatively and quantitatively is to develop an
 Aristotelian cosmology. Such a cosmology provides means of
 
-===== PAGE 244 =====
 
 234 AGAINST METHOD
 
@@ -11182,7 +10922,6 @@ many philosophers accept as unhesitatingly as Catholics once
 accepted the dogma of the immaculate conception of the Virgin loses
 its authority the moment we find that there are facts whose only
 
-===== PAGE 245 =====
 
 EIGHTEEN 235
 adequate description is inconsistent and that inconsistent theories
@@ -11231,7 +10970,6 @@ regularity in the discussion of ‘fundamental principles’ such as
 
 2. Cf. Chapter 16, text to footnotes 91ff.
 
-===== PAGE 246 =====
 
 236 AGAINST METHOD
 consistency, content increase, observational adequacy, falsifiability,
@@ -11281,7 +11019,6 @@ a new procedure. Philosophers from Parmenides to 20th-century
 to Monod used it to devalue, and to declare as mere appearance, the
 qualitative features of human life. But what can be used to support
 
-===== PAGE 247 =====
 
 EIGHTEEN 237
 science can also be used against it. The (cultural) measuring
@@ -11291,7 +11028,6 @@ one historical stage to the next, just as our physical measuring
 instruments change and must change when we leave one physical
 region (one historical period) and enter another.
 
-===== PAGE 248 =====
 
 Science is neither a single tradition, nor the best tradition there is, except for
 people who have become accustomed to its presence, its benefits and its
@@ -11319,9 +11055,7 @@ bacteriophages would be small in the first case, but would contain
 
 1. S.E. Luria, A Slot Machine, a Broken Test Tube, New York, 1985, p. 115.
 
-238
 
-===== PAGE 249 =====
 
 NINETEEN 239
 avalanches in the second. The prediction could be tested in a simple
@@ -11376,7 +11110,6 @@ and London, 1982, p. 21.
 
 P &, Jeter to Max Born, quoted from the Born-Einstein Letters, New York, 1971,
 
-===== PAGE 250 =====
 
 240 AGAINST METHOD
 
@@ -11434,7 +11167,6 @@ to the shakers, ‘a religious sect of New England who built solid barns
 
 8. Ed. O.G. Tietjens, New York, 1954, p. 3.
 
-===== PAGE 251 =====
 
 NINETEEN 241
 and led celibate lives, a non-scientific equivalent of proving rigorous
@@ -11488,7 +11220,6 @@ Birkhoff, Hydrodynamics, New York, 1955, sections 20 and 21.
 11. ‘Problems of Cosmogony and Cosmology’, in F. Bertola, J.W. Sulentic and
 D.F. Madore (eds), New Ideas in Astronomy, Cambridge, 1988, p. 229.
 
-===== PAGE 252 =====
 
 242 AGAINST METHOD
 
@@ -11537,7 +11268,6 @@ Whatever the results, a world built up in the manner of Luria has
 
 12. N.R. Campbell, Foundations of Science, New York, 1957, p. 21.
 
-===== PAGE 253 =====
 
 NINETEEN 243
 little in common with the world of Einstein and this world again
@@ -11583,7 +11313,6 @@ creation of ‘unnatural’ conditions and, thereby, the production of
 —__
 13. A History of European Thought in the 19th Century (first published 1904-12).
 
-===== PAGE 254 =====
 
 244 AGAINST METHOD
 
@@ -11622,7 +11351,6 @@ approaches as well as the clashes between them and it can identify,
 
 4. Ibid., Vol. 2, New York, 1965, pp. 200f.
 
-===== PAGE 255 =====
 
 NINETEEN 245
 
@@ -11671,7 +11399,6 @@ p. 19.
 16. ‘Complementarity and Cosmology’, in M. Kafatos (ed.), Bell’s Theorem,
 Quantum Theory and the Conceptions of the Universe, Dordrecht, 1980, p. 263.
 
-===== PAGE 256 =====
 
 246 AGAINST METHOD
 
@@ -11712,7 +11439,6 @@ biology is different from physics which is different from geology. But
 17. Cf. his message on the occasion of the 300th anniversary of Newton’s
 Prin pa published in John Paul IT on Science and Religion, Notre Dame, 1990, esp.
 
-===== PAGE 257 =====
 
 NINETEEN 247
 these disciplines, it is assumed, arise when ‘the scientific way’ is
@@ -11755,7 +11481,6 @@ no such primal source of power. . . . So the time has come to ask: does
 18. This was realized by government advisers after the postwar euphoria had wom
 off. See Joseph Ben-David, Scientific Growth, Berkeley, 1991, p. 525, quoted above.
 
-===== PAGE 258 =====
 
 248 AGAINST METHOD
 away exist to divert the power of religion into the services of the great oe)
@@ -11796,7 +11521,6 @@ Course for Primary Health Care Managers at District Level in Developing Countrie
 Istituto Superiore di Sanita, Rome, 1991. For a more popular presentation cf. Grazia
 Borrini, ‘Primary Environmental Care: For Environmental Advocates and PolicyMakers’, UNESCO Courier, forthcoming.
 
-===== PAGE 259 =====
 
 NINETEEN 249
 tao ae cm White Jr., from whose book I have taken
@@ -11834,7 +11558,6 @@ idea of individual responsibility which allegedly is an important
 —___
 21. Mediaeval Technology and Social Change, Oxford, 1960, pp. 56f.
 
-===== PAGE 260 =====
 
 250 AGAINST METHOD
 
@@ -11889,7 +11612,6 @@ Third World where a strong faith still survives.)
 the political background cf. Chapters 3 and 4 of Richard Storry, A History of Modern
 Japan, Harmondsworth, 1982.
 
-===== PAGE 261 =====
 
 NINETEEN 251
 (2)
@@ -11911,7 +11633,6 @@ and experts in between. But the competence of the general public
 could be vastly improved by an education that exposes expert
 fallibility instead of acting as if it did not exist.
 
-===== PAGE 262 =====
 
 The point of view underlying this bookis not the result of a well-planned train
 of thought but of arguments prompted by accidental encounters. Anger at the
@@ -11949,9 +11670,7 @@ whenever an individual or a group objectivizes its own personal conceptions of a
 life and acts accordingly. Cf. Farewell to Reason, pp. 309ff. This explains the occasional
 violence of my arguments.
 
-252
 
-===== PAGE 263 =====
 
 TWENTY 253
 brought us from city to city. We arrived, dined, talked to the actors,
@@ -11998,7 +11717,6 @@ After a year in Weimar I wanted to add the sciences and the
 humanities to the arts, and the theatre. I left Weimar and became a
 student (history, auxiliary sciences) at the famous Institut fur
 
-===== PAGE 264 =====
 
 254 AGAINST METHOD
 
@@ -12051,7 +11769,6 @@ to use old traditions for new purposes.
 3. Otto Molden, brother of Fritz Molden of the Molden publishing house, was for
 many years the dynamic leader and organizer.
 
-===== PAGE 265 =====
 
 TWENTY 255
 certain ways of presenting one’s case. To test the suspicion I
@@ -12100,7 +11817,6 @@ physicists. In 1949 Ehrenhaft came to Alpbach. In that year Popper
 Conducted a seminar on philosophy, Rosenfeld and M.H.L. Pryce
 taught physics and philosophy of physics (mainly from Bohr’s
 
-===== PAGE 266 =====
 
 256 AGAINST METHOD
 
@@ -12152,7 +11868,6 @@ We founded a Club for the Salvation of Theoretical Physics and
 started discussing simple experiments. It turned out that the relation
 between theory and experiment was much more complex than is
 
-===== PAGE 267 =====
 
 TWENTY 257
 shown in textbooks and even in research papers. There are a few
@@ -12200,7 +11915,6 @@ arguments for realism worked only when the realist assumption had
 
 4. Cf. Chapter 5 on ad hoc approximations.
 
-===== PAGE 268 =====
 
 258 AGAINST METHOD
 
@@ -12250,7 +11964,6 @@ can be interpreted as a more efficient predictive machine and that it seemed imp
 to me only because | did not slide into such an interpretation. Which shows to what
 extent the force of arguments depends on irrational changes of attitude.
 
-===== PAGE 269 =====
 
 TWENTY 259
 than the sum total of positivism plus the arguments one could offer
@@ -12301,7 +12014,6 @@ proceeded from morning over lunch until late into the evening. They
 had a profound influence upon me though it is not at all easy to
 specify particulars. On one occasion which I remember vividly
 
-===== PAGE 270 =====
 
 260 AGAINST METIIOD
 
@@ -12352,7 +12064,6 @@ esp. p. 321, second paragraph. Cf. also the references in Popper, Logic of Scien
 Discovery. Mill’s System of Logic, Vol. 2, London, 1879, Chapter 14, gives a detailed
 account of the procedure.
 
-===== PAGE 271 =====
 
 TWENTY 261
 granted in the physics seminar of the conference under the
@@ -12400,7 +12111,6 @@ methodologists play the role of publicity agents whom physicists hire
 to praise their results but whom they would not permit access to the
 enterprise itself. That falsificationism is not a solution became very
 
-===== PAGE 272 =====
 
 262 AGAINST METHOD
 
@@ -12455,7 +12165,6 @@ Identity of the Two’ in Boston Studies, Vol. 3, 1967.
 14. On a Recent Critique of Complementarity’, Philosophy of Science 1968/69
 (two parts).
 
-===== PAGE 273 =====
 
 TWENTY 263
 
@@ -12504,7 +12213,6 @@ contribute to the spreading of reason and the improvement of
 mankind! What a marvellous opportunity for a new wave of
 enlightenment! I felt very differently. For it now dawned on me that
 
-===== PAGE 274 =====
 
 264 AGAINST METHOD
 the intricate arguments and the wonderful stories I had so far told to
@@ -12551,7 +12259,6 @@ tremendous power this error has now over minds. I started examining
 the rise of intellectualism in Ancient Greece and the causes that
 brought it about. I wanted to know what it is that makes people who
 
-===== PAGE 275 =====
 
 TWENTY 265
 have a rich and complex culture fall for dry abstractions and multilate
@@ -12598,7 +12305,6 @@ sit down and write: ‘the cat is on the mat’. This simple sentence
 which we usually utter without thought, like talking machines (and
 much of our talk is indeed routine), now seems like the creation of an
 
-===== PAGE 276 =====
 
 266 AGAINST METHOD
 
@@ -12645,7 +12351,6 @@ immediately concerned). My own view differed from those just
 mentioned but it was still a view, an abstract fancy I had invented and
 now tried to sell without having shared even an ounce of the lives of
 
-===== PAGE 277 =====
 
 TWENTY 267
 the receivers. This I now regard as insufferable conceit. So — what
@@ -12681,7 +12386,6 @@ power with that of science and religion seems to be a fascinating
 enterprise and one to which I might devote a year (or two, or
 three . . .).
 
-===== PAGE 278 =====
 
 Postscript on Relativism
 
@@ -12725,9 +12429,7 @@ nor bad, they simply are. Thesis ii: A tradition assumes desirable or
 17 of the second edition of Against Method, London, 1988, and with added commentin
 Chapter 17, pp. 225ff of the present edition.
 
-268
 
-===== PAGE 279 =====
 
 POSTSCRIPT ON RELATIVISM 269
 undesirable properties only when compared with some tradition, i.e.
@@ -12776,7 +12478,6 @@ create a wide variety of surroundings, or ‘realities’ — but not all
 7. op. cit, p. 270. Cf. also the more detailed account in ‘Realism and the
 Historicity of Knowledge’, Journal of Philosophy, 1989.
 
-===== PAGE 280 =====
 
 270 AGAINST METHOD
 
@@ -12825,7 +12526,6 @@ st In Gonzalo Munevar (ed.), Beyond Reason, Dodrecht-Boston-London, 1991, p-
 
 11. op. cit., foomote 7 above.
 
-===== PAGE 281 =====
 
 POSTSCRIPT ON RELATIVISM 271
 that ontological relativism might be similar to Thomas Kuhn’s more
@@ -12877,7 +12577,6 @@ Secondly, Kuhn says that in the absence of an Archimedian
 platform ‘comparative evaluation is all there is’. That is of course true
 ~and trivially so. Thirdly, he challenges the traditional notion of truth
 
-===== PAGE 282 =====
 
 272 AGAINST METHOD
 
@@ -12898,7 +12597,6 @@ where cultures are well defined and strictly separated and where
 scientific terms have finally been nailed down. In such a world only
 miracles or revelation could reform our cosmology.
 
-===== PAGE 283 =====
 
 Index
 Alberti, Leon Battista 242 perspective 185n, 187, 199-201,
@@ -12938,9 +12636,7 @@ Arp, Halton 242, 245 Church & Christianity 248
 art accepts proven science 132-3
 archaic style and perception attitudes 125-6, 130-1
 169-186 Galileo and 124, 125-34
-273
 
-===== PAGE 284 =====
 
 274 INDEX
 clashing with accepted theories crisis, theory of 145-6
@@ -12984,14 +12680,12 @@ Aristotleand 44, 109-12, 135, events, effects on science] 6-17, 138
 cultural perceptionsand 175-6 interpretations; observation
 finite 233-4 experiments see empiricism;
 need for re-evaluation 113-15, facts
-120
 seealsoastronomy; concepts facts
 counterinduction autonomy principle 26-7
 Copernican theory and 51-3, collection & discovery 77, 144-5
 77-80 selection & suppression 20-1,
 tool for research 20-3, 61-4 50-1, 155
 
-===== PAGE 285 =====
 
 INDEX 275
 theoretical nature 11, 22, Hanson,N.R. 212
@@ -13042,7 +12736,6 @@ astronomy & cosmology 36n, instruments 17,110,232
 see also Aristotle; Plato; intuition 11,150
 Parmenides irrationalism 158, 204
 
-===== PAGE 286 =====
 
 276 INDEX
 Japan 250 Lorenz, Konrad 131n, 245
@@ -13093,7 +12786,6 @@ limits speculation 11, 106, 192, science
 195 morality 16,253
 Lorentz, Hendrik 46-7 seealso humanitarianism
 
-===== PAGE 287 =====
 
 INDEX 277
 motion perception 95, 108-9, 114,152
@@ -13144,7 +12836,6 @@ Parmenides 43-4, 62, 204 quantum theory 18,44
 participant vs observer 215-21 case study of 190-1
 passion (Kierkegaardian) 17 Quine, Willard van Orman 212
 
-===== PAGE 288 =====
 
 278 INDEX
 rationalism 2, 62, 64, 114, Sidereus Nuncius (Galileo) 81-2
@@ -13170,7 +12861,6 @@ seealso Church & Christianity theology see Church & Christianity;
 research religion
 see facts; empiricism; theories of science
 methodology acceptanceof 17-18, 30-2, 63,
-71
 Sacrobosco,Johannes 136 changing of perceptions 20-3,
 Schwarzchild solution 48 52-3, 123-4
 science consistency conditions 24-7,
@@ -13195,7 +12885,6 @@ of science seealso concepts; history;
 senses see under natural hypotheses; methodology;
 interpretations; observation science
 
-===== PAGE 289 =====
 
 INDEX 2
 tradition 225-6, 228 White, Lynn 249

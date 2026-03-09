@@ -1,3 +1,7 @@
+# Тема: Experimentality, Technology, and the Scientific Method
+# Источник: karl-popper-the-logic-of-scientific-discovery-1
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 The Logic of Scientific Discovery
 ФOne of the most important philosophical works of our century.Х
@@ -1542,7 +1546,6 @@ From an historical point of view, the emergence of indeterminist metaphysics is 
 The lesson of all this is that we should try to find strict lawsС prohibitionsСthat can founder upon experience. Yet we should abstain from issuing prohibitions that draw limits to the possibilities of research.*^6
 *^6 I have restated my views on these matters more recently (after 33 years) in my paper ФQuantum Mechanics Without ТThe ObserverУ Х, in Quantum Theory and Reality , edited by Mario Bunge, 1967, pp. 7Р44.
 
-10
 CORROBORATION, OR HOW A THEORY STANDS UP TO TESTS
 Theories are not verifiable, but they can be ФcorroboratedХ. The attempt has often been made to describe theories as being neither true nor false , but instead more or less probable. Inductive logic, more especially, has been developed as a logic which may ascribe not only the two values ФtrueХ and ФfalseХ to statements, but also degrees of probability; a type of logic which will here be called Ф probability logic Х. According to those who believe in probability logic, induction should determine the degree of probability of a statement. And a principle of induction should either make it sure that the induced statement is Фprobably validХ or else it should make it probable , in its turnСfor the principle of induction might itself be only Фprobably validХ. Yet in my view, the whole problem of the probability of hypotheses is misconceived. Instead of discussing the ФprobabilityХ of a hypothesis we should try to assess what tests, what trials, it has withstood; that is, we should try to assess how far it has been able to prove its fitness to survive by standing up to tests. In brief, we should try to assess how far it has been ФcorroboratedХ.*^1
 *^1 I introduced the terms Ф corroboration Х (Ф Bew?hrung Х) and especially Ф degree of corroboration Х
@@ -3164,7 +3167,6 @@ Ajdukiewicz, K. 59n
 Ancillion, J.P.F. 68n
 Aristotle 279n, 410, 464, 465 Avenarius, R. 121
 Bacon, F. xxii, 7n, 277, 279q&n,
-438
 Bar-hillel, Y. 409q, 424n
 Bayes, Th 144, 168n, 288Р9
 Bergson, H. 8
@@ -3194,7 +3196,6 @@ Jeffreys, H. 126n, 128n, 265n, 271n,
 Jordan, P. 159n, 191q&n, 201n,
 217q&n, 222n, 300, 477q&n, 479
 Kaila, E. 272&nР273, 375, 402,
-409
 Kamke, E. 137n, 142, 160&n, 161,
 180n
 Kant, I. xiiiq, xx, xxv, 5, 7, 11, 22q,
@@ -3418,7 +3419,6 @@ Singular statements 3Р4, 10, 19, 21,
 37, 38, 41n, 42, 49n, 63, 64, 70n,
 82Р3n, 84, 92, 114, 118, 121, 314,
 331, 443Р4n; lawlike character of
-76
 Sociology 15; knowledge 26, 279n
 Space see Coordinates
 Stability see Statistical stability
@@ -3441,49 +3441,4 @@ Universal statements 4, 5, 15, 19, 23, 41, 49n, 70n, 202, 256, 386Р91; existent
 Universals, problems of 45, 47, 53Р4, 76, 463, see also Names, universal Use or usage of words xviii, 43Р4, 45, 47, 64&n, 276
 Validity, BolzanoХs concept of 103n
 Value of judgements concerning
-
-PDF to Markdown	15.02.2026, 14:01
-
-PDF to Markdown	15.02.2026, 14:01
-
-
-
-PDF to Markdown	15.02.2026, 14:01
-
-
-PDF to Markdown	15.02.2026, 14:01
-
-PDF to Markdown	15.02.2026, 14:01
-
-
-
-PDF to Markdown	15.02.2026, 14:01
-
-
-PDF to Markdown	15.02.2026, 14:01
-
-PDF to Markdown	15.02.2026, 14:01
-
-
-
-PDF to Markdown	15.02.2026, 14:01
-
-
-PDF to Markdown	15.02.2026, 14:01
-
-PDF to Markdown	15.02.2026, 14:01
-
-
-
-PDF to Markdown	15.02.2026, 14:01
-
-
-PDF to Markdown	15.02.2026, 14:01
-
-PDF to Markdown	15.02.2026, 14:01
-
-
-
-PDF to Markdown	15.02.2026, 14:01
-
 

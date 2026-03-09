@@ -1,4 +1,7 @@
-===== PAGE 1 =====
+# Тема: Поведенческая экономика
+# Источник: Chamberlin 1948
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
 
 THE JOURNAL OF
 
@@ -40,7 +43,6 @@ set forth some of the conclusions indicated by it. The experiment has been
 
 I is a commonplace that, in its choice
 
-95
 
 carried out in a number of classes in economic theory, with the students offering
 themselves up as the guinea pigs. It was
@@ -74,7 +76,6 @@ This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
-===== PAGE 2 =====
 
 96 EDWARD H. CHAMBERLIN
 
@@ -165,7 +166,6 @@ been carried out. In these forty-six ex-
 This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
-===== PAGE 3 =====
 
 AN EXPERIMENTAL IMPERFECT MARKET 07
 
@@ -235,17 +235,13 @@ price
 
 1D s°
 
-100
 
 0
 
-60
 
-50
 
 40)
 
-30
 
 io
 
@@ -268,7 +264,6 @@ any of the normally included sellers;
 This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 All use subject to University of Chicago Press Terms and Conditions (http://www .journals.uchicago.edu/t-and-c).
 
-===== PAGE 4 =====
 
 98 EDWARD H. CHAMBERLIN
 
@@ -361,7 +356,6 @@ This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
-===== PAGE 5 =====
 
 AN EXPERIMENTAL IMPERFECT MARKET 99
 
@@ -442,9 +436,7 @@ This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
-===== PAGE 6 =====
 
-100
 
 both sides of the market, the bias would
 be eliminated. (2) The markets with
@@ -540,7 +532,6 @@ them.
 This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
-===== PAGE 7 =====
 
 AN EXPERIMENTAL IMPERFECT MARKET
 
@@ -622,7 +613,6 @@ This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
-===== PAGE 8 =====
 
 Io2
 
@@ -711,7 +701,6 @@ This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
-===== PAGE 9 =====
 
 AN EXPERIMENTAL IMPERFECT MARKET
 
@@ -753,7 +742,6 @@ to the initial one: its movement upward and its
 higher average value in the present example are
 not to be taken as typical.
 
-103
 
 will obey the law of supply and demand
 within itself?
@@ -811,9 +799,7 @@ This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
-===== PAGE 10 =====
 
-104
 
 what appear to be “imperfections” over
 any substantial period may alternatively
@@ -827,11 +813,8 @@ only over a period of time but also in
 
 PRICES
 
-70
 
-65
 
-60
 o
 
 t 2 a 4 5 AMOUNTS
@@ -898,7 +881,6 @@ This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
-===== PAGE 11 =====
 
 AN EXPERIMENTAL IMPERFECT MARKET
 
@@ -953,7 +935,6 @@ within which supply and demand are equated. The
 reader may find it helpful to work out these cases
 for himself in simple graphs.
 
-105
 
 under these more general conditions, in
 which the marginal demand price and
@@ -1001,9 +982,7 @@ being at 50, he enters a bid at that price,
 This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
-===== PAGE 12 =====
 
-106
 
 hoping to save half a point. Suppose,
 now, that another buyer, B, whose upper
@@ -1087,7 +1066,6 @@ This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
-===== PAGE 13 =====
 
 AN EXPERIMENTAL IMPERFECT MARKET
 
@@ -1131,7 +1109,6 @@ sellers submitted bids and offers hourly
 to a central authority who would arrange
 them in schedules and announce the equilibrium price, the volume of sales would
 
-107
 
 be substantially reduced without (it
 would appear) greatly interfering with
@@ -1189,9 +1166,7 @@ This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
-===== PAGE 14 =====
 
-108
 
 anyone’s legitimate purchases or sales of
 securities.” If such bids and offers were
