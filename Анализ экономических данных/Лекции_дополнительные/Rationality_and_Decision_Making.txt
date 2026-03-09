@@ -9,7 +9,6 @@ Instructor: Dr. Alexander Usvitskiy
 Total slides: 41
 
 BBA program
-SKOLKOVO
 Behavioral Economics
 Rationality and Decision-making
 Dr. Alexander Usvitskiy
@@ -214,7 +213,6 @@ Behavioral Economics
 
 Heuristics & Biases
 BBA program
-SKOLKOVO
 Dr. Alexander Usvitskiy
 
 Daniel Kahneman

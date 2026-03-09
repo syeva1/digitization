@@ -1,6 +1,6 @@
 # Microeconomics
 
-Курс Сколково (BBA 1, Module 5). Преподаватель: Shahir Safi, PhD.
+Курс (BBA 1, Module 5). Преподаватель: Shahir Safi, PhD.
 
 ## Для кого и зачем
 

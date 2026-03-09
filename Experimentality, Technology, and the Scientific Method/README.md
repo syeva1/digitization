@@ -1,6 +1,6 @@
 # Experimentality, Technology, and the Scientific Method
 
-Курс Сколково (Year 1, Module 1). Преподаватель: Siyaves Azeri, PhD.
+Курс (Year 1, Module 1). Преподаватель: Siyaves Azeri, PhD.
 
 ## Для кого и зачем
 

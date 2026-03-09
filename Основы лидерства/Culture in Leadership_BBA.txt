@@ -3,7 +3,6 @@
 # Содержание: Материал курса. Подробнее — в README папки или по названию файла.
 
 
-© SKOLKOVO
 
 Moscow School
 of Management

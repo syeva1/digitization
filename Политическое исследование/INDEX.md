@@ -6,15 +6,15 @@
 ## Корень курса
 
 - `2005_Dzheyms_Skott_Blagimi_namereniami_gosudarstva.txt` — 2005 Dzheyms Skott Blagimi namereniami gosudarstva
-- `2024_Сколково_день_второй_полный_текст.txt` — 2024 Сколково день второй полный текст
+- `Лекция_2_полный_текст.txt` — Лекция 2 — полный текст
 - `Dzhessop_B_Gosudarstvo_Proshloe_nastoyaschee_i_buduschee_2019.txt` — Dzhessop B Gosudarstvo Proshloe nastoyaschee i buduschee 2019
 - `Smorgunov_L_V_Gosudarstvennaya_politika_i_upravlenie_V_2-kh_chastyakh_Chast_1.txt` — Smorgunov L V Gosudarstvennaya politika i upravlenie V 2-kh chastyakh Chast 1 — копия
 - `Smorgunov_L_V_Gosudarstvennaya_politika_i_upravlenie_V_2-kh_chastyakh_Chast_2.txt` — Smorgunov L V Gosudarstvennaya politika i upravlenie V 2-kh chastyakh Chast 2 — копия
-- `skolkovo1_FULL_1to1_v2.txt` — skolkovo1 FULL 1to1 v2
-- `skolkovo_dummy_demo.txt` — skolkovo dummy demo
-- `skolkovo_reg_demo.txt` — skolkovo reg demo
-- `Сколково_день3_FULL_1to1.txt` — Сколково день3 FULL 1to1
-- `Сколково_день4_FULL_1to1.txt` — Сколково день4 FULL 1to1
+- `Лекция_1_полный_текст.txt` — Лекция 1 — полный текст
+- `Демо_dummy_переменные.txt` — Демо: dummy-переменные
+- `Демо_регрессия.txt` — Демо: регрессия
+- `Лекция_3_полный_текст.txt` — Лекция 3 — полный текст
+- `Лекция_4_полный_текст.txt` — Лекция 4 — полный текст
 - `Шмитт_Политическая_теология.txt` — schmittpt — копия 2
 
 ## Литература_политические_исследования
@@ -43,17 +43,17 @@
 - `Литература_политические_исследования/книги 21.10.24c/Соловьев А.И. - Принятие и исполнение государственных решений-Аспект Пресс (2017).txt` — Соловьев А.И. - Принятие и исполнение государственных решений-Аспект Пресс (2017)
 - `Литература_политические_исследования/книги 21.10.24c/ссылки.txt` — ссылки
 
-## Презентации_регрессия_Стукал / skolkovo2_endogc
+## Презентации_регрессия_Стукал / Эндогенность
 
-- `Презентации_регрессия_Стукал/skolkovo2_endogc/skolkovo2_endog_FULL_1to1.txt` — skolkovo2 endog FULL 1to1
+- `Презентации_регрессия_Стукал/Эндогенность/Эндогенность_полный_текст.txt` — Эндогенность — полный текст
 
-## Презентации_регрессия_Стукал / skolkovo_dummy_demo
+## Презентации_регрессия_Стукал / Демо_dummy_переменные
 
-- `Презентации_регрессия_Стукал/skolkovo_dummy_demo/political_research_dummy_variables.txt` — political_research_dummy_variables
+- `Презентации_регрессия_Стукал/Демо_dummy_переменные/political_research_dummy_variables.txt` — political_research_dummy_variables
 
-## Презентации_регрессия_Стукал / skolkovo_reg_demo
+## Презентации_регрессия_Стукал / Демо_регрессия
 
-- `Презентации_регрессия_Стукал/skolkovo_reg_demo/political_regression_demo.txt` — political_regression_demo
+- `Презентации_регрессия_Стукал/Демо_регрессия/political_regression_demo.txt` — political_regression_demo
 
 ## Силлабус
 
