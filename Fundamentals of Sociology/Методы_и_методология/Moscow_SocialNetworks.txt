@@ -17,10 +17,6 @@ Stanley Wasserman and Katherine Faust
 ——
 
 Roem caatteripsehneranni at «A
-
-
-2
-
 Social Network Data: Collection and
 Applications
 
@@ -148,9 +144,6 @@ social events. .
 A number of concerns arise in network studies that must be addressed
 
 prior to gathering any network data. Typically, a researcher must first 3
-
-i
-
 ry
 
 wee «

@@ -125,7 +125,6 @@ ISBN 978-0-19-921158-6
 13579108642
 
 
-CONTENTS
 
 Abbreviations vii
 Introduction ix
@@ -4178,7 +4177,6 @@ grossest and most sensible ideas, that can be the object of our enquiry.
 necessary connexion, let us examine its impression; and in order to
 find the impression with greater certainty, let us search for it in all
 the sources, from which it may possibly be derived.*
-6
 ‘The impulse of one billiard-ball is attended with motion in
 the second. This is the whole that appears to the outward senses. The e)
 mind feels no sentiment or inward impression* from this succession
@@ -4341,8 +4339,6 @@ and passions is much weaker than that over our ideas; and even the
 latter authority is circumscribed within very narrow boundaries. Will
 any one pretend to assign the ultimate reason of these boundaries, or
 show why the power is deficient in one case not in another.
-
-1
 in health possesses more of it, than one languishing
 with sickness. We are more master of our thoughts in the morning (o)
 than in the evening: Fasting, than after a full meal. Can we give any
@@ -4572,8 +4568,6 @@ it is impossible to give any just definition of cause, except what is
 drawn from something extraneous and foreign to it. Similar objects
 are always conjoined with similar. Of this we have experience.
 Suitably to this experience, therefore, we may define 4
-7
-
 But though both these
 definitions be drawn from circumstances foreign to the cause, we
 cannot remedy this inconvenience, or attain any more perfect

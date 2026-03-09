@@ -3,7 +3,6 @@
 # Содержание: Материал курса. Подробнее — в README папки или по названию файла.
 
 
-
 Knowing Machines
 
 
@@ -31,7 +30,6 @@ CIL'
 
 
 in memory of An?;US Mac Kenzie (l915-199:"i)
-
 
 
 Contents Achnowlerlgmenls
@@ -628,7 +626,6 @@ So the search for the ether did not end with the Michelson-Morley experiments, a
 
 
 70 Chapter 4
-I
 HIMOR
 Figure 1 Sagnac's interferometer on its turntable. Simplified from diagram in G. Sagnac, "Effet tourbillonnaire optique: Ia circulation de I' ether lumineux dans un interferographe tournant," journal de Physique, fifth series, 4 (March 1914), p. 187.
 the ether. Relative to the turntable, one beam was retarded, and the other accelerated, according to the direction of the turntable's rotation in the ether. Sagnac calculated what the effect of this on the interference pattern ought to be and found that the measured shift was as predicted.
@@ -646,9 +643,7 @@ Michelson's heart lay-in 1927 he wrote of "the beloved old ether (which is now a
 
 
 72 Chapter 4 ~-----~----------------------------------------~ (-- Figure 2
-I
 "'
-I
 Ground plan and arrangement of mirrors in Michelson-Gale experiment. Based on diagram in A. A. Michelson and Henry G. Gale, "The effect of the earth's rotation on the velocity of light: Part II," Astrophysical journal61 (April 1925), p. 141.
 As late as 1965 there were still those who claimed that Sagnac had indeed "discovered the existence of a luminiferous ether" and denied that relativity theory explained his results. By then, though, this was a distinctly unusual opinion to hold. True, the author of this claim could point out that, using the novel technology of the laser, "the
 Sagnac experiment has been repeated, with the same but more refined outcome. "19 The meaning of that replication had, however, shifted decisively. There was indeed widespread interest in it, but the question of the existence of the luminiferous ether was certainly not the source.
@@ -986,7 +981,6 @@ ILLIAC, however, was only a harbinger of the next decade's wave of highly parall
 (multiple instruction stream, multiple data stream) machines as well as SIMD ones. Although other factors, such as relative ease of access to venture capital, were important, what was most important in giving force to that new wave was the emergence of a viable alternative to the bipolar technology that dominated mainframe computer microcircuitry.
 The challenge was from field-effect chips, in which, in principle, current flows only in the surface plane of the microchip; in a bipolar chip the current flows perpendicular to the chip as well as along it (figure 2).
 Field-effect technology is relatively amenable to mass production, but (a) Base
-I
 n-type 1mp.ntJts 1 j j Emitter Collector (cnTrolled current Figure 2 Base (controlling etectrode l lnsulat•ng oxide
 Schematic cross section of (a) bipolar transistor, (b) metal-oxide-semiconductor field-effect transistor. Source: Hockney and Jesshope 1988, p. 555.
 
@@ -1532,10 +1526,8 @@ VIPER was being described in marketing material and in the media.
 162 Chapter 7 The very language of proof and verification could, she felt, convey a false sense of security. To say that the design of a device is "correct" does not imply that the device will do what its designers intended; it means only that it is a correct implementation of a formal specification. Even the most detailed description of a device is still an abstraction from the physical object. Gaps unbridgeable by formal logic and mathematical proof must always potentially remain between a formal specification and the designers' intentions, and between the logic-gate-level description and the actual chip (figure 1).8
 VIPER's developers were perfectly aware of these unavoidable limitations of formal proof. The gap between gate-level descriptions and physical chips was the very reason they had sought independent physical implementations of VIPER, implementations that could (in the IA version) be run in parallel, checking one another. However, a highly critical assessment from the verification specialists of Computational Logic
 Designer's intentions "'
-I
 ~ +----------Gap unbridgeable in principle by formal mathematical reasoning alone (A) top-lfel specification
 (8) major-state machine (C) block model "' I v (D) logic-gate-level description "' ._ ________ _
-I
 ~ Phvsical device Figure 1 r Mathematical reasoning can verify the correspondence of levels A-D, but, according to Cohn, not all links in chain of proof for VIPER formal and complete (in 1989)
 1 Gap unbridgeable in principle by formal mathematical reasoning alone Cohn's arguments on the limits of formal verification.
 
@@ -1644,10 +1636,6 @@ A= 2·126
 1111111111111111111111111•1•1 1111 1 1 1 I• 1•1· I• I• I• I
 I
 I
-I
-I
-I
-0
 A= 2-126
 2-125 2·124 Gradual Underflow Figure 2 Small numbers in flush to zero and gradual underflow. Based on Jerome T.
 Coonen, "Underflow and denormalized numbers," Computers, March 1981, p. 77.
@@ -1852,7 +1840,6 @@ Very poor antilock braking system Chronicle 2/5/86 1986 2 Libya Crash of US F-Il
 SEN 14(2), p. 22 Very poor attack on Tripoli interference 198222 Crashes of US military Possible electromagnetic
 AW&STb Poor, 1987 helicopters interference, denied by makers 11/16/87, controand by US Army
 27-28 versial 1988
-I
 UK
 Operator killed by computerMachine restarted unexpectedly Edwards (n.d.) Good controlled boring machine due to faulty capacitor
 

@@ -507,9 +507,6 @@ GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 189
 100;
 
 PERCENT
-3
-
-
 | 23 4 5 6 7 8 9 0
 PERIOD
 
@@ -609,9 +606,6 @@ type Replication the publicgood _free-riders zero
 21.0%
 
 25.0%
-
-4
-
 4H
 
 10L

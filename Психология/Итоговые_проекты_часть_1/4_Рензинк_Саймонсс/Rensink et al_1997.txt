@@ -10,11 +10,11 @@ DOI: 10.1111/j.1467-9280.1997.tb00427.x
 CITATIONS	READS
 2,310	8,348
 3 authors:
-	Ronald A Rensink	J. Kevin OХRegan
+	Ronald A Rensink	J. Kevin O'Regan
 	University of British Columbia	Universit? Paris Cit?
-	141 PUBLICATIONS   12,491 CITATIONS   	229 PUBLICATIONS   16,588 CITATIONS   
+	141 PUBLICATIONS   12,491 CITATIONS   	229 PUBLICATIONS   16,588 CITATIONS
 SEE PROFILE
-141 PUBLICATIONS   6,792 CITATIONS   
+141 PUBLICATIONS   6,792 CITATIONS
 All content following this page was uploaded by Ronald A Rensink on 15 December 2017.
 The user has requested enhancement of the downloaded file.
 Research Article
@@ -23,10 +23,9 @@ TO SEE OR NOT TO SEE:
 The Need for Attention to Perceive Changes in Scenes
 Ronald A. Rensink1, J. Kevin O'Regan2, & James J. Clark3
 1Cambridge Basic Research, Nissan Research & Development, Inc;  2Laboratoire de Psychologie Experimentale, CNRS,
-3
 Universit? Ren? Descartes, Paris, France; and Department of Electrical Engineering, McGill University
 
-      
+
 AbstractСWhen looking at a scene, observers feel that they see its entire structure in great detail and can immediately notice any changes in it.   However, when brief blank fields are placed between alternating displays of an original and a modified scene, a striking failure of perception is induced:  identification of changes becomes extremely difficult, even when changes are large and made repeatedly. Identification is much faster when a verbal cue is provided, showing that poor visibility is not the cause of this difficulty.  Identification is also faster for objects mentioned in brief verbal descriptions of the scene.  These results support the idea that observers never form a complete, detailed representation of their surroundings.  In addition, results also indicate that attention is required to perceive change, and that in the absence of localized motion signals it is guided on the basis of high-level interest.
     Although people must look in order to see, looking by itself is not enough.  For example, a person who turns his or her eyes toward a bird singing in a tree will often fail to see it right away, "latching onto" it only after some effort.  This also holds true for objects in plain view: a driver whose mind wanders during driving can often miss important road signs, even when these are highly visible.  In both situations, the information needed for perception is available to the observer. Something, however, prevents the observer from using this information to see the new objects that have entered the field of view.
    In this article, we argue that the key factor is attention.  In particular, we proposed that the visual perception of change in a scene occurs only when focused attention is given to the part being changed. In support of this position, we show that when the low-level cues that draw attention are swamped, large changes in images of real-world scenes become extremely difficult to identify, even though these changes are repeated dozens of times and observers have been told to expect them.  Changes are easily identified when a valid verbal cue is given, indicating that stimulus visibility is not reduced.  Changes are also easily identified when made to objects mentioned in brief verbal descriptions of the scene.  Taken together, these results indicate thatСeven when sufficient viewing time has been givenСan observer does not build up a representation of a scene that allows him or her to perceive change automatically.  Rather, perception of change is mediated through a narrow attentional bottleneck, with attention attracted to various parts of a scene based on high-level "interest".
@@ -40,17 +39,17 @@ Pashler, 1988; Phillips, 1974).  Here, an initial display was presented for 100 
       Although blindness to saccade-contingent change has been attributed to saccade-specific mechanisms, the blurring of the retinal image during the saccade also masks the transient motion signals that normally accompany an image change.  Since transients play a large role in the drawing of attention (e.g., Klein, Kingstone & Pontefract, 1992; Posner, 1980), saccade-contingent change blindness may not be due to saccade-specific mechanisms, but rather may originate from a failure to correctly allocate attention.  The blindness to changes in briefly-presented displays may have a similar cause: in those experiments, detection was not completely at chance, but corresponded to a monitoring of 4-5 randomly-selected items, a value similar to the number of items that can be simultaneously attended (Pashler, 1987; Pylyshyn & Storm, 1988; Wolfe, Cave & Franzel, 1989).
       In order to examine whether both types of change blindness might be due to the same attentional mechanism, and whether this mechanism might also lead to change blindness under more normal viewing conditions, we developed a flicker paradigm.  Here, an original image A repeatedly alternates with a modified image A', with brief blank fields placed between successive images (Fig. 1). Differences between original and modified images can be of any size and type; in the experiments presented here the changes are chosen to be highly visible.  The observer freely views the flickering display and hits a key when the change is perceived.  In order to prevent guessing, the observer must then correctly report the type of change and describe the part of the scene that was changing.
       This paradigm allows the ISI manipulations of the brief-display techniques to be combined with the free-viewing conditions and perceptual criteria of the saccade-contingent methods.  And because the stimuli are available for long stretches of time and no eye movements are required, it also provides the best opportunity possible for an observer to build a representation conducive to perceiving changes in a scene.  The change blindness found with the brief-display techniques might have been caused by insufficient time to build an adequate representation of the scene; saccade-contingent change
-      
+
 	368	VOL. 8, NO. 5, SEPTEMBER 1997
 
 Fig.1. General design of the flicker paradigm.  Trials began with a 3-second gray field containing a white rectangle (in which a word appears when a cue is used).  This was followed by a 1-second gray field, followed by a "flicker" sequence that continued until the observer responded or 60 seconds had elapsed.  In the example here, original image A (statue with background wall) and modified image A' (statue with wall removed) are displayed in the order A, A, A', A',Йwith gray fields between successive images.
-      
+
 blindness might have been caused by disruptions due to eye movements.  Both of these factors are eliminated in the flicker paradigm, so that if they are indeed the cause of the difficulties, perception of change should now become easy.  But if attention is the key factor, a different outcome would be expected.  The flicker caused by the blank fields would swamp the local motion signals due to the image change, preventing attention from being drawn to its location. Observers would then fail to see large changes under conditions of extended free viewing, even when these changes are not synchronized to saccades.
 GENERAL METHOD
     In the experiments reported here, flicker sequences were usually composed of an original image A and modified version A' displayed in the sequence A, A, A', A',Йwith gray blank fields placed between successive images (Fig. 1).  Each image was displayed for 240 ms and each blank for 80 ms.  Note that each image was presented twice before being switched.  This created a degree of temporal uncertainty as to when the change was being made, and also allowed for a wider range of experimental manipulation.
     All experiments used the same set of 48 color images of realworld scenes.  Images were 27У wide and 18У high.  A single changeСcolor, location, or presence/absenceСwas made to an object or area in each.  To test for the influence of higher-level factors, changes were further divided according to the degree of interest in the part of the scene being changed.  Interest was determined via an independent experiment in which five naive observers provided a brief verbal description of the scene:  Central interests (CIs) were defined as objects or areas mentioned by three or more observers; Marginal interests (MIs) were objects or areas mentioned by none.  The changes to the images were such that the average change in intensity and color of the MIs and the CIs were similar, while the areas of the MI changes (average = 22 sq. deg) were somewhat larger than the CI changes (average = 18 sq. deg).  In all cases, changes were quite large and easy to see once noticed.  For example, a prominent object could appear and disappear, switch its color between blue and red, or shift its position by a few degrees (Fig. 2).
     Ten naive observers participated in each experiment.  They were instructed to press a key when they saw the change, and then to verbally describe it.  Before each experiment, observers were told of the types of change possible, and were given six practice trials (two examples of each type) to familiarize themselves with the task.
-      
+
 (a) Change in marginal interest (MI)
 (b) Change in central interest (CI)
 Fig. 2  Examples of changes in scenes.  Original and modified images alternated every 640 ms.  (a) Change in a marginal interest (MI): railing behind people is moved.  Although the railing is easily seen, and its location shift is large (3У), an average of 16.2 alternations (10.4 s) was required for identification.  (b) Change in a central interest (CI): helicopter in background is moved.  Although the change in location is roughly the same as in the previous case, and the size and contrast of the item changed is comparable, identification requires on average only 4.0 alternations (2.6 s).
@@ -87,7 +86,7 @@ Although it is not yet possible to specify the detailed operation of the attenti
       The results presented here are also related to findings (Mack, Tang, Tuma, Kahn, & Rock, 1992; Neisser & Becklen, 1975; Rock, Linnet, Grant, & Mack, 1992) that attention is required to explicitly perceive a stimulus in the visual field.  In those studies, it was found that observers giving their complete attention to particular objects or events in a scene became "blind" to other, irrelevant objects.  This required that observers not suspect that the irrelevant objects would be tested, for even a small amount of (distributed) attention would cause these objects to be perceived. The results here are more robust, in that blindness occurred even when observers knew that changes would be made, and so could distribute their attention over the entire picture array if it would help.  Thus, although distributed attention object apparently facilitates the perception of object presence, it does not facilitate the perception of change.  Presumably, distributed attention is not sufficient to move a structure from visual memory into the more durable store that would allow the perception of change to take place.
       In addition to proposing that attended items are entered into a relatively stable store, we proposed that unattended items are overwritten by new stimuli that subsequently appear in their location.  This latter point is based on the finding that change blindness occurs even when images are separated by an ISI of only 80 ms, a time well within the 300 ms limit of iconic memory; if no such replacement took place, observers could simply have used the superposed images of original and shifted objects to find positional shifts.  Such a replacement of unattended items has been proposed to explain metacontrast masking (Enns & DiLollo, 1996), and it is possible that the same mechanism is involved here.  In any event, this mechanism implies that two rather different fates await items in visual memory:  attended items are loaded into a durable store and are perceived to undergo transformation whenever the stimulus is changed, while unattended items are simply replaced by the arrival of new items, with no awareness that a replacement has occurred.
       Finally, the work presented here also suggests a tighter connection between attention and scene perception.  Recall that the valid cues in Experiment 3 caused performance to be greatly sped up.   It could be argued that looking for change induces a coding strategy quite different from that of normal viewing:  for example, when observers search for a cued object, attention might be more fully engaged and so might ТweldУ visual representations into a form more suitable for detecting change.  But the invalid cues did not help at all, showing that attentional scanning of this kind does not by itself cause any increase in speed.
-      This result indicates that perception of change is not helped by a personХs having attended to an object at some point in the past. Rather, the perception of change can occur only during the time that the object is being attended (or at least during the time the object is held in the limited-capacity durable store).  After attention is removed, the perception of change vanishes and the objects again become susceptible to replacement.  A similar "evaporation" of attentional effect has also been found to occur in visual search, where items obtain no benefit from having been previously attended (Wolfe, 1996).  Thus, just as the perception of a scene is mediated by a rapidly-shifting fovea of limited area, so is it also mediated by a rapidly-shifting attentional mechanism limited in the number of items it can handle at any time.
+      This result indicates that perception of change is not helped by a person's having attended to an object at some point in the past. Rather, the perception of change can occur only during the time that the object is being attended (or at least during the time the object is held in the limited-capacity durable store).  After attention is removed, the perception of change vanishes and the objects again become susceptible to replacement.  A similar "evaporation" of attentional effect has also been found to occur in visual search, where items obtain no benefit from having been previously attended (Wolfe, 1996).  Thus, just as the perception of a scene is mediated by a rapidly-shifting fovea of limited area, so is it also mediated by a rapidly-shifting attentional mechanism limited in the number of items it can handle at any time.
      The limited capacity of this mechanism requires that it be used effectively if a scene is to be quickly perceived.  But how can appropriate guidance be given if the scene has not yet been recognized?  Previous work has shown that the gist of a scene can be determined within 100-150 ms (Biederman, Mezzanotte & Rabinowitz, 1982; Intraub, 1981; Potter, 1976); it may well be that the gist includes a description of the most interesting aspects, which are then used to guide attention.  By measuring the relative speed of perceiving changes to various parts of a scene, it might be possible to determine the order in which attention visits the constituent objects and regions.  The resultant "attentional scan path" may prove to be an interesting new tool in the study of scene perception, providing a useful complement to techniques that study eye movements and memory for objects as a function of how well they fit the gist of a scene (e.g., Friedman, 1979; Loftus & Mackworth, 1978).  Furthermore, the correlation found here between reaction time and degree of "interest" (as derived from written descriptions) opens up another interesting possibility, namely, that the flicker paradigm can be adapted to determine what non-verbal observers (e.g., animals and young children) find interesting in the world.
       Why can people look at but not always see objects that come into their field of view?  The evidence presented here indicates that the key factor is attention, without which observers are blind to change.  Since attention can be concurrently allocated to only a few items (e.g., Pashler, 1987; Pylyshyn & Storm, 1988; Wolfe, Cave & Franzel, 1989), this implies that only a few changes can be perceived at any time.  Although such a low-capacity mechanism might seem to be rather limiting, this need not be the case: if it can switch quickly enough so that objects and events can be analyzed whenever needed, little is gained by the simultaneous representation of all their details (Ballard, Hayhoe & Whitehead, 1992; Dennett, 1991; O'Regan, 1992, Stroud, 1955).  Thus, given that attention is normally drawn to any change in a scene and is also attracted to those parts most relevant for the task at hand, our impression as observers will generally be of a richly-detailed environment, with accurate representation of those aspects of greatest importance to us.  It is only when low-level transients are masked or are disregarded due to inappropriate high-level control that the management of this dynamic representation breaks down, causing its relatively sparse nature to become apparent.
 AcknowledgementsСThe authors would like to thank Jack
@@ -126,26 +125,26 @@ Stroud, J.M. (1955).  The fine structure of psychological time.  In H. (Ed.), In
 Wolfe, J.M., Cave, K.R., & Franzel, S.L. (1989).  Guided search: An alternative to the feature integration model for visual search. Journal of Experimental Psychology: Human Perception and Performance, 15, 419-433.
 Wolfe, J.M. (1996).  Post-attentive vision.  Investigative Ophthalmology & Visual Science, 37, S214.
 PSYCHOLOGICAL SCIENCE
-      
-PSYCHOLOGICAL SCIENCE
-      
 
-      
-369	VOL. 8, NO. 5, SEPTEMBER 1997
-      
+PSYCHOLOGICAL SCIENCE
 
-      
 
-      
-PSYCHOLOGICAL SCIENCE
-      
-PSYCHOLOGICAL SCIENCE
-      
+
 369	VOL. 8, NO. 5, SEPTEMBER 1997
-      
-369	VOL. 8, NO. 5, SEPTEMBER 1997
-      
+
+
+
+
+
 PSYCHOLOGICAL SCIENCE
-      
+
+PSYCHOLOGICAL SCIENCE
+
 369	VOL. 8, NO. 5, SEPTEMBER 1997
-      
+
+369	VOL. 8, NO. 5, SEPTEMBER 1997
+
+PSYCHOLOGICAL SCIENCE
+
+369	VOL. 8, NO. 5, SEPTEMBER 1997
+

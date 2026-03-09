@@ -29,14 +29,14 @@ figure out the order!
 
 A   B   2   3
 
-Basically, itТs good idea to turn over card ФA” or Ф2” / ФB” or Ф3” !
+Basically, itТs good idea to turn over card «A” or «2” / «B” or «3” !
 
-But concept to open the Ф2” or ФA” / Ф3” or ФB” is unuseful...
+But concept to open the «2” or «A” / «3” or «B” is unuseful...
 
 Because!
 As long as the presence of a vowel on the back of the card corresponds to an observation that confirms the hypothesis, turning the card over will neither disprove nor confirm the statement.
 
-Instead, to refute the statement, you must select and turn over card Ф3” / Ф2”
+Instead, to refute the statement, you must select and turn over card «3” / «2”
 
 First, people tend to look for confirming evidence rather than refuting evidence.
 This tendency is called confirmation bias.
@@ -75,7 +75,7 @@ This is when we consciously interpret information in a way that confirms our bel
 Biased memory
 This is when we consciously interpret information in a way that confirms our beliefs.
 
-* Фрост П., Кейси Б., Гриффин К., Раймундо Л., Фаррелл С., Кэрриган Р.
+* «рост П., Кейси Б., Гриффин К., Раймундо Л., «аррелл С., Кэрриган Р.
 Влияние предвзятости подтверждения на память и мониторинг источников.
 J Gen Psychol. 2015;
 

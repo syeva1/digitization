@@ -3,8 +3,6 @@
 # Содержание: Материал курса. Подробнее — в README папки или по названию файла.
 
 
-
-
 Group Size Effects in Public Goods Provision: The Voluntary Contributions S TO R
 Mechanism ®
 R. Mark Isaac; James M. Walker
@@ -24,7 +22,6 @@ ISTOR is an independent not-for-profit organization dedicated to creating and pr
 scholarly journals. For more information regarding JSTOR, please contaet support @jstor.org.
 hup:/Avww jstor.org/
 Wed May 3 14:07:27 2006
-
 
 
 GROUP SIZE EFFECTS IN PUBLIC GOODS PROVISION:
@@ -76,7 +73,6 @@ sssesasiouse is att acknowledged We ano wish to thank fic Mask and
 The Quarterly Journal of Economics, February 1988
 
 
-
 180 QUARTERLY JOURNAL OF ECONOMICS
 “large” groups have a more difficult time providing public goods
 than “small” groups appears to be strongly supported when that
@@ -120,7 +116,6 @@ If the individual views each trial as a single decision problem, this
 
 1. Hed of the complete instructions are available from the authors upon
 request
-
 
 
 GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 181
@@ -169,7 +164,6 @@ Olson, Frohlich and Oppenheimer, Hardin, and van de Kragt.
 2. The normal forms are not identical because the voluntary contributions
 mechanism has a strategy space larger than the two-element “defect, cooperate” pair
 typical of prisoners dilemmas.
-
 
 
 182 QUARTERLY JOURNAL OF ECONOMICS
@@ -224,7 +218,6 @@ van de Kragt [1984] who addressed the same question (about what makes a group.
 larger or smaller) from the perspective of the literature on prisoners’ dilemmas.
 
 
-
 GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 183
 of the Pareto frontier constant across all experiments.‘ The impact
 of this particular choice of experimental constants is a behavioral
@@ -271,7 +264,6 @@ numbers in the group component (n). The textbook conjecture is
 4. One alternative would have been to hold constant the number of tokens given.
 to each individual. This would have standardized wealth at the outcome where every
 individual contributes all tokens to the private good.
-
 
 
 184 QUARTERLY JOURNAL OF ECONOMICS
@@ -326,7 +318,6 @@ Specifically, only IWT had a known, finite end-period
 [NOTE] OCR stopped early due to runtime limit.
 
 
-
 GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 185
 not provide operational quantitative predictions for our environ-
 ment beyond the qualitative prediction of positive early-period
@@ -379,7 +370,6 @@ MPCR payoff conditions in prior experiments. Of the small number who had seen
 only one MPCR condition, they were well mixed between low and high MPCR.
 
 
-
 186 QUARTERLY JOURNAL OF ECONOMICS
 
 tal design. The use of the computer also facilitates the accounting
@@ -426,7 +416,6 @@ reported to each participant in the form of a table that gave group
 8, The phrases “individual exchange” and “group exchange” were the ones used
 in the experiment, The reference to private and public goods is provided here to be
 more consistent with standard terminology.
-
 
 
 GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 187
@@ -476,7 +465,6 @@ observed that in their previous participation the maximum time for
 
 9. In ongoing research, we are investigating the effects of altering this informa
 tion condition.
-
 
 
 188 QUARTERLY JOURNAL OF ECONOMICS:
@@ -529,7 +517,6 @@ type size function MPCR @) experiments
 10H 10 75(Em)e 0.75 10 6
 
 
-
 GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 189
 109)
 90} i £
@@ -573,7 +560,6 @@ public good (as a percent of optimum) for the same configuration.
 could find none that altered the conclusions we report.
 
 
-
 190 QUARTERLY JOURNAL OF ECONOMICS
 20]
 70]
@@ -615,7 +601,6 @@ riders).
 Our sequencing design also allows for an intragroup compari-
 son of the effects of MPCR. For each period, there are twelve paired
 intragroup data comparisons. Figures IIIa and IIIb illusirate how
-
 
 
 GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 191
@@ -665,7 +650,6 @@ about public goods provision. Also, the results can be checked for
 consistency with conclusions drawn by other researchers.
 
 
-
 192 QUARTERLY JOURNAL OF ECONOMICS
 12) 4 %
 y y
@@ -705,7 +689,6 @@ PERIOD
 Ficure IIIb
 Period-by-Period Paired Intragroup Comparisons: Low MPCR Has Lower Percent
 secre Camm ane
-
 
 
 GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 193
@@ -761,7 +744,6 @@ the use of the provision points, this change in the payoff function can be inter
 asa decline in MPCR.
 
 
-
 194 QUARTERLY JOURNAL OF ECONOMICS
 100,
 20}
@@ -801,7 +783,6 @@ effect of n°
 recisely zero (70.8 percent). Forty-two of sixty persons in the ten-person grou
 Eontributed: precisely zero (700 percent). The Z-statistic on ‘he’ diferesce fa
 proportions is 0.072,
-
 
 
 GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 195
@@ -855,7 +836,6 @@ However, in order to maintain what they call “gains from cooperation” and
 voluntary contributions mechanism, a similar role was played by our alteration of
 
 
-
 196 QUARTERLY JOURNAL OF ECONOMICS
 body of research appears to be very consistent with our findings of
 significant effects due to MPCR, but ambiguous effects of n.
@@ -902,7 +882,6 @@ with our findings that a decline in MPCR leads to more free riding.
 When one of the effects of increasing n is also to reduce MPCR
 (which was our original idea of going from a small to a large group)
 the unfavorable MPCR effect appears to dominate. Thus, our
-
 
 
 GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 197
@@ -953,7 +932,6 @@ W = Pe peicn reward allt the groups token ae lnveated in the roup exchange.
 pombe otene
 
 
-
 198 QUARTERLY JOURNAL OF ECONOMICS
 
 monetary reward to a single individual at the Pareto frontier. As
@@ -1001,7 +979,6 @@ Empirical researchers may wish to check the robustness of our
 observations beyond our parameter space. Theorists may be able to
 incorporate insight from our experiments into game-theoretic mod-
 els of multi-period decision processes. Both of these efforts should
-
 
 
 GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 199

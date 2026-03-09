@@ -22,8 +22,6 @@ The Pitt Building, Trumpington Street, Cambridge cB2 IRP
 32 East 57th Street, New York, NY 10022, USA
 I o Stamford Road, Oakleigh, Melbourne 3 I 66, Australia
 
-Contents
-
 
 
 5 Newton's effect on scientific standards
@@ -108,7 +106,7 @@ It is extremely important to stress that admitting (fortified) empirical counter
   The hallmark of dogmatic falsificationism is then the recognition that all theories are equally conjectural. Science cannot prove any theory. But although science cannot prove, it can disprove: it 'can perform with complete logical certainty [the act of] repudiation of what is false',3 that is, there is an absolutely firm empirical basis of facts which can be used to disprove theories. Falsificationists provide new  very modest - standards of scientific honesty: they are willing to regard a proposition as 'scientific' not only if it is a proven factual proposition, but even if it is nothing more than a falsifiable one, that is, if there are experimental and mathematical techniques avail-
 ' Russell [rg43], p. 683. For a discussion of Russell's justificationism, cf. volume 2, chapter I, especially pp. I I ff.
  For the explanation of this term, cf. below, p. 14, n. 2. Medawar [1967], p. 144. .41so cf. below, p. 93, n. 2.
-Страница 
+Страница
 
 able at the time which designate certain statements as potential falsifiers.'
 Scientific honesty then consists of specifying, in advance, an experiment such that if the result contradicts the theory, the theory has to be given up.' The falsificationist demands that once a proposition is disproved, there must be no prevarication: the proposition must be unconditionally rejected. To (non-tautologous) unfalsifiable propositions the dogmatic falsificationist gives short shrift; he brands them 'metaphysical' and denies them scientific standing.
@@ -1029,7 +1027,7 @@ Of course, a critical discussion of scientific standards, possibly leading even 
 
 (d) Conclusion
 In this paper I have proposed a 'historical' method for the evaluation of rival methodologies. The arguments were primarily addressed to the philosopher of science and aimed at showing how he can - and should - learn from the history of science. But the same arguments also imply that the historian of science must, in turn, pay serious attention to the philosophy of science and decide upon which methodology he will base his internal history. I hope to have offered some strong arguments for the following theses. First, each methodology of science determines a characteristic (and sharp) demarcation between (primary) internal history and (secondary) external history and, secondly, both historians and philosophers of science must make the best of the critical interplay between internal and external factors. Let me finally remind the reader of my favourite - and by now well-worn -joke that history of science is frequently a caricature of its rational reconstructions; that rational reconstructions are frequently caricatures of actual history; and that some histories of science are caricatures both of actual history and of its rational reconstruction~.~ This paper, I think, enables me to add: Quod erat demonstrandurn.
-Страница 
+Страница
 wants to challenge a language, one has to articulate its grammar. Neither the conservative Polanyi nor the conservative Oakeshott seem to have grasped (or to have been inclined to grasp) the critical function of language - Popper has. (Cf. especially
 Popper [1963aI* Pa 135.1
 Cf. e.g. volume 2, chapter I, p. 4 or volume 2, chapter 8, p. 178, n. 3.
@@ -1729,7 +1727,7 @@ Amsterdam: Elsevier, I 965. 223
 
 Bohr, N. [1g26]: Letter to Nature, 1x7, p. 264.
 Bohr, N. [1g32]: 'Chemistry and the Quantum Theory of Atomic Constitution', Faraday Lecture, 1930, Journal of the Chemical Society, 193211, pp.
-34944. 
+34944.
 Bohr, N. [1g33]: 'Light and Life', Nature, 131, pp. 421-3 and 457-9.
 Bohr, N. [1936]: 'Conservation Laws in Quantum Theory', Nature, 138, pp.
 25-6.
@@ -1752,7 +1750,7 @@ Cantor, G. [1g71]: 'Henry Brougham and the Scottish Methodological Tradition', S
 Carnap, R. [I 932-31: ' uber Protokollsatze ', Erkenntnis, 3, pp. 2 I 5-28.
 Carnap, R. [1935]: Review of Popper's [1g34], Erhnntnis, 5, pp. 2go-4. Clavius, C. [1581]: In Sphaeram Ioannis de Sacro Bosco commentarius nunc iterum ab ips0 Anctore recognitus, el multis ac variis locis locupletatus. Rome: ex officina Dominici Basae.
 Clifford, M. [1675]: A Treatise of Human Reason. London: Henry Brome. Coffa, A. [1g68]: 'Deductive Predictions', Philosophy of Science, 35, pp. 279-
-83. 
+83.
 Cohen, I. B. (ed.) [1g58]: Isaac Newton's Papers and Letters on Natural Philosophy.
 Cambridge University Press.
 Cohen, I. B. [1g60]: The Birth of a New Physics. London: Heinemann. Compton, A. H. [I 9191: 'The Size and Shape of the Electron ', Physical Review, '49 PP- 2-43.
@@ -1842,7 +1840,7 @@ Hempel, C. G. [1g37]: Review of Popper's [1g34], Deutsche Literaturzeitung,
 PP- 309-14-
 Hempel, C. G. [1g52]: 'Some Theses on Empirical Certainty', The Review of Metaphysics, 5, pp. 620-1.
 Henderson, W. J. [1934]: 'The Upper Limits of the Continuous 8-ray Spectra of Thorium C and C1", Proceedings of the Royal Society, Series A, 147, pp.
-57242. 
+57242.
 Hesse, M. [1g63]: 'A New Look at Scientific Explanation', The Review of Metaphysics, 17, pp. 98-1 08.
 Hesse, M. [1g68]: Review of Griinbaum's [1g66], The British Journal for the Philosophy of Science, 18, pp. 333-5.
 Hevesy, G. von [I~I 31: 'Letter to Rutherford, 14 October', quoted in N. Bohr [I 9631, p. xlii.
@@ -1950,12 +1948,12 @@ Nature, [I 91 3-1 41: ' Physics at the British Association', Ndure, 92, pp.
 Neugebauer, 0. [1g58]: The Exact Sciences in Antiquity. New York: Dover, I 969.
 Neugebauer, 0. [1g68]: 'On the Planetary Theory of Copernicus', Vistas in Astronomy. lo, pp. 89-103.
 Neurath, 0. [1g35]: - - 'Pseudorationalismus der Falsifikation', Erkenntnis, 5, pp.
-35345. 
+35345.
 Newton, I. [1672]: 'Letter to the Editor of the Philosophical Transactions of the Royal Society, 8 July', Reprinted in I. B. Cohen (ed.): [1g58]. Newton, I. [1676]: 'Letter to Oldenburg, 18 November', in H. W. Turnbull (ed.) [1g60], vol. 11.
 Newton, I. [1686]: Principia Mathematica. Translated by F;. Cajori. Berkeley:
 University of California Press, I 960.
 Newton, I. [16gq]: 'Letter to Flamsteed, 16 February', in F. Baily [1835], p.
-151. 
+151.
 Newton, I. [I 71 31: 'Letter to Roger Cotes, 28 March', in J. Edleston (ed.): [1850],
 PP. '544-
 Newton, I. [I 7 I 71: Opticks. 4th edition. Dover, 1952.
@@ -2100,7 +2098,7 @@ Lakatos bibliography1
 [I 947d3: Review of J. Hersy; ' Hirosima', Tdrsadalrni Szemle, I.
 [1g47e]: 'Vigilia, Szerkeszti Juhhsz Vilmos Cs Sik Sandor', Forum, I, pp. 7334. [I g6 I]: 'Essays in the Logic of Mathematical Discovery'. Unpublished PhD dissertation. Cambridge.
 [1g62]: 'Infinite Regress and Foundations of Mathematics', Aristotelian Society Supplementary Volume, 36, pp. 155-94. Republished as chapter I of volume
-2. 
+2.
 [1g63]: Discussion of 'History of Science as an Academic Discipline' by A. C.
 Crombie and M. A. Hoskin, in A. C. Crombie (ed.): Scientific Change, pp.
 78 1-5. London: Heinemann. Republished as chapter I 3 of volume 2.

@@ -116,8 +116,6 @@ Decision Making (New York: McGraw-Hill Book
 Co., 1960).
 
 
-
-
 Chamberlin’s paper was highly suggestive in demonstrating the potentialities
 of experimental techniques in the study
 of applied market theory.
@@ -237,8 +235,6 @@ $4.00
 
 wp
 a
-3
-
 PRICE
 
 4 100
@@ -288,7 +284,6 @@ process. One could, for example, permit the carryover of stocks from one period 
 did not lead to transactions could not be recorded.
 In subsequent experiments a tape recorder was used
 for this purpose.
-
 
 
 of a trading period, this procedure is
@@ -460,7 +455,6 @@ demand and/or supply conditions, at the
 end of each trading period if the objective
 is to study the effect of such constantly
 changing conditions on market behavior.
-
 
 
 In three of the nine experiments, oncefor-all changes in demand and/or supply
@@ -765,8 +759,6 @@ a L
 '
 [
 H
-8
-
 12 3 4 5 68 7
 QUANTITY
 
@@ -800,7 +792,6 @@ impossible.
 The sellers in this market presented
 a solid front against price being lowered
 to “equilibrium.” In the previous mar-
-
 
 
 kets there was a divergence of seller
@@ -915,11 +906,6 @@ Pye S225, XyH10 P= $3.45, XgHI2
 ~<— INCREASE IN DEMAND —>|
 
 PRICE
-
-1
-
-i
-
 {
 
 H 1
@@ -927,9 +913,6 @@ H 1
 ! I
 
 |
-
-I
-
 | | a=20 a=0.7 X07 o=06 oa94 ae4g 240
 2.20 | | 4 220
 2.00 ' \ 4 2.00
@@ -966,7 +949,6 @@ By the second trading period the market was firmly
 in equilibrium. In the third period all trades were
 at $3.10! Apparently $0.05 per period was considered
 satisfactory normal profit.
-
 
 
 graduate class in economic theory. In
@@ -1117,7 +1099,6 @@ PRICE
 PRICE
 
 
-
 corresponding to D’D’ in Chart 6. Trading was resumed with the new conditions
 of decreased demand (test 6B). There
 was not sufficient time to permit two
@@ -1177,10 +1158,7 @@ f
 }
 |
 {
-1
-I
 t
-7
 demand by showing apparent convergence to the new equilibrium. Note in
 particular that there occurred no significant tendency for market prices to overshoot the new equilibrium as was observed in test 5B.
 
@@ -1290,7 +1268,6 @@ is decentralized, with all contracts binding whether
 they are at equilibrium or non-equilibrium prices.
 
 
-
 Comparison of the results of the three
 trading periods in test 9A with the first
 three trading periods of test 7 shows
@@ -1326,15 +1303,11 @@ TTrTtT Terie TPT? tyr
 
 '
 t
-i
 |
 |
-i
-1
 1
 |
 (
-I
 i]
 t
 {
@@ -1363,7 +1336,6 @@ t
 |
 |
 !
-i
 tL
 
 Jt. f i
@@ -1750,7 +1722,6 @@ Theory and Methodology in Science and Engincering
 (New York: John Wiley & Sons, 1960), pp. 196-99.
 
 
-
 are shown in columns 4 and 7 of Table
 3. They tend also to be lower for the
 excess-rent hypothesis.
@@ -1913,7 +1884,6 @@ problem, but I question the value of such a transformation (beyond technical adv
 purely artificial without any meaningful interpretation; and if we work at it, such a meaningful transformation may often be found.
 
 19 Samuelson, of. cét., p. 285.
-
 
 
 can be shown, minimizes the inefficient,
@@ -2107,7 +2077,6 @@ TRANSACTION NUMBER [BY PERIOD)
 ys 1 5e3 7
 
 
-
 chart is the apparent tendency for the variance of the bids and offers to stabilize early,
 with the contract prices continuing to converge within this variation in bids and offers.
 Thus it is at the beginning of period 1,
@@ -2134,7 +2103,6 @@ $2.00
 6.75
 
 PERIOD 1
-5
 P5450
 3,513
 
@@ -2146,7 +2114,6 @@ pls $450, x
 rary
 
 0 6.75
-
 
 
 PERIOD 2 PERIOD 3 PERIOD 4- PERIOD 5 71 6.00
@@ -2190,7 +2157,6 @@ a75
 3:50
 
 3.90
-
 
 
 .00

@@ -12,7 +12,6 @@ GORDON AND BREACH SCIENCE PUBLISHERS
 THE HISTORY OF TECHNIQUES
 
 
-
 THE HISTORY OF TECHNIQUES
 Volume 2 Techniques and Sciences Edited by Bertrand Gille Written by Andre Fel, Bertrand Gille,
 Jean Parent and Francois Russo Translated from the French by J. Brainch, K. Butler, A.D.R. Dawes, W. Extavour, S. Romeo,
@@ -57,7 +56,6 @@ The Industrial Revolution The Modern Technical System Towards a Contemporary Tec
 
 
 Techniques and Sciences
-
 
 
 THE EVOLUTION OF TECHNIQUES
@@ -3064,7 +3062,6 @@ These tables could provide material for curves, thus for an algebraic formula, a
 
 
 ESSAY ON TECHNICAL KNOWLEDGE
-2
 A
 = 0.065
 + 3000 H
@@ -3197,7 +3194,6 @@ Militaire (1751). But we see appearing at the same moment the Ecole des Pants et
 (1763), the Ecole des Mines (1783). We can see quite clearly that from then on the promoters of this type of education are convinced that science is a fundamental element of technical knowledge. Thanks to the Convention, this achievement will be crowned by the creation of the Ecole Polytechnique, destined to give state technicians the scienti fic training, elementary in this period, indispensible to technical practice. The evolution of technical knowledge in certain domains is put across by the teaching of these techniques. It would be extremely interesting to know exactly what was really taught in these schools. Of course the technical treatises written by most of their teachers give us a good idea of the forms of technical knowledge which could be acquired there but we lack certain significant details.
 As the reader will have gathered, this is only an essay. We hope that those interested will undertake new research rather than merely revising what already exists. There have been some isolated attempts to do this, but often without sufficient means to do it properly.
 Techniques form an integral part of the history of ideas: they have been far too long neglected.
-
 
 
 BIBLIOGRAPHY
@@ -4740,7 +4736,6 @@ J.H. WEISS, The Making of Technological Man: The Social Origins of French Engine
 Table of Contemporaneous Events
 
 
-
 The table of contemporaneous event presented here is only a last resort, material conditions requiring four columns. More space would be required to divide techniques which are often very removed from each other. A third column was needed for geographical areas in order to compare gaps and concomitances. A veritable atlas would therefore have been necessary.
 The material was very rich so choices were difficult. We have excluded material which may be found in other volumes in the
 Encyclopedie de la Pleiade: major events in history and scientific discoveries.
@@ -4814,7 +4809,6 @@ Day light sanctuaries and low-relief sculpted blocks.
 (Roe de Serres, Bourdeilles).
 Improvement of dwell ings under rock Clay huts Multiplication of sanctuaries: Lascaux La Madeleine, Font de
 Gaume, Altamira, etc.
-X
 t:P &;
 0 'Tl trl
 Y
@@ -4850,7 +4844,6 @@ Jericho, Ras Shamra, Hacilar.
 -
 U
  ]
-V
  0 c:
 tT1
 (.I>
@@ -4871,7 +4864,6 @@ walls or fortress palace.
 Beginnings of vine Sedentarisation in growing.
 Egypt.
 5000 BC Birth of Jarmo, founded by farmers.
-I
 X
 4600 BC Pottery in Jarmo.
 a:i Fourth mil- I Generalisation of agrit'"' tT1 lennium culture in Mexico .
@@ -4883,11 +4875,9 @@ populations of Sudan ri1 3500-3200 BC Bronze in and Baloutchistan.
 Systematic cultivation of Weaving of flax and the Nile Valley.
 basketry in Egypt.
 Possible domestication
-I
 First funeral well, houses of the donkey.
 of pise or clay in System of techniques Egypt.
 in Mesopotamia similar to that in
-I
 I
 Appearance of the potter's Egypt.
 wheel in Mesopotamia. I Helwan Dam in Egypt (?).
@@ -5103,7 +5093,6 @@ c. 425 BC Artemon of Clazomenes one of Pericles' engineers.
 c. 424-387 BC Si Men-Po orders the digging of twelve -  °'
 :E
  ]
-V
 tri (j
 R
 0 c:
@@ -5122,7 +5111,6 @@ Appearance of neuro ballistic artillery.
 387 BC Plato founds the Academy of Athens.
 c. 350 BC Reinforce ment of stone con structions by T-shaped and double-brackets (Delphi).
 346-328 Philo of Athens creates the Piraeus arsenal, writes a treatise on the propor tions of temples and a treatise on poliorcetics.
-X
 tl r-' tr1 0 'Tl tr1 < tr1  ...
 N
 v.
@@ -5153,7 +5141,6 @@ rn Vl
 234-149 BC Cato the Elder. Treatise on rural economies.
 Treatise on agriculture by the Sarsenas father and son.
 the water organ, the
-I
 suction pump, war engines, the clepsydra.
 287-212 BC Archimedes' works on the lever, hydrostatics, and on war engines.
 Between 250 and 220 BC Philo of Byzantium's mechanical syntax.
@@ -5272,16 +5259,12 @@ tTl Zelechovice (Bohemia), clothes in western z kilns with refractory clay Europ
 --l rJ lining, artificial venti770 Beginnings of xylogralation.
 phy in China for the diffusion of Buddhist texts.
 First asymmetrical
-I
 Beginnings of Medieval
-I
 I Elevatory norias at plough shares in glazed pottery (transHama on the Oronte.
 Czechoslovakia.
 parent lead-based
-I
 coating).
 Increase in silk worms in Sicily and Spain.
-I
 I
 -
 N
@@ -5311,7 +5294,6 @@ Chinese treatise on carpentry by Yu Hao.
  e;
 
 W
-V
 tri  a c:
 tT1 (/)
 
@@ -5323,13 +5305,11 @@ gardens and experiNorwegian ship from mentation. Technical Go ks tad.
 agricultural literature .
 Plough with front axle I
 I
-I
 994 Langeais, the first units widespread.
 stone donjon.
 Development of mining activity in the Goslar region .
 First mining deeds ('I) .
 1 1 th century I c. 1000 Cultivation of Use of stills for the
-I
 c. 1000 General use of the 1029 First Normandy water-rice in China.
 distillation of alcohol in distaff in Gdansk then counter in southern Salerno.
 in Germany. Warp and Italy.
@@ -5342,7 +5322,6 @@ combing.
 1041-1048 Pi Cheng < tT'l c. 1050 Expansion of invents typography with z .., bronze workshop in movable characters.
 First use of the compass.
 [/) Constantinople . First First use of weaving looms beer mills. Sugar mills in Flanders.
-I
 1061 Cast iron Pagoda in in Morocco.
 the Hubel province.
 1073-1077 Bayeux Tapestry.
@@ -5497,7 +5476,6 @@ of Peru.
 1343 Diffusion of the technique of carding.
 1346 Royal Decree on the administration of forests in France.
 1346 Collapse of the
-I
 Italian banks.
 1347 Start of the Great Plague. Use of the compass in the mines of Massa.
 c. 1377 Weft and warp carding in France.
@@ -6176,7 +6154,6 @@ Semi-automatic lathe with revolving turret by Hartness.
 Berges.
 1864 Finalisation of Martin's steel furnace .
 1866 Solvay process for
-I
 the manufacture of soda ammonia.
 1857 More widespread use of paper made of wood pulp.
 1860 Carre's ammonia refrigerator.
@@ -6240,20 +6217,17 @@ Use of Tunisian phosphates in agriculture.
 1873 Capstan lathe by Spencer.
 1874 Discovery of eosin by Caro.
 Machine for turning conical gears by Gleason.
-I
 Machine for sharpening drills by Kreutzberger.
 1875 Finalisation of the fabrication of ferromanganese by Pourcel.
 1876 100 tons powerhammer.
 1876 Thomas-Gilchrist's process of making steel from phosphorus irons with Bessemer's retort.
 Universal rectifying
-I
 machine by Brown and Sharp.
 1877 Fabrication of ferrochromes by Boussingault and Brustlein.
 1872 Installation of the alarm contact apparatus for trains, placed between the rails.
 Airships by Dupuy de Lome and Zede.
 "L'Obeissante" an automobile vehicle by Bailee.
 1874 Foundation of the
-I
 I
 General Postal Union in Berne.
 ..., >
@@ -6323,13 +6297,11 @@ Cambodia.
 Attempted use of electTl z tric signals on .., Vl railways.
 Daimler's boat with electric engine.
 Auer's incandescent gas mantle made of linen.
-I
 1886 First beet lifter by 1 1886 Thermo-electric 1886 Linotype created by A. Bajac.
 method for measuring Mergenthaler in the high temperatures
 U.S.A.
 developed by Le 1886 Sumner Tainter's Chatelier.
 phonograph.
-I
 t:l \0 --l
 
 
@@ -6451,7 +6423,6 @@ Radio programmes across the Atlantic.
 1919 First international convention of aerial transport.
 1920 Improvement of sound-recording.
 Pressed steel car bodies in the U.S.A.
-I
 û r t'!1 0 'Tl t'!1 r;i  - w 8
 
 
@@ -6572,7 +6543,6 @@ Oslo convention on sea pollution.
 Automatic translation by computer.
 1956 Subway train on tyres in Paris.
 Patent taken out on the SECAM process of colour television.
-I
 to t"' tTl 0 'Tl tTl < tTl z --1
 [/J
 ....
@@ -6617,10 +6587,8 @@ U.S.A.
 1973 First meeting in space.
 1975 First regular flights on Concorde.
 1976 A module lands on Mars.
-I
 l:tl ` 0 'Tl tTl < tTl z ;;l ....
 G
-
 
 
 ANALYTICAL SUMMARY OF CHAPTERS
@@ -7052,7 +7020,6 @@ The pitfalls that make both a theorisation of techniques and the history of the 
 1179 A CONFUSED SITUATION: A vast contemporary complex that brings into play technical knowledge and scientific requirements. Essential differences between the two types of knowledge. Brief history of an invention and practice of a process, complementary elements of knowledge proper. Methods of trans mitting technical knowledge: gesture and the spoken word, vocational training centres, science-based technical education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1181
 
 
-
 LIST OF ILLUSTRATIONS
 Figures drawn by Jacques Rebiere
 PROLEGOMENA TO A HISTORY OF TECHNIQUES
@@ -7364,7 +7331,6 @@ TECHNICAL PROGRESS AND SOCIETY
 1. Plan oҟ che new Kalmar factory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 TECHNIQUES AND POLITICS
 1. The financing ofindustrial research in the U.S.A. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1110
-
 
 
 INDEX OF NAMES
@@ -7749,7 +7715,6 @@ COLUMELLA (Lucius Junius), Latin agro nomist of the 1st century, from Spain (pol
 COMTE (Auguste), French philosopher, b 1798 d 1857: 1129, 1140.
 CONON of Samos, Alexandrian Greek astronomer and mathematician, mid 3rd century BC: 286.
 CONSTANTINE
-VII
 Porphyrogenitus, Byzantine emperor (912) and writer, b 905 d 959: 372.
 CONTENEAU (Georges), French archaeo logist, b 1877 d 1964: 210, 211, 213.
 CORBULO (Gnaeus Domitius), Roman general, b ? d 67: 366.

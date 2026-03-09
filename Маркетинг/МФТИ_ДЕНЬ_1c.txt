@@ -241,18 +241,13 @@ FARMCREATIVE.RU
   
     1 2 3 4
 
-òðàíèöà 
-
-5
-
-
+òðàíèöà
+
 
 
    
 1 2 3 4
-
-5
-
+
 
 
 
@@ -288,7 +283,6 @@ Details for each driver
 - check next slides
 SERC CMI | Consumer & Market Insights 139
 Status-related attributes (prestigious brand, sign of success) are the main PTO drivers
-
 
 
 !

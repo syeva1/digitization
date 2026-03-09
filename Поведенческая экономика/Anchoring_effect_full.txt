@@ -29,7 +29,7 @@ Anchoring-and-adjustment heuristics by Tversky and Kahneman (1974) in their pion
 
 Classical Experiment
 Two randomly generated numbers between 10 and 65
-Two groups and questions: 
+Two groups and questions:
 Is the share of African countries among the UN members greater or less than the number you just got? In your opinion, what proportion do African countries make up among the UN members?
 Average answers were 25% and 45% accordingly. [1]
 

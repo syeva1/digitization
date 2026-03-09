@@ -103,7 +103,6 @@ having as yet come to understand or define it.
 The Marquis de Sade, Justine
 
 
-Contents
 
 List of Figures
 List of Tables
@@ -184,24 +183,10 @@ Part 2 Judgment under Risk and Uncertainty
 Introduction
 Fundamentals of probability theory
 Unconditional probability
-
-xii
 xiii
-xvi
-
 xvii
 
 ANAwWwW
-
-
-
-4
-
-
-
-viii
-
-Contents
 
 
 Conditional probability
@@ -307,12 +292,6 @@ Misprediction and miswanting
 Discussion
 
 
-
-
-
-
-
-
 Part 5 Strategic Interaction
 
 10 Analytical Game Theory
@@ -374,15 +353,6 @@ Appendix: Answer Key
 Bibliography
 
 Index
-
-
-
-
-
-
-Contents
-
-ix
 
 
 2.2
@@ -478,11 +448,6 @@ Multi-stage gamble
 Roulette table
 
 
-
-
-
-
-
 6.6
 6.7
 6.8
@@ -561,17 +526,6 @@ Two kinds of behavior
 Three kinds of traffic sign
 
 List of Figures
-
-
-
-
-
-
-
-
-xi
-
-
 xii
 
 10.10
@@ -645,13 +599,6 @@ Dictator game utility payoffs
 Prisoners’ dilemma (in dollar terms)
 
 
-
-
-
-
-
-
-
 Preface
 
 Asa Ph.D. student in economics, behavioral economics struck me as the most
@@ -691,10 +638,6 @@ previous exposure. A wealth of examples and exercises serve to make the
 underlying intuitions as clear as possible. In order to sustain the interest of
 readers with different backgrounds, and to illustrate the vast applicability of
 economic analysis, examples are drawn from economics, business, marketing, medicine, philosophy, public health, political science, public policy, and
-
-xiii
-
-
 xiv Preface
 
 elsewhere. More open-ended problems encourage students to apply the ideas
@@ -755,10 +698,6 @@ not be the last.
 Erik Angner
 
 Preface
-
-xv
-
-
 xvi
 
 Acknowledgments
@@ -805,10 +744,6 @@ and Natural Law as well as numerous journal articles and book chapters on
 behavioral and experimental economics, the economics of happiness, and the
 history, philosophy, and methodology of contemporary economics. He has
 taught behavioral economics at the undergraduate level since 2006.
-
-xvii
-
-
 This page intentionally left blank
 
 
@@ -869,10 +804,6 @@ be found in the Appendix.)
 (b) People do not save as much for retirement as they should.
 
 (c) Very often, people regret not saving more for retirement.
-
-
-4
-
 Introduction
 
 It can be unclear whether a claim is descriptive or normative. “People save too
@@ -962,10 +893,6 @@ other classical economists had a conception of human nature that was remarkably 
 Early neoclassical economics was built on the foundation of hedonic psychology: an account of individual behavior according to which individuals
 seek to maximize pleasure and minimize pain. In W. Stanley Jevons’s words:
 “Pleasure and pain are undoubtedly the ultimate objects of the Calculus of
-
-5
-
-
 6
 
 Introduction
@@ -1058,10 +985,6 @@ and control groups, and then note how (if at all) the behavior of individuals
 in the two groups differs. In one prominent field experiment, Jen Shang and
 Rachel Croson tracked how voluntary donations to a public radio station varied when prospective donors were given different social information, that is,
 information about how much other people had given.
-
-7
-
-
 8
 
 Introduction
@@ -1157,10 +1080,6 @@ cabdrivers is Camerer et al. (1997), the one about social information Shang and 
 et al. (2005) provides a widely cited overview of neuroeconomics. The study on financial
 decision-making is Smith et al. (2010); the three numeracy questions were adapted from
 the University of Michigan Health and Retirement Study.
-
-9
-
-
 This page intentionally left blank
 
 
@@ -1339,7 +1258,6 @@ than Groucho, and Groucho is taller than Harpo, Zeppo must be taller than
 Harpo (Figure 2.2).
 
 
-
 16 Part 1
 
 Choice under Certainty
@@ -1434,7 +1352,6 @@ and future — are the following relations transitive? Are they complete?
 (a) “is the mother of”
 
 (b) “is an ancestor of”
-
 
 
 18 Partl
@@ -1544,7 +1461,6 @@ Proposition 2.12 Properties of indifference The following conditions hold:
 (ii) x~y—y~ x (forall x, y)
 
 (iii) x~y &y~z>x ~ 2 (forall x, y, z)
-
 
 
 20 Part1 Choice under Certainty
@@ -1657,7 +1573,6 @@ Exercise 2.18 The enemy of your enemy, cont. Use a proof by contradiction
 to establish that “is the enemy of” is not transitive, as in Exercise 2.8 above.
 
 
-
 22 Part 1
 
 Choice under Certainty
@@ -1764,7 +1679,6 @@ Your findings from Exercise 2.21 are likely to come in handy when answering
 these questions.
 
 
-
 24 Partl
 
 Choice under Certainty
@@ -1817,9 +1731,6 @@ Eternal Suffering
 Chapter 2 Rational Choice under Certainty
 
 Bananas
-
-2
-
 0 1 2 3 Apples
 
 | Figure 2.4 | Indifference curves
@@ -1854,7 +1765,6 @@ There is no assumption that a menu is small, or even finite, though we frequentl
 In economics, the menu is often referred to as the budget set. This is simply that part of the set of alternatives that you can afford given your budget,
 that is, your resources at hand. Suppose that you can afford at most three
 apples (if you buy no bananas) or two bananas (if you buy no apples). This
-
 
 
 26 Part 1
@@ -1902,9 +1812,6 @@ It is important to note what the theory of rationality does not say. The
 theory does not say why people prefer certain things to others, or why they
 
 Bananas
-
-2
-
 Budget line
 
 0 1 2 3. Apples
@@ -1915,9 +1822,6 @@ Budget line
 Chapter 2 Rational Choice under Certainty
 
 Bananas
-
-2
-
 0 1 2 3. Apples
 
 | Figure 2.6 | Consumer choice problem
@@ -1954,7 +1858,6 @@ to prefer even my own acknowledge’d lesser good to my greater, and have a
 more ardent affection for the former than the latter.”
 
 Rational people cannot have preferences that are intransitive or incomplete, and they cannot make choices that fail to reflect those preferences.
-
 
 
 28 Part 1
@@ -2064,7 +1967,6 @@ very differently. The sequence (0, 1, 323) would have done as well, as would
 {-1000, —2, 0) and (—1,, e, 1077). All these are utility functions, in that they
 
 
-
 30 Partl
 
 Choice under Certainty
@@ -2103,8 +2005,6 @@ or whatever; utility (like preference) still has nothing to do with subjectively
 experienced states of any kind. This is a source of endless confusion.
 
 Bananas
-2
-
 1 Us
 
 upg
@@ -3109,7 +3009,6 @@ introduction of a decoy gives the consumer a reason to reject the competitor and
 either one of the two dimensions. The introduction of an extreme option gives
 
 
-
 52 Partl
 
 Choice under Certainty
@@ -3188,7 +3087,6 @@ Y
 $0
 
 gcticemiem Preference ordering with mug
-
 
 
 54 Part 1
@@ -3281,7 +3179,6 @@ might represent this change. By just looking at the picture, it is evident that
 the gain of a car, v(+1), is smaller than the (absolute value of the) loss of a car,
 
 
-
 56 Partl
 
 Choice under Certainty
@@ -3361,7 +3258,6 @@ $4. Assume that you incorporate the $6 into your endowment immediately.
 
 If you do not incorporate the $6 gain into your endowment, and therefore do
 not change your reference point before losing the $4, the net effect in value
-
 
 
 58 Partl
@@ -3481,7 +3377,6 @@ not bring their own mugs. Yet, few coffee shops go for the latter solution. Why?
 In addition, loss aversion helps account for some of the phenomena studied
 earlier in this book, including the fact that people fail to take opportunity
 costs properly into account. If people treat out-of-pocket costs as losses and
-
 
 
 60 Partl
@@ -4352,7 +4247,6 @@ Example 4.1. First, we need to identify the outcome space associated with
 having two children. Writing G for “girl” and B for “boy,” and BG for “the
 
 
-
 78 Part 2
 
 Judgment under Risk and Uncertainty
@@ -4475,7 +4369,6 @@ same rule tells you that Pr(H Vv T) = Pr(H) + Pr(T) =1/2+1/2=1.
 Notice that the rule requires that the two outcomes be mutually exclusive. What does this mean? Two outcomes A and B are mutually exclusive
 
 
-
 80 Part 2
 
 Judgment under Risk and Uncertainty
@@ -4591,7 +4484,6 @@ emphasized by giving an example. What is the probability of simultaneously
 getting a two and a three when you roll a fair die once? The answer is not
 1/6 * 1/6 = 1/36, of course, but zero. The outcomes are not independent, so
 you cannot use the AND rule. This example also tells you is that when two
-
 
 
 82 Part 2
@@ -4807,7 +4699,6 @@ LOTTO 6/49
 | Figure 4.2 | Lotto 6/49 ticket
 
 
-
 86 Part 2
 
 Judgment under Risk and Uncertainty
@@ -4913,7 +4804,6 @@ Proof. See Exercise 4.38.
 Exercise 4.38 Independence conditions Prove that the three parts of
 Proposition 4.37 are equivalent. The most convenient way of doing so is to
 prove (a) that (i) implies (ii), (b) that (ii) implies (iii), and (c) that (iii) implies (i).
-
 
 
 88 Part 2
@@ -5123,7 +5013,6 @@ Pre) TE
 | Figure 4.4 | Cx@ Bayesian updating
 
 
-
 92 Part 2
 
 Judgment under Risk and Uncertainty
@@ -5227,7 +5116,6 @@ have to do is to apply the incantations (rules) in the right way and in the righ
 order and the answer pops right up! Anyway, probability theory is critical to
 a wide range of applications, among other things as the foundations of statistical inference. It is relevant here because it can be interpreted as a theory
 of judgment, that is, as a theory of how to revise beliefs in light of evidence.
-
 
 
 94 Part 2
@@ -5631,7 +5519,6 @@ A believer in the law of small numbers would exaggerate the degree to which
 a small sample (such as a sequence of eight coin flips) will resemble the population and consist of half heads and half tails.
 
 
-
 102 Part 2
 
 Judgment under Risk and Uncertainty
@@ -5743,7 +5630,6 @@ above, if you underestimate the probability of the disjunction, you are committi
 Exercise 5.13 Hiking You plan to go ona hike in spite of the fact that a tornado watch is in effect. The national weather service tells you that for every
 hour in your area, there is a 30 percent chance that a tornado will strike. That
 is, there is a 30 percent chance that a tornado will strike your area between
-
 
 
 104 Part 2
@@ -5861,7 +5747,6 @@ The answer to Exercise 5.19(b) is far from obvious. To help you out, consider
 constructing a table as in Figure 4.1 on page 83.
 
 
-
 106 Part 2
 
 Judgment under Risk and Uncertainty
@@ -5957,7 +5842,6 @@ Testimony can be non-diagnostic, as the following classic example illustrates.
 Exercise 5.22 Testimony Acab company was involved ina hit-and-run accident at night. Two cab companies, the Green and the Blue, operate in the city.
 You are given the following data: 85 percent of the cabs in the city are Green,
 15 percent are Blue. A witness identified the cab involved in the accident as
-
 
 
 108 Part 2
@@ -6070,7 +5954,6 @@ Notice that in the story above, the man was apparently a false positive, meaning
 of the test.
 
 Exercise 5.27 Diagnosticity Let us take it for granted that the behaviordetection test (from Exercise 5.26) is not diagnostic. The test may still be
-
 
 
 110) Part 2
@@ -6258,7 +6141,6 @@ be fine (F). Suppose that a physician using a simple test can correctly determin
 green light (G), what is the probability that the child really will be fine?
 
 
-
 114 Part 2
 
 Judgment under Risk and Uncertainty
@@ -6351,7 +6233,6 @@ imagination in the same way and consequently are not as feared as they probably 
 tisk information very effectively, but it can also do immense harm. A single
 story about an illegal immigrant committing a heinous crime can generate
 strong anti-immigration sentiments in spite of evidence of the beneficial welfare effects of migration.
-
 
 
 116 Part 2
@@ -6450,7 +6331,6 @@ is most extreme when confidence is high. Overconfidence is usually eliminated wh
 be underconfident. Overconfidence also increases with the difficulty of the
 judgment task. The more challenging the task is, the more likely a judge is to
 be overconfident; when it comes to very easy judgments, people may even
-
 
 
 118 Part 2
@@ -6646,7 +6526,6 @@ will come up HHH or HHT?
 
 If your prediction was HHT (or HTH or THH) you might have engaged
 in probability matching: choosing frequencies so as to match the
-
 
 
 122 Part 2
@@ -7047,7 +6926,6 @@ Of all criteria for choice under uncertainty, the maximin criterion is the most
 prominent. It is, among other things, an important part of the philosopher John.
 
 
-
 132 Part 3
 
 Choice under Risk and Uncertainty
@@ -7144,7 +7022,6 @@ Offer $10 $0
 (b)
 
 Simple gamble
-
 
 
 134 Part 3
@@ -7306,7 +7183,6 @@ she rolls a one, $2 if she rolls a two, and so on. What is the expected value of
 this gamble?
 
 
-
 138 Part 3
 
 Choice under Risk and Uncertainty
@@ -7405,7 +7281,6 @@ definition of expected value makes no sense if the consequences C,, are not
 expressed in numbers. Moreover, under many conditions expected-value
 
 
-
 140 Part 3
 
 Choice under Risk and Uncertainty
@@ -7491,7 +7366,6 @@ Table 6.7 St Petersburg gamble with utilities
 
 H TH TTH
 St Petersburg gamble log(2) log(4) log(8)
-
 
 
 142 Part 3
@@ -7610,7 +7484,6 @@ minus two. If she does have the surgery and her hearing deteriorates, her utilit
 (d) What is the expected utility of having the operation?
 
 (e) What should the patient do?
-
 
 
 144 Part 3
@@ -7735,7 +7608,6 @@ R
 | Figure 6.8 | ese Risk aversion
 
 
-
 146 Part 3
 
 Choice under Risk and Uncertainty
@@ -7823,7 +7695,6 @@ EU(G)
 0 A CE(G) EV(@) B x
 
 | Figure 6.10 | Cate Finding the certainty equivalent
-
 
 
 148 Part 3
@@ -7937,7 +7808,6 @@ The distinction between risk and uncertainty is far from sharp. In real
 life, it may not be obvious whether to treat a decision as the one or the other.
 
 
-
 150 Part 3
 
 Choice under Risk and Uncertainty
@@ -8040,7 +7910,6 @@ time.” Explain why this criticism misses the mark.
 a
 
 See also Exercise 7.34 on pages 176-177.
-
 
 
 152 Part3 Choice under Risk and Uncertainty
@@ -9034,8 +8903,6 @@ a[Pr(s)]
 oa |------------------------b---
 
 (0)
-0
-
 actiewmem he probability-weighting function z(-)
 
 Table 7.5 Risk attitudes according to prospect theory
@@ -9515,7 +9382,6 @@ At the conclusion of the first month, by (8.3), given that r = 0.18, you will
 owe L = P(1 + 7) = $100 * 1.18 = $118. At the conclusion of the second month,
 
 
-
 184 Part 4
 
 Intertemporal Choice
@@ -9630,7 +9496,6 @@ In general, we want to be able to evaluate a whole sequence of utilities,
 that is, a utility stream. Letting f represent time, we will use t = 0 to represent
 
 
-
 186 Part 4
 
 Intertemporal Choice
@@ -9721,7 +9586,6 @@ the person’s 6 is likely to be high (as in close to one) or low (as in close t
 atica-mm Time preference. Illustration by Cody Taylor
 
 
-
 188 Part 4
 
 Intertemporal Choice
@@ -9802,7 +9666,6 @@ t-1 t
 actice-em Exponential discounting with indifference
 
 
-
 190 Part 4
 
 Intertemporal Choice
@@ -9880,8 +9743,6 @@ than a discount factor 6. The conversion is easy:
 
 You can confirm that when 6 = 1, r = 0 and that as 6 approaches zero,
 r increases. Knowing r, you can compute 6 as follows:
-
-1
 é= —_.
 1+r
 In this text, I favor discount factors over discount rates. But it is useful to
@@ -9997,7 +9858,6 @@ Bryant discussed the importance of making sports fun for young people.
 “It's hard to tell a kid that you need to get out there and compete because
 it’s going to decrease your chance of having diabetes 30-40 years from.
 now,” he said. In the language of time discounting, why are young people not motivated by the prospect of being healthy in 30-40 years?
-
 
 
 194 Part 4
@@ -10263,7 +10123,6 @@ rad
 U%(c) =4 4+ 1/2 #2/3 40 = 4.
 
 
-
 200 Part 4
 
 Intertemporal Choice
@@ -10474,7 +10333,6 @@ U°#(spend-spend) = 6 + 14(6 + 9) =11
 So far so good.
 
 
-
 204 Part 4
 
 Intertemporal Choice
@@ -10581,7 +10439,6 @@ them off promptly will start shredding money. If any of these techniques
 sound familiar, you are a sophisticated hyperbolic discounter. Notice that
 
 
-
 206 Part 4
 
 Intertemporal Choice
@@ -10684,7 +10541,6 @@ one. People also wish to distribute pleasant and unpleasant events over time
 and they value variety. Such preferences over profiles cannot be captured in
 
 
-
 208 Part 4
 
 Intertemporal Choice
@@ -10757,7 +10613,6 @@ final analysis.
 u(x)
 
 | Figure 9.6 | eRe The peak-end rule, cont.
-
 
 
 210 Part 4
@@ -10851,7 +10706,6 @@ Example 9.17 Fasting Some religious traditions encourage fasting as a way
 to identify with less fortunate fellow human beings. The underlying insight is
 consistent with projection bias: it is only when we ourselves are hungry that
 we can begin to appreciate what it is like to actually starve.
-
 
 
 212 Part 4
@@ -10951,7 +10805,6 @@ keeping close tabs on your and others’ emotional reactions. He advocated
 what he called the empirical-reflective method:
 
 
-
 214 Part 4
 
 Intertemporal Choice
@@ -11044,7 +10897,6 @@ and retiring poor at time 2 (u, = 0).
 Ximena is an exponential discounter. Her 6 = 2/3.
 (a) Att = 0: What is her utility of a? What is her utility of b?
 (b) Att = 1: What is her utility of a? What is her utility of b?
-
 
 
 216 Part4 Intertemporal Choice
@@ -11358,7 +11210,6 @@ of utility if both dine at the steak house, 1 if both dine at the crab shack, an
 0 if they dine apart; the woman gets 2 units of utility if both dine at the crab
 
 
-
 224 Part 5
 
 Strategic Interaction
@@ -11446,7 +11297,6 @@ D 0 years, 20 years 10 years, 10 years D 5,0 11
 One way to identify the unique Nash equilibrium in the prisoners’ dilemma
 is to eliminate all strictly dominated strategies. A strategy X is said to strictly
 dominate another strategy Y if choosing X is better than choosing Y no matter
-
 
 
 226 Part 5
@@ -11548,7 +11398,6 @@ brutish, and short.
 
 The solution, according to Hobbes, is a covenant according to which people
 give up their right to kill and maim other people in exchange for the right
-
 
 
 228 Part 5
@@ -11828,7 +11677,6 @@ the other player does, and choosing X is better than choosing Y for at least one
 strategy available to the other player. In Example 10.18, U weakly dominates
 
 
-
 234 Part5
 
 Strategic Interaction
@@ -12001,7 +11849,6 @@ when they engage in strategic interactions. In this view, game theory predicts t
 predictions, of course, will depend not only on the game played, but on the
 
 
-
 238 Part 5
 
 Strategic Interaction
@@ -12139,7 +11986,6 @@ The observed outcomes are quite consistent with Nash equilibrium predictions, ho
 payoffs. Let us assume that each individual is simply trying to maximize his
 
 
-
 242 Part 5
 
 Strategic Interaction
@@ -12236,7 +12082,6 @@ gasoline-powered car, so rising gasoline prices will hurt Prius owners too. But
 it can be explained if we assume that the disutility Prius owners derive from.
 getting less gasoline for their dollar is outweighed by the utility they derive
 from knowing that SUV owners suffer even more.
-
 
 
 244 Part5
@@ -12352,7 +12197,6 @@ Sections 1.1 and 2.6, the standard approach makes no assumptions about
 the nature of people’s preferences. Consequently, it makes no assumptions
 
 
-
 246 Part5
 
 Strategic Interaction
@@ -12452,7 +12296,6 @@ account. The money in the public account is multiplied by some factor between.
 one and three, say two, and split evenly between the players.
 
 
-
 248 Part5
 
 Strategic Interaction
@@ -12546,7 +12389,6 @@ Suppose everyone picked 100, the highest number available. If so, the
 winning number would be 70. Thus, no rational person would ever pick a
 number greater than 70. But if no one picks a number greater than 70, the
 winning number cannot be greater than 49. Yet, if nobody picks a number
-
 
 
 250 Part 5
@@ -12643,7 +12485,6 @@ have offered to capture the way in which people really interact with each other.
 To what extent is the work presented under the heading “behavioral game
 theory” compatible with the traditional neoclassical framework? As we have
 seen, much of what goes under the heading is in fact consistent with analytical game theory. Models of social preferences are clearly consistent, since they
-
 
 
 252 Part 5
@@ -12877,7 +12718,6 @@ A B A B
 acticmeam Iwo kinds of behavior
 
 
-
 260 Part 6
 
 Concluding Remarks
@@ -12969,7 +12809,6 @@ Since the definition of a nudge has some vagueness built into it, we should
 expect there to be a grey area where reasonable people can disagree. Yet, it is
 easy to think of examples that do not constitute nudges. The weather is not
 a nudge, for example, since it is not an intervention. Subliminal advertising
-
 
 
 262 Part 6
@@ -13069,7 +12908,6 @@ want to stay on the road to do so.
 Some critics argue that all forms of paternalism are objectionable (offensive, illegitimate) and that, therefore, libertarian paternalism is too. But this
 
 
-
 264 Part 6
 
 Concluding Remarks
@@ -13160,7 +12998,6 @@ good or evil.
 The ideas of behavioral economists are no exception. How exactly behavioral
 economics will affect “practical” women and men remains to be seen. Yet, it is
 not too early to draw some interim conclusions.
-
 
 
 266 Part 6
@@ -13318,7 +13155,6 @@ response might offers a way to reconcile neoclassical and behavioral economics. 
 sometimes approaches or coincides with neoclassical predictions under certain conditions. But if those conditions do not hold, neoclassical economists
 should be able to agree that a non-neoclassical theory is required to explain
 and predict behavior. This is the domain of behavioral economics.
-
 
 
 270 Part 6
@@ -13698,13 +13534,7 @@ Bananas N
 4 Apples
 
 Milk
-
-4
-
 3
-
-2
-
 1
 1 2 38 4 5 6 Tea
 
@@ -13720,22 +13550,15 @@ Bananas IS
 4 Apples
 
 Bananas
-6
 5
-4
 3
-2
 1
 
 4 Apples
 
 Bananas
-5
 4
-3
 2
-1
-
 6 Apples
 (c}
 
@@ -13903,7 +13726,6 @@ Exercise 3.30 (a) Choose a wingman or wingwoman who is less desirable
 than you are along all relevant dimensions, but who beats each competitor
 
 
-
 280 Appendix: Answer Key
 
 along at least one dimension. (b} You want your wingman or wingwoman to
@@ -13990,7 +13812,6 @@ Americans would be unwilling to give up the new system, and the opposition
 party would find it difficult to engineer a return to the old one.
 
 
-
 282 Appendix: Answer Key
 
 Bananas
@@ -14066,7 +13887,6 @@ would exceed Bill’s foregone gain, Tim is more likely to end up the owner
 Exercise 3.62 (a) When the price went from $7 to $4, in terms of deviations
 from his reference point, Larry went from +0 to —3. In terms of value, therefore, he went from v(0) = 0 to o(-3) = —9, meaning that he experienced a
 loss of 9 units of value. (b) When the price went from $7 to $4, in terms of
-
 
 
 284 Appendix: Answer Key
@@ -14155,8 +13975,6 @@ that can be won as an anchor and adjusting downwards, insufficient adjustment wo
 picking the first number correctly as an anchor and adjusting downwards,
 insufficient adjustment would imply that they overestimate the probability
 of winning.
-
-
 
 
 Appendix: Answer Key
@@ -14261,7 +14079,6 @@ that any one letter will not spell out the vulgarity is 1 — 1/208,827,064,576 
 Exercise 4.54 Note that there are 2” = 1024 different ways to answer ten
 true/false questions. So: (a) 1/1024. (b) 1/1024. (c) 1/1024. (d) 10/1024.
 (e) 11/1024.
-
 
 
 288 Appendix: Answer Key
@@ -14481,7 +14298,6 @@ in the world” anp “I am the best horseman in all of Austria” AND "I am the
 greatest lover in all of Vienna.”
 
 
-
 292 Appendix: Answer Key
 
 Exercise 5.52 (a) Confirmation bias. (b) Disjunction fallacy. (c) Availability
@@ -14578,7 +14394,6 @@ Exercise 6.34 (a) Risk prone. (b) Risk averse. (c) Risk prone. (d) Risk averse.
 (e) Risk prone. (f) Risk neutral. (g) Risk prone.
 
 
-
 294 Appendix: Answer Key
 
 Improvement
@@ -14664,7 +14479,6 @@ is v(+125) — 0(+120) = V125/2 — V120/2 ~ 0.16. The difference between.
 v(+10) and 0(+15) is much greater than than the difference between 0(+120)
 and v(+125). Thus, an S-shaped. value function can in fact account for the
 observed behavior.
-
 
 
 296 Appendix: Answer Key
@@ -14776,7 +14590,6 @@ Exercise 7.37 (a) Silver lining. (b) Mental accounting. (c) Competence
 hypothesis. (d) Certainty effect. (e) Ambiguity aversion.
 
 
-
 298 Appendix: Answer Key
 
 Chapter 8
@@ -14882,7 +14695,6 @@ foregoing the opportunity to see the fantastic one.
 
 (c) If you are a sophisticated hyperbolic discounter, you know that you would
 be unable to skip the great movie at t = 2 and that you consequently will not
-
 
 
 300 Appendix: Answer Key
@@ -15749,7 +15561,6 @@ CT scans, 113-114
 cycling preferences, 24
 
 
-
 Index
 
 D
@@ -15976,8 +15787,6 @@ hyperbolic discounters, naifs vs. sophisticates, 203
 hyperbolic discounting, 198-199, 216-217
 hypothesis, 91
 hypothetical choices, 7
-
-I
 impact bias, 212-213
 impartial spectator, 188
 impatience, 187, 200
@@ -16017,7 +15826,6 @@ Irish Republican Army (IRA), 104
 Tron Bowl, 108
 Iroquois, 188
 irreflexivity, 21, 32
-
 
 
 Index
@@ -16353,7 +16161,6 @@ probability, 76-77
 axioms of, 77
 
 
-
 Index
 
 probability (continued)
@@ -16646,7 +16453,6 @@ ql
 peo ch
 
 === ==
-
 
 
 Index

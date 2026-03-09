@@ -14,10 +14,7 @@ STEVEN TADELIS
 PRINCETON
 
 
-
-
 GAME THEORY
-
 
 
 GAME THEORY
@@ -130,11 +127,6 @@ Summary
 
 Exercises
 
-Contents
-
-xi
-
-
 vi © Contents
 
 PART II Static Games of Complete Information
@@ -237,7 +229,6 @@ Summary
 Exercises
 
 
-Contents
 
 Chapter6 Mixed Strategies
 
@@ -329,14 +320,6 @@ The One-Stage Deviation Principle
 Summary
 
 Exercises
-
-vii
-
-
-
-
-
-
 viii * Contents
 
 Chapter 10 Repeated Games
@@ -446,16 +429,9 @@ Independent Private Values
 Common Values and the Winner’s Curse
 
 
-
-
-
-
-
-
 13.3
 13.4
 
-Contents
 
 Summary
 Exercises
@@ -561,12 +537,6 @@ Summary
 Exercises
 
 
-
-
-
-
-
-
 x ¢ Contents
 
 Chapter 19 Mathematical Appendix
@@ -612,10 +582,6 @@ References
 Index
 
 
-
-
-
-
 Preface
 
 he study of economics, political science, and the social sciences more generally
@@ -656,10 +622,6 @@ book grew out of lecture notes that I used for an advanced undergraduate game th
 course that I taught at Stanford University from 1997 through 2004. Over the years
 I was convinced by some colleagues and a persistent executive editor to take those
 notes and expand them.
-
-xi
-
-
 xii
 
 Preface
@@ -765,10 +727,6 @@ points home. About half the exercises have solutions that are freely accessible 
 while solutions to the rest are available only to instructors. For more information, visit
 this book’s page on the Princeton University Press web site at http://press.princeton
 .edu/titles/10001 html.
-
-
-xiv
-
 Preface
 
 The Book's Style
@@ -843,17 +801,11 @@ comes to strategy, there is still so much more that I have to learn!
 1. Some attribute this saying to the Cuban national hero, poet, and writer José Marti.
 
 
-
 PART I
 
 RATIONAL
 DECISION
 MAKING
-
-
-
-1
-
 The Single-Person
 Decision Problem
 
@@ -889,10 +841,6 @@ keep the more practical aspect of our problems at the forefront of the analysis.
 In developing this formal language, we will be forced to specify a set of assumptions about the behavior of decision makers or players. These assumptions will, at
 times, seem both acceptable and innocuous. At other times, however, the assumptions will be almost offensive in that they will require a significant leap of faith. Still,
 as the analysis unfolds, we will see the conclusions that derive from the assumptions
-
-3
-
-
 4
 
 1.1
@@ -1006,10 +954,6 @@ of the mathematical appendix.
 3. These assumptions are referred to as “axioms,” following the language used in the seminal book
 by von Neumann and Morgenstern (1944) that laid many of the foundations for both decision theory
 and game theory.
-
-
-6
-
 Chapter 1 The Single-Person Decision Problem
 
 specifications, and so forth. If I offer you two investment portfolios, you should be
@@ -1118,10 +1062,6 @@ they often will behave. They will choose actions that maximize a payoff function
 
 5. Recall that a function relates each of its inputs to exactly one output. For more on this see
 Section 19.2 of the mathematical appendix.
-
-
-8
-
 Chapter 1 The Single-Person Decision Problem
 
 represents their preferences. One last question we need to ask is whether we know
@@ -1185,9 +1125,6 @@ less the set B.”
 1.2 The Rational Choice Paradigm ¢ 9
 
 Player
-
-4
-
 FIGURE 1.1 A simple breakfast decision tree.
 
 the next chapter demonstrates, the structure of a decision tree will become slightly
@@ -1230,7 +1167,6 @@ in a systematic and structured way. If we let go of any of these four knowledge
 his long-term well-being and can be relied upon to always make the right decision for himself. We
 take this naive approach throughout the book, though we will sometimes question how appropriate
 this approach is.
-
 
 
 Chapter 1 The Single-Person Decision Problem
@@ -1342,10 +1278,7 @@ a =0anda = 1. For more on maximizing the value of a function, see Section 19.3 o
 appendix.
 
 
-
 Chapter 1
-
-
 
 
 The Single-Person Decision Problem
@@ -1474,9 +1407,6 @@ cater to his constituents?
 
 
 2.1
-
-2
-
 Introducing Uncertainty
 and Time
 
@@ -1667,7 +1597,6 @@ we will go a step further to describe random variables, or lotteries, over conti
 vines in your backyard, and your crop, measured in pounds, will depend on two inputs.
 The first is how much you water your garden per day and the second is the weather.
 Your action set can be any amount of water up to 50 gallons (50 gallons will completely
-
 
 
 2.2
@@ -1926,9 +1855,6 @@ monetary rewards and their associated payoff values. Imagine that a player faces
 a lottery with three monetary outcomes: x, = $4, x. = $9, and x3 = $16 with the
 associated probabilities p,, p2, and p3. If the player’s payoff function over money x
 is given by some function u(x) then his expected payoff is
-
-3
-
 Elucx)| pl = Yo pyle) = puelxy) + pox) + p33).
 k=1
 
@@ -2190,8 +2116,6 @@ payoff from optimizing at that node, and that will be the value of the decision 
 5. We also need to check the second-order condition, that the second derivative of the objective
 
 function is negative at the proposed candidate. This is indeed the case, since the second derivative
-3
-
 of the objective function is —12(2a) 2, which is always negative (the objective function is concave).
 
 
@@ -2246,9 +2170,6 @@ v(g) = 0,625 x 12 + 0.375 x 5 = 9.375.
 2.4.2
 
 Chapter 2 Introducing Uncertainty and Time
-
-0
-
 FIGURE 2.6 The marketing staged reduction of the R&D problem.
 
 Because his expected payoff from choosing s is 5, it is clear that, anticipating his
@@ -2295,9 +2216,6 @@ over the periods ¢ = 1, 2,..., T, and he evaluates payments with the utility fu
 
 105-1
 -l
-
-0
-
 FIGURE 2.7. The R&D decision problem with discounting.
 
 u(x) in every period, then in the first period t = 1 his discounted sum of future payoffs
@@ -2340,7 +2258,6 @@ player actually knew the choice of Nature ahead of time then he might have chose
 something else. Recall the example in Section 2.3.2, the decision of whether or not
 to get an MBA, which is depicted in Figure 2.4. As our previous analysis indicated,
 the expected payoff from getting an MBA is 9, while the expected payoff from not
-
 
 
 Chapter 2 Introducing Uncertainty and Time
@@ -2442,7 +2359,6 @@ u’ (x1) = 6u'(K — x). (2.1)
 
 6. Because u(-) is concave, the second-order condition (that the second derivative be zero) is satisfied,
 implying that the solution to the first-order condition is the maximum.
-
 
 
 2.6
@@ -2564,7 +2480,6 @@ Exercises
 assume that the probability of a strong labor market is p, that of an average
 labor market is 0.5, and that of a weak labor market is 0.5 — p. All the other
 values are the same.
-
 
 
 Chapter 2
@@ -2689,7 +2604,6 @@ This could have a significant impact on demand, as a lower safety rating will
 increase the minimum age required of users. Safety testing costs $1 million.
 
 
-
 Chapter 2 Introducing Uncertainty and Time
 
 2.8
@@ -2797,7 +2711,6 @@ to improve its production of rolled steel. The research involves three distinct
 
 7. See “Demand Sends AK Steel Profit Up 32%,” New York Times, July 23, 2008, http://www
 -hytimes.com/2008/07/23/business/23steel.html?partner=rssnyt&eme=rss.
-
 
 
 Chapter 2 Introducing Uncertainty and Time
@@ -2935,7 +2848,6 @@ decision. The new oil project dubbed “Tahiti” was scheduled to produce its f
 commercial oil in mid-2008, yet it was still unclear how productive it would
 
 
-
 Chapter 2 Introducing Uncertainty and Time
 
 be. “Tahiti is one of Chevron’s five big projects,” said Peter Robertson, vice
@@ -2998,7 +2910,6 @@ OF COMPLETE
 INFORMATION
 
 
-
 Preliminaries
 
 he language and tools of analysis that we have developed so far seem to be ideal to
@@ -3041,8 +2952,6 @@ are often set on a curve, so that your grade relies on your success on the exam 
 absolute measure of not only how much you got right but also how much the other
 students in the class got right. In other words, if you’re having a bad day on an exam,
 your only hope is that everyone else in your class is having a worse day!
-
-
 
 
 Chapter 3. Preliminaries
@@ -3155,7 +3064,6 @@ you will make your choice, given my belief that you understand the game. Your
 understanding incorporates your belief about my understanding, and so on. Hence
 common knowledge will assist us dramatically in our ability to perform this kind of
 reasoning.
-
 
 
 3.1
@@ -3390,7 +3298,6 @@ of the cost function and hence is equal to 2g;. Equating this to the price gives
 function, 2g; = p or g; = $, and adding up the two supply functions yields the market supply,
 q = p. Equating this to demand yields p = 100 — p, resulting in the competitive price of p = 50,
 and plugging this into the supply function yields g; = 25 for i = 1, 2.
-
 
 
 3.2
@@ -3877,7 +3784,6 @@ second outcome, but some other social criterion with equity considerations may d
 ranking.
 
 
-
 3.5
 
 Chapter 3. Preliminaries
@@ -3950,9 +3856,6 @@ back. Write down the normal form of this game.
 
 
 4.1
-
-4
-
 Rationality and
 Common Knowledge
 
@@ -3986,8 +3889,6 @@ rationality. If we assume that the players are rational, then we should expect t
 to choose whatever they deem to be best for them. If it turns out that a player’s best
 strategy does not depend on the strategies of his opponents then we should be all the
 more confident that he will choose it.
-
-
 
 
 Chapter 4 Rationality and Common Knowledge
@@ -4222,7 +4123,6 @@ Iterated Elimination and Common Knowledge of Rationality
 We begin with the premise that players are rational, and we build on the first conclusion in the previous section, which claims that a rational player will never play a
 
 
-
 Chapter 4 Rationality and Common Knowledge
 
 dominated strategy. This conclusion is by itself useful in that it rules out what players will not do. As a result, we conclude that rationality tells us which strategies will
@@ -4344,7 +4244,6 @@ a coin and flip between the decision of opera or football. This by itself introd
 and we will exploit such strategies to develop a formal definition of IESDS.
 
 
-
 Chapter 4 Rationality and Common Knowledge
 
 equal to 10 and no fixed costs.) Let the demand be given by p(q) = 100 — qg, where
@@ -4463,7 +4362,6 @@ It is indeed attractive that an IESDS solution always exists. This comes, howeve
 at the cost of uniqueness. In the simple 3 x 3 matrix game described in (4.1) and the
 
 
-
 Chapter 4 Rationality and Common Knowledge
 
 Cournot duopoly game, IESDS implied the survival of a unique strategy. Consider
@@ -4577,7 +4475,6 @@ As the matrix demonstrates, the best choice of Alex depends on what Chris will d
 If Chris goes to the opera then Alex would rather go to the opera instead of going to
 the football game. If, however, Chris goes to the football game then Alex’s optimal
 action is switched around.
-
 
 
 Chapter 4 Rationality and Common Knowledge
@@ -4694,7 +4591,6 @@ behavior.
 
 To make this kind of reasoning precise we need to define what we mean by a
 player’s belief. In a well-defined game, the only thing a player should be thinking
-
 
 
 Chapter 4 Rationality and Common Knowledge
@@ -4978,7 +4874,6 @@ Exercises
 4.1
 
 
-
 4A
 
 Prove Proposition 4.1: If the game T' = (N, (5;}7_,, {v;}7_,) has a strictly
@@ -5012,7 +4907,6 @@ bid, then your bid is ignored. If, however, it is higher, then the current bid
 
 
 4.5
-
 
 
 4.5 Exercises © 77
@@ -5160,8 +5054,6 @@ In this chapter we make a rather heroic leap that ties together beliefs and acti
 and results in the most central and best-known solution concept in game theory. As
 already mentioned, for dominant strategy equilibrium we required only that players
 be rational, while for IESDS and rationalizability we required common knowledge
-
-
 
 
 5.1
@@ -5504,14 +5396,11 @@ nothing (effectively not existing), then player 1 will consume k, = x, and as pl
 3. Of course, we are implicitly assuming that Ya ky sk.
 
 
-
 Chapter 5 Pinning Down Beliefs: Nash Equilibrium
 
 kyh
 
 K-k,
-2
-
 Nash equilibrium
 
 '
@@ -5571,9 +5460,6 @@ Ou;
 wae . . . a
 concave in his own consumption with a > 9, ot <0, and lim, 0 ae =O.
 i i
-i
-
-
 5.2.3
 
 5.2 Nash Equilibrium: Some Classic Applications ¢ 87
@@ -5640,14 +5526,9 @@ Dt
 
 
 0- g
-2
-
-
 30 Cournot-Nash equilibrium
 
 7-H"
-2
-
 30 45 90 N
 
 FIGURE 5.2 Cournot duopoly game: best-response functions and Nash equilibrium.
@@ -5858,7 +5739,6 @@ Figure 5.3. The figure first draws the profits of firm 1 as if it were a monopol
 money.
 
 
-
 Chapter 5 Pinning Down Beliefs: Nash Equilibrium
 
 »(P1» Pa) t
@@ -5952,7 +5832,6 @@ preferences. For example, if candidate 1 chooses platform a, = —15 while candi
 8. Hotelling’s main object of analysis was competition between firms. However, he did also discuss
 the example of electoral competition, yielding important insights into rational choice—based political
 science.
-
 
 
 Chapter 5 Pinning Down Beliefs: Nash Equilibrium
@@ -6070,7 +5949,6 @@ equilibrium then this is the unique strategy profile that survives IESDS.
 11. This condition on preferences is called that of “single-peaked” preferences: if we draw the utility
 function of some voter with his political “bliss point” being a € A, the utility is highest at a and
 declines in both directions, hence the single peak at a.
-
 
 
 Chapter 5
@@ -6207,7 +6085,6 @@ a. Assume that the countries do not have a trade agreement and, in
 fact, that the importation of coal into either country is prohibited.
 
 
-
 Chapter 5 Pinning Down Beliefs: Nash Equilibrium
 
 5.12
@@ -6334,7 +6211,6 @@ ad;, with a € [0, 1]. What happens to the Nash equilibrium as a — 0?
 What is the intuition for this result?
 
 
-
 Chapter5 Pinning Down Beliefs: Nash Equilibrium
 
 5.17
@@ -6405,8 +6281,6 @@ payoffs always sum to zero. The class of zero-sum games was the main subject of 
 Nash introduced his solution concept in the 1950s. These games have some very nice mathematical
 properties and were a central object of analysis in von Neumann and Morgenstern’s (1944) seminal
 book.
-
-
 
 
 6.1
@@ -6523,7 +6397,6 @@ All sum to a number equal to or less than one so that the remainder is the proba
 strategy.
 
 
-
 Chapter 6 Mixed Strategies
 
 F(s) fis)
@@ -6628,7 +6501,6 @@ and his opponents play the mixed strategy o_; € AS_, is
 14, 01) = Yo a(s)u(5;, 0 = DO DD oilso_i(s_duilsi, -»).
 
 5, €5; 5,65; \s_;eS_;
-
 
 
 Chapter 6 Mixed Strategies
@@ -6741,7 +6613,6 @@ all of the pure strategies that player i’s opponents can play. Clearly rationa
 5. If player 2 is using a uniform distribution over [0, 1] then Pr{s, = 52} = 0 for any s, € [0, 1].
 
 
-
 6.2.1
 
 Chapter 6 Mixed Strategies
@@ -6763,8 +6634,6 @@ randomize between two alternative pure strategies? The answer is predictable:
 
 Proposition 6.1 [fo* is a Nash equilibrium, and both s; and s, are in the support of
 o*, then
-i
-
 0;(5;, 07) = ;(5;, 0*;) = 0;(0;,, 0%).
 
 The proof is quite straightforward and follows from the observation that if a player
@@ -6804,8 +6673,6 @@ we have to find mixed strategies for both players that are mutual best responses
 6.2 Mixed-Strategy Nash Equilibrium * 109
 
 vis, 2) 4
-
-1
 v,, q)
 
 v7 Q
@@ -6844,7 +6711,6 @@ of the graph will show the highest payoff that player 1 can achieve when player 
 plays any given level of g. When q < 5 this is achieved by playing T; when q > 4
 this is achieved by playing H; and when g = 3 both H and T are equally good for
 player 1, giving him an expected payoff of zero.
-
 
 
 Chapter 6 Mixed Strategies
@@ -6957,7 +6823,6 @@ To find the Nash equilibrium of the rock-paper-scissors game we proceed in three
 steps. First we show that there is no Nash equilibrium in which at least one player
 
 
-
 Chapter 6 Mixed Strategies
 
 plays a pure strategy. Then we show that there is no Nash equilibrium in which at
@@ -7052,8 +6917,6 @@ qx0+U0-q)x3=q¢qx4+(1-¢g)x0
 >q=},
 and player 2 will mix when v.(p, C) = vo(p, R), or when
 px0+(0-p)x4=px5+(1-p) x3
-
-1
 => P=s%-
 
 This yields our third Nash equilibrium: (of, oj) = (CG 2), G, 4)).
@@ -7065,7 +6928,6 @@ equilibrium. In fact a game will typically have an odd number of equilibria. Thi
 an index theorem and is far beyond the scope of this text.
 
 
-
 6.3
 
 Chapter 6 Mixed Strategies
@@ -7075,8 +6937,6 @@ BR\@)
 ; BR,(p)
 
 3 1 @
-7
-
 FIGURE 6.4 __Best-response correspondences and Nash equilibria.
 
 It is interesting to see that all three equilibria would show up in a careful drawing
@@ -7181,7 +7041,6 @@ Ne
 
 In this reduced game there still are no strictly dominated pure strategies, but careful
 observation will reveal that the strategy U for player 1 is strictly dominated by a strategy that mixes between the pure strategies M and D. That is, (0,(U), 0)(M), o\(D))
-
 
 
 Chapter 6 Mixed Strategies
@@ -7300,15 +7159,10 @@ way beyond the scope of this text.
 in pure strategies.
 
 
-
 Chapter 6 Mixed Strategies
 
 fe)
-1
-
 >
-x
-
 FIGURE 6.5 Brouwer’s fixed-point theorem.
 
 (4 Pd
@@ -7390,7 +7244,6 @@ itself. The same is true for the point (¢, p) = (1, 0). The third interesting p
 in Figure 6.6 is happening.
 
 
-
 Chapter 6 Mixed Strategies
 
 (3, 2). because BR(3, 2 = ([0, 1], [0, 1], which means that the BR correspondence of this point is a pair of sets. This results from the fact that when player 2 mixes
@@ -7451,8 +7304,6 @@ is therefore a closed graph. (This is true whenever C(x) is a real continuous
 C(x) +
 
 ~
-x
-
 FIGURE 6.7 A correspondence with a closed graph.
 
 function.) Another example is the correspondence C(x) = [%, 3] that is
@@ -7488,7 +7339,6 @@ f(x) = Vx does not have a fixed point because within the domain (0, 1) it is eve
 45° line. If we consider the domain | 0, 4 U [3. 1], which is not convex because it is has a gap
 equal to (3. 3), then the function f(x) = 3 for all x € [0, 5] and fix) = ; for allx€ [3. 1
 {which is continuous) will not have a fixed point precisely because of this gap.
-
 
 
 Chapter 6 Mixed Strategies
@@ -7610,7 +7460,6 @@ number of such strategies.
 Monitoring: An employee (player 1) who works for a boss (player 2) can
 either work (W) or shirk (S), while his boss can either monitor the employee
 (M) or ignore him (7). As in many employee-boss relationships, if the employee is working then the boss prefers not to monitor, but if the boss is not
-
 
 
 Chapter 6 Mixed Strategies
@@ -7748,7 +7597,6 @@ v. Show that F;(x) being uniform over [0, 1]is a symmetric Nash
 equilibrium of this game.
 
 
-
 Chapter 6 Mixed Strategies
 
 6.11
@@ -7796,11 +7644,6 @@ PART Ill
 DYNAMIC GAMES
 OF COMPLETE
 INFORMATION
-
-
-
-7
-
 Preliminaries
 
 s we have seen in a number of examples, the normal-form representation seems
@@ -7839,8 +7682,6 @@ In other words, in the simultaneous-move Battle of the Sexes game neither player
 knows what the other is choosing, so each player conjectures a belief and plays a best
 response to this belief. Here, in contrast, when it’s his turn to make a move, Chris
 knows what Alex has done, and as a result the notion of conjecturing beliefs is moot.
-
-
 
 
 7.1
@@ -7957,7 +7798,6 @@ concept of a decision tree that was introduced at the end of Section 1.1.2 and e
 it to capture multiplayer strategic situations.
 
 
-
 Chapter 7 Preliminaries
 
 FIGURE 7.1 A trust game.
@@ -8048,7 +7888,6 @@ reader who is interested in learning about their more advanced treatment of the 
 it will not deter the reader who is not.
 
 
-
 Chapter 7 Preliminaries
 
 FIGURE 7.3 A game tree with a “dummy” player.
@@ -8135,7 +7974,6 @@ In this example player 2 cannot distinguish between x, and x5, so that hy = (x1,
 On the right side of Figure 7.4 is another common way of depicting information sets,
 according to which the dashed line connecting x, with x. denotes that both are in the
 same information set. Another example of a simultaneous-move game depicted as a
-
 
 
 Chapter 7 Preliminaries
@@ -8228,7 +8066,6 @@ Consider the sequential-move Battle of the Sexes game described again in Figure 
 3. This is the reason that the definition of games of perfect or imperfect information explicitly requires
 the reference to moves of Nature. It is sometimes possible to include them in a game tree in which
 all the information sets are singletons.
-
 
 
 Chapter 7 Preliminaries
@@ -8328,7 +8165,6 @@ You may notice that this interpretation takes away some of the dynamic flavor
 that we set out to capture with extensive-form games. More precisely, when a mixed
 
 
-
 Chapter 7 Preliminaries
 
 strategy is used, the player selects a plan randomly before the game is played and then
@@ -8424,7 +8260,6 @@ equations. By definition it must be true that
 Poot Pot + Pyot Pre =,
 
 
-
 Chapter 7 Preliminaries
 
 which implies that we have only three equations with four unknowns." It follows that
@@ -8517,7 +8352,6 @@ Player 1
 
 As this matrix demonstrates, each of the four payoffs in the original extensive-form
 game is replicated twice. This happens because for any pure strategy of player 1, two
-
 
 
 Chapter 7 Preliminaries
@@ -8641,7 +8475,6 @@ This observation is useful in making the following more general point. In the
 extensive form, every outcome of the game is associated with a unique path of play
 
 
-
 Chapter 7 Preliminaries
 
 FIGURE 7.13 Equilibrium paths in the sequential-move Battle of the Sexes game.
@@ -8746,9 +8579,6 @@ those following C by player 2 are (3, 1), those following E by player
 1 are (0, 0), and those following F by player 1 are (1, 2). What are the
 Nash equilibria of this game? Does one strike you as more “appealing”
 than the other? If so, explain why.
-
-2
-
 Tic-Tac-Toe: The extensive-form representation of a game can be cumbersome even for very simple games. Consider the game of tic-tac-toe, in which
 two players mark “X” or “O” in a 3 x 3 matrix. Player 1 moves first, then
 player 2, and so on. If a player gets three of his kind in a row, column, or
@@ -8757,7 +8587,6 @@ player 2, and so on. If a player gets three of his kind in a row, column, or
 148 © Chapter7 Preliminaries
 
 TA
-
 
 
 one of the diagonals then he wins, and otherwise it is a tie. For this question
@@ -8823,7 +8652,6 @@ entering with player 2 fighting.
 
 
 V7
-
 
 
 7.5 Exercises ¢ 149
@@ -8927,10 +8755,6 @@ regardless of the strategy chosen by player 1.
 d. Now imagine that the game does not have perfect recall so that
 player 2’s bottom two information sets are now one large information set. Can you find an example showing that the claim in (c) is no
 longer true?
-
-
-8
-
 Credibility and Sequential
 Rationality
 
@@ -8957,8 +8781,6 @@ off the equilibrium path.
 There is therefore something unappealing about the logic of Nash equilibrium in extensive-form games. The concept asks only for players to act rationally
 
 FIGURE 8.1 A coordination game.
-
-
 
 
 8.1
@@ -9078,7 +8900,6 @@ plays a role. If this is the case then there is a unique action that maximizes e
 not, we can select any one of the maximizing actions.
 
 
-
 Chapter 8 Credibility and Sequential Rationality
 
 FIGURE 8.2 The voluntary Battle of the Sexes game.
@@ -9155,8 +8976,6 @@ i2 0 0 1}
 ‘1 0 oO 2°
 
 FIGURE 8.4 Proper subgames in the voluntary Battle of the Sexes game.
-
-
 
 
 Chapter 8 Credibility and Sequential Rationality
@@ -9247,7 +9066,6 @@ Player 1
 
 As we saw earlier, there are three pure-strategy Nash equilibria, (O, 00), (F, ff),
 and (O, of). Of these three, only (O, of) is the unique subgame-perfect equilibrium.
-
 
 
 Chapter 8 Credibility and Sequential Rationality
@@ -9345,7 +9163,6 @@ d, 1) (0, 3) (2, 2) dad, 4
 FIGURE 8.8 The Centipede Game.
 
 
-
 8.3.2
 
 Chapter 8 Credibility and Sequential Rationality
@@ -9399,8 +9216,6 @@ be clear that player 2 will follow its best-response function, and hence sequent
 rationality implies that
 
 Oa
-
-9
 a2(qy = ) (8.1)
 
 
@@ -9424,8 +9239,6 @@ qi: player 2 will choose g2 using equation (8.1). This in turn means that a rati
 and choose gq, to solve
 
 max [190 -a- (* > uy qi — 104. (8.2)
-1
-
 There is a fundamental difference between this maximization problem and the one
 we solved for the Cournot example in Section 3.1.2, and it depends on what the firms
 know when they make their choices. In the Cournot game neither firm knew what the
@@ -9461,14 +9274,12 @@ strategy sets, consider a heuristic game tree described in Figure 8.9. Player 1 
 an infinite number (a continuum) of choices, depicted by the arc, and each choice
 
 
-
 Chapter 8 Credibility and Sequential Rationality
 
 (100 — 4 — 42)q, — 104,
 (100 — 4 — 42)q, — 104,
 
 FIGURE 8.9 The Stackelberg duopoly game.
-1
 —,
 
 (100 — 4 — 42)q, — 104,
@@ -9560,7 +9371,6 @@ with player 1’s choice to either ignore the incident (J), resulting in mainten
 materialized without taking into account the continuing game between the superpowers.
 
 
-
 Chapter 8 Credibility and Sequential Rationality
 
 5 100 -100 -100!
@@ -9650,7 +9460,6 @@ situation.
 3. There is a mixed-strategy Nash equilibrium that you are asked to find, and use as part of a subgameperfect equilibrium in exercise 8.2.
 
 
-
 8.3.4
 
 Chapter 8 Credibility and Sequential Rationality
@@ -9719,7 +9528,6 @@ eo RTP e
 and
 y= iF ; (8.5)
 and using x, = K — x. — x3 gives
-1
 x= Kya (8.6)
 
 The player’s solution is similar to the solution we saw in Section 2.5.2. The player
@@ -9771,7 +9579,6 @@ action; therefore his behavior will be time consistent. Strotz (1956) suggested 
 players who use discounting rules other than exponential discounting will exhibit
 
 
-
 Chapter 8 Credibility and Sequential Rationality
 
 time-inconsistent behavior in that, as time goes by, they will want to deviate from
@@ -9812,8 +9619,6 @@ player 2, who is left with a budget of K, will solve the following problem (reme
 that = land 6 = 4):
 
 max v9(%2, Ky — x2) = In(x2) + 3 In(Ky — x2),
-2
-
 for which the first-order condition is
 
 dvy_ 1 0.5
@@ -9885,7 +9690,6 @@ e Subgame-perfect equilibrium is the more general construct of backward inductio
 
 e At least one of the Nash equilibria in a game will be a subgame-perfect
 equilibrium.
-
 
 
 8.5
@@ -10027,7 +9831,6 @@ Entry Deterrence 1: NSG Corporation is considering entry into the local
 phone market in the San Francisco Bay Area. The incumbent, S&P Corporation, predicts that a price war will result if NSG enters. If NSG stays out,
 
 
-
 Chapter 8 Credibility and Sequential Rationality
 
 8.9
@@ -10150,7 +9953,6 @@ c. Are there Nash equilibria that yield a higher payoff to both players as
 compared to the subgame-perfect equilibrium you found in (b)?
 
 
-
 Chapter 8 Credibility and Sequential Rationality
 
 8.14
@@ -10197,10 +9999,6 @@ What is the plan that player 1 would choose to enforce?
 b. Assume that K = 90. Up to how much of his initial budget K will
 player 1 be willing to pay the external entity in order to enforce the
 plan you found in (a)?
-
-
-9
-
 Multistage Games
 
 he normal-form game was a model of players choosing their actions simulta-
@@ -10240,8 +10038,6 @@ using future play to create incentives that constrain their behavior in earlier 
 players have the opportunity to condition future behavior on past outcomes, they may
 be able to create credible, self-enforcing incentives to follow behavior in earlier-stage
 games that would not be possible if there were no continuation games following. This
-
-
 
 
 9.1
@@ -10363,7 +10159,6 @@ the multistage Prisoner-Revenge Game to demonstrate all the possible outcomes, a
 the total sum of discounted payoffs, as shown in Figure 9.1. Notice that this way of
 
 
-
 Chapter9 Multistage Games
 
 9.3
@@ -10467,7 +10262,6 @@ of period ¢.
 In summary the definition of strategies for multistage games uses the extensive
 form to represent the game’s structure. Furthermore, as in extensive-form games,
 strategies are defined as a complete list of (mixed or pure) actions for each player
-
 
 
 9.4
@@ -10579,7 +10373,6 @@ subgame-perfect equilibrium that can be constructed in a similar way: fink in th
 on the outcome of the first-stage game.
 
 
-
 Chapter9 Multistage Games
 
 The proof of this simple observation follows immediately from backward induction. In the last stage, T, the players must play the unique Nash equilibrium of that
@@ -10687,7 +10480,6 @@ in the Prisoner-Revenge Game, we can support the path of play (F, m) followed by
 (L, 1). To do this we use the following strategies for each player: Player 1 plays
 F in stage 1, and player 2 plays m. In stage 2 both players play loner if (F, m)
 was played in stage 1, while they play gang if anything but (F, m) was played in
-
 
 
 9.5
@@ -10809,7 +10601,6 @@ path generated by the two, it must be that
 vof?, hy) > uoP|, A). (9.2)
 
 
-
 9.6
 
 9.7
@@ -10923,7 +10714,6 @@ P n
 
 Player 1
 N | 5,0 | 3,3
-
 
 
 Chapter9 Multistage Games
@@ -11051,7 +10841,6 @@ the players can support as 6 drops toward zero?
 10.1
 
 
-
 Repeated Games
 
 he previous chapter on multistage games demonstrated two important lessons.
@@ -11167,7 +10956,6 @@ check that players would not want to deviate from M in the first stage of the ga
 response if and only if —1 > —26, or 6 > 3.
 
 
-
 10.2
 
 Chapter 10 Repeated Games
@@ -11278,7 +11066,6 @@ t=1
 t=1 t=1
 
 which in turn implies that B = a < oo for any 0 <8 <1.
-
 
 
 Chapter 10 Repeated Games
@@ -11401,7 +11188,6 @@ history.
 will be 4° = 64 distinct outcomes, or histories.
 
 
-
 10.3
 
 Chapter 10 Repeated Games
@@ -11510,7 +11296,6 @@ This argument is consistent precisely because any infinitely repeated game has t
 same set of possible future plays at any stage of the game. It is this observation that
 
 
-
 Chapter 10 Repeated Games
 
 makes the analysis manageable and offers us the ability to use this circular logic in a
@@ -11600,8 +11385,6 @@ Now consider the other category of histories that are consecutive sequences of
 to play mum, his current payoff is 4, and his continuation payoff from the pair of
 strategies is an infinite sequence of 4s starting in the next period. Therefore his payoff
 from following the strategy and not deviating will be
-
-4
 vp=44445°44---=44+5——.
 
 The division of the player’s payoff into today’s payoff of 4 and the continuation payoff
@@ -11615,7 +11398,6 @@ are “close” in that they coincide over many information sets. In particular 
 after 4, and identical to 0, everywhere else, and o’ must improve upon o;. Then, since n < 00, we
 can use an induction argument similar to that for theorem 9.1. For a proof see Fudenberg and Tirole
 (1991), theorem 4.2.
-
 
 
 Chapter 10 Repeated Games
@@ -11731,7 +11513,6 @@ It is easy to see that no player would want to deviate from the proposed behavio
 the equilibrium path. The reason is that at any stage off the equilibrium path player i
 expects player j to play qj = 30, and g* = 30 is a best response to this choice. As a
 consequence deviating in any off-the-equilibrium path history at any stage will cause
-
 
 
 Chapter 10 Repeated Games
@@ -11853,7 +11634,6 @@ asked to perform a similar analysis for the repeated Bertrand game in exercise 1
 chapter.
 
 
-
 10.5
 
 10.5.1
@@ -11956,7 +11736,6 @@ Nash equilibrium, but it is not subgame-perfect. The problem is that some off-th
 prescriptions are not best responses. Showing this is left as exercise 10.4.
 
 
-
 Chapter 10 Repeated Games
 
 Use Don’t use
@@ -12057,7 +11836,6 @@ gain to any Pj is exactly 1 from defecting. In addition, because the benefit to 
 the equilibrium strategy is 1, compared to 0 if he does not post a bond, he should be willing to pay
 any fee up to 1 to player 3. In exercise 10.10 you are asked to use this fact and show that cooperative
 behavior can be sustained for any positive discount factor.
-
 
 
 Chapter 10 Repeated Games
@@ -12174,7 +11952,6 @@ reputations fascinating, and the interested reader can consult Bar-Isaac and Tad
 recent survey.
 
 
-
 Chapter 10 Repeated Games
 
 Uy 4
@@ -12257,7 +12034,6 @@ that the sequence of plays will choose different payoffs of the stage-game’s p
 strategies in a way that will imitate the weights required to achieve (vj, ..., Up)
 
 
-
 Chapter 10 Repeated Games
 
 FIGURE 10.5 Constructing the folk theorem for the repeated Prisoner’s Dilemma game.
@@ -12304,8 +12080,6 @@ t=1
 
 = (1-815 +8 (-) +. 8°) + 7(-D +--+]
 = (1-850 +8 +84 4---)+(CDEFH 4H 4--]
-
-3
 =(1-8)|5- -1)-
 ( [5 opty Al
 5-8
@@ -12347,7 +12121,6 @@ v= (1-84 46-148? -14+---J= (1-84 +8,
 
 It is easy to see that for high close to 1 the value of v; will be itself just
 barely above 1, while D, is close to 2, implying that this deviation is not
-
 
 
 10.7
@@ -12465,7 +12238,6 @@ Not-So-Grim Trigger: Consider the infinitely repeated Prisoner’s Dilemma
 with discount factor 6 < 1 described by the following matrix:
 
 
-
 Chapter 10 Repeated Games
 
 10.4
@@ -12578,7 +12350,6 @@ the drink is bought and he tastes it, he learns the value of x, but this is only
 after he pays for the drink.
 
 
-
 Chapter 10 Repeated Games
 
 Find all the Nash equilibria of this game.
@@ -12673,8 +12444,6 @@ a subgame-perfect equilibrium for a large enough discount factor 6?
 c. Show that there is a pair of subgame-perfect equilibrium strategies for
 the two players that yields average payoffs that approach (v1, 02) =
 (4, 4) as 8 approaches 1.
-
-
 
 
 Strategic Bargaining
@@ -12778,7 +12547,6 @@ of any type of bargaining, and clearly once agreements are reached the bargainin
 stage is over. However, the fixed end date T, at which an all-or-nothing agreement
 
 
-
 Chapter 11 Strategic Bargaining
 
 6(1 - x) 4
@@ -12861,7 +12629,6 @@ offer x < 1 and reject x = 1. Clearly x = 1 is nota best response because any of
 problem is that no offer x < 1 is a best response either. If player 1 offers some x’ < 1, then the offer
 xax+ ae is better than x’. The conclusion is that player 1’s payoff function is discontinuous at
 x = 1, and he does not have a best response to player 2’s strategy.
-
 
 
 11.2
@@ -12958,7 +12725,6 @@ offered x in period T — 1 then v, = 87—2x. This implies that in period T —
 player 1 will accept any x > 6 and by backward induction player 2 should
 offer x = 5, which yields player 1 a payoff of v, = 6 x 67—? = 87 —!, Payoffs
 are then v, = 67—! and v, = 87~2(1 — 6).
-
 
 
 Chapter 11 Strategic Bargaining
@@ -13079,7 +12845,6 @@ limits and take 5 — 1 first, followed by T — oo second, then lim vj = 1 and 
 the artificial take-it-or-leave-it advantage.
 
 
-
 11.3
 
 Chapter 11 Strategic Bargaining
@@ -13153,8 +12918,6 @@ in the equation
 
 v=1-—6v. (11.5)
 Taking (11.4) and (11.5) we obtain that
-1
-
 vo=v= —_—.
 ~ 146
 This result characterizes the unique subgame-perfect equilibrium of the infinitehorizon bargaining game. Notice that it coincides with the limit of the unique
@@ -13405,8 +13168,6 @@ power at all and the pie is equally split among the players, unlike the closed-r
 in which his share approaches 5 of the pie.
 
 11.4.2.2 Risky Success We concluded the previous analysis with the observation
-1
-
 that the proposer can guarantee himself a share of the pie equal to k = 753. An
 interesting question is the following: can it be beneficial for the proposer to target
 only one of the other two lawmakers and offer him a larger share at the expense of
@@ -13428,7 +13189,6 @@ equilibrium payoff in the closed-rule model with three players yields, for all 1
 ( *) ( 1 ) 6(5 — 28)
 1--}-(—— > ]J= >0
 3 1426 3(1 + 26)
-
 
 
 Chapter 11 Strategic Bargaining
@@ -13479,9 +13239,6 @@ Solving equations (11.10)-(11.12) yields the solution, which is
 _ 4 &
 4425 — §
 and
-
-2
-
 ky = 2.
 O= Tae
 
@@ -13647,14 +13404,11 @@ Compare the subgame-perfect equilibrium you found in (b) to the solution of the 
 accounts for the similarity?
 
 
-
 PART IV
 
 STATIC GAMES
 OF INCOMPLETE
 INFORMATION
-
-
 
 
 Bayesian Games
@@ -13693,8 +13447,6 @@ and correct for us to be able to use the concept of equilibrium as a method of a
 In the mid-1960s John Harsanyi realized the similarity between beliefs over
 a player’s actions and beliefs over his other characteristics, such as costs and
 preferences. Harsanyi proceeded to develop an elegant and extremely operational way
-
-
 
 
 Chapter 12 Bayesian Games
@@ -13789,7 +13541,6 @@ they do not know the preferences or types of their opponents, then what must pla
 know in order for them to have a well-defined best response and in turn let us perform
 equilibrium analysis? The natural step, as Harsanyi realized, is to require players to
 form correct beliefs about the preferences and types of their opponents. This in turn
-
 
 
 Chapter 12 Bayesian Games
@@ -14021,7 +13772,6 @@ the distribution of other players’ types, there will be a well-defined density
 revisited, together with an example, in Section 12.2.2.
 
 
-
 Chapter 12 Bayesian Games
 
 Conditional probabilities follow a mathematical rule that derives the way in which
@@ -14107,8 +13857,6 @@ takes as given that Nature chooses the types according to the matrix.
 
 Now imagine that player 1 learns that his type is a. What must be his belief about
 player 2’s type? Using the conditional probability formula in (12.1),
-
-1
 Pr{8j =aN=c 6
 
 $(@2 = cl, =a) = 4 = sis at
@@ -14116,9 +13864,6 @@ $(@2 = cl, =a) = 4 = sis at
 Pr{é, =a} etz 3
 
 and similarly
-
-1
-
 Pr{0, =aNO,=d 3 2
 
 $1(0y = d)6, =a) = HAS 20H al} 3 .
@@ -14150,7 +13895,6 @@ type and then played according to that strategy. This should remind you of strat
 for extensive-form games that are defined as mappings from information sets to
 actions, where a pure strategy is a rulebook of what to choose in each information
 set. In Bayesian games we can think of the types of players as being their information
-
 
 
 Chapter 12 Bayesian Games
@@ -14364,7 +14108,6 @@ what he does if he is an L type and y is what he does if he is an H type. Simila
 So = {cc, cd, dc, dd}. The payoffs are calculated using the probabilities over the
 
 
-
 Chapter 12 Bayesian Games
 
 states of Nature together with the strategies of the players. For example, if player
@@ -14372,48 +14115,27 @@ states of Nature together with the strategies of the players. For example, if pl
 
 1 1 1 1
 Evu\(CD, dd) = ri x u(C,d;L)+ ri x u(C,d;L)+ ri x v(D, d; HA) + ri x v,(D, d; H)
-
-1
 =-xX
-4
-
 1
 O+-x0
 +7 x0+
-
-1
 —-xX
-4
-
 R_y
 
 (3
 
 )+a*
-4
-
 and the expected payoffs for player 2 are
 
 E-9
 
 R
-4
-
 H
-2
-
 1 1 1 1
 Ev,(CD, dd) = ri x w(C, d; L) + 4 x v9(C, ds H) + 4 xX v2(D, ds L) + 4 xX v2(D, d; H)
-
-1
 =-xX
-
-4
-
 1 1
 R+-xR+
-4
-
 4
 
 —xX
@@ -14435,9 +14157,6 @@ A
 (
 
 -#)
-
-4
-
 4
 
 re
@@ -14547,7 +14266,6 @@ than choosing ¢ = 0, which will be true if and only if
 which can be rewritten as
 
 
-
 Chapter 12 Bayesian Games
 
 This in turn implies the following:
@@ -14647,7 +14365,6 @@ equilibrium +
 BR{@,)
 
 FIGURE 12.4 Best-response thresholds of the study group game.
-
 
 
 12.3
@@ -14753,7 +14470,6 @@ thinks that player 1 will accept, and such an offer would be p = 20.
 
 5. For any p* €[10, 14] a strategy for player 1 of accepting any offer p > p* and a strategy for
 player 2 of offering p* would be a Nash equilibrium when the quality is low.
-
 
 
 Chapter 12 Bayesian Games
@@ -14873,7 +14589,6 @@ Pr{6, = O/T} = Pr; =6;IG}=1-p<4 fori € {1,2}.
 Note that the private information that each player receives, or his type, is not about
 how he evaluates outcomes. Instead it is information about the state of the world,
 namely the likelihood that the defendant is guilty. However, because the state of the
-
 
 
 Chapter 12 Bayesian Games
@@ -14997,7 +14712,6 @@ Pr{GI6; = 6g and 6; = Og} =
 qd— p)+0—@)p>q— p)+A—g— p)=1—p.
 
 
-
 12.5
 
 Chapter 12 Bayesian Games
@@ -15116,7 +14830,6 @@ playing pure strategies, but the distribution of types makes a player have belie
 he were facing a player who is playing a mixed strategy. Harsanyi argues that using
 mixed-strategy equilibria in simple games of complete information can be thought of
 as a solution to the more complex games of incomplete information, in which players
-
 
 
 12.6
@@ -15248,7 +14961,6 @@ while the owner’s payoff is given by the net value 4x — p, and this is commo
 knowledge.
 
 
-
 Chapter 12 Bayesian Games
 
 12.6
@@ -15350,7 +15062,6 @@ Purification: Consider the perturbed Matching Pennies game described in
 Section 12.5 and show that the Bayesian Nash equilibrium identified is the
 unique Bayesian Nash equilibrium. (Hint: Some insights can be gained by
 looking at the solution to the study group example in Section 12.2.2.)
-
 
 
 Auctions and Competitive
@@ -15554,7 +15265,6 @@ This corresponds to the situation in which all the other n — 1 bids are in reg
 one of them randomly be the winner and pay the second-highest price, which would be equal to his
 own bid (since the two tied as the highest bid). This case would add negligible complications and is
 remarked upon at the end of this section.
-
 
 
 Chapter 13 Auctions and Competitive Bidding
@@ -15788,7 +15498,6 @@ oe
 (13.3)
 
 
-
 Chapter 13. Auctions and Competitive Bidding
 
 For the profile of bidding strategies (5)(-), ..., 5p(-)) = (s*(), ..., 5*(-)) to be
@@ -15908,7 +15617,6 @@ have a (weakly) dominant strategy, and it results in the same outcome. In additi
 argued earlier, the Dutch and first-price sealed-bid auctions result in similar revenues
 because in both the bid shading is a delicate play between the attempt to make some
 profit and the attempt to win the good, making these games strategically equivalent.
-
 
 
 Chapter 13. Auctions and Competitive Bidding
@@ -16169,7 +15877,6 @@ expected amount of oil in the field conditional on the signal that a player has.
 i observes a low signal, he knows that with probability 3 the other signal is low and
 
 
-
 Chapter 13 Auctions and Competitive Bidding
 
 v= 10, and with probability 4 the other signal is high and v = 20. Therefore
@@ -16366,9 +16073,6 @@ n-1
 13.10
 
 13.4 Exercises * 287
-
-2
-
 Why do you think that bidders bid above their valuations?
 
 d. Compute the seller’s expected revenue from this auction and compare
@@ -16526,8 +16230,6 @@ Chapter 14 Mechanism Design
 
 mechanism designer can keep some of the money that he raises from the players. Thus
 the set of outcomes is restricted as follows:
-
-i
 ¥ ={(x, my,...,m,):x © X, m; ERViE N, )* m; <0}.
 
 i=l
@@ -16632,7 +16334,6 @@ The mechanism designer would like to know @ and then choose the outcome f (@). U
 given any @, the players choose actions a = (a), a2,..., @,) commensurate with
 
 
-
 14.2
 
 Chapter 14 Mechanism Design
@@ -16716,7 +16417,6 @@ Eo_vj(g(s7 @), s*,@4)), 16]
 
 which means that no player i wishes to deviate from 57 (-). One particular way to
 deviate for player i is by using s;(-) but pretending that his type is 0, rather than 6;,
-
 
 
 Chapter 14 Mechanism Design
@@ -16830,14 +16530,10 @@ a consequence of the additivity in money in quasilinear preferences, and it give
 to the following useful proposition:
 
 
-
 Chapter 14 Mechanism Design
 
 Proposition 14.2 In the quasilinear environment, given a state of the world 0 € ©,
 an alternative x* € X is Pareto optimal if and only if it is a solution to
-
-i
-
 max » u;(x, 9).
 i=
 
@@ -16932,7 +16628,6 @@ consequence is that player i is faced with a choice that is as if the other play
 telling the truth, and then his own payoff becomes the Pareto-optimal objective that
 the mechanism designer wishes to maximize, with the only decision variable being
 player i’s announced type. Thus it is as if the player chooses the ultimate decision x,
-
 
 
 Chapter 14 Mechanism Design
@@ -17050,13 +16745,11 @@ c. Does your answer to (a) change if the choice function is f (0), 63) = B
 and f (6, 65) = B?
 
 
-
 PART V
 
 DYNAMIC GAMES
 OF INCOMPLETE
 INFORMATION
-
 
 
 15.1
@@ -17095,8 +16788,6 @@ To understand the role of proper subgames as introduced in Chapter 8, and how th
 were used to reach the concept of subgame-perfect equilibrium, it is illuminating to
 
 consider the following familiar entry game of complete information. Player 1 is a
-
-
 
 
 Chapter 15 Sequential Rationality with Incomplete Information
@@ -17302,7 +16993,6 @@ with positive probability. We say that an information set is off the equilibrium
 if given o* and the distribution of types, it is reached with zero probability.
 
 
-
 Chapter 15 Sequential Rationality with Incomplete Information
 
 Notice that an important part of being on or off the equilibrium path is having
@@ -17412,7 +17102,6 @@ This is precisely how beliefs are formed; they include both the exogenous constr
 
 2. See Section 19.4.3 for a detailed description of Bayes’ rule and how it relates to dynamic games
 of incomplete information.
-
 
 
 Chapter 15 Sequential Rationality with Incomplete Information
@@ -17529,7 +17218,6 @@ player 2 is reached with probability 1, and the belief must be 4, = 0,4. However
 the information set following player 3 is not reached with positive probability, and
 requirement 15.3 as already stated allows for any beliefs in this information set. A
 more careful scrutiny would imply the following logic: If player 4 realizes that his
-
 
 
 15.3
@@ -17735,7 +17423,6 @@ Nash equilibria of this game? Are there Bayesian Nash equilibria that
 are not perfect Bayesian equilibria?
 
 
-
 Chapter 15 Sequential Rationality with Incomplete Information
 
 15.4
@@ -17841,8 +17528,6 @@ c. Which of the Bayesian Nash equilibria that you found in (a) are
 sequential equilibria?
 
 
-
-
 Signaling Games
 
 I games of incomplete information there is at least one player who is uninformed
@@ -17939,7 +17624,6 @@ Education Signaling: The MBA Game
 
 This section analyzes a very simple version of an education signaling game in the
 spirit of Spence’s work that sheds some light on the signaling value of education. To
-
 
 
 Chapter 16 Signaling Games
@@ -18041,7 +17725,6 @@ he observes that player 1 chose k € {U, D}.
 To make our analysis more straightforward, assume that Nature chooses player
 1’s type according to p = b so that we can derive the matrix that is the normalform representation of the MBA Bayesian game. As we have demonstrated earlier
 for the entry game, the payoffs in the matrix are calculated by taking each pair of
-
 
 
 Chapter 16 Signaling Games
@@ -18208,8 +17891,6 @@ this case is necessary and sufficient, as you can check), and this in turn gives
 2’s quantity:
 
 2 saa a{t ife;=1
-2
-
 a= “15 ife;=2.
 Step 2: What will q and ge be if firm 2 enters and firm 1’s costs are known to all?
 In this case both firms play a Cournot game. Firm 1 maximizes its profits, given by
@@ -18229,8 +17910,6 @@ BR\g?)= 2
 (BR1)
 Firm 2 solves a problem that is similar except that it also includes the fixed cost of
 entry in the objective function,
-
-1
 max v3 = (5-9; — 43 — 145 - =,
 @ 2
 
@@ -18272,7 +17951,6 @@ Firm 1, f=1 Firm 1, t=2 Firm 2, t=2 Firm 2’s beliefs
 should include two components: first, whether or not to enter depending on qi and then upon entry
 what the choice ah) is. We are simplifying by collapsing both of these choices of firm 2 into the
 quantity choice, and we will let g3(q}) = 0 be the choice of no entry.
-
 
 
 Chapter 16 Signaling Games
@@ -18383,7 +18061,6 @@ therefore be 3.25. From the foregoing analysis, the H type would not deviate to 
 other entry-inducing quantity because that would lower its first-period profits without
 deterring entry. We are left to check whether the H type would want to deviate and
 choose qi” = 2 instead of qi? = 1.5.
-
 
 
 Chapter 16 Signaling Games
@@ -18541,8 +18218,6 @@ for which the best response is
 qq a ae
 
 And finally the entrant, firm 2, maximizes
-
-1
 max — [6 — at — aga) - ear]
 gigi) 2
 
@@ -18601,7 +18276,6 @@ Similarly for the L type,
 which reduces to
 
 1.493 < q}* < 2.507. (ICL)
-
 
 
 16.3
@@ -18720,7 +18394,6 @@ criterion if two conditions hold. Condition (1) states that any type in the subs
 types © would never choose to play a, because regardless of which type player 2
 
 
-
 Chapter 16 Signaling Games
 
 believes him to be, he would do strictly worse than if he stuck to the equilibrium.
@@ -18762,8 +18435,6 @@ profits in period 2 equal to 2.25. So this deviation is always worse for him bec
 
 Condition (2) is satisfied because if player 2 is convinced that player 1 is indeed an
 L type then player 2 will stay out and the L type will receive
-
-2
 (5-3-3+4=7>4+(f) . (16.3)
 
 Notice that the right side of (16.3) is the highest pooling equilibrium payoff that
@@ -18835,7 +18506,6 @@ After observing the period t = 1 price, a potential entrant (player 2), which
 
 does not know the incumbent’s type but knows the distribution of types, can
 choose to enter the market (E) or stay out (QO) in period t = 2. The payoffs of
-
 
 
 Chapter 16 Signaling Games
@@ -18950,7 +18620,6 @@ unique outcome of the pooling perfect Bayesian equilibrium?
 6. This exercise is based on one written by Rod Garrett and John Wooders.
 
 
-
 Chapter 16 Signaling Games
 
 16.8
@@ -19035,8 +18704,6 @@ and the paper that got me my first academic job explored reputation as a tradabl
 reader is referred to Tadelis (1999).
 
 
-
-
 Chapter 17 Building a Reputation
 
 Player 2
@@ -19082,8 +18749,6 @@ while his payoff from defecting is
 ¥4(d) = PQ) + = pO) + PO) =2p.
 
 It follows that player 2’s best response is to play c in period t = 1if and only if p > 4,
-7
-
 Claim 17.1 shows that when there is a high enough chance that player 1 is a grimtrigger type then player 2 will choose to cooperate in the first period. The reason is
 simply that if he defects, he guarantees himself a payoff of 0 in the second period,
 while if he cooperates, he may get a payoff of 2 from defecting. He is, however, taking
@@ -19147,7 +18812,6 @@ A formal proof is not provided, and the interested reader can refer to the origi
 paper by Kreps et al. (1982) or to Mailath and Samuelson (2006, Chapter 17). The
 intuition follows from the fact that if the strategic type of player 1 chooses D in some
 period ¢ < T then it becomes common knowledge that that player 1 is strategic, and
-
 
 
 17.2
@@ -19248,7 +18912,6 @@ L
 P<
 
 
-
 Chapter 17 Building a Reputation
 
 Nature
@@ -19320,7 +18983,6 @@ will be
 
 Similarly we can compute the other combinations of strategies to obtain the following
 matrix:
-
 
 
 Chapter 17 Building a Reputation
@@ -19419,7 +19081,6 @@ probability 3.
 3. This follows because the information set of rejection is reached for sure if player 2 is a jerk, hence
 the 0.1, and is reached with probability } if player 2 is normal, hence the 0. 93 . The rest follows
 from Bayes’ rule.
-
 
 
 Chapter 17 Building a Reputation
@@ -19650,7 +19311,6 @@ can be fooled in equilibrium.
 
 ‘We can now proceed to actually find the unique perfect Bayesian equilibrium of the
 game. Let o,(x,) denote the probability that a selfish player 1 chooses to stop at node
-
 
 
 Chapter 17 Building a Reputation
@@ -19910,7 +19570,6 @@ c. Find the unique perfect Bayesian equilibrium of the two-period game.
 Why is there a difference in the effort levels in each period?
 
 
-
 Information Transmission
 and Cheap Talk
 
@@ -19946,8 +19605,6 @@ four steps:
 As we will now see, the inherent conflict of interest between the players will put
 limits on how much information the informed player can credibly communicate to
 the uninformed player in equilibrium.
-
-
 
 
 18.1
@@ -20010,8 +19667,6 @@ of states.
 
 
 18.1 Information Transmission: A Finite Example ¢ 359
-
-4
 3 4 1 4 -ll 1 4 3 4 1 -ll +4 1 4 3
 38 5 42 14 -34 -46 06 38 S 42 -21 -119-46 06 38
 
@@ -20049,7 +19704,6 @@ just replicated for the other nodes in which @ and a, are the same.
 
 4. We have v,(3, 3) =5— G+ 1.1 — 3)? = 3.79, whereas v, (4, 3) =5— G+ 11-4)? =4.99 and
 v6, 3) =5- B411-57? =4.19.
-
 
 
 Chapter 18 Information Transmission and Cheap Talk
@@ -20161,7 +19815,6 @@ Information Transmission: The Continuous Case
 This section presents the more elegant and extremely well-known model of cheaptalk games introduced by Crawford and Sobel (1982), whose insights are highlighted
 
 
-
 Chapter 18 Information Transmission and Cheap Talk
 
 Y
@@ -20258,7 +19911,6 @@ if the message space is continuous. There are two ways to proceed. First, we can
 space A, and partition itinto a, C A, anda/ = A,\q‘ so that there are no off-equilibrium-path beliefs.
 Second, we can define off-equilibrium-path beliefs that will support aj and a/ as the two equilibrium
 messages. Later in this section we will take the latter approach.
-
 
 
 Chapter 18 Information Transmission and Cheap Talk
@@ -20371,7 +20023,6 @@ recommendation and the floor must choose between it and the status quo policy a,
 9. Note that the kind of refinements we discussed in Chapter 16 will not help refine the set of equilibria
 because there is no scope for “forward induction” types of arguments. This is a consequence of the
 sender’s messages being cheap talk.
-
 
 
 Chapter 18 Information Transmission and Cheap Talk
@@ -20490,7 +20141,6 @@ a. Find a threshold bias b* such that if b > b* then the pair of strategies
 used in claim 18.3 is no longer an equilibrium.
 
 
-
 Chapter 18 Information Transmission and Cheap Talk
 
 18.2
@@ -20583,7 +20233,6 @@ N = {1, 2, 3,...},
 where the notation “:” means “such that,” and the notation “.. .” means “and so on
 
 and so forth.”
-
 
 
 370 «
@@ -20773,9 +20422,6 @@ that takes the form f(x) = ax? + bx +c, where a, b, and ¢ are real numbers. For
 f@) =2-0.5x
 
 RY
-
-x
-2
 FIGURE 19.2 Linear functions.
 Yo
 ff)
@@ -20930,7 +20576,6 @@ textbook) are
 
 1. If f(x) =a + In(x), where In(x) is the natural logarithm, then f’(x) = i.
 2. Tf f(x) =2* then f’(x) = kx*!
-
 
 
 Chapter 19 Mathematical Appendix
@@ -21329,7 +20974,6 @@ Pa a+b
 a 2(b-a) 20
 
 
-
 References
 
 Akerlof, George (1970). “The Market for Lemons: Quality Uncertainty and the Market Mechanism,” Quarterly Journal of Economics 89(2): 488-500.
@@ -21388,8 +21032,6 @@ Downs, Anthony (1957). An Economic Theory of Democracy. New York: Harper and Row
 
 Epstein, David, and Peter Zemsky (1995). “Money Talks: Deterring Quality Challengers in
 Congressional Elections,” American Political Science Review 89(2): 295-308.
-
-
 
 
 References
@@ -21547,7 +21189,6 @@ Rubinstein, Ariel (1982), “Perfect Equilibria in a Bargaining Model,” Econom
 Savage, Leonard J. (1951). The Foundations of Statistics. New York: John Wiley & Sons.
 
 
-
 References
 
 Schwalbe, Ulrich, and Paul Walker (2001). ““Zermelo and the Early History of Game Theory,”
@@ -21682,7 +21323,6 @@ games, 140-42, 141f; in multistage games,
 beliefs: about mixed strategies, 105;
 about preferences, 243-44, 247; bestresponse correspondences and, 71-73;
 constraints on, 308-10; definition of, 72;
-
 
 
 Index

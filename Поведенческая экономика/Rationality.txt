@@ -776,8 +776,6 @@ f
 ners
 fast ~~
 andslow -
-4
-
 DANIEL
 KAHNEMAN
 

@@ -7,14 +7,10 @@ Chapman University Digital Commons
 Economics Faculty Articles and Research                                                                                                  Economics
 
 
-
-
 An Experimental Study of Competitive Market
 Behavior
 Vernon L. Smith
 Chapman University, vsmith@chapman.edu
-
-
 
 
 Follow this and additional works at: http://digitalcommons.chapman.edu/economics_articles
@@ -33,8 +29,6 @@ This article was originally published in Journal of Political Economy, volume 70
 
 Copyright
 University of Chicago
-
-
 
 
      This article is available at Chapman University Digital Commons: http://digitalcommons.chapman.edu/economics_articles/16
@@ -89,8 +83,6 @@ Stanford University.                                            Co., 1960).
                                                            ll
 
 
-
-
                         This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
                                         All use subject to JSTOR Terms and Conditions
 112                                    VEl"RN(N L. SMI'Tll
@@ -142,8 +134,6 @@ appearing on their buyer's card; they of their contract price over their mini-
   Chart 1. At each price the correspond- the commodity during any one trading
   ing quantity represents the maximum or market period. This rule was for the
   amount that could be purchased at that sake of simplicity and was relaxed in
-
-
 
 
                    This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -218,8 +208,6 @@ then shout, "Sell at $3.60." Any seller                                 ment in 
 offer), in which case a binding contract                                for this purpose.
 
 
-
-
                                  This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
                                                  All use subject to JSTOR Terms and Conditions
 114                                     VERNON L. SMITH
@@ -276,8 +264,6 @@ contracts in the preceding trading period,                 ble. Competitive pric
                                                              and demand, changes in supply or demand, and
    a rejection set of offers (and bids) for                  changes in the rules of market organization on
    eaclh buyer (and seller), which in turn                   market-price behavior.
-
-
 
 
                     This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -339,8 +325,6 @@ have any power to pre(dict the observed behavior          is to study the effect
 of the market.                                            changing conditions on market behavior.
 
 
-
-
                       This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
                                       All use subject to JSTOR Terms and Conditions
 116                                            VERNON L. SMITH
@@ -393,8 +377,6 @@ librium for each of these markets. As                              increasing fu
  and to cluster more closely around the                             ratic tendency toward equilibrium. These
  equilibrium. In Chart 1, for example, the                          results are, of course, consistent with
  variation in contract prices over the five                         nmany other hypotheses, including the
-
-
 
 
                            This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -453,9 +435,7 @@ librium for each of these markets. As                              increasing fu
       7                          3            9           9       3.40          3.23          7.1           3             1        None        None
                            l
                                145            9
-                                              9
                                                           8
-                                                          9
                                                                   3.40
                                                                   3.40
                                                                                 3.32
@@ -463,8 +443,6 @@ librium for each of these markets. As                              increasing fu
                                                                                                3.4
                                                                                                3.0
                                                                                                             3
-                                                                                                            3
-                                                                                                                          0
                                                                                                                           0
                                                                                                                                    None
                                                                                                                                    None
@@ -486,7 +464,6 @@ librium for each of these markets. As                              increasing fu
                                  1           18         18        3.40          3.17         11.0           4             2        None        None
 10.            .                 2           18         17        3.40          3.36          3.2           4             1        None        None
                                  3           18         17        3.40          3.38          2.2           4             0        None        None
-
 
 
                                                    This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -539,8 +516,6 @@ librium for each of these markets. As                              increasing fu
                                                     QUANTITY                                                                                                                              TRANSACTION                 NUMBER (BY PERIOD)
 
 
-
-
                                                                                                                                              CHART 3
 
                                                                                                                                                  TEST 3
@@ -587,8 +562,6 @@ librium for each of these markets. As                              increasing fu
                                                              QUANTITY                                                                                             TRANSACTION                   NUMBER (8Y P0R0OD1
 
 
-
-
                                                                           This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
                                                                                           All use subject to JSTOR Terms and Conditions
                  EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR                                                                                                              119
@@ -612,7 +585,6 @@ on his reservation price acceptance set.                                        
   5.40 -S-                                                                                                                                                                      5,40
   5.20                                                                                                                                                                          52.20
   5.00                                                                                                                                                                          52.00
-                                                                                                                     4
   4.80           3
                                                                                                         Po 351   0        3105     1        7        5    3.10,X3   -7       4.80
   4.60                                                                                                                                                                       4.60
@@ -643,7 +615,6 @@ on his reservation price acceptance set.                                        
                                      QUANTITY                                                               TRANSACTIONNUMBER180 PERIOD)
 
 
-
 In this seinse, there is no divergence of                                                             demand from DD to D'D' was ineffective
 attitude among the sellers, thougli there                                                             as a means of shocking the market down
 might be marked variation in their bar-                                                               to its supply and demand equilibrium.
@@ -659,8 +630,6 @@ in market processes in which some quantity-adjust-                              
 ing decision is made by the marketers. The results
 of a pilot experiment in "short-run" and "long-run"                                                   a solid front against price being lowered
 equilibrium are displayed in the Appendix.                                                            to "equilibrium." In the previous mar-
-
-
 
 
                                       This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -717,8 +686,6 @@ is very large at prices above equilibrium if supply            final equilibriut
 is very elastic relative to demand.                            be obtainable by introducing actual mon-
 
 
-
-
                         This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
                                         All use subject to JSTOR Terms and Conditions
                          EX1P1RIMENTAL STUD)Y
@@ -741,7 +708,6 @@ any period. This sum would represent                                            
 
   5.21r                                                    SI                                                                                                                                           5.2 0
   5 0                                                             s                                                                                                                                     5.00
-
 
 
   4.61hL
@@ -775,7 +741,6 @@ any period. This sum would represent                                            
                                                                                                                                                                                                         2.
                -
   2.4 0                                   I6
-                                                                                                                                                                                            3
   2.28
         2.2 0 s
                                                  I                               02=2.0          a2=0.7             12=0.7               OC=0.6           12-9.4                    41 4                24 0
@@ -790,7 +755,6 @@ any period. This sum would represent                                            
                0                                                                                                                                                                                        ~~~~~~~~~~~
                      2        4   6   8   10     12   14   16         18        2 4 6 8       11 2 4 6 8 9         2 4 6 8 10 2 4 6 0 9 2 4 6 8 10 12 2 4 6 8 10 10
                                       QUANTITY                                                                   TRANSACTIONNUMBER(BY PERIODI
-
 
 
 "'normal profits," that is, a small return of subjects than any of the other experi-
@@ -808,8 +772,6 @@ reservation prices than their counter- By the second trading period the market w
                                            in equilibrium. In the third period all trades were
 L)artsin real markets. The use of ml-oine- at $3.10! Apparently $0.05 per period was considered
 tary payoffs, as suggested, should remove satisfactory normal profit.
-
-
 
 
                                                  This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -869,8 +831,6 @@ sellers of test 5B retaiiicd the same reservation price
 cards as they had in test 5A1.                                   ing to DD were replaced by new cards
 
 
-
-
                         This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
                                         All use subject to JSTOR Terms and Conditions
                                                                                                                            CHAR'' 6
@@ -894,7 +854,6 @@ $20.0                                                                           
  14.0 0                                                                                                                                                                                                                      14.00
 
  13.00                                                                                                                                                                                                                           1          0
-                                                                                                                                                                                                                                            0
  12.00-                                 -                      --                               --                                                                                                                               12.0
 
  11.00                                                                                                         -       -                                                      12.009
@@ -910,14 +869,8 @@ $20.0                                                                           
 
         5.50                                                                                                                       10=~~~~~~~~~~~~~
                                                                                                                                      ~~38.7    ~~~~~~~~  CC=21.1             C0=9.4               0>11I. 0
-                                                                                                                                                                                                                                     5
-
-
-
   4.0 0
                         S           ~ ~ ~ ~ ~ ~ ~ ~ ~~TS                                                                                                                                                                             4.0
-
-
 
 
    2.0 0                                                                                                                                                                                                                              2.00
@@ -929,11 +882,8 @@ $20.0                                                                           
                                                                                                                                                                                                                     2    -
 
 
-
            020                  4           6        8       1012       14     1618                       24       6   81010     2 46     8    I)12124       6 810    1224       6 810     1224       68     11    24    6
                                                     QUANTITY                                                                                  TRANSACTION      NUMBER (EY PERIOD)
-
-
 
 
                                                                                                                                CH5ART17
@@ -969,13 +919,8 @@ $20.0                                                                           
            .60                                                                                                                                                                                                                             ~~~~~~~~~~
            .40                                                                                   I                                ~~~~~~~~~~~~~~~~~~PERIOD
                                                                                                                                       1 PERIOD2 PERIOD3 PERIOD4PEID5                                              EIO6
-
-
-                                                                                                                                                                                                                                             2
                             1       2           3        4    5      6  7    8                   9   10   11        12-             2 4 6 8 2 4 6 8 9 2 4 6 89 2 4 6 8 2 4 6 8 9 2 4 6 89
                                                                     QUANTITY                                                                    TRANSACTIONNUMBER(BY PERIOD)
-
-
 
 
                                                                     This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -1026,7 +971,6 @@ responded promptly to the decrease in                                           
    1.6 0                                                                                                                                                                                          1.60
 
 
-
          1.20NTI-YSE                                                                                    LEES ONLY BIDDING            N0-              PEID        BUYERS          SELLERS>        1.
    1.0 0                                                                                                                                                                   BIDDING                     o
     .80                                                                                        -                                                                                                   .80
@@ -1038,11 +982,8 @@ responded promptly to the decrease in                                           
                                                                                                    1     PERIOD 2       PERIOD        3    PERIOD 4            PERIOD 1         PERIOD 2
 
 
-
                        1       2   3   4   5   6      7   8   9   10   11   12 1 2 3 4        5 6 7 8    1 2 3 4 5 1 2 3 4 5 6 1 2 3 4                  5 1 2 3 4        5 6 1 2 3 4      5 6
                                            QUANTITY                                                               TRANSACTION        NUMBER 180 PERIOD)
-
-
 
 
  demand by showing apparent conver-                                                                    advertising their offer prices, with buyers
@@ -1058,7 +999,6 @@ responded promptly to the decrease in                                           
  ing the effect of changes in market or-                                                               in accordance with this crude expectation
  ganization on market price. In the first                                                              in the first market period only (test 8A,
  four trading periods of this experiment                                                                Chart 8). Since sellers only were making
-
 
 
                                                This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -1119,7 +1059,6 @@ mainder of test 8A. Furthermore, the given period. Each trader can experiment
   ly (listurbing effect on the equilibrating they are at equilibrium or non-equilibrium prices.
 
 
-
                       This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
                                       All use subject to JSTOR Terms and Conditions
 126                                                               VERNON L. SMITH
@@ -1166,7 +1105,6 @@ in test 10 than in the first three periods                                      
     1.80
    4.2                                                                      ~~~~~        0=1. 21.8          21545.4             0=1. 13.2                 2=03           -          1.80
    1.60 -                                                                                                                                                                - ~~~~~~~~~~~
-                                                                                                                                                                             0
     1.4 0 -                                                                                                                                                              - ~~~~~~~~~~~
   1.20 --                                                                                                                                   51               (     S2    -         1.20
     240             4   26   8   101          41         82       22              62           0151              01       851
@@ -1176,11 +1114,8 @@ in test 10 than in the first three periods                                      
    .4 0                                                  I IPERIOD                               1         PERIOD2              PERIOD3                  PERIOD1                   .4 0
      .2 0
                                                                             D                                                                                                      ~~~~~~~~~~~
-                                                                                                                                                                                      0
-
           0    2    4   6    8   10    1214        16   182022         24       2628   1 5    10 1518      S     10 1518        510      1518            5 1131520
                                         QUANTITY                                                        TRANSACTIONNUMBER(BY PERIOD)
-
 
 
 of 7. T-Tencean increase in velume appears                                                   IV. EMPIRICAL ANALYSIS OF EXPERI-
@@ -1195,8 +1130,6 @@ same volume.                                                                    
  crease in demand were once again tested.                                               is that
  Contract prices responded by moving                                                    Apt = Ptei - Pt =f[xi(pt),            (1)
  upward immediately, and the volume                                                                                                   X2(pt) . . *.1 +                  Eg
-
-
 
 
                                        This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -1231,7 +1164,6 @@ Po = g(Po). Rather than estimate the                                            
                                                                          CHART 10
 
                                                                                                                                                  $15.00
-
 
 
                                                                                           *- OFFERS                                      -           9.00
@@ -1270,7 +1202,6 @@ Po = g(Po). Rather than estimate the                                            
 ____________________________________________                                                                                                            ~~~~~~~
 
 
-
                                            This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
                                                            All use subject to JSTOR Terms and Conditions
        10                                                       3     2       1
@@ -1279,8 +1210,6 @@ ____________________________________________                                    
                                                                 ..... ..... .....
        ......... ....... ....... 7............. .....
                                                         .....                         Experiment
-
-
 
 
                 1.653                  1.913            2.852         1.904 0.933
@@ -1332,10 +1261,7 @@ ____________________________________________                                    
        X1t      x1t x1t        xit     xit       x5t xit        xit   x1t     Xit
 
 
-
                 -      -       -                 -                    -
-
-
 
 
                                              (                                      (APt
@@ -1374,7 +1300,6 @@ ____________________________________________                                    
                           X3t          X3t       x3t    x3t     X3t   x3t     X3t
 
 
-
                 -      -               -         -
 
 
@@ -1395,8 +1320,6 @@ ____________________________________________                                    
 
 
        -        -      -                         -              -     -
-
-
 
 
                         (          (                                                (Apt
@@ -1433,8 +1356,6 @@ ____________________________________________                                    
                                              .0315)        0.0054
                                                         (?0.0215)
        X3t      X3t    x3t     x3t     X3t       X3t    x3t     x3t   x3t     x3t
-
-
 
 
 This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -1483,7 +1404,6 @@ With the exception of experiment 8A, the tion that Apt= 0 when Pt = Po in the
  10..        .             -0.731              0.039         0.033         -1.19           0.022         0.028               -0.80            47
 
 
-
  is the one in which the trading rules                                          um buyers' and sellers' rent. These re-
  were altered to permit only sellers to                                         sults provide some additional evidence
  quote prices.14                                                                in favor of our conjecture in Part III,
@@ -1502,8 +1422,6 @@ With the exception of experiment 8A, the tion that Apt= 0 when Pt = Po in the
   they had differeintand varying objectives. The un-
                                                                                  equation (1) were studied in detail and
   stable ones ecre 4B, 8B, and 9B.                                               tested for their ability to predict the
-
-
 
 
                                       This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -1563,8 +1481,6 @@ um, by an amount proportional to the shown in Table 2, columns 2-5. A 95
 alglebraic differeince between buyers' aild per ceilt colnfidence interval is sliowii in
 
 
-
-
                     This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
                                     All use subject to JSTOR Terms and Conditions
          EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR                                                 131
@@ -1619,8 +1535,6 @@ parison we can think of |o, I, shown in                      hypothesis tends to
  is true the differeniceis qjuite small, tenid-               (New York: Johii Wiley & Sonls, 1960), )p. 196-99.
 
 
-
-
                      This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
                                      All use subject to JSTOR Terms and Conditions
 132                                    VERNON L. SMITH
@@ -1671,8 +1585,6 @@ process which is greater, the smaller is                    P = Po. Note particu
  able. Thus, if equilibrium buyers' rent                    one desires to attach any welfare sig-
  excee(ls sellers' rent, any early tendency                 nificance to the concepts of consumer
  for contract prices to remain above equi-                  and producer surplus or not, it is com-
-
-
 
 
                    This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -1734,8 +1646,6 @@ and Linear Programming," American Economic Re-               formation may often
 View,v,                                                           19 Samuelson,     op. cit., p. 285.
 
 
-
-
                       This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
                                       All use subject to JSTOR Terms and Conditions
 134                                      VERNON L. SMITH
@@ -1788,7 +1698,6 @@ be discussed briefly in this appendix for      no   attempt   was made to distin
 the benefit of readers interested some      of effects of different trading periods. The sam-
 the numerous additional lines of inquiry ple of observations for each experiment em-
 that might be pursued.                         braced all the trading periods of that ex-
-
 
 
                     This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -1867,8 +1776,6 @@ gests that the later trading period regres-                                     
                                                                                                                                                            (BY PERIOD)[
 
 
-
-
                                            This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
                                                            All use subject to JSTOR Terms and Conditions
 136                                                             VERNON L. SMITII
@@ -1935,8 +1842,6 @@ of the last trading period. Contract prices                                     
                               QUANTITY                                                          TRANSACTIONNUMBER(BY PERIOD)
 
 
-
-
 converge, but the traders continue to at-                                                    even produced until after the sale contract
 tempt to get better terms by making re-                                                      is executed. Hence, the possibility of distress
 peatedly high offers and low bids. In this                                                   sales, leading to losses by sellers, is ruled
@@ -1950,8 +1855,6 @@ auction marlket's way of compensating for                                       
 the fact that, in this particular experiment,                                                was giving all sellers the option at the
 sellers were iii a "softer" (higher renit) posi-                                             beginning of each trading period of enterinig
 tion than buyers.                                                                            the market or remaininig "out of produc-
-
-
 
 
                                           This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
@@ -1988,8 +1891,5 @@ a capacity to produce three units (the $4.75                periods climbed stea
 and $3.00 sellers in Chart 12) elected to                   of equilibrium.
 
 
-
-
                      This content downloaded from 206.211.139.204 on Thu, 2 Oct 2014 19:45:24 PM
                                      All use subject to JSTOR Terms and Conditions
-

@@ -40,16 +40,16 @@ Thaler’s conceptualization of the endowment effect was in direct contrast to e
 --- Slide 7 ---
 
 Experiment
-Thaler collaborated with Daniel Kahneman and Jack Knetsch in the early 1990s to provide empirical evidence for the endowment effect. In their paper, the researchers recruited undergraduate students, and randomly assigned half of them to either buyer or seller groups. The seller group received mugs with a university logo and were told that they could either keep their mugs or sell them to the buyer group. The buyer group was then instructed to attempt to buy the mugs. The authors also asked students what at price they would be willing to sell or buy the mugs. 
+Thaler collaborated with Daniel Kahneman and Jack Knetsch in the early 1990s to provide empirical evidence for the endowment effect. In their paper, the researchers recruited undergraduate students, and randomly assigned half of them to either buyer or seller groups. The seller group received mugs with a university logo and were told that they could either keep their mugs or sell them to the buyer group. The buyer group was then instructed to attempt to buy the mugs. The authors also asked students what at price they would be willing to sell or buy the mugs.
 Their results indicated that students in possession of a mug priced theirs at double the cost of those who were not in possession of a mug. This experiment has successfully been replicated many times and exemplified how individuals often perceive an item that is theirs to be of greater value than something that is not.
 
 --- Slide 8 ---
 
 Pricing and Sales
-Sellers often overvalue their products 
-or services due to the Endowment Effect. 
-They may set higher prices than what the 
-market is willing to pay, leading to reduced 
+Sellers often overvalue their products
+or services due to the Endowment Effect.
+They may set higher prices than what the
+market is willing to pay, leading to reduced
 sales or slower inventory turnover.
 
 --- Slide 9 ---
@@ -62,18 +62,18 @@ Homeowners often overvalue their properties, making it challenging for them to a
 --- Slide 10 ---
 
 Negotiation and Contracts
-Employees may resist accepting lower salaries 
-than what they currently earn, even if market 
+Employees may resist accepting lower salaries
+than what they currently earn, even if market
 conditions warrant it. Employers may need
  to offer compelling reasons for salary adjustments.
 
 --- Slide 11 ---
 
 Online Marketplaces and Auctions
-Customers who have added items to their 
-online shopping carts may be less likely to 
+Customers who have added items to their
+online shopping carts may be less likely to
 complete the purchase if the price is
- adjusted, as they perceive the originally 
+ adjusted, as they perceive the originally
 selected items as valuable.
 
 --- Slide 12 ---

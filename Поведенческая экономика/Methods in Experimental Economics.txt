@@ -154,11 +154,6 @@ Joachim. Weimann@ovgu.de and
 Jeannette. Brosig-Koch@ibes.uni-due.de
 
 
-Contents
-1 The Study of Behavior 1
-11 Introduction 2
-1.2 Normative Theory and Behavioral Econom 5
-1.3 The History of Economic Experiments 7
 1.4 The History of the Neoclassical Rational Ch
 
 and the Return of Psychology........ssssssssssssssesssessessassesusssssssnsnenssesesntsnnsssenensnsenteees 13
@@ -187,13 +182,11 @@ RefEreN COS... sesesesssesssssesesesenesesenacecncucncnesenssnonsnsnsnstorsenese
 2.5.2 Double-Blind Design
 2.5.3. The Frame of the Experiment.
 2.5.4 — Instructions and Comprehension Test. 101
-26 Interactions Between the Subjects... 104
 2.6.1 Reputation Effects and Social Distance 105
 2.6.2 Communication EfPCCTS.........ccccccsescesesssssssssssssssssssssssnsssssenenesenesestonstenetonenensssssssessnssensenenes 107
 2.6.3 Possible Causes of Communication Effects 115
 2.7 Decisions Made by the Subjects 118
 2.7.1 Strategy Method Versus Direct Respons 119
-2.7.2 Experiments with Real Effort... 122
 2.7.3. Within- Versus Between-Subject Design 125
 
 
@@ -209,7 +202,6 @@ RefEreN COS... sesesesssesssssesesesenesesenacecncucncnesenssnonsnsnsnstorsenese
 3.3
 3.3.1
 3.3.2
-
 
 
 4.2.1
@@ -240,7 +232,6 @@ RefEreN COS... sesesesssesssssesesesenesesenacecncucncnesenssnonsnsnsnstorsenese
 4.6.8
 4.6.9
 
-Contents
 
 The Repetition of Games oe sssssscscscscscsecnsssssnsssnsnssssnesssssesssesnsnsnsnsnsnsnsetese
 Repetition Within a Session
@@ -293,7 +284,6 @@ Wilcoxon Signed-Rank Test (Two Dependent Samples)......sssssssssscssessssesesers
 
 Xl
 
-Contents
 4.6.10 The Binomial Test ......sscsccscssssssssesesssssssnssesesesssssnssesesssesssnssesesessssssesesenesssssenseuensssnesensnseneses
 4.6.11 The Multinomial Test (1 x k)
 4.6.12 Fisher's Exact Test (2 x 2)
@@ -7520,7 +7510,6 @@ Zizzo, D. J. (2010). Experimenter demand effects in economic experiments. Experi
 13(1), 75-98.
 
 
-
 Experimental Practice
 
 3.1
@@ -8502,7 +8491,6 @@ Horton, J. J., Rand, D. G., & Zeckhauser, R. J. (2011). The online laboratory: C
 real labor market. Experimental Economics, 14(3), 399-425.
 
 
-
 The Experiment from a
 Statistical Perspective
 
@@ -8572,7 +8560,6 @@ and Economics, https://doi.org/10.1007/978-3-319-93363-4_4
 
 47.2
 474A
-
 
 
 t-Test for Two Independent Samples
@@ -9405,7 +9392,6 @@ design
 @ Anon=1
 c
 gv
-2
 a
 x @ 68
 cig
@@ -9413,7 +9399,6 @@ a
 eu
 @ 35 @39 @ 69
 @ 38
-0
 low mid high
 Income
 
@@ -10018,10 +10003,6 @@ communication
 
 without
 communication,
-
-x
-
-
 200 Chapter 4 - The Experiment from a Statistical Perspective
 
 @ Fig. 4.15 Distribution
@@ -10040,9 +10021,6 @@ communication
 
 without
 communication
-
-x
-
 Ua He
 
 effect size of A,. The probability that our hypothesis test will show the existence of any
@@ -11286,9 +11264,6 @@ First, we calculate the absolute values of the differences between the outcomes 
 values and entered in the “Rank |d|” column. Depending on whether the difference between the
 
 1 6 2 2 —2
-
-4
-
 2 6 5 1 1 +1
 
 3 6 3 3 3 +3
@@ -11491,9 +11466,6 @@ Ifx is the vector of the absolute frequencies of a class and p is the vector of 
 k aad
 n(n,x,p)=n'[[—.
 i) %
-
-i
-
 For example, if in Germany exactly 30% of all people are blonde, 40% black-haired and
 30% others, then out of a group of 20 randomly selected Germans, the probability of
 drawing exactly 5 blonde people, 8 black-haired people and 7 others is
@@ -11526,9 +11498,6 @@ observed frequency, then it can be shown that for large samples the expression
 
 (b; mz y
 e
-
-i
-
 12 To perform a multinomial test in R, for example, we need the EMT (Exact Multinomial Test}
 package from Uwe Menzel, which is available on every CRAN server. The execution is then done
 using the command multinomial.test().
@@ -11664,12 +11633,8 @@ them have a high school diploma. The probability of this event is
 40] [10
 5] [3
 P(50, 40, 8,5)=4" 2 5" = 0.1471=14.71%.
-
-
-8
 PORS also contains the hypergeometric distribution. After entering the parameters N = 50,
 N, = 40 and n = 8 and clicking on “Apply New Distribution’, we obtain & Fig. 4.29.
-
 
 
 4.6- Choosing Statistical Tests
@@ -11750,9 +11715,6 @@ above contingency table (or a single value thereof) is, for example
 
 ! | [eo]
 P(20,11,8,2)=47 LL 8? J _ 9.9367 =3.67%.
-
-
-8
 In order to calculate the p-value of a one-tailed null hypothesis, we now have to determine the
 probabilities for “more extreme’ values of the contingency table that favor the alternative
 hypothesis. To do this, we make the values x,, and x,, even more dissimilar by reducing the
@@ -11782,7 +11744,6 @@ school diploma’ also become more dissimilar. The probability for this more ext
 1 8-1
 P(20, 11, 8,1) === = 0.0031.
 (20,11,8,1) 0 0.003
-8
 The “most extreme” of all the contingency tables in the sense of the alternative hypothesis
 
 would ultimately be @ Table 4.15.
@@ -11792,7 +11753,6 @@ The probability of occurrence is
 0 8-0
 P(20,11 =S = = 0.0001.
 (20,11, 8, 0) 30 0.000
-8
 The probability that the observed or a more extreme distribution of frequencies will occur is
 therefore the sum p = 0.0367 + 0.0031 + 0.0001 = 0.0399. At a significance level of 5%, the
 null hypothesis, “Gender has no influence on school education’, would thus be rejected in
@@ -12270,9 +12230,6 @@ tions 14—
 T T T l
 
 0 1 2 3 4
-
-x
-
 case of our simple linear model is the least squares estimator. It determines the values of
 aand b that lead to a line that has the minimum possible distance to all the data points.
 
@@ -13509,10 +13466,6 @@ necessarily mean “irrelevance”.
 
 
 4.7 - Statistical Models
-
-
-4
-
 Random effect parameters:
 
 Groups Name
@@ -13632,7 +13585,6 @@ model C, would be preferable.
 For the sake of completeness, the variation of the slope can also be modeled using a
 mixed effect. However, since the same problems would then arise as in model C, we will
 not pursue this idea further at this point.
-
 
 
 4.7 - Statistical Models
@@ -13783,9 +13735,6 @@ A tl py
 with each period that lies between them.
 
 1 1 2
-
-1
-
 e D
 mo)
 
@@ -13949,7 +13898,6 @@ ee on .
 & & ° mS -
 = z Got
 35 3 <
-5
 o ° °o
 “ fe)
 OL ’ J
@@ -14595,7 +14543,6 @@ of these subgames with the payoffs that
 1 The payoffs and the names of the players at
 the nodes are omitted for the sake of
 simplicity.
-
 
 
 Appendix
@@ -15935,9 +15882,6 @@ Ultimatum game 78, 80, 81, 93, 106, 112, 116, 120,
 Unbiasedness 270, 284
 
 Underpowered studies 202
-
-V
-
 Validity
 
 - external 4, 5, 23, 28, 48, 80, 82, 125, 135, 182, 184

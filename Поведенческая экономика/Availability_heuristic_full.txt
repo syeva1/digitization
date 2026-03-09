@@ -38,7 +38,7 @@ After his death in 2002 Kahneman got the Nobel Prize for the work he had do
 --- Slide 6 ---
 
 Fresh concept
-Previosly it was thought that humans are absolutely rational actors. Kahneman and Tversky  explained that judgment under uncertainty often relies on a limited number of simplifying heuristics rather than extensive algorithmic processing. In a short time, this idea spread beyond academic psychology, into law, medicine and political science. 
+Previosly it was thought that humans are absolutely rational actors. Kahneman and Tversky  explained that judgment under uncertainty often relies on a limited number of simplifying heuristics rather than extensive algorithmic processing. In a short time, this idea spread beyond academic psychology, into law, medicine and political science.
 According to "availability heuristic" human errors can be explained by cognitive processes and not motivated irrationality.
 
 --- Slide 7 ---
@@ -65,7 +65,6 @@ Biases of imaginability
 10 people
 k groups
 k
-8
 2
 First example
 Second example

@@ -10,7 +10,6 @@ LC) al
 PAUL FEYERABEND
 
 
-Contents
 Preface vii
 Preface to the Third Edition ix
 Introduction to the Chinese Edition 1
@@ -420,10 +419,6 @@ explained in a simple way. We cannot say: ‘the structure of the atomic
 nucleus was found because people did A, B,C...” where A, BandC
 are procedures which can be understood independently of their use
 in nuclear physics. All we can do is to give a historical account of the
-
-1
-
-
 2 AGAINST METHOD
 details, including social circumstances, accidents and personal
 idiosyncrasies.
@@ -560,10 +555,6 @@ that resists alternatives to the status quo.
 5 39
 No theory ever agrees with all the facts in its domain, yet it is not always the
 theory that is to blame. Facts are constituted by older ideologies, and a clash
-
-5
-
-
 6 AGAINST METHOD
 
 between facts and theories may be proof of progress. It is also a first step in our
@@ -693,9 +684,6 @@ than scientists and methodologists; the lesson, however, is the same. Cf. footno
 . ibid., p. 21.
 4. ibid., p.25, cf. Hegel, Philosophie der Geschichte, Werke, Vol. 9, ed. Edward Gans,
 Berlin, 1837, p. 9: ‘But what experience and history teach us is this, that nations and
-9
-
-
 10 AGAINST METHOD
 
 This is indeed the conclusion that has been drawn by intelligent
@@ -894,7 +882,6 @@ adopt its opposite. For example, there are circumstances when it is
 advisable to introduce, elaborate, and defend ad hoc hypotheses, or
 hypotheses which contradict well-established and generally accepted
 experimental results, or hypotheses whose content is smaller than the
-
 
 
 ONE Is
@@ -1122,7 +1109,6 @@ alternative: (which goes back to Newton and which is still
 very popular toda’
 
 
-
 TWO 21
 horse. Also, some of the most important formal properties of a theory
 are found by contrast, and not by analysis. A scientist who wishes to
@@ -1286,7 +1272,6 @@ for granted by many 20th-century scientists and philosophers of science.
 
 2. Pierre Duhem, The Aim and Structure of Physical Theory, New York, 1962,
 pp. 180ff.
-
 
 
 ‘THREE 25
@@ -1666,7 +1651,6 @@ Gilgamesh epic, the Iliad, the Edda, as fully fledged alternative cosmologies wh
 used to modify, and even to replace, the ‘scientific’ cosmologies of a given period.
 
 
-
 34 AGAINST METHOD
 This position, which is a natural consequence of the arguments
 presented above, is frequently attacked — not by counter-arguments,
@@ -1929,7 +1913,6 @@ andespecially in Chapter 13, the condemnation was based in part on the ‘philos
 absurdity’ of the idea of a moving earth, i.e. on its empirical failures and its theoretical
 inadequacy. See also the next quotation and footnote. ‘As to the system of Ptolemy’,
 writes Galileo on this point (184), ‘neither Tycho, nor other astronomers, nor even
-
 
 
 40 AGAINST METHOD
@@ -2645,7 +2628,6 @@ But where common sense believes that rationalizing sophistshave the
 intention of shaking the very fundament of the commonweal, then it
 
 would seem to be not only reasonable, but permissible, and even
-
 
 
 SIX 5S
@@ -3687,7 +3669,6 @@ as illusions, similar to rainbows] in order to protect the Copernican system fro
 Possible falsifications.’ P. Redondi, Galileo Heretic, Princeton, 1987, pp. 145, 31.
 
 
-
 7 AGAINST METHOD
 theory of change, comprising locomotion, qualitative change,
 generation and corruption, and it could also be applied to mental
@@ -4093,7 +4074,6 @@ to give misleading reports about objects outside this domain, is proved at once 
 the appearance of the moon. On the earth large but distant objects in familiar surroundings, such as mountains, are seen as being large, and far away. The appearance
 of the moon, however, gives us an entirely false idea of its distance and its
 size.
-
 
 
 NINE 87
@@ -4896,7 +4876,6 @@ Copernicus. /t is this harmony zather than any deep understanding of
 magnitude respectively.
 
 2. Dialogue, op. cit,, p. 328.
-
 
 
 104 AGAINST METHOD
@@ -5754,7 +5733,6 @@ much less clear here than it was in the astronomical case.) And we
 may again proceed in the Galilean manner, look for new natural
 
 
-
 124 AGAINST METHOD
 
 interpretations, new facts, new grammatical rules, new principles
@@ -5830,7 +5808,6 @@ elsewhere, although negligent supervision allowed of abuses and there were ample
 Tesources of rigor in reserve, when the obstinacy of the impenitent was to be broken
 down. History of the Inquisition in Spain, Vol. 2, New York, 1906, p. 534. Prisoners
 accused before secular courts occasionally committed crimes under the jurisdiction of
-
 
 
 126 AGAINST METHOD
@@ -6294,7 +6271,6 @@ accept the Copernican arrangement of the planetary orbits (it still
 1. Details and literature in R.S. Westman, ‘The Melanchthon Circle, Rheticus,
 and the Wittenberg Interpretation of the Copernican Theory’, /sis, Vol. 66, 1975,
 Pp. 165ff.
-
 
 
 136 AGAINST METHOD
@@ -6851,7 +6827,6 @@ Philosophy of science), which are quite jealous of their independence. But the q
 Theories and Methods of Physics and Psychology, Minneapolis, 1970, p. 4.
 
 
-
 148 AGAINST METHOD
 
 dream up when confronted with a complex process, or how some
@@ -7354,7 +7329,6 @@ and business has found ways of incorporating the most amazing
 nonconformists into their machinery. Special problems arise with
 
 
-
 160 AGAINST METHOD
 
 foundations that distribute money and want to do this in a just and
@@ -7584,7 +7558,6 @@ Language, Thought and Reality, Cambridge, Mass., 1956, p. 121. See also Appendix
 different types of observations ...’, ibid., p. 221.
 
 4. ibid. p.69. :
-
 
 
 SIXTEEN 165
@@ -9755,7 +9728,6 @@ to be ‘used in reporting the same experience’”® and where we read that
 7. ibid., p. 209.
 
 
-
 210 AGAINST METHOD
 
 regarded as a uniform reservoir of facts which are classified differently
@@ -9959,7 +9931,6 @@ guiding a practice by rules or of criticizing standards of rationality by
 a practice.
 
 The problems I have sketched are old ones and much more
-
 
 
 SEVENTEEN 215
@@ -10728,7 +10699,6 @@ counterinduction and almost everyone has ascribed to me a
 ‘methodology’ with ‘anything goes’ as its one ‘basic principle’. But in
 
 
-
 EIGHTEEN 231
 Chapter 2 I say quite explicitly that ‘my intention is not to replace one
 set of general rules by another such set: my intention is, rather, to
@@ -11054,7 +11024,6 @@ surviving colonies of bacteria on an agar containing an excess of
 bacteriophages would be small in the first case, but would contain
 
 1. S.E. Luria, A Slot Machine, a Broken Test Tube, New York, 1985, p. 115.
-
 
 
 NINETEEN 239
@@ -11669,7 +11638,6 @@ problems of the entire age. It seems tome that these problems are still with us.
 whenever an individual or a group objectivizes its own personal conceptions of a good
 life and acts accordingly. Cf. Farewell to Reason, pp. 309ff. This explains the occasional
 violence of my arguments.
-
 
 
 TWENTY 253
@@ -12428,7 +12396,6 @@ nor bad, they simply are. Thesis ii: A tradition assumes desirable or
 6. London, 1978, part 1, section 2, pp. 274 - reprinted without change in Chapter
 17 of the second edition of Against Method, London, 1988, and with added commentin
 Chapter 17, pp. 225ff of the present edition.
-
 
 
 POSTSCRIPT ON RELATIVISM 269

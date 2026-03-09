@@ -65,9 +65,6 @@ which are also necessary for testing (and fine-tuning) the models
 → Experimental Economics
 
 Experimental and Behavioral Economics
-
-i
-
 Experimental and Behavioral Economics
 
 Experimental Economics

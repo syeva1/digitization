@@ -3,11 +3,9 @@
 # Содержание: Материал курса. Подробнее — в README папки или по названию файла.
 
 
-
 HOW
 BECAME
 POSTHUMAN
-
 
 
 HOW
@@ -50,7 +48,6 @@ Printed Library Materials, ANSI Z39.48-1992.
 For Nicholas one oj the !corld:I' great technology archivists (J Ild milch more besides
 
 
-
 Acknowledgments / ix Prologue / xi 1.
 Toward Embodied Virtuality / 1 2.
 Virtual Bodies and Flickering Signifiers / 25 Contents 3.
@@ -64,7 +61,6 @@ The MaterialityofInformatics / 192 9.
 Narratives of Artificial Life / 222 10.
 The Semiotics of Virtuality: Mapping the Posthuman / 247 11.
 Conclusion: What Does It Mean to Be Posthuman? / 283 Notes / 293 Index /325
-
 
 
 Acknowledgments The notion of distributed cognition, central to the posthuman as it is defined in this book, makes acknowledging intellectual and practical contributions to this project an inevitability as well as a pleasure. The arguments have benefited from conversations and correspondence with many friends and colleagues, among them Evelyn Fox Keller, Felicity Nussbaum, Rob
@@ -2448,7 +2444,6 @@ As we have seen, cybernetics was born in a froth of noise when Norbert Wiener fi
 Wiener helped to initiate a journey that would prove to have consequences more far-reaching and subversive than even his formidable powers of imagination could conceive. As Bateson, Varela, and others would later argue, the noise crashes within as well as without. The chaotic, unpredictable nature of complex dynamics implies that subjectivity is emergent rather than given, distributed rather than located solely in consciousness, emerging from and integrated into a chaotic world rather than occupying a position of mastery and control removed from it. Bruno Latour has argued that we have never been modem; the seriated history of cybernetics-emerging from networks at once materially real, socially regulated, and discurSively constructed-suggests, for similar reasons, that we have always been posthuman.23 The purpose of this book has been to chronicle the journeys that have made this realization pOSSible. If the three stories told here-how information lost its body, how the cyborg was constructed in the postwar years as technological artifact and cultural icon, and how the human became the posthuman-have at times seemed to present the posthuman as a transformation to be feared and abhorred rather than welcomed and embraced, that reaction has everything to do with how the posthuman is constructed and understood. The best possible time to contest for what the posthuman means is now, before the trains of thought it embodies have been laid down so firmly that it would take dynamite to change them.24 Although some current versions of the posthuman point toward the antihuman and the apocalyptic, we can craft others that will be conducive to the long-range survival of humans and of the other life-forms, biological and artificial, with whom we share the planet and ourselves.
 
 
-
 Not e s Chapter One 1. Hans Moravec, Mind Children: The Future of Robot and Human Intelligence
 (Cambridge: Halvard University Press, 1988), pp. 109-10.
 2. Norbert Wiener, The Human Use of Human Beings: Cybernetics and Society, 2d ed. (Garden City, N .Y.: Doubleday, 1954), pp. 103-4.
@@ -3155,7 +3150,6 @@ Chinese, saying there "is no way to get from Sy11tax to semantics" (p. 34).
 1996), pp. 121-44.
 
 
-
 Aarseth, Espen J., 299n. 27 absence. See also presence audiotape and, 210 deconstruction and, 44 in Galatea 2.2, 263 information, irrelevance to, 28 posthuman and, 285-91 virtuality access semiotics of, 248-51, 279-82 virtual reality and, 27 information narrative, importance to,
 39 possession, supplanting of, 39 posthuman and, 39 agency, 5 Blood Music and, 255-60 contaminated by Other Half, in Burroughs, 212 control and, 288 languaging and, in autopoiesis,
 148-49 liberal humanist subject, 5, 86 posthuman, complicated in, 3 redefinition of, in Dawkins, 227-28
@@ -3199,9 +3193,6 @@ Taylor'S critique of, 9,5-98 Maturana's treatment of, 160 McCulloch and, 61 Bloo
 Burroughs, 220-21 divide line of, 211, 212 posthuman exemplars of, 212-1.5 tape-recorder as, 211-21 as congealed metaphor, 284 discursive construction of, 192 embodiment dialectic with, 193-98,200-207 distinct from, 196
 Foucault, universalized as, 194 as heat engine, 101 If 011 a wint!'r:\'night a traveler, 41 information as, 35, 47,104 knowledge as, 85 in LimiJo, 113-14, 126-27 and neural net in Galatea 2.2,262-71 organisms as body politic, 110 signal and materiality entangled in, 29
 Turing test, enacted and performed, xiii Bulter, Jay, 297n. 11 Boltzmann, Ludwig, 101 book advantages of, 48
-
-
-I
 Index book (continued) body as, 29 post -typographic nature in Limbo, 128-30 Borges, Jorge Luis, 8, 60
 "The Circular Ruins," 8, 309n. 7 "Funes, the Memorious," 197, 314n.
 11 "Of Exactitude in Science," 302n. 18 boundary autopoiesis and, 141 body, problematized, 250
@@ -3281,9 +3272,6 @@ God, contact with, 189-91 hypertension, 189-90 andJung,312n.ll works, nonfiction
 2 "Schizophrenia and The Book of Changes," 176, 312n. 21 works, novels, 160-63, 167-91, 311n.
 1 Do Androids Dream, 161, 178, 305n.9 Deckard, 163-66, 171-75, 190-91 J. R. Isidore, 173-75
 Mercerism,175-77 Rachael, 172-73, 312n. 19
-
-
-I
 Index Dick, Philip K.. (continued) Dr. Bloodmoney, 179-84 Bill and Edie Keller, 182-84 character system, 180-84, 187
 Walt Dangerfield, 181 Flow My Tears, the Policeman Said, 166,312n.10 The Simulacra, 167-70
 The Three Stigmata, 178-79 Ubik, 184-88 Ella Runciter, 186 Glen Runciter, 184-85 Jory, 185-86
@@ -3319,9 +3307,6 @@ Tierra program and, 224-31 Fejes, Fred, 295n. 4 first wave cybernetics. See cybe
 Burroughs, "Exhibition" and, 216-17 in Leyner, 47-48 reader, relation to, 47-48 Turing test and, xiv
 The Fly. See Cronenberg, David Fontana, Walter, 235, 318n. 23 form artificial life, 234 defines life, 231 dichotomy, matter, 232-33
 Spencer-Brown's definition of, 137, 188 Foucault, Michel body focus on, 197 play of discourse systems, 192 universalized in, 194
-
-
-I
 Index Foucault, Michel (continued) Discipline and Punish, 314n. 5 discourse, limits of, 195, 198 epistemic breaks, 14
 The History of Sexuality, 295n. 27 "man," 293n. 5 The Order of Things, 293n. 5 Panopticon, 194
 Fredkin, Edward cellular automata and, 11 computational universe and, 240-41 evolutionary psychology and, 241-42 information, 232 interview with, in Wright, 295n. 22,
@@ -3359,7 +3344,6 @@ Wiener, biography of, 93, 305n. 6 Helmreich, Stefan, 232-34, 317n. 12 Hesse, Mar
 Hodges, Andrew Turing, biography of, xii-xiv Universal Turing Machine, 321n. 12 Hofstader, Douglas, 8
 Hollinger, Veronica, 264, 311n. 3, 321nn.
 9,18 homeostasis and enaction, 158 entropic pressure against, 103 Index
-I
 335 environment and, 66 and feedback loops, 8 and first wave cybernetics, 7 homeostat and, 65-66 and lobotomy in Limbo, 117 and man-in-the-middle, 68 origin of term, 298n. 20 skeuomorph as, in autopoiesis,
 146 homeostat, 63, 65-67, 222. See also Ashby, Ross; homeostasis homophobia Turing and, xii
 Wiener's Cybemetics and, 109 Hotc Societies Remember. See Connerton, Paul human artificial life redefined by, 224 autopoiesis, 136-40, 144
@@ -3404,9 +3388,6 @@ Lakoff, George, 8.5, 305n. 3 Langton, Christopher artificial life analytical app
 240-4l, 319n. 36 chaos, uses of, 286 "Population Dynamics of Digital Organisms," 317n. 7 language agency and, 252 artificial life narrative and, 239-46
 Blood Music, biochips in, 252 Galatea 2.2 aliveness and, 266-67 neural net and, 263 recursion and, 264 ineffability in, 67,189-90 instrumental, 67 languaging in autopoiesis, 144-45,
 147 literariness of, 207-8 Masani's scorn for, 112
-
-
-I
 Index language (continued) reflexivity and, 67, 137, 146 scientific, 67 "screen of words" and, 126
 The Ticket That Exploded cybernetic fusion with, 221 materiality of, 213 as organism, 212-13 as parasite, 212 virus as, 212-14 as word dust, 217
 Lanham, Richard, 287, 323n. 14 Latour, Bruno Science in Action, 9,291, 294n. 18 We Have Never Been Modem, 291,
@@ -3440,9 +3421,6 @@ Blood Music, compared with, 254 Burroughs, relation to, 220 contributions of, 15
 31On. 17, 313n. 34 "Biology of Cognition," 145 "Origin of the Theory of Autopoiesis," 153 The Tree of Knowledge, 150-53,
 310-11n.24 "What the Frog's Eye Tells the Frog's Brain," 131, 134-35, 304n.56 Maxwell's Demon, 101-2, 103
 Mayr, Otto, 86, 294n. 13
-
-
-I
 Index McCulloch, Warren. See also Pitts, Walter and Gregory Bateson, 78-79 and Mary Catherine Bateson, 77 and Bateson's conference, 76-79 humans, dislike of, 79,283, 322n. 2 and Kauffman, 241, 319n. 37 and Kubie, 71-71 and Macy Conferences, 57-62
 McCulloch-Pitts neuron epistemology, 60-62,131 hallucination and, 59 logical propositions and, 58 neural nets and, 59
 Northrop and, 302n. 28 Pitts and, 58 Teuber and, 59-61 Turing machine and, 58 universals and, 59 psychoanalysis, hatred of, 71-73 self-reproducing automata and,
@@ -3477,9 +3455,6 @@ Stroud and, 63 Northrop, F. S. C., 302n. 28 Nye, Andrea, 60, 302n. 19 Oakley, Ke
 Macy Conferences, beliefin, 54-55 Maturana's rejection of, 13,5 reflexive epistemology replaced by,
 288 observer artificial life and, 223, 231-35 autopoiesis accounting for, 143 convergence of, 158 definition of, 137-38 descriptive domain of, 139 distinction, acts of, 145 language and, 147 positionality of, 143 punctuations by, 140 role of, in structural coupling,
 138-39
-
-
-I
 Index observer (continued) Bateson's epistemology and, 74-75 in Burroughs, 221 in Dick, destabilization and, 158-59, 189 reality constructed by, 190 von Foerster's emphasis on, 133-34
 Odier, Daniel, 316n. 37 ontology, Dick's subversion of, 169 organization. See also structure in artificial life, self-, 224-31 in autopoiesis closure of, 145 definition of, 138, 151 living systems, 136 problems with, 152-53
 Blood Music, ofbiochips, 252-56 orgasm, in Limbo, 122-23. See also gender Ostman, Charles, 287, 323n. 15 paranoia, 167-69
@@ -3507,7 +3482,6 @@ Powers, Richard, 2.51, 261-72 Galatea 2.2, 261-72,281, 320n. 4
 A.268-70
 C.266-69
 Diana Hartrick, 261, 268 face value, 26.5 Index
-I
 343 Helen, 262-71 language and, 264-66 Philip Lentz, 261 recursive style of, 264 Rick, 261-72 presence. See also absence audiotape, and, 210 deconstruction, and, 44 in Galatea 2.2,263 information, irrelevance to, 28 posthuman and, 28.5-91 semiotics of virtuality, 248-.51,
 279-82 virtuality and, 19 virtual reality not applicable to, 27 and voice, in Burroughs, 219
 Prigogine, Ilya, 297n. 2, 307n. 44 print advantages of, 48 post-typographic, in Limbo, 124-30 probabilistic universe communication theory extended, 90 entropy and, 10.5
@@ -3515,9 +3489,6 @@ Gibbs and, 88-90 teleology and, 9.5 Wiener, 88-89, 91 probability communication 
 98 program artificial life, 222-28 "Cog" robot and, 238 evolutionary, 242 "Genghis" robot and, 236-37 nervous nets and, 237
 Snow Crash and, 272-79 subsurnption architecture in, 236-37 Tierra, 224-27 projection anthropomorphic, Maturana and, 136 and "Exhibition," in Burroughs,
 21.5-16 Limbo, narrator and, 124
-
-
-I
 Index pros/e. See also Wolfe, Bernard, Limbo as cyborg, 129 defined, in Limbo, 126 prosthesis and, 127 semiotic space in, 128 prosthesis analogy and, 98-99 body as, 3 embodiment and, 291
 Limbo, 121 posthuman and, 246 Wiener's deSigns for, 98-99 pulp science, 1. See also Loffreda, Beth purpose in autopoeisis, 138 and Bateson's epistemology, 77
 "Behavior, and Teleology," 94 biochips in Blood Music and, 254 cybernetic redefinition of, 94
@@ -3627,7 +3598,6 @@ White Noise. See DeLillo, Don Whittaker, Randall, 309-lOn. 14 Wiener, Norbert Au
 306nn. 20, 23 Blood Music, 252 boundary problems, 84-85, 92-93, 105-7,30.5n.12 Brownian motion, 88, 305n. 11 and Burroughs, 221 celibacy, cybernetics should practice,
 112 computational universe and, 239 coupling, tight and loose, 111 cybernetics manifesto, 61, 93 panic in, 290 and Dick, 160, 164 education, 300n. 23
 Index
-I
 349 entropy, view of, 102 erotic anxiety and, 108-12 and Gibbs, 88-89 homeostasis, 103 information and, 14,52 and Jewishness, 93, 107 liberal humanist values, 85 and Limbo, 115, 118 machine, 63, 87
 MacyConferences,7 manipulation, fear of, 107-8 Masani, 91, 305n. 5 military research and, 86, 106-7 motion, tropes of, 120 outsider, as, 93 and poststructuralism, 91 pseudonym, W. Norbert, 116 and Shannon, 305n.14 and Taylor, 95, 306 26 telegraphing a human, I
 Terminal Games and, 257 thermodynamics and, 300n. 2 Turing and, xi works "Behavior, Purpose, and Teleology," 94, 306n.24
