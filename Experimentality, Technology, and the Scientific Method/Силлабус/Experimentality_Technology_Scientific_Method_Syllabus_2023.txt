@@ -11,7 +11,7 @@ Professor: Siyaves Azeri, PhD (University of Ottawa)
 1. Course description
 What are the distinctive features of science and scientific mode of knowledge-production
 in comparison to other forms of knowledge-production? How scientific theories, which
-appear as constructions of scientists’ minds are related to and explain real phenomena?
+appear as constructions of scientistsС minds are related to and explain real phenomena?
 What are the criteria of signifying a practice as science/scientific and another not? Is there
 only one possible scientific explanation of phenomena or can there be multiple
 explanations that are equally justified? How scientific theories change and how does
@@ -25,7 +25,7 @@ Popper, Imre Lakatos, Thomas Kuhn, Paul Feyerabend, and W. V. Quine.
 2. Course goals
 This course aims to encourage critical assessment of particular issues within philosophy
 of science. It also aims to show how various philosophers, scientists, and philosophers of
-science consider ‘identical’ phenomena, their status, and particular problems and
+science consider ЛidenticalС phenomena, their status, and particular problems and
 challenges differently due to their theoretical and philosophical orientations. The course
 provides the basic conceptual stockpile for understanding controversies around theory
 choice, the role of theory in delimiting a scope of a science, the formation of scientific
@@ -36,7 +36,7 @@ Students who successfully complete this course will be able to:
 
 e Wéill become familiar with the fundamental problems of philosophy of science;
 these problems include scientific method, induction, naive indiuctivism,
-verificationism, the problem of “demarcation”, the problem of theory and
+verificationism, the problem of “demarcationФ, the problem of theory and
 observation
 © sKOLKOvo / \ MOTH
 ynpasnenisn .
@@ -53,11 +53,11 @@ experiment, and rational reconstruction of history of science
 e Understand and utilize Kuhn's concept of scientific revolution, normal science,
 paradigm, paradigm shift. his approach to the relation between theory and
 observation, incommensurability of paradigms, and relativism, and Feyerabend's
-“anarchist” account of science, his analysis of the relation between action and
+“anarchistФ account of science, his analysis of the relation between action and
 knowledge, the uneven development in sciences, and the role of propaganda in
 theory choice
 
-e Understanding and utilize Quine’s conceptualization of natural epistemology, posits
+e Understanding and utilize QuineСs conceptualization of natural epistemology, posits
 and reality, the two dogmas of empiricism and Quine's critical take on them, and his
 theory of ontological relativity.
 
@@ -70,7 +70,7 @@ Course main topics:
 
 "Scientific revolutions: Kuhn and Feyerabend
 
-=  Quine’s natural epistemology: posits, the two dogmas of empiricism, and
+=  QuineСs natural epistemology: posits, the two dogmas of empiricism, and
 ontological relativity
 
 1. Introductions: Induction, verificationism, falsificationism
@@ -94,12 +94,12 @@ science.
 3. The role of revolutions in science — non-rational and irrational accounts of science
 An overview of Kuhn's revolutionary history of science, paradigms and normal science,
 the Copernican revolution, the relation between theory and_ observation,
-incommensurability, relativism, Feyerabend's “anarchic” account of science, the relation
-between ideas and action and ideas and knowledge, the “uneven development” in
+incommensurability, relativism, Feyerabend's “anarchicФ account of science, the relation
+between ideas and action and ideas and knowledge, the “uneven developmentФ in
 science.
 4. What is natural epistemology?
 An overview of Quine's concept of natural epistemology in relation to his theory of “posits
-and reality", the theory of ontological relativity, the position of “mental entities’, language
+and reality", the theory of ontological relativity, the position of “mental entitiesС, language
 of science, and the relation between theory and the world.
 COURSE SCHEDULE
 1 Introductions: Hume: Section IV (18-29)
@@ -200,7 +200,7 @@ depth of analysis, 3) creativity, 4) the ability to answer questions, and 5) pub
 skills.
 Class participation—20% of final grade
 Participation in a seminar course is critical for creating a positive learning environment as
-well as comprehending the material. It is especially vital for success in one’s education,
+well as comprehending the material. It is especially vital for success in oneСs education,
 as we tend to learn more as we engage more. To this end, students will be expected to
 take an active part in class meetings. This requires that we come to class having read
 course materials and ready to ask questions of one another about them and that we come
@@ -226,21 +226,21 @@ ynpagnenna
 
 Quotes examples:
 
-(1) “Referring to the success of ‘science’ in order to justify, say, quantifying human
+(1) “Referring to the success of ЛscienceС in order to justify, say, quantifying human
 
-behaviour is therefore an argument without substance’.
+behaviour is therefore an argument without substanceС.
 
 (2) “Any definition of the scientist that excludes at least the more creative members of
 
-these various schools will exclude their modern successors as well’.
+these various schools will exclude their modern successors as wellС.
 
 (3) “Partly no doubt because of an obsession with the consequences and a neglect of the
 
 conditions of the experimental paradigm, the single case that the hypothetico-deductive
 
-view of science fits’,
+view of science fitsС,
 
-Grade “excellent (10)” can be given for the essay (no less than 1000 words) if 2 elements
+Grade “excellent (10)Ф can be given for the essay (no less than 1000 words) if 2 elements
 
 are present:
 
@@ -256,7 +256,7 @@ contains at least 10 exact quotations, different from the attributed quotations 
 
 assignment.
 
-Grade “excellent (g9)” can be given for the essay (no less than 1000 words) if 2 elements
+Grade “excellent (g9)Ф can be given for the essay (no less than 1000 words) if 2 elements
 
 are present:
 
@@ -272,7 +272,7 @@ contains at least 9 exact quotations, different from the attributed quotations i
 
 assignment.
 
-Grade “excellent (8)” can be given for the essay (no less than 1000 words) if 2 elements
+Grade “excellent (8)Ф can be given for the essay (no less than 1000 words) if 2 elements
 
 are present:
 
@@ -288,7 +288,7 @@ contains at least 8 exact quotations, different from the attributed quotations i
 
 assignment.
 
-Grade “good (7)” can be given for the essay (no less than 1000 words) if 2 elements are
+Grade “good (7)Ф can be given for the essay (no less than 1000 words) if 2 elements are
 
 present:
 
@@ -301,7 +301,7 @@ ynpagnenna
 demonstrates good knowledge and understanding of all texts analyzed; c) the essay
 contains at least 7 exact quotations, different from the attributed quotations in
 assignment.
-Grade “good (6)” can be given for the essay (no less than 1000 words) if 2 elements are
+Grade “good (6)Ф can be given for the essay (no less than 1000 words) if 2 elements are
 present:
 1) the student identified all quotes correctly:
 2) the essay written in accordance with the following requirements: a) in the essay, there
@@ -309,7 +309,7 @@ is a sequential logic structure (introduction, body, and conclusion); b) the ess
 demonstrates good knowledge and understanding of all texts analyzed; c) the essay
 contains at least 6 exact quotations, different from the attributed quotations in
 assignment.
-Grade “good (5)” can be given for the essay (no less than 1000 words) if 2 elements are
+Grade “good (5)Ф can be given for the essay (no less than 1000 words) if 2 elements are
 present:
 1) the student identified all quotes correctly:
 2) the essay written in accordance with the following requirements: a) in the essay, there
@@ -317,7 +317,7 @@ is a sequential logic structure (introduction, body, and conclusion); b) the ess
 demonstrates good knowledge and understanding of all texts analyzed; c) the essay
 contains at least 5 exact quotations, different from the attributed quotations in
 assignment.
-Grade “satisfactory (4)” can be given for the essay (no less than 1000 words) if 2
+Grade “satisfactory (4)Ф can be given for the essay (no less than 1000 words) if 2
 elements are present:
 1) the student identified all quotes correctly:
 2) the essay written in accordance with the following requirements: a) in the essay, there
@@ -325,7 +325,7 @@ is a sequential logic structure (introduction, body, and conclusion); b) the ess
 demonstrates good knowledge and understanding of all texts analyzed; c) the essay
 contains at least 4 exact quotations, different from the attributed quotations in
 assignment.
-Grade “satisfactory (3)” can be given for the essay (no less than 1000 words) if 2
+Grade “satisfactory (3)Ф can be given for the essay (no less than 1000 words) if 2
 elements are present:
 1) the student identified all quotes correctly;
 2) the essay written in accordance with the following requirements: a) in the essay, there
@@ -333,9 +333,9 @@ is a sequential logic structure (introduction, body, and conclusion); b) the ess
 demonstrates good knowledge and understanding of all texts analyzed; c) the essay
 contains at least 3 exact quotations, different from the attributed quotations in
 assignment.
-Grade “unsatisfactory (2)”" can be given for the essay (no less than 1000 words) if at least
+Grade “unsatisfactory (2)Ф" can be given for the essay (no less than 1000 words) if at least
 one quote is identified incorrectly
-Grade “unsatisfactory (1)” can be given for the essay (no less than 1000 words) if at least
+Grade “unsatisfactory (1)Ф can be given for the essay (no less than 1000 words) if at least
 one quote is identified incorrectly
 © sKOLKOvo / \ MOTH l
 Mockosckas wkona _

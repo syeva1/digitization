@@ -31,17 +31,17 @@ EQUIS Accredited
 Искусственный интеллект не заменит людей, но их заменят другие люди, которые умеют использовать искусственный интеллект.
 
 Цитата (IBM):
-«Managers that use AI will replace those that do not,” IBM executive says
+«Managers that use AI will replace those that do not,Ф IBM executive says
 
 Прекратите нанимать людей
 
 Ссылки:
 
 Заголовок статьи:
-The Story Behind the «Stop Hiring Humans” Billboards in San Francisco
+The Story Behind the «Stop Hiring HumansФ Billboards in San Francisco
 
 Описание:
-A controversial billboard campaign in San Francisco featuring the provocative message «Stop Hiring Humans” generated millions of impressions, sparked heated debate, and drove $2M in new ARR for Artisan.
+A controversial billboard campaign in San Francisco featuring the provocative message «Stop Hiring HumansФ generated millions of impressions, sparked heated debate, and drove $2M in new ARR for Artisan.
 
 Кейс Shopify:
 Докажите, что ИИ не может что-то сделать, прежде чем нанять человека
@@ -67,7 +67,7 @@ A controversial billboard campaign in San Francisco featuring the provocative me
 
 Основные тезисы:
 Й Использование ИИ является обязательным требованием
-Й Знание ИИ проверяется при найме
+Й «нание »И проверяется при найме
 Й Обучение ИИ встроено в корпоративную культуру
 
 Ссылка:
@@ -204,9 +204,9 @@ GPT-4 против 200 студентов MBA
 Ненадлежащее и беспечное использование ИИ в работе
 
 Нарушение политик:
-Й Загрузка защищённых материалов
+Й «агрузка защищённых материалов
 Й Передача корпоративной информации
-Й Использование ИИ с нарушением правил
+Й »спользование ИИ с нарушением правил
 
 Этические сомнения:
 Й Неуверенность в допустимости использования

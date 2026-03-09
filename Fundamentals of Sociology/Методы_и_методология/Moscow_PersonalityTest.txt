@@ -70,7 +70,7 @@ on the questions we ask. Some questions elicit more useful information than othe
 booklet contains the most accepted method of classification and the most revealing questions
 available at this time.
 
-In today’s world more than ever, demands are made on people to fit highly specified roles.
+In todayСs world more than ever, demands are made on people to fit highly specified roles.
 We can, via trial and error, find the roles that best suit us. But if we are wise, we will pay
 attention to psychometrics, which, without prejudice, can help us know ourselves better. Only
 when we have taken the measure of our personalities can we get the most out of them.
@@ -125,7 +125,7 @@ most conversations? AorB
 (19) — Are you usually quick (B) or slow (A) at making new friends in a new
 situation? AorB
 (20) Would you describe yourself as being full of energy (B) or lethargic (A)? AorB
-Now count your A’s and B’s. Write down your score.
+Now count your AСs and BСs. Write down your score.
 Total score: A B
 Now go on to the next test. Do not look at the key yet.
 PERSONALITY FACTOR 2
@@ -186,7 +186,7 @@ last year? AorB
 (23) Have you ever (A) or have you never (B) been short of breath when.
 
 you are not exercising? AorB
-(24) Are you generally tolerant of other people’s idiosyncracies (B) or
+(24) Are you generally tolerant of other peopleСs idiosyncracies (B) or
 
 not (A)? AorB
 (25) Are there (A) or are there not (B) any everyday situations in which you
@@ -203,7 +203,7 @@ not manage the situations of life as easily as most people? AorB
 (30) Do you (A) or do you not (B) use aspirin, codeine, sedatives, pep pills,
 
 sleeping pills, or other drugs more than once a month? AorB
-Now count your A’s and B’s and write down your score.
+Now count your AСs and BСs and write down your score.
 Total score: A. B
 Now go on to the next test. Do not look at the key yet.
 
@@ -228,7 +228,7 @@ the word No. If you are in doubt or hesitant, circle the question mark (?).
 conte (2) Are you an ambitious person? Yes (Y) (?) No (X)
 here
 (3) “Politicians are generally sincere and do their best for the
-country.” Do you think this is so? Yes (X) (?) No (Y)
+country.Ф Do you think this is so? Yes (X) (?) No (Y)
 (4) | When doing things, do you choose to hide from others the
 motives behind them? Yes (Y) (?) No (X)
 (5) Rather than dream of success, do you work hard to achieve
@@ -236,8 +236,8 @@ it? Yes (Y) (?) No (X)
 (6) | Would you rather be alive and a coward than dead and a
 hero? Yes (Y) (?) No (X)
 (7) | Would you be more upset by the loss of material things
-than by hearing of a friend’s illness? Yes (X) (?) No (Y)
-(8) Do you get your way without regard for other people’s
+than by hearing of a friendСs illness? Yes (X) (?) No (Y)
+(8) Do you get your way without regard for other peopleСs
 feelings? Yes (Y) (?) No (X)
 (9) Do you feel vengeful if a person hurts you? Yes (Y) (?) No (X)
 (10) — Do you worry about work while on vacation? Yes (Y) (?) No (X)
@@ -296,7 +296,7 @@ presence? Yes (Y) (?) No (X)
 went to the front out of turn? Yes (Y) (?) No (X)
 (39) Have you ever felt the urge to kill someone? Yes (Y) (?) No (X)
 (40) If you were on a committee, would you be in charge? Yes (Y) (?) No (X)
-(41) If you disapproved of a friend’s behavior, would you make
+(41) If you disapproved of a friendСs behavior, would you make
 
 him or her aware of your feelings? Yes (X) (?) No (Y)
 (42) Would you take any drugs that cause hallucinations? Yes (Y) (?) No (X)
@@ -329,10 +329,10 @@ lecture room? Yes (X) (?) No (Y)
 (56) Do you know the difference between right and wrong? Yes (Y) (?) No (X)
 (57) Do you prefer ordinary sex? Yes (X) (?) No (Y)
 (58) Do you try to shock people? Yes (Y) (2) No (X)
-(59) Do you believe in “every man for himself”? Yes (Y) (?) No (X)
-(60) Do you agree that “fools and their money are soon parted”? Yes (Y) (?) No (X)
+(59) Do you believe in “every man for himselfФ? Yes (Y) (?) No (X)
+(60) Do you agree that “fools and their money are soon partedФ? Yes (Y) (?) No (X)
 (61) Do you like buying things? Yes (X) (?) No (Y)
-(62) Does other people’s ignorance appall you? Yes (Y) (?) No (X)
+(62) Does other peopleСs ignorance appall you? Yes (Y) (?) No (X)
 (63) Do you take care of things today rather than leave them
 
 until tomorrow? Yes (Y) (?) No (X)
@@ -346,7 +346,7 @@ tance in the community? Yes (X) (?) No (Y)
 
 what some politicians say? Yes (X) (?) No (Y)
 (69) Do you advocate force where necessary? Yes (X) (?) No (Y)
-(70) Do you draw in children’s drawing books? Yes (X) (?) No (Y)
+(70) Do you draw in childrenСs drawing books? Yes (X) (?) No (Y)
 (71) Do you enjoy physical activity of a rough nature? Yes (Y) (?) No (X)
 (72) Do you feel sorry for injured birds? Yes (X) (?) No (Y)
 (73) When you are working, can you listen to people at the
@@ -404,11 +404,11 @@ relationships? Yes (Y) (?) No (X)
 (108) Do you dislike spicy food? Yes (X) (?) No (Y)
 (109) Are you scared of spiders and worms? Yes (X) (?) No (Y)
 (110) Do you believe it is always best to be honest? Yes (X) (?) No (Y)
-(111) Do you try to understand the other person’s point of view
+(111) Do you try to understand the other personСs point of view
 in a conflict? Yes (X) (?) No (Y)
 (112) Does it annoy you when experts are proved wrong? Yes (Y) (?) No (X)
 (113) Would you like to be a lion hunter? Yes (Y) (?) No (X)
-(114) Do you disregard other people’s feelings? Yes (Y) (?) No (X)
+(114) Do you disregard other peopleСs feelings? Yes (Y) (?) No (X)
 (115) — Are you often unsure about whom to vote for? Yes (X) (?) No (Y)
 (116) — Are you easily startled? Yes (X) (?) No (Y)
 (117) Would you like to appear on television? Yes (Y) (?) No (X)
@@ -436,7 +436,7 @@ Self-Scoring Personality Tests 15
 (136) Do you like a peaceful life? Yes (X) (?) No (Y)
 (137) Do you take risks? Yes (Y) (?) No (X)
 (138) Do you break dishes when annoyed? Yes (X) (?) No (Y)
-(139) Are you jealous of other people’s success? Yes (Y) (?) No (X)
+(139) Are you jealous of other peopleСs success? Yes (Y) (?) No (X)
 (140) Do you engage in political protest? Yes (X) (?) No (Y)
 (141) Do you read science fiction? Yes (Y) (?) No (X)
 (142) Do you blame someone else when things go wrong? Yes (Y) (?) No (X)
@@ -495,14 +495,14 @@ achieving anything? Yes (X) (?) No (Y)
 (180) Are you forgiving to people who have wronged you? Yes (X) (?) No (Y)
 (181) Do you always stick to your decision? Yes (Y) (?) No (X)
 (182) Are you happy with our government? Yes (X) (?) No (Y)
-(183) — Do you wish to “better yourself”? Yes (Y) (?) No (X)
+(183) — Do you wish to “better yourselfФ? Yes (Y) (?) No (X)
 (184) Do you believe that a good teacher is one who makes you
 think, rather than one who only teaches? Yes (X) (?) No (Y)
 (185) Do you enjoy watching rough sports? Yes (Y) (?) No (X)
-(186) Is your way of tackling problems better than other people’s? Yes (Y) (?) No (X)
+(186) Is your way of tackling problems better than other peopleСs? Yes (Y) (?) No (X)
 (187) Do you complain to the management if the service is bad
 in a restaurant? Yes (X) (?) No (Y)
-(188) Do you pay attention to other people’s viewpoints? Yes (Y) (?) No (X)
+(188) Do you pay attention to other peopleСs viewpoints? Yes (Y) (?) No (X)
 (189) Do you like autobiographies? Yes (Y) (?) No (X)
 (190) Do you put your interests first? Yes (Y) (?) No (X)
 
@@ -510,7 +510,7 @@ in a restaurant? Yes (X) (?) No (Y)
 18 Self-Scoring Personality Tests
 (191) | Would you hesitate before shooting a burglar? Yes (X) (?) No (Y)
 (192) Do you make friends with people because they can help you? Yes (Y) (?) No (X)
-(193) Do you believe there is some truth in everybody’s views? Yes (Y) (?) No (X)
+(193) Do you believe there is some truth in everybodyСs views? Yes (Y) (?) No (X)
 (194) Do you like bustle around you? Yes (Y) (?) No (X)
 (195) Do you wish you were more assertive? Yes (X) (?) No (Y)
 (196) Are you sometimes irritable? Yes (X) (?) No (Y)
@@ -528,13 +528,13 @@ in a restaurant? Yes (X) (?) No (Y)
 (208) Do you stand up for yourself? Yes (Y) (?) No (X)
 (209) Do you sing in a choir? Yes (X) (?) No (Y)
 (210) Do you tend to get pushed around? Yes (X) (?) No (Y)
-Now count the Y’s, the ?’s, and the X’s you have circled.
+Now count the YСs, the ?Сs, and the XСs you have circled.
 Total scores Yo? SX
 
 
 Self-Scoring Personality Tests 19
 KEY TO INTERPRETING YOUR SCORES
-Finished? Refer back to each of the four personality tests for your “Total score.” Now compare
+Finished? Refer back to each of the four personality tests for your “Total score.Ф Now compare
 each of the scores to its accompanying interpretation. Personality Factor 3 will have its own separate means of measurement.
 Personality Factor 1: Extroversion
 The extrovert (one who is directed outward) and the introvert (directed inward) represent the
@@ -547,8 +547,8 @@ often prefer to be alone with their thoughts and tend to form one ora few profou
 They are the type who like to keep their feelings to themselves. Neither type of personality is
 good or bad, although it is probably preferable to have a balance of extrovert and introvert tendencies.
 
-The more A’s you circled, the more introverted you are. 15 or so would make you definitely
-introverted, and 20 very much so. 15 B’s make you an extrovert, and 20, a bouncing extrovert.
+The more AСs you circled, the more introverted you are. 15 or so would make you definitely
+introverted, and 20 very much so. 15 BСs make you an extrovert, and 20, a bouncing extrovert.
 Introversion/Extroversion
 (Judged by your results on the Personality Factor 1 Test)
 
@@ -566,12 +566,12 @@ Introversion/Extroversion
 Personality Factor 2: Emotional Stability
 The answers you give decide whether you are emotionally sensitive or impervious. Those with
 20 or so B's are very self-possessed, never seem to get upset, are equable and balanced, and probably go through life without the ups and downs of the more sensitive type of person. Those with
-a score of more than 20 A’s are emotional and suggestible, and probably feel the mental strains
-of life more than most. On the other hand, those with 22 or so B’s are a bit phlegmatic and might
+a score of more than 20 AСs are emotional and suggestible, and probably feel the mental strains
+of life more than most. On the other hand, those with 22 or so BСs are a bit phlegmatic and might
 try to arrange life so as to present some challenge to their placidity.
 Stability
 (Judged by your results on the Personality Factor 2 Test)
-No. of B’s Character
+No. of BСs Character
 30/29 Unshakable
 28/27 Imperturbable
 26/25 Unflappable
@@ -597,7 +597,7 @@ Personality Factor 3: Creativity
 Give yourself one point for each recognizable drawing, provided it does not fall into the same
 category as any other drawing on the same sheet. You are penalized for using the same idea twice.
 For instance, only one human face is allowed, and a second one gets no marks unless it is a detail
-in the drawing and not the whole subject. If you are “creative” you will tend to variety naturally, even if you are not instructed.
+in the drawing and not the whole subject. If you are “creativeФ you will tend to variety naturally, even if you are not instructed.
 
 There is no right answer to a creativity test; there is an infinite number of possible answers
 and they are all equally right provided they are imaginative and not copied, and provided they
@@ -623,15 +623,15 @@ ll
 
 22 Self-Scoring Personality Tests
 
-If the concept of “intelligence” as a human personality factor is disputed, then the concept of
-“creativity” is barely established. Creativity has a relatively thin background scientifically, but a
+If the concept of “intelligenceФ as a human personality factor is disputed, then the concept of
+“creativityФ is barely established. Creativity has a relatively thin background scientifically, but a
 great fuss has been made about a little body of actual experimental work.
 
 I shall try to consider creativity apart from its political undertones and overtones. Going by
 the evidence that is most convincing to me and least convincing to others—that is, my own
 experience—I feel that it is possible to distinguish people by some criterion that could be reasonably called creativity. Some people are more adept at combining and recombining ideas into
 original forms. The difference appears to be in the field of hypothesis-making. If problemsolving is often a matter of trial and error, of adjusting and modifying conceptual frameworks
-until one with a relatively good fit is found, then “creatives” seem to me to be those who are
+until one with a relatively good fit is found, then “creativesФ seem to me to be those who are
 more prolific at generating hypotheses. Their ability to judge the hypotheses when formed and
 to reject the inadequate would be associated with pure intelligence. But their ability to produce
 sheer quantity of theories to be tested, though associated with intelligence, is not due to intelligence itself.
@@ -641,12 +641,12 @@ Like other psychometric tests, creativity tests must be judged by whether they c
 Personality Factor 4: Strong-Mindedness
 
 Count two points for each circled (Y) and one point for each circled (?). Do not bother with the
-circled X’s. Find your total in the following table, which shows a continuum of Factor 4 scores
+circled XСs. Find your total in the following table, which shows a continuum of Factor 4 scores
 ranging from over 400 down to 0. You can regard these as points on a scale where a high score
 means strong-mindedness. High scores point to an emphatic, assertive, tough-talking, manipulative, dogmatic, stimulus-hungry, adventurous personality. Low scores indicate a weak will or
 submissiveness. Somewhere in between seems best, and that is where most people are. Both
-“winners” and “losers” will tend to come from the high-scoring end (because high Factor 4 people are risk-takers), but in peaceful times long-term survivors will tend to be low scorers. We
-know the “Win or bust” attitude and the “Don’t get involved” attitude. The first would have
+“winnersФ and “losersФ will tend to come from the high-scoring end (because high Factor 4 people are risk-takers), but in peaceful times long-term survivors will tend to be low scorers. We
+know the “Win or bustФ attitude and the “DonСt get involvedФ attitude. The first would have
 high scores, the second low ones on this scale.
 
 
@@ -681,7 +681,7 @@ The test in this booklet is based on several tests, each of which measures facto
 general attitude. Very high scorers will be vengeful and even aggressive. High scorers will be
 assertive, have a strong personality, be ambitious, energetic, and eager to raise their status. They
 will tend to be rigid, inflexible, and unyielding in opinion and policy. They will have what is
-called “stimulus hunger”; they will enjoy challenge, adventure, and risk-taking.
+called “stimulus hungerФ; they will enjoy challenge, adventure, and risk-taking.
 
 How about low scorers? The few very low scorers will be timid, humble, and low on initiative.
 

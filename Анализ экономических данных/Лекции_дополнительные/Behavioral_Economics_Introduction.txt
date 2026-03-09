@@ -23,7 +23,7 @@ Both are naturally linked to non-Economics areas:
 • Neuroscience
 • Sociology
 
-Why are we bringing the Experimental Economics (i.e., why is there “and”)?
+Why are we bringing the Experimental Economics (i.e., why is there “andФ)?
 • It is difficult to clearly distinguish between the two
 • However, we can try
 
@@ -42,12 +42,12 @@ Experimental and Behavioral Economics
 Experimental Economics
 
 It offers, and continuously develops, a specific methodology
-“economic experiments”
+“economic experimentsФ
 
 In principle, the experiments can be designed around classic models,
 without any non-classic behavioral consideration
 
-However, “behavioral deviations” will be inevitable observed
+However, “behavioral deviationsФ will be inevitable observed
 → Behavioral Economics
 
 Experimental and Behavioral Economics
@@ -60,7 +60,7 @@ By doing so, it contributes to the development of:
 (i) new models
 (ii) modifications and upgrades of the existing theories
 
-However, ‘food for thought’ frequently comes from the experiments,
+However, Лfood for thoughtС frequently comes from the experiments,
 which are also necessary for testing (and fine-tuning) the models
 → Experimental Economics
 
@@ -80,7 +80,7 @@ At this point, Experimental and Behavioral Economics have penetrated most
 (if not all) areas of Economics, including Macroeconomics and Labor Economics
 
 + Organizational Theory, Management, Marketing, etc.
-+ so-called “field experiments” in such areas as Development Economics
++ so-called “field experimentsФ in such areas as Development Economics
 (we will discuss them later)
 
 Behavioral Economics

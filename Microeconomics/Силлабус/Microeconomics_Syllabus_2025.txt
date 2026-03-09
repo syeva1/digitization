@@ -18,7 +18,7 @@ PhD, Barcelona School of Economics (BSE)
 
 1. Course description
 
-Microeconomics considers the behavior of decision-makers within the economy, such as individuals, households, and firms. These behaviors are crucial building blocks of the economy to even understand “macro level” (country or global level) issues; as a result, modern macroeconomics is also micro-founded. Thus, microeconomics is the main tool to understand all aspects of economy, whether it’s at the micro level (decisions of consumers and firms) or macro level (decisions of central banks and governments).
+Microeconomics considers the behavior of decision-makers within the economy, such as individuals, households, and firms. These behaviors are crucial building blocks of the economy to even understand “macro levelФ (country or global level) issues; as a result, modern macroeconomics is also micro-founded. Thus, microeconomics is the main tool to understand all aspects of economy, whether itСs at the micro level (decisions of consumers and firms) or macro level (decisions of central banks and governments).
 
 Topics include social choice and welfare, market economy, imperfect competition, imperfect information, communication, and informal markets (social networks).
 
@@ -26,7 +26,7 @@ To explore these topics, students will engage in activities (inside and outside 
 
 2. Course goals
 
-This course will help students to “think like an economist”: they will learn to formulate and analyze models that can provide useful predictions about the economy (and society in general).
+This course will help students to “think like an economistФ: they will learn to formulate and analyze models that can provide useful predictions about the economy (and society in general).
 
 3. Learning outcomes
 
@@ -61,7 +61,7 @@ Reading material:
 • Geanakoplos (2005)
 
 Topic 2: Market Economy
-• Efficiency of Free-Markets (Adam Smith’s invisible hand)
+• Efficiency of Free-Markets (Adam SmithСs invisible hand)
 
 Reading material:
 • Lecture notes
@@ -183,8 +183,8 @@ For each skipped class, 0.5 points are deducted from the final grade.
 
 === Page 5 ===
 
-Grades from 10 to 5 are considered “pass”.
-Grades from 4 to 1 are considered “fail”.
+Grades from 10 to 5 are considered “passФ.
+Grades from 4 to 1 are considered “failФ.
 Students who fail must take an examination.
 
 Grading procedure:
@@ -218,7 +218,7 @@ Students may request feedback individually during the course.
 9. Diamond, P. A. (1971). A model of price adjustment.
 10. Donnenfeld, S., & Weber, S. (1995). Limit qualities and entry deterrence.
 11. Gagnon, J., & Goyal, S. (2017). Networks, markets, and inequality.
-12. Geanakoplos, J. (2005). Three brief proofs of Arrow’s impossibility theorem.
+12. Geanakoplos, J. (2005). Three brief proofs of ArrowСs impossibility theorem.
 13. Green, J. R., & Stokey, N. L. (2007). A two-person game of information transmission.
 14. Grossman, S. J. (1981). The informational role of warranties.
 15. Grossman, S. J., & Hart, O. D. (1986). The costs and benefits of ownership.

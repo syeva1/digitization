@@ -17,7 +17,7 @@ New Economic School (NES)
 September 11, 2025
 Page 1 / 20
 
-Today’s Agenda (90 min)
+TodayСs Agenda (90 min)
 • Preferences: foundations of choice (20 min)
 • Aggregating preferences: the social choice problem (25 min)
 • Welfare measures: efficiency vs equity (25 min)
@@ -26,7 +26,7 @@ Page 2 / 20
 
 What Are Preferences?
 Preferences describe how an individual ranks alternatives.
-Notation: a ≽ b means “a is weakly preferred to b.”
+Notation: a ≽ b means “a is weakly preferred to b.Ф
 Completeness: any two alternatives can be compared.
 Transitivity: rankings are consistent (no cycles).
 With completeness & transitivity, preferences can be represented by a utility function.
@@ -90,10 +90,10 @@ Voters 2 & 3 prefer B → B wins (2–1).
 
 Conclusion:
 P ≻ S, S ≻ B, B ≻ P — a Condorcet cycle.
-Society’s preferences can be intransitive even if each individual is rational.
+SocietyСs preferences can be intransitive even if each individual is rational.
 Page 8 / 20
 
-Arrow’s Impossibility Theorem (Informal)
+ArrowСs Impossibility Theorem (Informal)
 No aggregation rule satisfies all at once:
 • Unrestricted domain (any rational profiles allowed)
 • Pareto efficiency
@@ -252,7 +252,7 @@ Key Takeaways
 Page 19 / 20
 
 Next Steps
-• Read Geanakoplos (2005) for concise proofs of Arrow’s theorem.
+• Read Geanakoplos (2005) for concise proofs of ArrowСs theorem.
 • Design a simple aggregation rule and identify which Arrow condition it violates.
 • Bring one real policy example where utilitarian and Rawlsian rankings might conflict.
 Page 20 / 20

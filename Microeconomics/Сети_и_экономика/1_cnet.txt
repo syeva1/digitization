@@ -51,18 +51,18 @@ Competitive Markets: Intuition
 • No externalities; free entry/exit; well-defined property rights.
 • Supply–demand interaction yields an equilibrium price p* where QS(p*) = QD(p*).
 
-Adam Smith’s Invisible Hand
+Adam SmithСs Invisible Hand
 Core idea:
-Individual self-interest, under the right market institutions, can lead to socially desirable outcomes as if guided by an “invisible hand.”
+Individual self-interest, under the right market institutions, can lead to socially desirable outcomes as if guided by an “invisible hand.Ф
 
 • Each firm maximizes profit.
 • Each consumer maximizes utility.
 • In competitive equilibrium, no agent can do better given prices.
 • Under appropriate assumptions, the equilibrium allocation is Pareto efficient.
 
-Adam Smith’s Invisible Hand
+Adam SmithСs Invisible Hand
 Core idea:
-Individual self-interest, under the right market institutions, can lead to socially desirable outcomes as if guided by an “invisible hand.”
+Individual self-interest, under the right market institutions, can lead to socially desirable outcomes as if guided by an “invisible hand.Ф
 
 • Each firm maximizes profit.
 • Each consumer maximizes utility.
@@ -129,7 +129,7 @@ Policy & Institutions
 
 What is Market Design?
 Definition:
-Market design is the engineering of rules and institutions to achieve good outcomes when the “natural” market fails or does not exist.
+Market design is the engineering of rules and institutions to achieve good outcomes when the “naturalФ market fails or does not exist.
 
 • Uses tools from game theory, mechanism design, and experiments.
 • Applications:

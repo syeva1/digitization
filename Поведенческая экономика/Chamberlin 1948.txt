@@ -28,17 +28,17 @@ it is desired to isolate—a difficulty which
 the most refined statistical methods can
 overcome only in small part. On the
 other hand, the unwanted variables cannot be held constant or eliminated in an
-economic “laboratory” because the real
+economic “laboratoryФ because the real
 world of human beings, firms, markets,
 and governments cannot be reproduced
 artificially and controlled. The social
 scientist who would like to study in isolation and under known conditions the effects of particular forces is, for the most
-part, obliged to conduct his ‘“experiment”’ by the application of general reasoning to abstract “models.” He cannot
+part, obliged to conduct his Л“experimentФС by the application of general reasoning to abstract “models.Ф He cannot
 observe the actual operation of a real
 model under controlled conditions.
 
 The purpose of this article is to make a
-very tiny breach in this position: to describe an actual experiment with a “market” under laboratory conditions and to
+very tiny breach in this position: to describe an actual experiment with a “marketФ under laboratory conditions and to
 set forth some of the conclusions indicated by it. The experiment has been
 
 I is a commonplace that, in its choice
@@ -51,7 +51,7 @@ effect of deviations from a perfectly and
 purely competitive equilibrium under
 conditions (as in real life) in which the
 actual prices involving such deviations
-are not subject to “recontract” (thus
+are not subject to “recontractФ (thus
 perfecting the market), but remain final.
 It was designed also as a pedagogical
 experiment; and in my own experience
@@ -63,11 +63,11 @@ and of contrast, between the laboratory
 market and its diverse counterparts in
 the real economic world. Pedagogy to one
 side, however, it has in its present form,
-yielded at least some “scientific” results.
+yielded at least some “scientificФ results.
 It is evidently capable of substantial
 variations and might possibly be extended and adapted to other problems.
 
-1“Note on Deviations from Equilibrium,” The
+1“Note on Deviations from Equilibrium,Ф The
 
 Theory of Monopolistic Competition (5th ed.;
 Harvard University Press, 1946), p. 25.
@@ -81,17 +81,17 @@ All use subject to University of Chicago Press Terms and Conditions (http://www 
 
 DESCRIPTION OF THE EXPERIMENT
 The participants are informed that
-they are to take part in a “market,” approximately half being buyers, the other
+they are to take part in a “market,Ф approximately half being buyers, the other
 half sellers. Under the simplest conditions, usually followed, each person deals
 in only one unit of the commodity. Cards
 are passed out on which are written
-either “B” or “S,” for “buyer” or
-“seller,” and a figure defined as the
+either “BФ or “S,Ф for “buyerФ or
+“seller,Ф and a figure defined as the
 Marshallian demand price or supply
 price as the case may be. Thus a person
-receiving a card marked “‘B-36” would
+receiving a card marked “ЛB-36Ф would
 be willing to pay as high as 36 but no
-higher in purchasing his unit; ‘‘S-20”
+higher in purchasing his unit; ЛЛS-20Ф
 would be willing to sell his unit for as low
 as 20 but no lower. Each participant will
 naturally not reveal the figure on his card
@@ -105,8 +105,8 @@ possible. As rapidly as contracts are concluded, they are reported at the desk,
 tickets are surrendered, and the bargains
 are recorded in sequence. A convenient
 way to record them is in three columns
-headed “‘B,” “S,” and “P,” giving for
-each bargain the buyer’s limit, seller’s
+headed “ЛB,Ф “S,Ф and “P,Ф giving for
+each bargain the buyerСs limit, sellerСs
 limit, and price. The last item of price
 has usually, but not always, been written
 on the blackboard as reported, so that
@@ -146,8 +146,8 @@ Let us now follow through an example.
 The figures are given in Table 1. Actual
 sales were 19 units, and the average of
 actual prices was 52.63. The perfectly
-competitive figures are obtained by arranging buyers’ tickets in descending,
-and sellers’ in ascending, order and placing the two columns in juxtaposition, as
+competitive figures are obtained by arranging buyersС tickets in descending,
+and sellersС in ascending, order and placing the two columns in juxtaposition, as
 at the right of Table 1. The schedules are
 shown graphically in Figure 1. Perfectly
 competitive sales are found to be 15, substantially less than the actual figure; and
@@ -229,7 +229,7 @@ The characteristic excess of actual
 sales over the equilibrium amount, as indicated by the demand and supply
 curves, is explained by the fact that imperfections introduce prices above and
 below the equilibrium figure. At prices
-above it some “normally”’ excluded sellers may make bargains; at prices below it
+above it some “normallyФС excluded sellers may make bargains; at prices below it
 
 price
 
@@ -243,7 +243,7 @@ io
 
 Fic. 1
 
-some “normally” excluded buyers may
+some “normallyФ excluded buyers may
 make bargains. For instance, the seller
 whose limit is 58—and who would not
 make a sale if the market were perfect—
@@ -273,13 +273,13 @@ this amount, as in the present example.
 The conclusion seems unavoidable that
 “price fluctuations render the volume of
 sales normally greater than the equilibrium amount which is indicated by the
-supply and demand curves,” a proposition which must be of substantial importance in applying theory to the real eco-
+supply and demand curves,Ф a proposition which must be of substantial importance in applying theory to the real eco-
 
 21In perhaps four or five cases out of the fortysix it was discovered—when the unused tickets
 were turned in at the close of the market—that
 a single transaction which could have been made
-had not been made. In other words, the highest remaining buyer’s ticket was higher than the lowest
-remaining seller’s ticket. In each of these cases the
+had not been made. In other words, the highest remaining buyerСs ticket was higher than the lowest
+remaining sellerСs ticket. In each of these cases the
 bargain was ruled as having been made at the midpoint between the two figures. This procedure was
 justified on the ground that, since there was pressure for time, the buyer and seller would, in fact,
 have found each other if the market had lasted longer. The reader may judge for himself the legitimacy
@@ -291,9 +291,9 @@ abstract argument in 1933 (ep. cié., p. 27), I have
 never seen it challenged, with the single exception
 of a brief critical comment by R. F. Harrod in the
 Economic Journal (December, 1933, p. 666). Mr.
-Harrod believes that I have “slipped into error”
-and that the argument ‘would be appropriate to a
-simultaneous manifold of prices, but not to a variation of prices through time.”
+Harrod believes that I have “slipped into errorФ
+and that the argument Лwould be appropriate to a
+simultaneous manifold of prices, but not to a variation of prices through time.Ф
 
 It will appear from the latter portion of this
 present article how the argument does apply, at
@@ -330,10 +330,10 @@ would have been excluded at the end.
 
 This possible exclusion (by imperfections) of normally included buyers or
 sellers was first revealed by the experiment, which thus served to correct an
-erroneous statement,‘ carelessly made on
+erroneous statement,Л carelessly made on
 the basis of purely abstract analysis, that
 such could not be the case. This may be
-meager fruit from our “laboratory”
+meager fruit from our “laboratoryФ
 method, but it proved at the time exciting at least to the writer and to one particular group of students.
 
 What now explains the characteristic
@@ -344,7 +344,7 @@ times and higher only seven times out of
 the forty-six trials? By contrast with the
 characteristic excess of sales just discussed, there seems to be nothing in the
 
-4 Op. cit. (1st ed.), p. 27: “Since none of the normally included buyers and sellers can by any circumstance be left out... .” The statement is corrected in subsequent editions.
+4 Op. cit. (1st ed.), p. 27: “Since none of the normally included buyers and sellers can by any circumstance be left out... .Ф The statement is corrected in subsequent editions.
 
 This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 
@@ -399,7 +399,7 @@ If the curves had been shaped as in
 Figure 2, B, the demand curve being
 much flatter than the supply curve, the
 midpoints between successive normally
-included buyers’ and sellers’ limits would
+included buyersС and sellersС limits would
 lie on EP, and their average is evidently
 (OE + OF)/2, or less than AP. Taking
 in normally excluded buyers and sellers
@@ -419,9 +419,9 @@ To repeat, however, the curves were
 generally symmetrical, as in Figure 2, A.
 How, then, can the downward bias in the
 results be accounted for? Three explanations have been given: (1) College students are, on the whole, more used to
-being on the buyer’s side of the market
-than on the seller’s. Those receiving
-buyer’s tickets are therefore likely to feel
+being on the buyerСs side of the market
+than on the sellerСs. Those receiving
+buyerСs tickets are therefore likely to feel
 more natural and to bargain more effectively. A corollary would be that, if the
 experiment were tried with a group of
 stockbrokers, who deal constantly on
@@ -434,7 +434,7 @@ All use subject to University of Chicago Press Terms and Conditions (http://www 
 both sides of the market, the bias would
 be eliminated. (2) The markets with
 which students are mostly familiar (even
-though from the buyer’s side) are retail
+though from the buyerСs side) are retail
 markets, where, as a matter of market
 technique, there is no bidding on either
 side but a placing of prices upon goods by
@@ -452,7 +452,7 @@ unorganized labor market, where prices
 (wages) are named by the buyers
 (employers) and accepted or rejected by
 the sellers (laborers), there would be an
-upward, rather than a downward, bias.’
+upward, rather than a downward, bias.С
 (3) In real life, buyers come into a market
 with money or general purchasing power
 which will still serve them in other markets if they fail to make a purchase in this
@@ -494,12 +494,12 @@ explanation of bias in a large number of
 examples, since early prices would in repeated experiments occur both above and
 below the perfectly competitive figure.
 
-All the sources of possible price “bias”
+All the sources of possible price “biasФ
 that have just been discussed would be
 quite without influence if the market had
 been perfect. This is true of both the
 shapes and the lengths of schedules (Fig.
-2, B and C) and of “bargaining power,”
+2, B and C) and of “bargaining power,Ф
 the myriad aspects of which have been
 only suggested by the three possible explanations of a downward bias in our
 particular problem. The conclusion must
@@ -509,9 +509,9 @@ wiped out by the perfectly competitive
 assumption—forces which produce not
 random deviations but systematic and
 predictable departures from “perfectly
-competitive” norms. Such forces must
+competitiveФ norms. Such forces must
 be given their due importance in defining
-the norms toward which prices “tend.”
+the norms toward which prices “tend.Ф
 They would presumably cause the same
 or similar deviations from the norms of
 perfect monopolistic competition as from
@@ -528,16 +528,16 @@ All use subject to University of Chicago Press Terms and Conditions (http://www 
 
 AN EXPERIMENTAL IMPERFECT MARKET
 
-A “MOVEMENT TOWARD” EQUILIBRIUM?
+A “MOVEMENT TOWARDФ EQUILIBRIUM?
 
-In Marshall’s description of equilibrium in a corn market he says that “unless they [the two sides] are unequally
+In MarshallСs description of equilibrium in a corn market he says that “unless they [the two sides] are unequally
 matched—unless, for instance, one side
 is very simple or unfortunate in failing to
 gauge the strength of the other side—the
 price is likely to be never very far from
 36s. [the equilibrium figure]; and it is
 nearly sure to be pretty close to 36s. at
-the end of the market.”? It may be of
+the end of the market.Ф? It may be of
 interest to note that no tendency for
 
 PRICE
@@ -579,10 +579,10 @@ our experiment.
 
 In Figure 3 the successive prices are
 plotted in relation to the equilibrium figure of 57 (also in relation to the average
-figure of 52.63 and to a “moving equilibrium” to be explained shortly), The
+figure of 52.63 and to a “moving equilibriumФ to be explained shortly), The
 trend of prices during the market is evidently upward, thus correcting the earlier bargains at low figures. But, after
 what might appear to be a “movement
-toward equilibrium” in the eleventh to
+toward equilibriumФ in the eleventh to
 
 7 Alfred Marshall, Principles of Economics (8th
 ed.), P. 333+
@@ -637,7 +637,7 @@ THE SHORT-TIME COMPONENTS
 OF LONG-TIME MARKETS
 
 Our analysis enables us to compare a
-“long-time” market with various types
+“long-timeФ market with various types
 of shorter-time ones contained within it.
 Such comparisons arose out of the experiment and will be introduced here in the
 order in which they actually evolved
@@ -666,7 +666,7 @@ marginal or extra-marginal, the intersection of the schedules would be affected,
 would be defined. The procedure for discovering the new equilibrium is as follows: remove from the demand-andsupply schedules—as arranged in Table 1
 on the right—the tickets for the first
 transaction (B-56, S-18), move up the
-buyers’ tickets below 56 and the sellers’
+buyersС tickets below 56 and the sellersС
 above 18 to fill in the gaps, and read off
 at the margin the new equilibrium figure
 for the second transaction; then remove
@@ -674,7 +674,7 @@ the tickets for the second transaction
 (B-54, S-26) to discover the equilibrium
 price for the third; and so on. This has
 been done in Table 2 and is plotted in
-Figure 3 as the “moving equilibrium.”
+Figure 3 as the “moving equilibrium.Ф
 
 It now appears that the equilibrium,
 as defined for a market by the original
@@ -699,19 +699,19 @@ AN EXPERIMENTAL IMPERFECT MARKET
 
 above the conventional conception of
 equilibrium for the market. It would
-seem that, whatever the “tendencies”
+seem that, whatever the “tendenciesФ
 one might expect toward equilibrium,
 they would be toward this constantly
-“corrected” moving figure rather than
+“correctedФ moving figure rather than
 toward the initial one. In this sense
-its average of 62.32 is much more significant than the “perfectly competitive” 57. On the other hand, the path and
+its average of 62.32 is much more significant than the “perfectly competitiveФ 57. On the other hand, the path and
 average value of the moving equilibrium
 cannot be discovered from the original
 conditions alone—it is the product of the
 actual unfolding of the market.®
 
 A second and more important type of
-“submarket” arose out of an attempt to
+“submarketФ arose out of an attempt to
 discover the supply and demand schedules which set the limits for the individual transactions, since these are evidently not governed by the limiting prices in
 the larger market. Thus the limits set by
 the original schedules (Table 1) are 56—
@@ -722,14 +722,14 @@ for here again only one transaction took
 place within the limits indicated for it by
 Table 2—the next to the last one at the
 price of 64 (limits 64~66). Even the very
-last transaction, in whose market “equilibrium sales” are only one unit, took
+last transaction, in whose market “equilibrium salesФ are only one unit, took
 place at a price (69) outside the limits
 (62-66) set by its own schedules! How
 can such things happen? Cannot some
-type of “submarket” be defined which
+type of “submarketФ be defined which
 
-8 Just as no reasons were found in the “mechanics” of the problem itself for the downward
-bias in actual prices as compared with “‘equilibrium,” so there appear to be no reasons for systematic
+8 Just as no reasons were found in the “mechanicsФ of the problem itself for the downward
+bias in actual prices as compared with “Лequilibrium,Ф so there appear to be no reasons for systematic
 bias in the relationship of the moving equilibrium
 to the initial one: its movement upward and its
 higher average value in the present example are
@@ -781,7 +781,7 @@ still shorter duration. In such a succession of markets, prices change because
 conditions change. Not only are buyers
 and sellers constantly dropping out because they have completed contracts, but
 new buyers and sellers are constantly
-being added. Also buyers’ and sellers’
+being added. Also buyersС and sellersС
 limits are constantly changing as they
 re-evaluate their willingness to buy or
 sell in view of changing moods and new
@@ -793,7 +793,7 @@ This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
 
-what appear to be “imperfections” over
+what appear to be “imperfectionsФ over
 any substantial period may alternatively
 be regarded as a succession of prices under a succession of different demand and
 supply conditions.
@@ -822,7 +822,7 @@ limits of these smaller markets, even
 though outside those defined by the
 larger ones?
 
-The answer is “No,” since (in the
+The answer is “No,Ф since (in the
 absence of recontract) these smaller markets are also imperfect. In the vagaries of
 bargaining, it is always possible that an
 actual offer made by someone at a figure
@@ -847,7 +847,7 @@ any moment must be that all bids lie
 below all offers so that the demand and
 supply curves do not meet and no contract can be made until the curves
 change. When a bid is raised or an offer
-lowered to a meeting point so that a contract is closed, this ‘‘market” includes
+lowered to a meeting point so that a contract is closed, this ЛЛmarketФ includes
 momentarily within the margin only a
 single buyer and seller, both of whom
 then drop out, leaving again a demand
@@ -856,14 +856,14 @@ supply curve (offers). Schedules for such
 a market are illustrated in Figure 4,
 where the highest bid is 64 and the lowest offer 66.
 
-This “market” of actual bids and offers is in a sense more real than any of the
+This “marketФ of actual bids and offers is in a sense more real than any of the
 others, since the limiting prices which
 make up its schedules are the only ones
 which ever receive objective expression.
 A familiar example is the schedule of
 bids and offers in the hands of the specialist in charge of each security on the
 stock exchange. One is tempted to conclude that only when we have reached
-this ultimate and irreducible “market”
+this ultimate and irreducible “marketФ
 will particular prices conform with certainty to the range within which supply
 and demand are equated, the range in
 this case being always reduced to a point;
@@ -886,21 +886,21 @@ margin be marginal and (6) that they
 constitute the effective limits to price,
 the first extra-marginal items lying outside them. The first condition allows for
 the possibility of what might be called a
-“multiple margin’ with several sales;°
+“multiple marginС with several sales;°
 more usually, however, the equilibrium
 volume would probably be limited to a
 single transaction. If this first condition
 were not met, a contract might be made
 with an intra-marginal buyer or seller at
 a price beyond that of the marginal
-buyer’s or seller’s limit. If the second
+buyerСs or sellerСs limit. If the second
 condition were not met, a contract might
 be made with a marginal (or intra-marginal) buyer or seller at a price beyond
 the limit set by the first extra-marginal
 seller or buyer.?®? The market of actual
 bids and offers is a particular instance
 
-9 As an example of a “multiple margin,” there
+9 As an example of a “multiple margin,Ф there
 might be five buyers with identical limits of $2.00
 and five sellers with identical limits of $1.00 and
 no other buyers or sellers. The market price would
@@ -943,7 +943,7 @@ lower) and sellers 62, 66, 68, and 70
 the marginal seller (S-62) and the first
 extra-marginal seller (S-66). Yet the actual bargain, made by S-62 and B-74,
 was at the price of 69. In the market of
-actual bids and offers, either S-62’s offer
+actual bids and offers, either S-62Сs offer
 of 69 was accepted by B-74 or the other
 way around; and clearly, in this market,
 the aciual offers of S-66 and S-68 were
@@ -995,7 +995,7 @@ willing to go as high as $25,000 for a
 house but actually bids only $20,000, expecting to get it for this figure. The owner
 offers to sell at $22,000, but the prospective buyer still thinks he can get it for
 $20,000 and decides to hold out for a few
-days more. Meanwhile, the seller’s offer
+days more. Meanwhile, the sellerСs offer
 of $22,000 is accepted by someone else."*
 
 AN EXPERIMENT WITH SUBMARKETS
@@ -1011,7 +1011,7 @@ through an approximation to the experiment. It would have been possible to creat
 
 "In this example, any resemblance between the
 
-buyer in question and any of the author’s friends
+buyer in question and any of the authorСs friends
 is purely coincidental.
 
 EDWARD H. CHAMBERLIN
@@ -1157,8 +1157,8 @@ This content downloaded from 129.219.247.033 on August 25, 2016 01:09:17 AM
 All use subject to University of Chicago Press Terms and Conditions (http://www journals.uchicago.edu/t-and-c).
 
 
-anyone’s legitimate purchases or sales of
-securities.” If such bids and offers were
+anyoneСs legitimate purchases or sales of
+securities.Ф If such bids and offers were
 submitted once a day, the volume would
 be still further reduced.
 
@@ -1189,7 +1189,7 @@ cases, and it is evident that they pose
 such a procedure, since it is, in fact, followed each
 
 day for the accumulated bids and offers at the ten
-o’clock opening of the market in New York.
+oСclock opening of the market in New York.
 
 EDWARD H. CHAMBERLIN
 
@@ -1210,7 +1210,7 @@ that if a market were broken up into a
 series of individual pairs of buyers and
 sellers, and dealings run in successive
 contracts through time, there would be
-any tendency toward the market-clearing price of a perfect market.”"3 But is
+any tendency toward the market-clearing price of a perfect market.Ф"3 But is
 this not precisely what kes been thought?
 It cannot be overstressed that all actual
 markets are, in fact, a succession of contracts separated in time; and actual markets have been thought by generations of
@@ -1218,8 +1218,8 @@ economists to be approximately described by the device of a perfect market,
 which assumes that they are not separated in time. If it seems that strange
 results have been here derived by subjecting market schedules to arbitrary
 manipulations, it is replied that the
-“manipulations” are intended to be realistic and not arbitrary. Perhaps it is the
-perfect market which is “strange”; at
+“manipulationsФ are intended to be realistic and not arbitrary. Perhaps it is the
+perfect market which is “strangeФ; at
 any rate, the nature of the discrepancies
 between it and reality deserve study.
 Harvarp UNIVERSITY

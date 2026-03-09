@@ -9,9 +9,9 @@ R. Mark Isaac; James M. Walker
 The Quarterly Journal of Economics, Vol. 103, No. 1. (Feb., 1988), pp. 179-199.
 Stable URL:
 hutp:/Minks jstor.org/sicisiei=0033-5533%28 198802%29 103%3A 1%3C179%3A GSEIPG%3E2.0.CO%3B2-Y
-‘The Quarterly Jounal of Economics is currently published by The MIT Press.
-Your use of the JSTOR archive indicates your acceptance of JSTOR’s Terms and Conditions of Use, available at
-huip:/svww.jstor.org/abouvterms.huml. JSTOR’s Terms and Conditions of Use provides, in part, that unless you
+ЛThe Quarterly Jounal of Economics is currently published by The MIT Press.
+Your use of the JSTOR archive indicates your acceptance of JSTORСs Terms and Conditions of Use, available at
+huip:/svww.jstor.org/abouvterms.huml. JSTORСs Terms and Conditions of Use provides, in part, that unless you
 have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and
 you may use content in the JSTOR archive only for your personal, non-commercial use.
 Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
@@ -29,7 +29,7 @@ THE VOLUNTARY CONTRIBUTIONS MECHANISM*
 R. Mark Isaac AND JAMES M. WALKER
 
 This paper examines the relationship between variations in group size and
-“free-riding” behavior in the voluntary provision of public goods. We examine
+“free-ridingФ behavior in the voluntary provision of public goods. We examine
 experimentally two pertinent concepts: the marginal return to an individual from
 contributions to the public good, and the actual number of members in the group.
 Our results strongly support a hypothesis that increasing group size leads to a
@@ -42,7 +42,7 @@ I. INTRODUCTION
 
 Much of the literature regarding the provision of public goods
 focuses on the problems associated with underrevelation of demand
-and the relationship of such “free-riding” behavior to variations in
+and the relationship of such “free-ridingФ behavior to variations in
 group size. This paper offers experimental evidence of individual
 and group behavior obtained from laboratory experiments designed
 to focus on this issue. We operationalize and test two separable
@@ -56,7 +56,7 @@ In Section II we give an overview of the decision faced by
 participants. This is followed by a demonstration of the relation-
 ship of the concepts listed above to variations in group size, both in
 the voluntary contributions mechanisms and also in relation to
-similar concepts in n-person prisoners’ dilemmas. Section II con-
+similar concepts in n-person prisonersС dilemmas. Section II con-
 cludes with a summary of the predictions of formal theoretical
 models that are pertinent to the specific environment we investi-
 gate. The experimental design and a discussion of instructions
@@ -67,15 +67,15 @@ of variables we have investigated, the standard argument that
 
 2The financial support of the National Science, Foundation (grant
 sssesasiouse is att acknowledged We ano wish to thank fic Mask and
-‘bwo anonymous referees for comments on an earlier draft.
+Лbwo anonymous referees for comments on an earlier draft.
 © 1088 by the President and Fellows of Harvard College and the Massachusetts Institute of
-‘Technology
+ЛTechnology
 The Quarterly Journal of Economics, February 1988
 
 
 180 QUARTERLY JOURNAL OF ECONOMICS
-“large” groups have a more difficult time providing public goods
-than “small” groups appears to be strongly supported when that
+“largeФ groups have a more difficult time providing public goods
+than “smallФ groups appears to be strongly supported when that
 distinction in group size is driven by reductions in the marginal per
 capita return to an individual from contributions to the public good.
 We find no obvious separate effect from the actual number of
@@ -85,15 +85,15 @@ some thoughts for further experimental and theoretical research.
 IL Group Size ConcepTs
 A. The Choice Environment
 
-‘The experiments reported here employ a computerized version
+ЛThe experiments reported here employ a computerized version
 of the voluntary contribution public goods provision mechanism.
 More detail on the experimental design and instruction is provided
-in the next section, but the gist of the process is as follows.’ Each
-individual in a group of size n faces ten “investment” decision
+in the next section, but the gist of the process is as follows.С Each
+individual in a group of size n faces ten “investmentФ decision
 periods. In each period the experimenters endow each participant
 (@ with Z, tokens. Each token will be invested in an “individual
-exchange” (where it pays the individual $0.01 with certainty), or in
-a “group exchange.” Let m, represent individual i’s contribution of
+exchangeФ (where it pays the individual $0.01 with certainty), or in
+a “group exchange.Ф Let m, represent individual iСs contribution of
 tokens to the group exchange in a given period. The group exchange
 is the public good in that each individual receives a payment of
 (1|n)G(m, + 5 m,) cents, where G(.) is an appropriately specified
@@ -131,7 +131,7 @@ public goods. Some examples are Olson [1965], Buchanan [1968],
 Froblich and Oppenheimer [1970], and Chamberlin [1974]. Investi-
 gating the effects of changing group size in the context of the
 voluntary contribution mechanism is, in some ways, conceptually
-parallel to the issue faced by analysts of n-person prisoners’
+parallel to the issue faced by analysts of n-person prisonersС
 dilemma (NPD) games. NPD researchers who have addressed this
 issue include Hamburger et al. [1975], Bonacich et al. [1976],
 Komorita [1976], Dawes [1980], Hardin [1982], and van de Kragt
@@ -139,19 +139,19 @@ Komorita [1976], Dawes [1980], Hardin [1982], and van de Kragt
 might interpret the concept of changes in group size within the
 voluntary contributions mechanism, and then to investigate the
 similarity of these concepts to those found in the NPD literature.
-While the prisoners’ dilemma and the voluntary-contribution pub-
+While the prisonersС dilemma and the voluntary-contribution pub-
 lic goods mechanism can easily be described with similar normal
 forms, the two institutions vary considerably in their extensive
 form.? The experimental literature focusing on group size effects is
 much more extensive in NPD than in public goods research.
 
 In many instances, discussion of public goods provision has
-distinguished between “pure” versus “impure” public goods. Our
+distinguished between “pureФ versus “impureФ public goods. Our
 interpretation of group size is partially motivated by this distinc-
 tion. A pure public good can be characterized as having perfect
 nonrivalry in consumption. Thus, increasing group size does not
 reduce the marginal benefit of the public good to other consumers.
-Counter to this type of public good is that of the “impure” public
+Counter to this type of public good is that of the “impureФ public
 good which can be jointly consumed but in which increases in group
 size tend to diminish the marginal benefit to all consumers (that is,
 there is a crowding effect). Given this latter interpretation, there is
@@ -162,7 +162,7 @@ Versions of this interaction have been noted by, among others,
 Olson, Frohlich and Oppenheimer, Hardin, and van de Kragt.
 
 2. The normal forms are not identical because the voluntary contributions
-mechanism has a strategy space larger than the two-element “defect, cooperate” pair
+mechanism has a strategy space larger than the two-element “defect, cooperateФ pair
 typical of prisoners dilemmas.
 
 
@@ -176,8 +176,8 @@ functional form of G(-), (iii) the number of persons participating
 see how our mechanism admits of three different interpretations of
 a group size effect, consider our base parameterizations: marginal
 benefits from the individual exchange equal to one cent; G(+) =
-3(3, m,); n = 4; and Z, = 25. If this were considered a “small group”
-experiment, how would one conduct a “large group” experiment?
+3(3, m,); n = 4; and Z, = 25. If this were considered a “small groupФ
+experiment, how would one conduct a “large groupФ experiment?
 One interpretation would simply be to hold G(-) constant and
 increase n. As an example, consider raising n to ten. Such an
 alteration combines two separable effects. First, the number of
@@ -215,11 +215,11 @@ changes in n or MPCR so as to keep the per capita monetary value
 
 3. While working on this paper, we became aware of the independent work of
 van de Kragt [1984] who addressed the same question (about what makes a group.
-larger or smaller) from the perspective of the literature on prisoners’ dilemmas.
+larger or smaller) from the perspective of the literature on prisonersС dilemmas.
 
 
 GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 183
-of the Pareto frontier constant across all experiments.‘ The impact
+of the Pareto frontier constant across all experiments.Л The impact
 of this particular choice of experimental constants is a behavioral
 question that is an obvious candidate for future research. The exact
 nature of the payoff structure for each of our experimental designs
@@ -228,7 +228,7 @@ is discussed in greater detail in Section III.
 C. Comparison of Group Size Concepts for NPD Games
 
 As the voluntary contributions mechanism and n-person pris-
-oner’s dilemma are similar in normal form, theoretical and experi-
+onerСs dilemma are similar in normal form, theoretical and experi-
 mental NPD research has had to grapple with a similar problem of
 deciding what makes a prisoner's dilemma large or small. The
 concept of the actual number of participants, n, is directly parallel
@@ -242,20 +242,20 @@ intertwined with concepts of group size.
 
 A recent paper by van de Kragt [1984] is devoted to examining
 concepts of group size in NPD games, extending analyses by other
-NPD researchers. In van de Kragt’s terminology, call g(C(n)) the
+NPD researchers. In van de KragtСs terminology, call g(C(n)) the
 gain each group member receives if all n choose to cooperate. He
 shows that as n increases either (i) g(C(n)) also increases, or (ii) if
 g(C(n)) is held constant, some other parameter must decline. One
 of the values that could decline in order to hold g(C(n)) constant as
-n increases is the “externality” of the dilemma (which is the change
+n increases is the “externalityФ of the dilemma (which is the change
 in any individual's payoff as any one person decides to cooperate or
 defect). This latter possibility is interpretable as the discrete
-equivalent in a prisoners’ dilemma of MPCR declining as n
+equivalent in a prisonersС dilemma of MPCR declining as n
 increases in the voluntary contributions mechanism.
 
 D. Hypotheses of Group Size Effects for Our Environment
 
-‘The previous section developed three possible interpretations
+ЛThe previous section developed three possible interpretations
 for our environment of what it means to make a group larger or
 smaller. These three interpretations are composed of what we call
 the marginal per capita return component (MPCR) and the pure
@@ -268,9 +268,9 @@ individual contributes all tokens to the private good.
 
 184 QUARTERLY JOURNAL OF ECONOMICS
 
-that “large” groups have a harder time providing the optimal level
-of the public good than do “small” groups, where now “large” and
-“small” can be more precisely defined for our experiments. A logical
+that “largeФ groups have a harder time providing the optimal level
+of the public good than do “smallФ groups, where now “largeФ and
+“smallФ can be more precisely defined for our experiments. A logical
 next step is to ask whether there exist any other received theories
 that would generate predictions for our economic environment
 regarding changes in group size.
@@ -292,19 +292,19 @@ cal outcomes for any combinations of MPCR and n satisfying the
 restrictions stated above. That is, there should be no observable
 group size effects when changes are limited to this range.
 
-‘There are also alternatives to the standard noncooperative
+ЛThere are also alternatives to the standard noncooperative
 model. In particular, Kreps et al. (1982] have formulated a model
 that predicts cooperation in early periods of a finitely repeated
-prisoners’ dilemma. In the standard model, complete noncoopera-
+prisonersС dilemma. In the standard model, complete noncoopera-
 tion is predicted as a Nash Equilibrium even in early periods
 through a backwards induction argument. In the Kreps et al. model,
 the backwards induction argument does not hold because the
 players begin the experiment in a state of incomplete information
-on rivals’ payoff matrix or rationality. Indeed, results from several
+on rivalsС payoff matrix or rationality. Indeed, results from several
 public goods experimental series have demonstrated a similar
 pattern of early-period cooperation with eventual decay toward the
 standard free-riding outcome [Isaac, McCue, and Plott, 1985; Kim
-and M. Walker, 1984; Isaac, J. Walker, and ‘Thomas, 1984—
+and M. Walker, 1984; Isaac, J. Walker, and ЛThomas, 1984—
 hereafter WT]. Fudenberg and Maskin [1986] describe conditions
 under which a sufficiently long finitely repeated prisoner's dilemma
 can (under incomplete information) have average payoffs that
@@ -336,7 +336,7 @@ group contributions in a voluntary contributions environment.
 TI. EXPERIMENTAL DESIGN AND PARAMETERS
 A. Subjects and Experimental Setting
 
-‘The experiments reported in this study were conducted using
+ЛThe experiments reported in this study were conducted using
 subjects drawn from a population of undergraduate students at the
 University of Arizona. The students were currently enrolled in
 lower-level economics courses. All of the experiments were con-
@@ -344,13 +344,13 @@ ducted using experienced subjects. These subjects were randomly
 chosen from a pool of those who had participated in previous
 experiments employing the same decision process. All subjects were
 volunteers who (in prior recruiting) had received a brief explanation
-of what it meant to be in an economics experiment.’ Emphasis had
+of what it meant to be in an economics experiment.С Emphasis had
 been placed on the fact that no special background in economics or
 the use of computers was needed to participate. In recruiting
 experienced subjects, we never replicated a particular group from
 previous experiments.
 
-‘The experiments were conducted using the PLATO computer
+ЛThe experiments were conducted using the PLATO computer
 system. This system allows for minimal experimenter-subject inter-
 action during experimental sessions and also insures that all sub-
 jects see identical instructions and examples for a given experimen-
@@ -358,7 +358,7 @@ jects see identical instructions and examples for a given experimen-
 6. The existence of a group size effect consistent with the incomplete informa-
 tion models appears to be a possibility. For example, suppose I believe that there is a
 sroall (independent, binomial) probability that anyone of my fellow players “enjoys
-cooperating.” Then, the chances that I face at least one such rival changes with the
+cooperating.Ф Then, the chances that I face at least one such rival changes with the
 number of rivals. Again, the differences in normal and extensive forms makes the
 parallels less than exact and, to our knowledge, this literature has been developed
 primarily in the context of two-person games.
@@ -373,7 +373,7 @@ only one MPCR condition, they were well mixed between low and high MPCR.
 186 QUARTERLY JOURNAL OF ECONOMICS
 
 tal design. The use of the computer also facilitates the accounting
-process that occurs in each decision period and minimizes subjects’
+process that occurs in each decision period and minimizes subjectsС
 transactions costs in making decisions and recalling information
 from previous decisions.
 
@@ -393,7 +393,7 @@ be known by other participants in the market. The subjects faced
 individual computer terminals with side-board blinders used to
 gain as much privacy and anonymity as possible.
 
-‘The programmed instructions described to the participants
+ЛThe programmed instructions described to the participants
 the following decision problem: given a specific endowment of
 tokens (resources) participants faced the decision of allocating their
 tokens between an individual exchange (private good) and a group
@@ -408,12 +408,12 @@ group exchange as well as upon the investment in the group
 exchange by all other participants. It is important to note that,
 although the total payoff from the group exchange is dependent
 upon the investment of others, the MPCR does not vary. From any
-one contributors’ point of view, there is no necessity to conjecture
+one contributorsС point of view, there is no necessity to conjecture
 about the marginal benefits from incremental changes in contribu-
 tions to the public good. The payoff from the group exchange was
 reported to each participant in the form of a table that gave group
 
-8, The phrases “individual exchange” and “group exchange” were the ones used
+8, The phrases “individual exchangeФ and “group exchangeФ were the ones used
 in the experiment, The reference to private and public goods is provided here to be
 more consistent with standard terminology.
 
@@ -422,11 +422,11 @@ GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 187
 and individual returns from the group exchange for various invest-
 ment levels (from zero up to the total tokens owned by the group).
 
-‘The information position of each participant can be described
+ЛThe information position of each participant can be described
 as follows. First, each participant knew his own endowment of
 tokens for each decision trial and the total number of tokens for the
 group. He did not know the specific allocation of tokens to other
-participants.’ Second, participants knew the exact size of the group
+participants.С Second, participants knew the exact size of the group
 and that each participant's return from the group exchange was
 identical. Each participant knew with certainty his own return from
 the private exchange. Third, each participant knew that there
@@ -441,7 +441,7 @@ contributed by the group to the group exchange. Before making an
 investment decision in any one trial, a participant could obtain this
 same information for all previous trials.
 
-‘The participants faced two consecutive series of ten decision
+ЛThe participants faced two consecutive series of ten decision
 trials. This provided (to our knowledge) the first intragroup com-
 parison of the effects of the marginal per capita return on provision
 of the public good. In one series, this parameter was set equal to 0.3;
@@ -455,8 +455,8 @@ MPCR effects encountered in previous work.
 
 Because participants are aware that each series consists of
 precisely ten trials, we have not only a ten-period finitely repeated
-process but also, from period 10, a true “single-period” decision
-context in which a substantial opportunity for “learning” has
+process but also, from period 10, a true “single-periodФ decision
+context in which a substantial opportunity for “learningФ has
 already occurred. In the experiments reported here, participants in
 the first series of ten trials did not know with certainty of the
 existence of a second series until after the first series completion.
@@ -481,7 +481,7 @@ sequences. There were twelve four-person experiments and twelve
 ten-person experiments. As a result, and based upon the earlier
 exposition of concepts of group size, this design can be represented
 as a four-cell process among the combinations of MPCR and n.
-‘These combinations are represented in Table I, with cell 4
+ЛThese combinations are represented in Table I, with cell 4
 indicating four-person experiments using the lower MPCR value
 (0.3), and so forth. In presenting the results in the next section, we
 shall focus on the separate simple effects of MPCR and n, and then
@@ -498,7 +498,7 @@ not presented in detail here. We present observations on both
 individual behavior and on the aggregate provision of the public
 good. In terms of observations related to individual behavior, we
 shall focus upon the number of individuals who are what we have
-(somewhat arbitrarily) defined as “strong free riders.” An individ-
+(somewhat arbitrarily) defined as “strong free riders.Ф An individ-
 
 TABLE I
 EXPERIMENT PARAMETERS
@@ -547,7 +547,7 @@ using this alternative specification. Finally, we should comment
 upon evidence regarding possible sequencing effects due to our
 intragroup sequencing of MPCR. We found no indication of an
 effect of sequence upon our reported observations, so we do not
-disaggregate our presentation by sequence.”
+disaggregate our presentation by sequence.Ф
 
 The main conclusions of our research can be drawn from the
 data presented in Figures I and II and Table II. Figure I displays the
@@ -577,9 +577,9 @@ ai \
 1 2 3 4 5 6 7 8 9 10
 PERIOD
 Ficure IT
-‘Mean Percent of Tokens Contributed to the Public Good
+ЛMean Percent of Tokens Contributed to the Public Good
 Table II contains the data from the tenth period of each second-
-sequence experiments, which comprise our sample of “end-period”
+sequence experiments, which comprise our sample of “end-periodФ
 observations.
 OBSERVATION 1. Lowering the MPCR from 0.75 to 0.3 appears to
 increase significantly the incidence of free-riding behavior.
@@ -589,7 +589,7 @@ is greater in both groups with a low MPCR than for either group
 with a high MPCR. The same is true for all periods for mean
 contribution to the public good as a percent of optimum. Notice
 further that the low MPCR experiments display more clearly a
-“decay” phenomenon across iterated decisions.
+“decayФ phenomenon across iterated decisions.
 
 In the true end-periods, the MPCR effect is still present. On
 average, low MPCR groups contributed only 3.65 percent of their
@@ -607,7 +607,7 @@ GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 191
 TABLE IL
 Enp-Periop RESULTS
 Percent of tokens Numberof Number of
-Experiment contributed to ‘strong persons contributing.
+Experiment contributed to Лstrong persons contributing.
 type Replication the public good _free-riders zero.
 4L 1 00% 4 4
 2 0.0% 4 4
@@ -629,7 +629,7 @@ size from four to ten (holding MPCR constant).
 
 From both Figures I and II, an interesting pattern emerges. For
 groups with MPCR equal to 0.75, there is no clear effect due to n.
-‘The 4H and 10H graphs are very close and, in fact, cross each other
+ЛThe 4H and 10H graphs are very close and, in fact, cross each other
 repeatedly. On the other hand, there is a consistent tendency for n
 to make a difference in groups with the low MPCR. In ten of ten
 periods, the mean data suggest more free riding in the smaller
@@ -668,9 +668,9 @@ PERIOD
 rte
 rel eee
 A. Interpretation of Group Size Effects in Public Goods Research
-‘To what extent do the data support or dispute the hypothesis
-that “large” groups have a more difficult time providing public
-goods than “small” groups? Without ambiguity, groups with a lower
+ЛTo what extent do the data support or dispute the hypothesis
+that “largeФ groups have a more difficult time providing public
+goods than “smallФ groups? Without ambiguity, groups with a lower
 MPCR had less success in providing optimal levels of the public
 good. Thus, to the extent that increasing group size decreases
 7 Vy] AV
@@ -697,11 +697,11 @@ tent with the traditional view. On the other hand, controlling for
 MPCR, we found that changing n had a weak and ambiguous effect.
 In fact, to the extent that there was any difference in the data, it was
 in the direction of the large group being relatively more successful.
-‘Therefore, our data do not suggest that more group decision makers
+ЛTherefore, our data do not suggest that more group decision makers
 in and of itself makes a group less likely to obtain efficient levels of
 the public good.
 
-‘As mentioned earlier, one obvious way for a group to go from
+ЛAs mentioned earlier, one obvious way for a group to go from
 small to large is for both n and MPCR to change (more people
 increases n and produces crowding). The results described above
 would suggest that public goods provision would be closer to
@@ -713,12 +713,12 @@ nents of group size is clearly as expected: the groups with n equal to
 four and with the large MPCR consistently contributed more, on
 average, to the public good.
 
-‘To our knowledge, the only other experimental research of the
+ЛTo our knowledge, the only other experimental research of the
 voluntary contributions mechanism to investigate group size is
 reported by Marwell and Ames [1979]. There are many differences
 between their experimental design and ours. Among the differences
-are the following: their experiments were “one shot,” conducted by
-telephone, and used a “provision point” payoff function.® In
+are the following: their experiments were “one shot,Ф conducted by
+telephone, and used a “provision pointФ payoff function.® In
 addition, all subjects actually participated in groups of four per-
 sons. However, the participants were sometimes told that they were
 participating in groups of 80 persons. In one treatment, Marwell
@@ -733,11 +733,11 @@ groups, but the difference was not statistically significant.
 likely io form. Recall that in these experiments the costs of organizing and
 assembling the group were bore by the experimenters. "
 
-12. A “provision point” payoff function is one with a discontinuity at some
+12. A “provision pointФ payoff function is one with a discontinuity at some
 minimum required level of contribution. If total contributions fall short of the
 provision point, none (or substantially less) of the public good is provided.
 
-13, In the Marwell and Ames experiments, the “group good” Payoff function for
+13, In the Marwell and Ames experiments, the “group goodФ Payoff function for
 the large groups required an investment twenty times a large as that ofthe sal
 group for the same per capita return. Disregarding the complications presented by
 the use of the provision points, this change in the payoff function can be interpreted
@@ -781,13 +781,13 @@ effect of n°
 14. The Z-statistic on difference in proportions is 2.625
 25, Seventeen of twenty-four persons in the four person groups contributed
 recisely zero (70.8 percent). Forty-two of sixty persons in the ten-person grou
-Eontributed: precisely zero (700 percent). The Z-statistic on ‘he’ diferesce fa
+Eontributed: precisely zero (700 percent). The Z-statistic on ЛheС diferesce fa
 proportions is 0.072,
 
 
 GROUP SIZE HYPOTHESES OF PUBLIC GOODS PROVISION 195
 
-‘The results across all periods are not supportive of the multi-
+ЛThe results across all periods are not supportive of the multi-
 period Nash Equilibrium prediction of zero contribution in every
 period (based upon a backwards induction argument). Instead, the
 experiments uniformly begin with positive contributions (ranging
@@ -797,7 +797,7 @@ pattern is consistent with the experimental results cited by Kreps et
 al., and it suggests that the incomplete information models should
 also be a fruitful line of theoretical inquiry for public goods
 research.
-C. Prisoners’ Dilemma Research
+C. PrisonersС Dilemma Research
 
 Comparison of our results with those from NPD research is
 somewhat difficult because of the important differences in the two
@@ -820,19 +820,19 @@ level of the externality (their version of MPCR), while allowing n to
 increase." In general, they found that, when controlling for their set
 of incentives to cooperate, an increase in n led to more cooperation.
 Komorita et al. [1980] tested groups with both four and eight
-persons. For each group size the slope of the “externality” function
+persons. For each group size the slope of the “externalityФ function
 (analogous to MPCR) was found to have a significant effect. No
 significant separate effect of pure group size was found. Thus, this
 
 16, Decay is more pronounced with the low MPCR,
 
-17. ‘The Bonacich et al. paper is a very systematic investigation of changes in
+17. ЛThe Bonacich et al. paper is a very systematic investigation of changes in
 sgoup Sein NPD games, in what iereferred tas Rule A the allow the externality
 
 rom cooperating (similar to the MPCR) to remain constant while changing
 
-However, in order to maintain what they call “gains from cooperation” and
-“temptations not to cooperate,” they alter the entry level of externality. In our
+However, in order to maintain what they call “gains from cooperationФ and
+“temptations not to cooperate,Ф they alter the entry level of externality. In our
 voluntary contributions mechanism, a similar role was played by our alteration of
 
 
@@ -860,7 +860,7 @@ the maximum possible tokens).
 
 VI. Conciustons
 
-‘The results we report here are among the most consistently
+ЛThe results we report here are among the most consistently
 replicable experimental results we have encountered. The conclu-
 sion that a higher MPCR leads to greater efficiency in public goods
 provision (even when zero contribution is the identical prediction of
@@ -915,8 +915,8 @@ behavior:
 
 1. The concept of MPCR, which involves incentives at the
 margin, also has implications for the total reward conditions. Table
-III describes three total reward (or “wealth”) values for each of the
-design configurations. The second column (“W”) is the per period
+III describes three total reward (or “wealthФ) values for each of the
+design configurations. The second column (“WФ) is the per period
 
 TABLE IIT
 REWARD CONDITIONS FOR COOPERATION AND FREE RIDING
@@ -936,7 +936,7 @@ pombe otene
 
 monetary reward to a single individual at the Pareto frontier. As
 was discussed earlier, this was standardized at 75 cents across all
-treatments. The third column (M’) reports the per capita payoff if
+treatments. The third column (MС) reports the per capita payoff if
 all participants contribute zero tokens to the public good. The
 fourth column (M?) reports the payoff to a single individual if he is
 the only person to contribute zero, while all others contribute all of
@@ -951,8 +951,8 @@ the group to attempt a tacitly cooperative mode of behavior.
 
 2. The standard repeated game models assume complete infor-
 mation. This experimental design does not allow one individual to
-know with certainty the nature of anyone else’s complete payoff
-structure because they are not told anyone else’s payment from the
+know with certainty the nature of anyone elseСs complete payoff
+structure because they are not told anyone elseСs payment from the
 individual exchange nor the exact distribution of tokens. The
 approach of several recent authors is to examine repeated games
 with incomplete information. Our decay phenomenon suggests that,
@@ -966,10 +966,10 @@ Perhaps even our experienced participants are still learning the
 Nash or dominant strategies.
 
 4, Perhaps individuals retain a residual motive to altruism.
-‘This is consistent with positive contributions in the true end-period
+ЛThis is consistent with positive contributions in the true end-period
 as well as with the fact that these positive contributions seem to be
 related to MPCR. That is, by the very nature of MPCR, altruism is
-relatively more “expensive” when MPCR is 0.3 than when it is
+relatively more “expensiveФ when MPCR is 0.3 than when it is
 0.75.
 
 We hope that relating these conjectures and our observations
@@ -992,75 +992,75 @@ INDIANA UNIVERSITY
 REFERENCES
 
 Bongvch, P. GH, Shure, J.P. Kahan, and RJ, Mecker, “Cooperation and Group
-Size in the V-Person Prisoners’ Dilemma,” Journal of Conflict Resolution, X
+Size in the V-Person PrisonersС Dilemma,Ф Journal of Conflict Resolution, X
 (1976), 687-706.
 
 Buchanan, James M., The Demand and Supply of Public Goods (Chicago, IL: Rand
-‘McNally and Company, 1968).
+ЛMcNally and Company, 1968).
 
-Chamberlin, John, “Provision of Public Goods as a Function of Group Size,”
+Chamberlin, John, “Provision of Public Goods as a Function of Group Size,Ф
 American Political Science Review, LXVIM (1974), 707-16.
 
-Dawes, Robyn M., “Social Dilemmas,” Annual Review of Psychology, XXXI (1980),
+Dawes, Robyn M., “Social Dilemmas,Ф Annual Review of Psychology, XXXI (1980),
 169-93,
 
 Friedinan James, Oligopoly andthe Theory of Games (Amsterdam: North-Holland,
 
 Frohlich, Norman, and Joel Oppenheimer, “I Get by with a Little Help from my
-Friends,” World Poiities, M (1970). 104-20.
+Friends,Ф World Poiities, M (1970). 104-20.
 
 Fudenberg, Drew, and Eric Maskin, ““The Folk Theorem in Repeated Games with
-Discounting and with Incomplete Information,” Econometrica, LIV (1986),
+Discounting and with Incomplete Information,Ф Econometrica, LIV (1986),
 
 54.
 
 Goohring, Dwight J. and James P. Keghan, “The Uniform N-Person Prisoner!
-Dilemma Game, Construction and ‘Test of an Index of Cooperation,” Journal of
+Dilemma Game, Construction and ЛTest of an Index of Cooperation,Ф Journal of
 Conflict Resolution, XX (1976), 111-28.
 
-Hamburger, Henry, Meivin Guyer, and John Fox, “Group Size and Cooperation,”
-‘Journal of Conflict Resolution, XIX (1975), 503-31
+Hamburger, Henry, Meivin Guyer, and John Fox, “Group Size and Cooperation,Ф
+ЛJournal of Conflict Resolution, XIX (1975), 503-31
 
 Hardin, Russel Collective Action (altimore, MD: Johns Hopkins University Pres,
 1982).
 
 Isaac, R. Mark, Kenneth McCue, and Charles R. Plott, “Public Goods Provision in
-‘an Experimental Environment,” Journal of Public Economics, XXV1 (1985),
+Лan Experimental Environment,Ф Journal of Public Economics, XXV1 (1985),
 5114,
 
 Isaac, R; Mark, James M. Walker, and Susan Thomas, “Divergent Bvidence on Free
-Riding: An Experimental Examination of Some Possible Explanations,” Public
+Riding: An Experimental Examination of Some Possible Explanations,Ф Public
 Choice, XLII (1984), 113-49.
 
 Kelley, Harold H., and Janusz Grzelak, “Conflict Between Individual and Common
-Interest in an N-Person Relationship,” Journal of Personality and Social
+Interest in an N-Person Relationship,Ф Journal of Personality and Social
 Psychology, XXI (1972), 190-97
 
-Kim, Oliver, and Mark Walker, “The Free Rider Problem: Experimental Evidence,”
+Kim, Oliver, and Mark Walker, “The Free Rider Problem: Experimental Evidence,Ф
 Public Choice, XLII (1984), 3-24.
 
-Komorita, S. 8., “A Model of the N-Person Dilemma Type Game,” Journal of
+Komorita, S. 8., “A Model of the N-Person Dilemma Type Game,Ф Journal of
 Experimental Social Psychology, XII (1976), 357-73.
 
 —,J. Sweeney, and D. A. Kravitz, "Cooperative Choice in the N-Person Dilemma
-Situation,” Journal of Personality and Social Psychology, XXXVI (1980),
+Situation,Ф Journal of Personality and Social Psychology, XXXVI (1980),
 50416.
 
 Kreps, David M., Paul Milgrom, John Roberts, and Robert Wilson, “Rational
-Cooperation in the Finitely-Repeated Prisoners’ Dilemma,” Journal of Eeo-
+Cooperation in the Finitely-Repeated PrisonersС Dilemma,Ф Journal of Eeo-
 nomic Theory, XXVII (1983), 245-52.
 
 Marvell, Gerald, and Ruth E. Ames, “Experiments on the Provision of Public Goods.
-I. Resources, Interest, Group Size, and the Free Rider Problems,” American
+I. Resources, Interest, Group Size, and the Free Rider Problems,Ф American
 dournal of Sociology, LXXXIV (1979), 1335-60.
 
 Olson, Mancur, The Logi¢ of Coilective Action (Cambridge, MA: Harvard University
 Press, 1965).
 
-Rapoport; Anatol, and Albert M. Chammah, Prisoner’ Dilemma: A Study in
+Rapoport; Anatol, and Albert M. Chammah, PrisonerС Dilemma: A Study in
 
 onfiet and Cooperation (Ana Arbor: University of Michigan Press, 1965).
 
 van de Kragt, Alphons, “Experimental N-Person Dilemmas and Group Size: An
 
-Elaboration” presented at the annual meetings of the Public Choice Society,
+ElaborationФ presented at the annual meetings of the Public Choice Society,

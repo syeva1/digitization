@@ -20,7 +20,7 @@ Follow this and additional works at: http://digitalcommons.chapman.edu/economics
 o Part of the Economic Theory Commons
 
 Recommended Citation
-Smith, Vernon L. “An Experimental Study of Competitive Market Behavior” Journal of Political Economy, 70.2 (1962): 111-137.
+Smith, Vernon L. “An Experimental Study of Competitive Market BehaviorФ Journal of Political Economy, 70.2 (1962): 111-137.
 
 This Article is brought to you for free and open access by the Economics at Chapman University Digital Commons, It has been accepted for inclusion
 in Economics Faculty Articles and Research by an authorized administrator of Chapman University Digital Commons. For more information, please
@@ -106,9 +106,9 @@ of received short-run supply and demand
 theory. A similar experimental supply
 and demand model was first used by
 E. H. Chamberlin in an interesting set
-of experiments that pre-date contemporary interest in experimental games.”
+of experiments that pre-date contemporary interest in experimental games.Ф
 
-2“An Experimental Imperfect Market,” Journal
+2“An Experimental Imperfect Market,Ф Journal
 of Political Economy, LVI (April, 1948), 95-108.
 For an experimental study of bilateral monopoly,
 see S. Siegel and L. Fouraker, Bargaining and Group
@@ -116,7 +116,7 @@ Decision Making (New York: McGraw-Hill Book
 Co., 1960).
 
 
-Chamberlin’s paper was highly suggestive in demonstrating the potentialities
+ChamberlinСs paper was highly suggestive in demonstrating the potentialities
 of experimental techniques in the study
 of applied market theory.
 
@@ -145,7 +145,7 @@ is willing to pay for one unit of the
 fictitious commodity. It is explained that
 the buyers are not to buy a unit of the
 commodity at a price exceeding that
-appearing on their buyer’s card; they
+appearing on their buyerСs card; they
 would be quite happy to purchase a
 unit at any price below this number—the
 lower the better; but, they would be
@@ -169,7 +169,7 @@ $3.25 it cannot exceed one unit. The
 next highest price buyer is willing to
 pay $3.00. Thus, at $3.00 the demand
 quantity cannot exceed two units. The
-phrase ‘‘cannot exceed” rather than “‘is”’
+phrase ЛЛcannot exceedФ rather than “ЛisФС
 will be seen to be of no small importance. How much is actually taken at
 any price depends upon such important
 things as how the market is organized,
@@ -258,9 +258,9 @@ buy (or sell) at any price which does
 not violate his maximum (or minimum)
 reservation price. Thus, in Chart 1, the
 buyer holding the $2.50 card might raise
-his hand and shout, “Buy at $1.00.”
+his hand and shout, “Buy at $1.00.Ф
 The seller with the $1.50 card might
-then shout, “Sell at $3.60.” Any seller
+then shout, “Sell at $3.60.Ф Any seller
 (or buyer) is free to accept a bid (or
 offer), in which case a binding contract
 
@@ -270,7 +270,7 @@ TRANSACTION NUMBER (BY PERIOD)
 and the maximum demand price of the
 buyer involved in the transaction. These
 observations represent the recorded data
-of the experiment.‘ Within the time limit
+of the experiment.Л Within the time limit
 
 + All purchases are for final consumption. There
 are no speculative purchases for resale in the same
@@ -291,7 +291,7 @@ continued. until bids and offers are no
 longer leading to contracts. One or two
 calls are made for final bids or offers
 and the market is officially closed. This
-ends period 1. The market is then immediately reopened for the second “day”
+ends period 1. The market is then immediately reopened for the second “dayФ
 of trading. All buyers, including those
 who did and those who did not make
 contracts in the preceding trading period,
@@ -302,7 +302,7 @@ in the second period as prevailed in the
 first period. In this way the experimental
 demand curve represents a demand per
 unit time or per trading period. Similarly,
-each seller, we may imagine, has ‘“‘overnight” acquired a fresh unit of the commodity which he desires to sell in period
+each seller, we may imagine, has Л“ЛovernightФ acquired a fresh unit of the commodity which he desires to sell in period
 2 under the same minimum price conditions as prevailed in period 1. The
 experimental supply curve thereby represents a willingness to supply per unit
 time. Trading period 2 is allowed to run
@@ -311,7 +311,7 @@ By this means we construct a prototype
 market in which there is a flow of a
 commodity onto and off the market.
 The stage is thereby set to study price
-behavior under given conditions of normal supply and demand.’ Some buyers
+behavior under given conditions of normal supply and demand.С Some buyers
 and sellers, it should be noted, may be
 unable to make contracts in any trading
 period, or perhaps only in certain periods. Insofar as these traders are submarginal buyers or sellers, this is to be
@@ -347,15 +347,15 @@ and demand schedules exist in the background of a market does not guarantee
 that any meaningful relationship exists
 
 § The design of my experiments differs from that
-of Chamberlin (09. cit.) in several ways. In Chamberlin’s experiment the buyers and sellers simply circulate and engage in bilateral higgling and bargaining
+of Chamberlin (09. cit.) in several ways. In ChamberlinСs experiment the buyers and sellers simply circulate and engage in bilateral higgling and bargaining
 until they make a contract or the trading period
 ends. As contracts are made the transaction price
 is recorded on the blackboard. Consequently, there
 is very little, if any, multilateral bidding. Each
-trader’s attention is directed to the one person with
+traderСs attention is directed to the one person with
 whom he is bargaining, whereas in my experiments
-each trader’s quotation is addressed to the entire
-trading group one quotation at a time. Also Chamberlin’s experiment constitutes a pure exchange market operated for a single trading period. There
+each traderСs quotation is addressed to the entire
+trading group one quotation at a time. Also ChamberlinСs experiment constitutes a pure exchange market operated for a single trading period. There
 is, therefore, less opportunity for traders to gain
 experience and to modify their subsequent behavior
 in the light of such experience. It is only through
@@ -385,8 +385,8 @@ on the behavior of buyers and sellers.
 Indeed, if we separately paired buyers
 and sellers in this special way, each pair
 could be expected to make a bilateral
-contract at the seller’s minimum price
-which would be equal to the buyer’s
+contract at the sellerСs minimum price
+which would be equal to the buyerСs
 maximum price.
 
 It should be noted that these experiments conform in several important ways
@@ -401,20 +401,20 @@ knowledge of market conditions is to
 
 § In fact, these schedules are modified as trading
 takes place. Whenever a buyer and a seller make
-acontract and ‘‘drop out” of the market, the demand
+acontract and ЛЛdrop outФ of the market, the demand
 and supply schedules are shifted to the left in a
-manner depending upon the buyer’s and seller’s
+manner depending upon the buyerСs and sellerСs
 position on the schedules. Hence, the supply and
 demand functions continually alter as the trading
 process occurs. It is diilicult to imagine a real market
 process which does not exhibit this characteristic.
-‘This means that the intra-trading-period schedules
+ЛThis means that the intra-trading-period schedules
 are not independent of the transactions taking place.
 However, the initial schedules prevailing at the
 opening of each trading period are independent
 of the transactions, and it is these schedules that
-T identify with the ‘theoretical conditions of supply
-and demand,” which the theorist defines independently of actual market prices and quantities. One
+T identify with the Лtheoretical conditions of supply
+and demand,Ф which the theorist defines independently of actual market prices and quantities. One
 of the important objectives in these experiments
 is to determine whether or not these initial schedules
 
@@ -430,11 +430,11 @@ of these experimental markets. We deliberately avoid placing at the disposal
 of our subjects any information which
 would not be practically attainable in
 a real market. Each experimental market
-is forced to provide all of its own “history.” These markets are also a replica
+is forced to provide all of its own “history.Ф These markets are also a replica
 of real markets in that they are composed of a practical number of marketers, say twenty, thirty, or forty. We do
 not require an indefinitely large number
 of marketers, which is usually supposed
-necessary for the existence of “pure”
+necessary for the existence of “pureФ
 competition.
 
 One important condition operating in
@@ -459,7 +459,7 @@ changing conditions on market behavior.
 
 In three of the nine experiments, oncefor-all changes in demand and/or supply
 were made for purposes of studying the
-transient dynamics of a market’s response to such stimuli.
+transient dynamics of a marketСs response to such stimuli.
 
 Ill. DESCRIPTION AND DISCUSSION
 OF EXPERIMENTAL RESULTS
@@ -468,7 +468,7 @@ The supply and demand schedule for
 each experiment is shown in the diagram
 on the left of Charts 1-10. The price
 and quantity at which these schedules
-intersect will be referred to as the predicted or theoretical “equilibrium” price
+intersect will be referred to as the predicted or theoretical “equilibriumФ price
 and quantity for the corresponding experimental market, though such an
 equilibrium will not necessarily be
 attained or approached in the market.
@@ -505,7 +505,7 @@ $0.75 to $3.25 as seen in the supply
 and demand schedules. As a means of
 measuring the convergence of exchange
 prices in each market, a “coefficient of
-convergence,” a, has been computed for
+convergence,Ф a, has been computed for
 each trading period in each market. The
 a for each trading period is the ratio
 of the standard deviation of exchange
@@ -686,7 +686,7 @@ $10.00
 EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR
 
 excess-rent hypothesis, to be discussed
-later.”
+later.Ф
 
 The tests in Chart 4 are of special
 interest from the point of view of the
@@ -740,7 +740,7 @@ $6.00
 ~<——
 
 TEST 48.
-‘ q
+Л q
 Fy= $390, Xo
 
 PRICE
@@ -772,18 +772,18 @@ exhibit rapid convergence toward the
 Marshallian hypothesis (the rate of increase in quantity exchanged is an increasing function of the excess
 of demand price over supply price), but this hypothesis would seem to be worth considering only
 in market processes in which some quantity-adjusting decision is made by the marketers. The results
-of a pilot experiment in “‘short-run” and “long-run”
+of a pilot experiment in “Лshort-runФ and “long-runФ
 equilibrium are displayed in the Appendix.
 
 9 WU 2 9357913579195 791357 91357613 571356
 
 TRANSACTION NUMBER (BY PERIOD)
 
-demand from DD to D’D’ was ineffective
+demand from DD to DСDС was ineffective
 as a means of shocking the market down
 to its supply and demand equilibrium.
 This decrease in demand was achieved
-by passing out new buyer cards corresponding to D’D’ at the close of period
+by passing out new buyer cards corresponding to DСDС at the close of period
 4 in test 44. As expected, the market
 approaches equilibrium from above, since
 contracts at prices below equilibrium are
@@ -791,7 +791,7 @@ impossible.
 
 The sellers in this market presented
 a solid front against price being lowered
-to “equilibrium.” In the previous mar-
+to “equilibrium.Ф In the previous mar-
 
 
 kets there was a divergence of seller
@@ -809,15 +809,15 @@ test 4 to the tentative hypothesis that
 there may be an upward bias in the
 equilibrium price of a market, which
 will be greater the more elastic is the
-supply schedule relative to demand.’ For
+supply schedule relative to demand.С For
 example, let A be the area under the
-demand schedule and above the theoretical equilibrium. This is Marshall’s consumer surplus, but to avoid any welfare
+demand schedule and above the theoretical equilibrium. This is MarshallСs consumer surplus, but to avoid any welfare
 connotations of this term, I shall refer
-to the area as “buyers’ rent.” Let B
+to the area as “buyersС rent.Ф Let B
 be the area above the supply schedule
 and below the theoretical equilibrium
-(Marshall’s producer surplus) which I
-shall call ‘‘sellers’ rent.” Now, the tentative hypothesis was that the actual market equilibrium will be above the theoretical equilibrium by an amount which
+(MarshallСs producer surplus) which I
+shall call ЛЛsellersС rent.Ф Now, the tentative hypothesis was that the actual market equilibrium will be above the theoretical equilibrium by an amount which
 depends upon how large A is relative
 to B. Similarly, there will be a downward
 bias if A is small relative to B.
@@ -838,16 +838,16 @@ VERNON L. SMITH
 
 As a consequence of these considerations, test 7 was designed specifically
 to obtain additional information to support or contradict the indicated hypothesis. In this case, as is seen in Chart
-7 (see below), buyers’ rent is substantially smaller than sellers’ rent. From
+7 (see below), buyersС rent is substantially smaller than sellersС rent. From
 the resulting course of contract prices
 over six trading periods in this experiment, it is evident that the convergence
 to equilibrium is very slow. From Table
 1, the average exchange prices in the
 last three trading periods are, respectively, $3.32, $3.33, and $3.34. Average
 contract prices are still exhibiting a gradual approach to equilibrium. Hence, it
-is entirely possible that the static equilibrium would eventually have been attained. A still smaller buyers’ rent may
+is entirely possible that the static equilibrium would eventually have been attained. A still smaller buyersС rent may
 be required to provide any clear downward bias in the static equilibrium. One
-thing, however, seems quite unmistakable from Chart 7, the relative magnitude of buyers’ and sellers’ rent affects
+thing, however, seems quite unmistakable from Chart 7, the relative magnitude of buyersС and sellersС rent affects
 the speed with which the actual market
 equilibrium is approached. One would
 expect sellers to present a somewhat
@@ -926,7 +926,7 @@ qagh bb tt L brit potorerteoriitip pea tiriird iyo
 
 QUANTITY
 
-“normal profits,” that is, a small return
+“normal profits,Ф that is, a small return
 even if the good is sold at its minimum
 supply price or purchased at its maximum demand price. The present experiments have not seemed to provide any
 motivation problems. The subjects have
@@ -958,7 +958,7 @@ of convergence is smaller for the opening
 and later periods of this market than
 for any period of any of the other tests.
 Furthermore, trading periods 2-4 show
-a’s of less than 1 per cent, indicating
+aСs of less than 1 per cent, indicating
 an inordinately strong and rapid tendency toward equilibrium. In this case, no
 offers or bids were accepted until the
 bidding had converged to prices which
@@ -969,7 +969,7 @@ from $2.10 to $3.75.
 
 At the close of test 54 new cards were
 distributed corresponding to an increase
-in demand, from DD to D'D’, as shown
+in demand, from DD to D'DС, as shown
 in Chart 5.° The subjects, of course,
 could guess from the fact that new buyer cards were being distributed that a
 change in demand was in the wind. But
@@ -987,7 +987,7 @@ strong that two sellers who were submarginal both before and after the increase
 in demand (their reservation prices were
 
 10 Note also that there was a small (one-unit)
-decrease in supply from SS to S'S’. This was not
+decrease in supply from SS to S'SС. This was not
 planned. It was due to the inability of one subject
 (the seller with the $2.10 reservation price) in test
 5A to participate in test 5B. Therefore, except for
@@ -1099,7 +1099,7 @@ PRICE
 PRICE
 
 
-corresponding to D’D’ in Chart 6. Trading was resumed with the new conditions
+corresponding to DСDС in Chart 6. Trading was resumed with the new conditions
 of decreased demand (test 6B). There
 was not sufficient time to permit two
 full trading periods of market experience
@@ -1246,7 +1246,7 @@ price.
 
 By permitting each buyer and seller
 to make two contracts per period, twice
-as much market “experience” is potentially to be gained by each trader in a
+as much market “experienceФ is potentially to be gained by each trader in a
 given period. Each trader can experiment
 more in a given market—correcting his
 bids or offers in the light of any surprises
@@ -1260,7 +1260,7 @@ the trader had made a contract."
 upon observed price quotations and the actual contracts that are executed, is the underlying adjustment mechanism operating in all of these experiments. This is in contrast with the Walrasian /dtonnement or groping process in which “when a price
 is cried, and the effective demand and offer corresponding to this price are not equal, another price
 is cried for which there is another corresponding
-effective demand and offer” (see Leon Walras, Elements of Pure Economics, trans. William Jaffe [Chicago: Richard D. Irwin, Inc., 1954], p. 242). The
+effective demand and offerФ (see Leon Walras, Elements of Pure Economics, trans. William Jaffe [Chicago: Richard D. Irwin, Inc., 1954], p. 242). The
 Walrasian groping process suggests a centralized
 institutional means of trying different price quotations until the equilibrium is discovered. In our
 experiments, as in real markets, the groping process
@@ -1376,12 +1376,12 @@ upward immediately, and the volume
 15 10 1518 5 1 1518 5 10 1518 5 ID 15 20
 TRANSACTION NUMBER [BY PERIOD?
 
-IV. EMPIRICAL ANALYSIS OF EXPERIMENTAL DATA: THE ““EXCESSRENT” HYPOTHESIS
+IV. EMPIRICAL ANALYSIS OF EXPERIMENTAL DATA: THE ““EXCESSRENTФ HYPOTHESIS
 
 The empirical analysis of these ten
 experiments rests upon the hypothesis
 that there exists a stochastic difference
-equation which “best’’ represents the
+equation which “bestСС represents the
 price convergence tendencies apparent
 in Charts 1-10. The general hypothesis
 is that
@@ -1404,7 +1404,7 @@ xa = 0.
 My first empirical investigation is concerned with the measuremet of the equilibrating tendencies in these markets and
 the ability of supply and demand theory
 to predict the equilibrium price in each
-experiment. To this end note that equation (1) defines a stochastic phase function! of the form fii = g(p.) + €. An
+experiment. To this end note that equation (1) defines a stochastic phase function! of the form fii = g(p.) + А. An
 equilibrium price P, is attained when
 Py = g(Py). Rather than estimate the
 
@@ -1426,7 +1426,7 @@ Dynamics (New York: Macmillan Co., 1959), pp.
 257-65.
 
 43 The least squares estimate of a; in these experiments can be expected to be biased (see L. Hurwicz,
-‘“Least-Squares Bias in Time Series,” chap. xv, in
+Л“Least-Squares Bias in Time Series,Ф chap. xv, in
 T. Koopmans, Statistical Inference in Dynamic Economic Models [New York: John Wiley & Sons, 1950}).
 However, since in all of the basic experiments there
 are twenty or more observations, the bias will not
@@ -1459,23 +1459,23 @@ PRICE
 
 
 _(¥610'0F) (+10 OF) _ (e0'0F) (6610'0F) (400°0F) (10 0F) (eec' OF)
-x 1100° 0+’ 960°0-+800'0— *x Sc0'O+220'O— | ** 8000°0+7™ 070'0+820'0— "x O20'O+6E0'0— | 7 9Se'O-BBT'T fOr
-(ose0° +) (600° + _ 620° +) echo’ +) (210° + so" +) (42° OF)
-"x 7770" + 560° +590" — ®xT10° +60¢° — | ** 8610’ +* 980° +LbR — "x 190° tosh’ — | *¢ PSS O-ES9'T [6
+x 1100° 0+С 960°0-+800'0— *x Sc0'O+220'O— | ** 8000°0+7™ 070'0+820'0— "x O20'O+6E0'0— | 7 9Se'O-BBT'T fOr
+(ose0° +) (600° + _ 620° +) echoС +) (210° + so" +) (42° OF)
+"x 7770" + 560° +590" — ®xT10° +60¢° — | ** 8610С +* 980° +LbR — "x 190° toshС — | *¢ PSS O-ES9'T [6
 (soso +) (se0° +) (v60" +) (43t0° +) (10° +) (oco" +) (9% "0F)
-x 9680 —"* $00" +220° — “x 1S0° +9¢0° — | **zOF0° —"* S70" +120" — *x 020° +0KO’ — | *¢ Tzl'0-Sez°o | rs
-(oszo" ¥) (400° + (120° ¥) (8€40° ¥) (600° +) (660° F) (IT 'OF)
+x 9680 —"* $00" +220° — “x 1S0° +9¢0° — | **zOF0° —"* S70" +120" — *x 020° +0KOС — | *¢ Tzl'0-Sez°o | rs
+(oszo" ¥) (400° + (120° ¥) (8А40° ¥) (600° +) (660° F) (IT 'OF)
 x 9600° +"* sco" -L8S0° x 10° +200" x $000° +7 $10" +040" — "p10 +Z01' — | 14 99e'O-9T7T Jt “EL
-(9060 +) (€10° +) (4€0' ¥) (480° +) (480° F) SLT’ ¥) (LT OF)
-x OFIO’ +e FEO’ +508" mx ge0' +60e° — | ** 11Z0° +7 $87" +0T0 ne ope; +229" — | 0% O-ST6T [KD
-(gb00" +) £0" +) (360° +) (eb00° +) (€00° ¥F) (600° +) (zoe-OF)
-x C100" +e 40Z° +600" — *x oz’ +400° — | ”* 6200° —"* ¢z70° +S¢0° — mx ¢70° +1¢0' — | #4 $81°0—8bP'Z ane 44
+(9060 +) (А10° +) (4А0' ¥) (480° +) (480° F) SLTС ¥) (LT OF)
+x OFIOС +e FEOС +508" mx ge0' +60e° — | ** 11Z0° +7 $87" +0T0 ne ope; +229" — | 0% O-ST6T [KD
+(gb00" +) £0" +) (360° +) (eb00° +) (А00° ¥F) (600° +) (zoe-OF)
+x C100" +e 40Z° +600" — *x ozС +400° — | Ф* 6200° —"* ¢z70° +S¢0° — mx ¢70° +1¢0' — | #4 $81°0—8bP'Z ane 44
 (1790° +) TO" ¥) (670° ¥) (wos0° F) (810° +) (4so" +) (182 0F)
-x 1100' +*<ogl’ +6Et" x 621° SPT 7x 1000° —"™ 691° +62" "x BOT" +192 1¢ 680-7587 |" VP
+x 1100' +*<oglС +6Et" x 621° SPT 7x 1000° —"™ 691° +62" "x BOT" +192 1¢ 680-7587 |" VP
 (st@0° ¥) (120° ¥) (460° +) (410° F) (610° +) sto" ¥) (2670)
-xe F900° +" Szz° +770" — Wa 17%" +140" x 700° +72 SOT” -+£60° "x LOT" ELST ¢woo—Sltz Pe
-(6490° ¥) (#70° +) (490° ¥) (1tg0" +) (00° +) (sto’ +) (osz'0*)
-x oTE0° —* 7ST" +010° — x TEI’ +800 7x £690° —"* 240° +041 — "x S60° +200" € 09S 0O-W06'T |
+xe F900° +" Szz° +770" — Wa 17%" +140" x 700° +72 SOTФ -+£60° "x LOT" ELST ¢woo—Sltz Pe
+(6490° ¥) (#70° +) (490° ¥) (1tg0" +) (00° +) (stoС +) (osz'0*)
+x oTE0° —* 7ST" +010° — x TEIС +800 7x £690° —"* 240° +041 — "x S60° +200" А 09S 0O-W06'T |
 (S1Z0'0F) (POL OF) (e"0F) (0¢20'0F) (S10'0+) (#00 F) (6z¢' OF)
 x $500 0—"* 16h O+T£0'0— x 98h'0+8Z0'0— | ** 9S00°0—"* 890°0+220'0— x Q20°'0+920°'0— | '¢ P4h'0—E£86'0 | TE
 (tyeg pang Lng= 147) Cexstg toga 149) (tated --nyrig-eog = i¢y) (tag g= 47) (2419 pourods:
@@ -1504,7 +1504,7 @@ aptaily
 for the sample estimates on the assumption that Ap, = 0 when #; = Pp in the
 population. These é-values are shown in
 column 1, Table 3, for the ten primary
-and the five “‘B” auxilary experiments.
+and the five “ЛBФ auxilary experiments.
 Low absolute values of # imply that,
 relative to the error in the prediction,
 the predicted equilibrium is close to the
@@ -1555,13 +1555,13 @@ a means of predicting the adjustment
 pressure on price, Ag,, for any given
 pu. In particular, we can compute
 
-4 Three of the five auxiliary “B” experiments
+4 Three of the five auxiliary “BФ experiments
 demonstrated a similar instability (in the fiducial
-probability sense), but the samples were considerably smaller than their “A” counterparts, they
+probability sense), but the samples were considerably smaller than their “AФ counterparts, they
 represented considerably fewer trading periods, and
 they had different and varying objectives. The unstable ones were 4B, 8B, and 9B.
 
-um buyers’ and sellers’ rent. These results provide some additional evidence
+um buyersС and sellersС rent. These results provide some additional evidence
 in favor of our conjecture in Part III,
 that the equilibrium is influenced by
 the relative sizes of the areas A and B.
@@ -1583,13 +1583,13 @@ be referred to as the Walrasian, the excess-rent, the modified Walrasian, and
 the modified excess-rent hypotheses, respectively. The Walrasian hypothesis is
 Ap: = Bo + Buxu, where %, is the excess demand prevailing at the price, #,,
 at which the ith transaction occurred.
-Because of the conjecture that buyers’ and sellers’ rent might have an effect on individual and market adjustment, an excess-rent hypothesis was introduced. This hypothesis is Ap, = Bo2 +
+Because of the conjecture that buyersС and sellersС rent might have an effect on individual and market adjustment, an excess-rent hypothesis was introduced. This hypothesis is Ap, = Bo2 +
 
 vetn1, Where a, is the algebraic area
 
 Price
 
-‘Quantity
+ЛQuantity
 
 Fic. 1
 
@@ -1597,16 +1597,16 @@ between the supply and demand curves,
 and extends from the equilibrium price
 down to the price of the éth transaction,
 as shown in Figure 1. The modified Walrasian hypothesis is Ap, = Bos + Bist
-+ Bas%a:, where x3: = A? — B?, the algebraic difference between the equilibrium buyers’ rent, A?, and the equilibrium
-sellers’ rent, BP. The motivation here
++ Bas%a:, where x3: = A? — B?, the algebraic difference between the equilibrium buyersС rent, A?, and the equilibrium
+sellersС rent, BP. The motivation here
 was to introduce a term in the adjustment equation which would permit the
 actual equilibrium price to be biased
 above or below the theoretical equilibrium, by an amount proportional to the
-algebraic difference between buyers’ and
+algebraic difference between buyersС and
 
 L. SMITIL
 
-sellers’ rent at the theoretical cquilibrium. It was believed that such a general
+sellersС rent at the theoretical cquilibrium. It was believed that such a general
 hypothesis might be necessary to account
 for the obvious price equilibrium bias
 in experiment 4 and the slight apparent
@@ -1658,7 +1658,7 @@ the Walrasian and the excess-rent hypotheses. On the other hand, 833 in the
 modified Walrasian hypothesis is significant only in experiment 2. In none of
 the experiments is 834 significant for the
 modified excess-rent hypothesis. These
-highly unambiguous results seem to suggest that little significance can be attached to the effect of a difference between equilibrium buyers’ and sellers’
+highly unambiguous results seem to suggest that little significance can be attached to the effect of a difference between equilibrium buyersС and sellersС
 rent in biasing the price equilibrium tendencies.
 
 On this reasoning, we are left with
@@ -1670,9 +1670,9 @@ and (2) the standard errors of said predictions. Since x¢, = x3, = 0, in equili
 the absolute values of the intercepts of
 the Walrasian and the excess-rent regressions, |So| and |Soz|, and between
 S(Bo1) and S(Bc). Under the first comparison we can think of |So:|, shown in
-column 2, Table 3, as a “score” for the
+column 2, Table 3, as a “scoreФ for the
 Walrasian hypothesis, and | 8:2], shown
-in column 5, as a “score” for the excessrent hypothesis. A low intercept represents a good score. Thus, for experiment
+in column 5, as a “scoreФ for the excessrent hypothesis. A low intercept represents a good score. Thus, for experiment
 1, in equilibrium, there is a residual tendency for price to change (in this case
 fall) at the rate of 2.6 cents per transaction by the Walrasian and 2.8 cents
 by the excess-rent regressions. A casual
@@ -1685,19 +1685,19 @@ is true the difference is quite small, tend-
 ing thereby to support the excess-rent
 hypothesis. A more exact discrimination
 can be made by applying the Wilcoxon
-paired-sample rank test for related samples to the “scores” of columns 2 and
+paired-sample rank test for related samples to the “scoresФ of columns 2 and
 5. This test applies to the difterences
 | Bu] — | Bo2|, and tests the null hypothesis, 17), that the Walrasian and excessrent alternatives are equivalent (the distribution of the differences is symmetric
-about zero). If applied to all the experiments, including the “‘B’s” (NV = 15),
+about zero). If applied to all the experiments, including the “ЛBСsФ (NV = 15),
 Hy is rejected at the < .02 significance
 level. The difference between our paired
-series of “scores” in favor of the excessrent hypothesis is therefore significant.
+series of “scoresФ in favor of the excessrent hypothesis is therefore significant.
 It is highly debatable whether all the
 experiments should be included in such
 a test, especially 4, which did not tend
 to the predicted equilibrium, 8, which
 represented a different organization of
-the bargaining, and possibly the “B” experiments, where the samples were small.
+the bargaining, and possibly the “BФ experiments, where the samples were small.
 Therefore, the test was run omitting all
 these experiments (WV = 8), giving a rejection of Hy at the .05 level. Omitting
 only 4 and 8 (W = 11) allowed Hy still
@@ -1712,7 +1712,7 @@ test to S(Bo.) — S(Boe) for all the experiments (NV = 15), we find that this d
 difference is still significant at the <.01
 level if we omit 4 and 8 from the test,
 and it is significant at the .05 level if
-we also eliminate all the “B” experiments.
+we also eliminate all the “BФ experiments.
 
 The é-values for the two hypotheses
 
@@ -1750,13 +1750,13 @@ that a particular contract price has just
 been executed, it is reasonable to expect
 each trader to compare that price with
 his own reservation price, the difference
-being a “profit” or rent which he considers achievable, and to present a degree
+being a “profitФ or rent which he considers achievable, and to present a degree
 of bargaining resistance in the auction
 process which is greater, the smaller is
 this rent. Such resistance may tend to
 give way, even where the rents on one
-side or the other are very small, if it becomes clear that such rents are unattainable. Thus, if equilibrium buyers’ rent
-excceds sellers’ rent, any early tendency
+side or the other are very small, if it becomes clear that such rents are unattainable. Thus, if equilibrium buyersС rent
+excceds sellersС rent, any early tendency
 for contract prices to remain above equi-
 
 VERNON L. SMITH
@@ -1764,13 +1764,13 @@ VERNON L. SMITH
 librium (and balance the rents achieved
 on both sides) might be expected to
 break down, as it becomes evident that
-the “paper” rents at those prices may
+the “paperФ rents at those prices may
 not be attainable by all of the sellers.
 By this argument, it is suggested that
 the propensity of sellers to reduce their
 offers when price is above equilibrium
 is related to their attempts to obtain
-some—even if a “small”—amount of rent
+some—even if a “smallФ—amount of rent
 rather than to a direct influence of excess
 supply.
 
@@ -1780,7 +1780,7 @@ naturally to an interesting optimality
 interpretation of the static competitive
 market equilibrium. The principle is this:
 in static equilibrium a competitive market minimizes the total virtual rent received by buyers and sellers. By “virtual
-rent” I mean the rent that would be
+rentФ I mean the rent that would be
 enjoyed if all buyers and sellers could
 be satisfied at any given disequilibrium
 price. To see this optimality principle,
@@ -1813,11 +1813,11 @@ no trader be imputed more rent than
 is absolutely necessary to perform the
 exchange mechanics. Hence, at price P
 in Figure 1, virtual rent exceeds equilibrium rent, and if this price persists, some
-sellers get more rent than they “should.”
+sellers get more rent than they “should.Ф
 
 It should perhaps be pointed out that
 the excess-rent and Walrasian hypotheses are close analogues in that both
-deal with virtual, unattainable quantities. Thus, under the Walrasian hypothesis the “virtual” excess supply at P in
+deal with virtual, unattainable quantities. Thus, under the Walrasian hypothesis the “virtualФ excess supply at P in
 Figure 1 is unattainable. Indeed, it is
 this fact that presumably causes price
 to fall. Similarly, at P, the excess rent
@@ -1845,8 +1845,8 @@ payoff, defined as the sum of the social
 payoffs in all regions minus the total
 transport costs of all interregional ship-
 
-16 P, A, Samuelson, ‘Spatial Price Equilibrium
-and Linear Programming,” American Economic Review, XLII (June, 1952), 284-92.
+16 P, A, Samuelson, ЛSpatial Price Equilibrium
+and Linear Programming,Ф American Economic Review, XLII (June, 1952), 284-92.
 
 
 ments. But, according to Samuelson, “this
@@ -1854,11 +1854,11 @@ magnitude is artificial in the sense that
 no competitor in the market will be
 aware of or concerned with it. It is
 artificial in the sense that after an Invisible Hand has led us to its maximization, we need not necessarily attach
-any social welfare significance to the result.”!7 I think the formulation of competitive market equilibrium as a rent minimization problem makes the “Invisible
-Hand” distinctly more visible and more
+any social welfare significance to the result.Ф!7 I think the formulation of competitive market equilibrium as a rent minimization problem makes the “Invisible
+HandФ distinctly more visible and more
 teleological?* It also has great social
-(though not necessarily welfare) significance in relation to “frictionless” market
-efficiency. Rent is an “unearned” increment which literally cries out for minimization in an efficient economic organization. Furthermore, as we have seen
+(though not necessarily welfare) significance in relation to “frictionlessФ market
+efficiency. Rent is an “unearnedФ increment which literally cries out for minimization in an efficient economic organization. Furthermore, as we have seen
 with the excess-rent and Walrasian hypotheses, both the abstract teleological
 goal of the competitive market and the
 dynamics of its dionnement process are
@@ -1874,7 +1874,7 @@ the flow of electrical energy, which, it
 1 [bid., p. 288.
 
 18 The discovery of the excess-rent hypothesis
-draws me nearer to the camp of “Invisible Hand”
+draws me nearer to the camp of “Invisible HandФ
 enthusiasts, but only because of the greater visibility
 of the Hand. I cannot quite carry my market
 metaphysics as far as does Samuelson. It is well
@@ -1887,8 +1887,8 @@ purely artificial without any meaningful interpretation; and if we work at it, s
 
 
 can be shown, minimizes the inefficient,
-wasteful loss of heat energy from electrical systems. Similarly, the market mechanism provides a set of “laws” which
-minimizes the “wasteful” payment of
+wasteful loss of heat energy from electrical systems. Similarly, the market mechanism provides a set of “lawsФ which
+minimizes the “wastefulФ payment of
 excessive economic rent.
 
 VI, SUMMARY
@@ -1901,7 +1901,7 @@ findings, whether those findings are ultimately verified or not. In this spirit,
 the following tentative conclusions are
 offered concerning these experiments:
 
-1. Even where numbers are “‘small,”
+1. Even where numbers are “Лsmall,Ф
 there are strong tendencies for a supply
 and demand competitive equilibrium to
 be attained as long as one is able to
@@ -1940,9 +1940,9 @@ buy.
 5. The so-called Walrasian hypothesis concerning the mechanism of market
 adjustment seems not to be confirmed.
 A more adequate hypothesis is the excess-rent hypothesis which relates the
-“speed” of contract price adjustment
+“speedФ of contract price adjustment
 to the algebraic excess of buyer plus
-seller “virtual” rent over the equilibrium
+seller “virtualФ rent over the equilibrium
 buyer plus seller rent. This new hypothesis becomes particularly intriguing
 in view of the fact that a competitive
 market for a single commodity can be
@@ -2086,8 +2086,8 @@ of the last trading period. Contract prices
 
 VERNON L. SMITH
 
-Ill, A PILOT EXPERIMENT IN “SHORT-RUN”
-AND “LONG-RUN” EQUILIBRIUM
+Ill, A PILOT EXPERIMENT IN “SHORT-RUNФ
+AND “LONG-RUNФ EQUILIBRIUM
 
 An important characteristic of the ten
 experiments discussed in this paper was
@@ -2139,9 +2139,9 @@ than the unaccepted bids are below the
 contract price level. Similar results were
 evident in a corresponding chart (not shown)
 for experiment 9. This, apparently, is the
-auction market’s way of compensating for
+auction marketСs way of compensating for
 the fact that, in this particular experiment,
-sellers were in a “softer” (higher rent) position than buyers.
+sellers were in a “softerФ (higher rent) position than buyers.
 
 —Lttij ijt ji ttt Lijit ttt 2.
 246810 1324 6 61012 182466 1012142 4 6 BIZ 2 46 8 1012
@@ -2179,7 +2179,7 @@ the market or remaining “out of produc-
 
 EXPERIMENTAL STUDY OF COMPETITIVE MARKET BEHAVIOR
 
-tion.” It was understood that if they entered the market it was at a cost equal to
+tion.Ф It was understood that if they entered the market it was at a cost equal to
 the price on their card, and this cost was
 a net loss to any seller failing to make
 a sale. Also in this experiment some sellers
@@ -2216,9 +2216,9 @@ and $4.25 producers out of the market,
 giving Sz = Ss = 12.
 
 From the results is it clear that this
-market approaches its “long-run” equilibrium price, $4.50, more slowly than was the
+market approaches its “long-runФ equilibrium price, $4.50, more slowly than was the
 case in the previous experiments. The approach is from below as might be expected
-by the “distress sale” characteristic of the
+by the “distress saleФ characteristic of the
 market. The pressure on producers to sell
 seems to have had its strongest effect in
 period 1, in which market prices tended

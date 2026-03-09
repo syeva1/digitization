@@ -9,14 +9,14 @@ ee oe eg pate Pomme * ae a
 ge 3 “~\ \ ti = —— = > eee :
 af é e Machine and Organism
 : =a 2 “i i ;
-& . _ * WEES ’ fs Georges Canguilhem
+& . _ * WEES С fs Georges Canguilhem
 = as SY = - The relationship between machine and organism has generally been studied
 - in only one way. Nearly always, the organism has been explained on the basis
 : 4 of a preconceived idea of the structure and functioning of the machine; but
 S only rarely have the structure and function of the organism been used to make
 = - i the construction of the machine itself more understandable. Even though
 : — 3 mechanistic theory sparked some very impressive technical research, the fact
-3 — = remained that the very notion of an “organology,” as well as its basic premises
+3 — = remained that the very notion of an “organology,Ф as well as its basic premises
 fee 3 il and miethaddlopy, semamed undeveloped.!
 \ Philosophers and mechanistic biologists approached the machine as a set
 P23 : . of data, or else made it into a problem that they could solve purely through
@@ -27,8 +27,8 @@ tions necessary to construct machines were only secondary considerations
 when compared with the all-important idea that the machine revealed their
 theories in concreto. To see this, one needed only to acknowledge what science
 could accomplish, and from there it was simply a matter of the confident
-‘a - eS : application of that knowledge. However, I do not believe that it is possible to
-— nae al Sa Sas treat the biological problem of the “living machine” by separating it from the
+Лa - eS : application of that knowledge. However, I do not believe that it is possible to
+— nae al Sa Sas treat the biological problem of the “living machineФ by separating it from the
 China, 1988. technological problem it supposedly resolves — namely, the problem of the re-
 Henri Cartier-Bresson/Magnum Photos lationship between technology and science. This problem is normally resolved
 by starting with the idea that, logically and chronologically, knowledge pre-
@@ -54,7 +54,7 @@ is rare — and only in the case of the vertebrates — that one notices any tru
 mechanical attributes, at least in the sense that the term is commonly under- in order to explain the living organism? The answer can be found, it seems,
 stood by scientists. In La Pensée technique, for example, Julien Pacotte notes in the fact that this mechanical model of living organisms does not rely on
 that movements of the joints and the eyeball can be paralleled with what math- kinematics alone. A machine, as defined above, is not totally self-sufficient: it |
-ematicians call a “mechanism.”? A machine can be defined as a man-made, must receive and then transform energy imparted to it from an outside source.
+ematicians call a “mechanism.Ф? A machine can be defined as a man-made, must receive and then transform energy imparted to it from an outside source.
 artificial construction, which essentially functions by virtue of mechanical To be represented in movement it must be associated with an energy source.5
 operations. A mechanism is made of a group of mobile solid parts that work For a long time, kinematic mechanisms were powered by humans or ani-
 together in such a way that their movement does not threaten the integrity mals. During this stage, it was an obvious tautology to compare the movement
@@ -71,8 +71,8 @@ first, of the way the parts interact and, second, of the mechanical operations t
 of the overall unit.3 and sieves; the lungs, a pair of bellows; and what are muscles if not a system of
 Mechanics is governed by the principle that every movement of a machine cables and ropes. What is the oculomotor nerve, if not a pulley? And so on, Try |
 is geometric and measurable. What is more, every such movement regulates as they will, chemists cannot explain nature and set up a separate philosophy sim- |
-| and transforms the forces and energy imparted to it. Mechanics, though, does ply by coining a new vocabulary around words like “fusion,” “sublimation” and
-| not work in the same way that a motor does: in mechanics, movements are “precipitation”; for this does not at all address either the incontrovertible laws of
+| and transforms the forces and energy imparted to it. Mechanics, though, does ply by coining a new vocabulary around words like “fusion,Ф “sublimationФ and
+| not work in the same way that a motor does: in mechanics, movements are “precipitationФ; for this does not at all address either the incontrovertible laws of
 simply propagated, not created. A rather simple example of how this trans- equilibrium or the laws governing the workings of the wedge, cables, pumps as
 formation of movement takes place can be seen in several devices — a wheel elements of mechanical theory.
 crank or an eccentric crank, for example — that are set into motion by an ini- This text is not where we might think to find it, but in fact comes from the .
@@ -86,7 +86,7 @@ What constitutes the rule in human industry is the exception in the struc- the m
 ture of organisms and the exception in nature, and I must add here that in cable essentially transmits a given movement, whereas a pump transforms a
 the history of technology and the inventions of man assembled configurations given movement and is also a motor — admittedly, a motor that returns what-
 are not the most primitive. The oldest known tools are made of a single piece. ever energy it receives; but, at certain intervals, it apparently has a degree of
-The construction of axes or of arrows made by assembling a flint and a han- independence of movement. In Baglivi’s text, the heart is the primum movens
+The construction of axes or of arrows made by assembling a flint and a han- independence of movement. In BagliviСs text, the heart is the primum movens
 dle, or the construction of nets or fabrics, are so many signs that the primi- — the central pump that serves as the motor for the whole body.
 tive stage has been passed. Therefore, a crucial element behind the mechanical explanation of bodily
 This brief overview of some elementary principles of kinematics helps to movement is that, in addition to machines that perform as kinematic devices,
@@ -99,11 +99,11 @@ This brief overview of some elementary principles of kinematics helps to movemen
 
 | |
 there are also machines that act as motors, deriving their energy, at the mo- then, that as long as the concept of the human and animal body is inextricably
-ment it is utilized, from a source other than animal muscle. And this is why, “tied” to the machine, it is not possible to offer an explanation of the body
-although Baglivi’s text seems linked to Descartes, the idea of the body-as- in terms of the machine. Historically, it was not possible to conceive of such
+ment it is utilized, from a source other than animal muscle. And this is why, “tiedФ to the machine, it is not possible to offer an explanation of the body
+although BagliviСs text seems linked to Descartes, the idea of the body-as- in terms of the machine. Historically, it was not possible to conceive of such
 machine actually goes back to Aristotle. When dealing with the Cartesian an explanation until the day that human ingenuity created mechanical devices
 theory of the animal-machine, it is often difficult to decide whether or not that not only imitated organic movements — as in the launching of a projec-
-Descartes had any precursors for this idea. Those who look for Descartes’s tile or the back-and-forth movement of a saw — but also required no human
+Descartes had any precursors for this idea. Those who look for DescartesСs tile or the back-and-forth movement of a saw — but also required no human
 predecessors here usually cite Gomez Pereira, a Spanish doctor of the second intervention except to construct them and set them going
 half of the sixteenth century: Pereira suggested, before Descartes, that he In two instances, I have asserted that an explanation cannot be formulated
 
@@ -119,8 +119,8 @@ instruments of war, especially catapults. This idea is treated rather extensivel
 with by Aristotle in De Motu animalium and those in his compilation of This problem has been treated in depth by P.-M. Schuhl, who has shown
 
 Quaestiones mechanicae.8 Aristotle draws a clear parallel between the organs that in ancient philosophy the opposition of science and technique paralleled
-of animal movement and “organa,” or parts of war machines, like the arm of the opposition of freedom and servitude and, at a deeper level, of art and na-
-a catapult about to launch a projectile. Thus catapults, typical automatic ture.? Schuhl supports this parallel with Aristotle’s assertion that natural and
+of animal movement and “organa,Ф or parts of war machines, like the arm of the opposition of freedom and servitude and, at a deeper level, of art and na-
+a catapult about to launch a projectile. Thus catapults, typical automatic ture.? Schuhl supports this parallel with AristotleСs assertion that natural and
 machines of the period, seemed to be articulated like a human limb, as they violent movement are opposed — a violent movement occurs when mecha-
 were poised and made to release their great stores of pent-up energy. In the nisms are used against nature, and its characteristics are that it exhausts itself
 same work, Aristotle carries the analogy even further by comparing the move- rapidly and never becomes habitual — which is to say, a permanent tendency
@@ -140,7 +140,7 @@ tebrates to hinges or pivots. and the philosophy of history. With Aristotle, the
 
 } by an act. Despite their differing explanations of movement, for Aristotle as dain for technique and the resultant paucity of inventions? And did this in
 for Descartes later, the comparison of the body with a machine presupposes turn lead to the difficulty of applying the results of technical activity to the
-that man is composed of automated mechanical parts reliant on an energy explanation of nature? Or, rather, did the Greeks’ high regard for purely
+that man is composed of automated mechanical parts reliant on an energy explanation of nature? Or, rather, did the GreeksС high regard for purely
 source that produces motor effects over time and continue to do so well after speculative science and detached contemplation explain the absence of tech-
 the original (human or animal) energy has dissipated. It is this discrepancy nical invention? Did their disregard for work cause slavery, or did the abun-
 between the storage of energy to be released by the mechanism and the mo- dance of slaves due to military supremacy explain their low regard for work?
@@ -162,24 +162,24 @@ water mills and church organs of the early seventeenth century. We can say, at w
 a global structure having reciprocal relations and influences? Aa Se the mechanistic view of the universe is supposed to be fundamentally
 A similar problem is presented by Father Lucien Laberthonniére, who F DB Rae: ES Weltanschauung of the bourgeoisie. Finally, Borkenau claims that the animal-
 contrasts the physics of an artist or an aesthete to that of an engineer and an > .Ts Ippo | machine gives rise to the norms of the nascent capitalist economy. Descartes,
-artisan."' Laberthonniére suggests that the determining factor here is ideas, ‘Zz sy =e Yaem Galileo and Hobbes are thus the unwitting heralds of this economic revolution.
-given that the Cartesian transformation in the philosophy of technique pre- * 4 Borkenau’s theses have been analyzed and criticized more forcefully by
+artisan.»' Laberthonniére suggests that the determining factor here is ideas, ЛZz sy =e Yaem Galileo and Hobbes are thus the unwitting heralds of this economic revolution.
+given that the Cartesian transformation in the philosophy of technique pre- * 4 BorkenauСs theses have been analyzed and criticized more forcefully by
 supposes Christianity. It was necessary to conceive of man as a being who ea BS | sy Henryk Grossmann. '* According to him, Borkenau ignores five hundred years
 transcends nature and matter in order to then uphold his right and his duty ary oY RN of economic and ideological history by seeing mechanistic theory as coincid-
 to exploit matter ruthlessly. In other words, man had to be valorized so that e Besa Vd) 2d: ing with the rise of manufacturing at the beginning of the seventeenth cen-
 nature could be devalorized. Next it was necessary to conceive of men as we ——— tury: Borkenau writes as if Leonardo da Vinci had never existed. Referring
-being radically and originally equal so that, as the exploitation of humans by Ae | ‘i 9 to Pierre Duhem's Les Origines de la statique (1905), and the publication of
-each other was condemned on political grounds, there were increased tech- "| Baceeg ig SS? a W/, Leonardo’s manuscripts (Herzfeld, 1904; Gabriel Séailles, 1906; Péladan,
+being radically and originally equal so that, as the exploitation of humans by Ae | Лi 9 to Pierre Duhem's Les Origines de la statique (1905), and the publication of
+each other was condemned on political grounds, there were increased tech- »| Baceeg ig SS? a W/, LeonardoСs manuscripts (Herzfeld, 1904; Gabriel Séailles, 1906; Péladan,
 nical means to exploit nature and a growing sense of duty to do so. This analy- &) Yeager =< aaah 1907), Grossmann agrees with Séailles that with the publication of Leonardo's
 sis permits Laberthonniére to speak of a Christian origin for Cartesian physics. 2 NEED Zoe manuscripts it became clear that the origins of modern science could be
 However, he qualifies his own claim: the physics and technique supposedly FG < gO BRS pushed back by more than a century. The quantification of the notion of work
 made possible by Christianity came, for Descartes, well after Christianity had (sas 8 Ey ee occurs first within mathematics, well before its economic rationalization.
-been founded as a religion. Moreover, humanist philosophy, which saw man sg aN Sn EE ‘The norms of the capitalist evaluation of production, moreover, had been
-as master and proprietor of nature, was in direct opposition to Christianity > =" Seema defined by the Italian bankers even in the thirteenth century. Relying on
+been founded as a religion. Moreover, humanist philosophy, which saw man sg aN Sn EE ЛThe norms of the capitalist evaluation of production, moreover, had been
+as master and proprietor of nature, was in direct opposition to Christianity > =» Seema defined by the Italian bankers even in the thirteenth century. Relying on
 as humanists saw it: the religion of salvation, of escape into the hereafter, in- «SS “Yad gh j Marx, Grossmann reminds us that although in general there was no division
 spired by a contempt for the things of this life and unconcerned with whatever - 244 FA aa BP of labor in manufacturing properly speaking, manufacturing at its inception
 fruits technology might win for mankind in this world below. Laberthonniére meant the gathering together in the same place of skilled artisans who had
-asserts that “time does not enter into the question,” but this is by no means previously worked independently. According to Grossmann, then, it is not
+asserts that “time does not enter into the question,Ф but this is by no means previously worked independently. According to Grossmann, then, it is not
 certain. In any case, several classic texts have demonstrated that certain techni- the calculation of cost per hour of work, but the evolution of mechanization
 cal inventions that transformed the use of animal motor power — for example, that is the real cause of the mechanical view of the universe. The development
 the horseshoe and the shoulder harness — accomplished more for the eman- of mechanization begins during the Renaissance. ' It is, therefore, more accu-
@@ -203,16 +203,16 @@ result was a process that, previously qualitative, had become quantifiable. chin
 Calculating work in purely quantitative terms that can be treated mathemat- that he transposed the social phenomena of capitalist production into ideology.
 ically is claimed to be the basis and the starting point for a mechanistic con- The key question becomes: How does Cartesianism account for an internal
 ception of the life world. It is therefore by reducing all value to economic principle of goal-directed activity in mechanisms, as is implied in the compar-
-value, “to cold hard cash,” as Marx puts it in The Communist Manifesto, that is on of a machine with an organism?
+value, “to cold hard cash,Ф as Marx puts it in The Communist Manifesto, that is on of a machine with an organism?
 
 50 zone 51
 ===== page_05.png =====
 
 Machine and Organism
 | The theory of the animal-machine is inseparable from “I think therefore I bodies, but also places inside it all the parts required to make it walk, eat, breathe,
-am.” The radical distinction between the soul and the body, between thought enabling it to imitate all those functions which seem to proceed from matter and
+am.Ф The radical distinction between the soul and the body, between thought enabling it to imitate all those functions which seem to proceed from matter and
 and extension, requires the affirmation that matter, whatever form it adopts, to depend solely on the interacting movements of our organs.
-and thought, whatever function it fulfills, are each an undivided substance.” We see clocks, artificial fountains, water mills and other such machines which,
+and thought, whatever function it fulfills, are each an undivided substance.Ф We see clocks, artificial fountains, water mills and other such machines which,
 Because the only function of the soul is judgment, it is impossible to admit although only man-made, seem to move of their own accord in various ways;
 the existence of a soul in animals, since we have no proof that animals judge, but I am supposing this machine to be made by the hands of God, and so I think
 incapable as they are of language or invention. '§ you may reasonably think it capable of a greater variety of movements than I
@@ -223,30 +223,30 @@ mals be denied sensibility, to the extent that such sensibility is solely a func
 tion of their organs.'? and often-neglected postulates. The first is the existence of a God who builds
 In the same discussion, a moral foundation for the animal-machine theory things, and the second that living bodies are given in essence before machines
 comes to light. Descartes views the animal as Aristotle had viewed the slave, are constructed. In other words, to understand the machine-animal, it is
-devalorizing it in order to justify man’s using it to serve his own purposes: “My necessary to see it as being preceded, logically and chronologically, by God,
+devalorizing it in order to justify manСs using it to serve his own purposes: “My necessary to see it as being preceded, logically and chronologically, by God,
 opinion is no more cruel to animals than it is overly pious toward men, freed who is an efficient cause, and by a preexisting living model after which it is
 from the superstitions of the Pythagorians, because it absolves them of the hint to be modeled or imitated, which is a formal and final cause. With all this in
-of crime whenever they eat or kill animals."2 And it comes as no small surprise mind, I propose to take the animal-machine theory, which is usually seen as
+of crime whenever they eat or kill animals.»2 And it comes as no small surprise mind, I propose to take the animal-machine theory, which is usually seen as
 to find the same argument in reverse in a passage of Leibniz: “if we are com- a departure from the Aristotelian concept of causality, and show how all of
-pelled to view the animal as being more than a machine, we would have to Aristotle’s types of causality are nonetheless found in it, but not always in the
-become Pythagorians and renounce our domination of animals.”2! And so we same place or simultaneously.
+pelled to view the animal as being more than a machine, we would have to AristotleСs types of causality are nonetheless found in it, but not always in the
+become Pythagorians and renounce our domination of animals.Ф2! And so we same place or simultaneously.
 confront an attitude typical of Western thought. On the theoretical level, the If we read the text more closely, we see that in order to construct the liv-
-mechanization of life only considers animals to the extent that they serve man’s ing machine it is necessary to imitate a preexisting living model. The con-
+mechanization of life only considers animals to the extent that they serve manСs ing machine it is necessary to imitate a preexisting living model. The con-
 technological ends. Man can only make himself the master and proprietor of struction of a mechanical model presupposes a living original (Descartes is
 nature if he denies any natural finality or purpose; and he must consider the perhaps closer here to Plato than to Aristotle). The platonic Demiurge copies
 whole of nature, including all life forms other than himself, as solely a means the ideas, and the Idea is the model of which the natural object is a copy. The
 to serve his purposes. Cartesian God, the Artifex maximus, works to produce something equivalent
 This is how the mechanical model of the living organism, including the hu- to the living body itself. The model for the living machine is that body itself.
 man body, was legitimized; for already in Descartes the human body, if not Animal testing, c. 1970. Divine art imitates the Idea — but the Idea is the living body. What is more,
-man’s entire self, is seen as a machine. As I have already noted, Descartes based = 2. 4 in the same way that a regular polygon is inscribed in a circle, and that one
+manСs entire self, is seen as a machine. As I have already noted, Descartes based = 2. 4 in the same way that a regular polygon is inscribed in a circle, and that one
 his mechanical model on automata, that is, on moving machines.2 ee Vi must pass an infinite distance to deduce one from the other, there is some-
-In order to see the full implications of Descartes’s theory, I now intend to i thing of the machine in every aspect of life; but to pass from one to the other
-look at the beginning of his “Treatise on Man,” which was published for the F 3 fy would require crossing over an infinite gap, one that only God can close. This
+In order to see the full implications of DescartesСs theory, I now intend to i thing of the machine in every aspect of life; but to pass from one to the other
+look at the beginning of his “Treatise on Man,Ф which was published for the F 3 fy would require crossing over an infinite gap, one that only God can close. This
 first time in Leyden in 1662. He wrote there: = FI r is the idea brought out at the end of the text: “but I am supposing this machine
 These men will be composed, as we are, of a soul and a body: First I must describe rs to be made by the hands of God, and so I think you may reasonably think it
 the body on its own, then the soul, again on its own; and finally [must show how es capable of a greater variety of movements than I could possibly imagine in it,
-these two natures would have to be joined and united in order to constitutemen and of exhibiting more artistry than I could possibly ascribe to it.” The the-
-who resemble us. , fim ‘ ory of the animal-machine would, therefore, have the same relation to life
+these two natures would have to be joined and united in order to constitutemen and of exhibiting more artistry than I could possibly ascribe to it.Ф The the-
+who resemble us. , fim Л ory of the animal-machine would, therefore, have the same relation to life
 I suppose the body to be nothing buta statue or machine made of earth, which Gea NMS = that a set of axioms has to geometry, that is, nothing more than a rational
 God forms with the explicit intention of making it as much as possible like us. a weil = reconstruction. Thus, the theory operates by deception: it pretends to ignore
 Thus God not only gives it externally the colors and shapes of all the parts of our | ~ 4 a the concrete existence of what it must represent, and it denies that what it
@@ -254,7 +254,7 @@ a: ,
 = |
 EI : ee
 52 = i ha God zone 53
-” ps: -
+Ф ps: -
 
 
 ===== page_06.png =====
@@ -264,13 +264,13 @@ EI : ee
 | |
 actually produces comes only after it has been rationally legitimized. by signals or spoken orders, through a type of magical causality — the techno-
 
-| This aspect of Cartesian theory, moreover, was accurately assessed by a logical image of “control,” in which a desired series of operations is activated
+| This aspect of Cartesian theory, moreover, was accurately assessed by a logical image of “control,Ф in which a desired series of operations is activated
 contemporary anatomist, the noted Nicolaus Steno, in the Dissertation on the by a controlling device or coordinated by a series of mechanical linkups.
 Anatomy of the Brain delivered in Paris in 1665, a year after the “Treatise on Descartes takes the exact opposite position of Claude Bernard who, in his
-Man” had appeared. While paying homage to Descartes (which was remark- critique of vitalism, in Legons sur les phénoménes de la vie communs aux animaux
+ManФ had appeared. While paying homage to Descartes (which was remark- critique of vitalism, in Legons sur les phénoménes de la vie communs aux animaux
 able, since anatomists had not always been very accepting of Cartesian anat- et aux végétaux, refuses to admit that a vital force could have a separate exis-
-omy), he notes that Descartes’s man was man reconstituted by Descartes tence because it “cannot do anything” — but he does admit, surprisingly, that
-with God as a foil, but that this was not man as the anatomist aniderstands it can “direct phenomena that it does not produce.”2? In other words, Bernard
+omy), he notes that DescartesСs man was man reconstituted by Descartes tence because it “cannot do anythingФ — but he does admit, surprisingly, that
+with God as a foil, but that this was not man as the anatomist aniderstands it can “direct phenomena that it does not produce.Ф2? In other words, Bernard
 him. One can therefore say that by substituting the body for the machine, replaces the notion of a vital-force-as-worker with the idea of vital-force-as-
 Descartes removed teleology from life, but in appearance only, because he legislator or guide. This is a way of admitting that one can direct events with-
 has concentrated it in its entirety at the point at which life begins. A dynamic out taking action — which borders on a kind of magical concept of direction,
@@ -284,14 +284,14 @@ things into consideration: a specific goal-directed activity and man himself. mo
 A machine is made by man and for man, to achieve specific ends, to produce is that if we limit ourselves to the workings of the machine, everything can be
 a given series of effects.?5 explained by the theory of mechanism; but the theory cannot account for the
 
-The positive element, then, in Descartes’s attempt to explain life mechani- construction of the machine itself. Machines do not construct other machines,
+The positive element, then, in DescartesСs attempt to explain life mechani- construction of the machine itself. Machines do not construct other machines,
 
 cally is that he eliminates the need to tie mechanism to finality in its anthropo- and it could even be said that, in a sense, explaining organs or organisms
 morphic aspect. However, it seems that in doing this, one anthropomorphism through mechanical models amounts to explaining the organ by means of it-
 has been substituted for another. A technological anthropomorphism has been self. At bottom, then, we are dealing with a tautology; for it can be shown —
 substituted for a political anthropomorphism. and I shall indeed try to justify this view — that machines can be considered as
 
-| In “Description of the Human Body and All of Its Functions,” a short trea- organs of the human species.?8 A tool or a machine is an organ, and organs are
+| In “Description of the Human Body and All of Its Functions,Ф a short trea- organs of the human species.?8 A tool or a machine is an organ, and organs are
 
 | tise written in 1648, Descartes addresses the question of voluntary movement tools or machines. And so it is hard to see how mechanism can be distin-
 in man: he offers, in terms so lucid that they were to dominate the entire the guished from purposiveness. No one doubts that a mechanism is needed to
@@ -299,11 +299,11 @@ in man: he offers, in terms so lucid that they were to dominate the entire the g
 ory of reflex and automatic movements up until the nineteenth century, the ensure that a given operation is carried out successfully; and, conversely,
 explanation that the body obeys the soul only on condition that the body is every mechanism must follow a precisely determined sequence toward per-
 primed mechanically to do so. For the soul to decide to move is not a suffi- forming some particular task, since a mechanism cannot depend on random-
-cient condition to induce the body to move. “The soul,” writes Descartes ness or chance. Therefore, the opposition would be between those mechanisms
+cient condition to induce the body to move. “The soul,Ф writes Descartes ness or chance. Therefore, the opposition would be between those mechanisms
 “cannot produce any movement without the appropriate disposition of the whose purpose is manifest and those whose purpose remains latent. In the
 bodily organs which are required for making the movement. On the contrary, case of a lock or a watch, their function is apparent, while the pincers of the
 when all the bodily organs are appropriately disposed for some movement, crab, often considered a marvel of adaptation, have a latent purpose. As a
-the body has no need of the soul in order to produce that movement.”26 result, it seems impossible to deny that certain biological mechanisms serve
+the body has no need of the soul in order to produce that movement.Ф26 result, it seems impossible to deny that certain biological mechanisms serve
 Descartes means that when the soul moves the body it does not act like a king a set purpose. Let us consider an oft-cited example, which mechanistic biol-
 or a general commanding his subjects or his troops as is popularly conceived. ogists use to argue their case; namely, that of the woman's pelvis, which en-
 Rather, by viewing the body as a clock mechanism he envisions each organ larges just before she gives birth. To deny that this enlargement might not in
@@ -317,43 +317,43 @@ s
 ===== page_07.png =====
 
 } Machine and Organism |
-nent enaduhe crocus ‘at iti fs sesand age val woe ing more than in organisms, since a machine seems to move uniformly, unidirectionally |
-. ‘ boceyeien eter ever so toward completing a particular activity. A machine cannot replace another
+nent enaduhe crocus Лat iti fs sesand age val woe ing more than in organisms, since a machine seems to move uniformly, unidirectionally |
+. Л boceyeien eter ever so toward completing a particular activity. A machine cannot replace another
 slightly beyond its maximum. It is understandable that one would not want to machine. The more specific the end-result desired, the more the margin of
-believe that an act with such a specific biological purpose is allowed to occur tolerance is reduced, and the more the machine’s directiveness seems con-
+believe that an act with such a specific biological purpose is allowed to occur tolerance is reduced, and the more the machineСs directiveness seems con-
 ony ms vue a , oe toleaboduens Piclogial Kuncfon. Ant hs is centrated, forusedion a particular end. It is well known that fictions in the
-Febildet whet iene ne i h ‘ a e act sim- organism are substitutable, organs are polyvalent. Although this substitutabil-
-ply ‘ PI el , own that, when dealing with an unknown ity of functions and polyvalence of organs is not absolute, in comparison with
+Febildet whet iene ne i h Л a e act sim- organism are substitutable, organs are polyvalent. Although this substitutabil-
+ply Л PI el , own that, when dealing with an unknown ity of functions and polyvalence of organs is not absolute, in comparison with
 | mechanism, we have to make certain that it is in fact a mechanism — that is, we the same qualities in the machine, it is so considerable that any comparison
 have to know what ultimate purpose or function it is intended to serve. We is quite obviously absurd.?? As an example of the substitutability of functions,
 can come to no conclusions about how itis to be used, simply on the basis of I can give a very simple and well-known case, that of aphasia in children. A
-its form or its structure, unless we already know how the machine or similar hemiplegia on the right side of the child’s brain is almost never accompanied
+its form or its structure, unless we already know how the machine or similar hemiplegia on the right side of the childСs brain is almost never accompanied
 machines are used. As a result, it is necessary first to see the machine at work by aphasia, because the other areas of the brain ensure the continuance of the
 before attempting to deduce the function from the structure. linguistic functions. In the case of the child who is less than nine months old,
 any existing aphasia disappears very quickly.» As for the problem of the poly-
 enseuswar de coneakerey a ; valent organs, I need simply note the fact that for a majority of organs, which
-‘ 5 po! ere we can see the historical reversal of the Cartesian we have traditionally believed to serve some definite function, the truth is
+Л 5 po! ere we can see the historical reversal of the Cartesian we have traditionally believed to serve some definite function, the truth is
 impens between the machine and the organism. It is a well-known fact that we have no idea what other functions they might indeed fulfill. This is
-~ kis ne need not be belabored that inal ‘men a = the Phe- the reason that the stomach is said to be, in principle at least, an organ of
+~ kis ne need not be belabored that inal Лmen a = the Phe- the reason that the stomach is said to be, in principle at least, an organ of
 fn tht eae ofthemactine sutomaingenans —— Honan wt orepar digestion. However, it is a fact iia ped a gastrectomy performed to treat an
 Ta shsses ofthe tnachine ie cone s beyond its power and depends ulcer, there are fewer problems with digestion than with those we observe
 echanic. Its maintenance requires the constant attention with hematopoiesis. It was finally discovered that the stomach behaves like
 and watchfulness of the machinist; for we all know how the complex workings an internal secretive gland. And I might also cite yet another example — and
 of a machine can be irremediably damaged due to inattention and carelessness. not at all to be taken as some sort of miracle — which came to light during
-| ‘s ee maintenance and oan Sey demand the same periodic intervention a recent experiment performed by the: biologist Courrier, at the Collége de
+| Лs ee maintenance and oan Sey demand the same periodic intervention a recent experiment performed by the: biologist Courrier, at the Collége de
 | mifctaischineithetnen hee Daftal entoarsher nau i = sty ese are France. Courrier made an incision in the nteris ofa pregnant rabbit; Ea
 | tion of servomechanisms or electronic automata merely displaces ihe quest ; tracted a placenta from the uterus and placed it in the peritoneal cavity. This
 ofthtian-mackinn dete aha ta, mata merely P e question placenta grafted itself onto the intestine and fed itself normally. When the
-. ionship without changing it in any fundamental way. graft was performed, the rabbit’s ovaries were ablated — meaning that the
+. ionship without changing it in any fundamental way. graft was performed, the rabbitСs ovaries were ablated — meaning that the
 Further, in the case of the machine there is a strict adherence to rational, function fulfilled by the corpus luteum during pregnancy was suppressed. At
 economical rules, The whole is rigorously the sum of its parts. The final effect that moment, all the placentas present in the uterus were aborted and only
 depends on the ordering of the causes. What is more, a machine functions the placenta situated in the peritoneal cavity came to term. Here is an exam-
 within narrowly defined limits, and these limits become all the more rigid with le of the intestine behaving like a uterus, and perhaps, one might even say,
 the practice of standardization. Standardization leads to the simplification of Inore successfully. . ; wv . °
-basic models and spare parts, and to unified standards of measurement and In this case, then, it is tempting to reverse one of Aristotle’s formulations
+basic models and spare parts, and to unified standards of measurement and In this case, then, it is tempting to reverse one of AristotleСs formulations
 quality, which allows for the interchangeability of parts. Any individual part in his Politics: “For nature is not stingy, like the smith who fashions the Del-
 can be exchanged for any other part meant for the same place — within, of phian knife for many uses; she makes each thing fora single use, and every
-course, a margin of tolerance determined by manufacturing constraints. instrument is best made when intended for one and not for a uses”3!
+course, a margin of tolerance determined by manufacturing constraints. instrument is best made when intended for one and not for a usesФ3!
 Now that the properties of a machine have been defined in relation to those On the contrary, it seems that this definition of finality or purposiveness
 on organism, can one say that there is more or less purposiveness in a ma- would be more applicable to a machine than to an organism, One must be
 chine than in an organism? willing to acknowledge, ultimately, that in an organism, a given organ can
@@ -377,15 +377,15 @@ is there a distinction between the normal and the pathological. the quantitative
 Above all, it is work in experimental embryology that has led to the aban- plied or divided, the experiment yields the same results.
 doning of such mechanistic representations when interpreting living phenom- I should add that the development of all eggs cannot be reduced to this
 ena, primarily by demonstrating that once the embryo starts to develop, it schema. For quite some time there was a problem in knowing whether there
-does not contain any kind of “specific mechanism” intended to produce auto- were two different kinds of eggs at issue: regulated eggs, like the eggs of sea
-matically one organ or another. There can be no doubt that this was Descartes’s urchins, and mosaic eggs, like those of frogs, whose first blastomeres develop
-conception as well. In his “Description of the Human Body,” he wrote: “If we in exactly the same way, whether they are dissociated or remain together. Most
+does not contain any kind of “specific mechanismФ intended to produce auto- were two different kinds of eggs at issue: regulated eggs, like the eggs of sea
+matically one organ or another. There can be no doubt that this was DescartesСs urchins, and mosaic eggs, like those of frogs, whose first blastomeres develop
+conception as well. In his “Description of the Human Body,Ф he wrote: “If we in exactly the same way, whether they are dissociated or remain together. Most
 had a good knowledge of what makes up the semen of some species of animal biologists have recently come around to admitting that what distinguishes the
 in particular, for example man, then we would be able to deduce from this two phenomena is simply that determination occurs earlier in the so-called
 alone, using certain and mathematical reasoning, the complete shape and mosaic eggs. On the one hand, the regulated egg starts to act like a mosaic
 conformation of each of its members, and likewise, reciprocally, if we knew egg at a certain stage; on the other hand, at stage two the blastomere of the
 many particularities about this conformation, it would be possible to deduce frog egg yields a complete embryo, as does a regulated egg, if it is reversed. 3°
-from that what the semen is.”3+ However, as Paul Guillaume remarks, it seems Thus, it is illusory to deny the idea of purposiveness in organisms and to
+from that what the semen is.Ф3+ However, as Paul Guillaume remarks, it seems Thus, it is illusory to deny the idea of purposiveness in organisms and to
 | that the more we compare living beings to automatic machines, the more we attribute it to automatic functions, however complex we might imagine these
 | seem to understand their functions but the less we understand their genesis.35 to be. As long as a machine cannot construct itself, and as long as an organ-
 If the Cartesian conception were accurate, that is, if the living organism were ism is not equal to the sum of its parts, it might seem legitimate to think that
@@ -397,11 +397,11 @@ opment, based on research by Driesch, Hérstadius, Speman and Mangold, it human 
 was shown that embryonic development cannot be reduced to a mechanical there appeared a culture that was no longer entirely reducible to natural causes.
 model without running into anomalies. Let us take the example of the exper- And so we arrive at the point where the machine is seen as a fact of culture,
 iments conducted by Hérstadius on the egg of a sea urchin. He cut an eggA expressed in mechanisms that are themselves nothing more than an explain-
-from a sea urchin at stage sixteen so that each part of the egg maintained a able fact of nature. In a celebrated text in “Principles of Philosophy,” Descartes
+from a sea urchin at stage sixteen so that each part of the egg maintained a able fact of nature. In a celebrated text in “Principles of Philosophy,Ф Descartes
 horizontal symmetry, and then he cut egg B, with each part being vertically writes, “It is certain that all the rules of mechanics belong to physics, to the
 symmetrical. He joined half of A with half of B and the egg developed nor- extent that all artificial things are thereby natural. Since, for example, when a
 mally. Driesch took the sea urchin egg at stage sixteen and pressed the egg watch counts the hours, by using the cogs from which it is made, this is no
-between two thin layers of cells, while modifying the reciprocal position of less natural for it than it is for a tree to produce fruit.”37 But, from our point
+between two thin layers of cells, while modifying the reciprocal position of less natural for it than it is for a tree to produce fruit.Ф37 But, from our point
 58 zone 59
 
 
@@ -410,12 +410,12 @@ between two thin layers of cells, while modifying the reciprocal position of les
 | Machine and Organism
 | of view, we can and must reverse the relationship of the watch to the tree and it cannot be reduced to a simple question of rationality. Indeed, we tend to see
 say that the cogs and generally all the components that make up a watch are the skilled hand that adjusts a machine or the mind that carefully orchestrates
-designed to produce a desired effect: all the parts of the mechanism are prod- a production process as examples of “ingenuity,” having their basis in instinct;
+designed to produce a desired effect: all the parts of the mechanism are prod- a production process as examples of “ingenuity,Ф having their basis in instinct;
 ucts of imagination, each piece fulfilling some final purpose or design that at but these are in fact as difficult to explain as the production of mammalian eggs
 one time was only imagined or dreamed of; they are thus the direct or indirect outside the ovary, even in the event that the physiochemical composition of
 products of a technical activity that is as authentically organic as the flower- protoplasm and of sexual hormones had been made entirely clear to us.
 ing of trees. And, on a more fundamental level, the process works with great This is why the work of anthropologists (and not engineers) seems to shed
-efficiency even though there is no more conscious observance of the rules more light, however faint, on the question of the construction of machines.”
+efficiency even though there is no more conscious observance of the rules more light, however faint, on the question of the construction of machines.Ф
 and laws of physics than there might be within vegetal life. Although the con- Currently in France, ethnologists have come closest to creating a philosophy
 struction of a machine might presuppose at some stage the understanding of of technique in which the philosophers themselves seem to have lost interest,
 the logics of physics, it should not and cannot be forgotten that, as a matter their main concern having been chiefly the philosophy of science. On the con-
@@ -427,27 +427,27 @@ duced to science. The author in question is Kant, in his Critique of Judgment. h
 While it is true that the French have not tended to look to Kant as a philoso- de la technologie.*! This work includes an appendix, the outline for a course
 pher of technique, it is no less true that German authors greatly interested in taught at the Faculté des Lettres at Bordeaux around 1890, which dealt with
 this question, especially after 1870, have done so. the will, and in which Espinas addressed, under the guise of will, the ques-
-In the “Critique of Teleological Judgment,” Kant distinguishes between tion of practical human behavior and especially the invention of tools. By
-the machine and the organism, while drawing on Descartes’s favorite exam- borrowing the theory of organic extension from the German writer Ernst
+In the “Critique of Teleological Judgment,Ф Kant distinguishes between tion of practical human behavior and especially the invention of tools. By
+the machine and the organism, while drawing on DescartesСs favorite exam- borrowing the theory of organic extension from the German writer Ernst
 ple of the watch. In a machine, he states, each part exists for the other but Kapp, Espinas was able to explain the construction of the first tools. Kapp
 not because of the other: no part produces another part; no one part is pro- first made his theories known in 1877.# According to the theory of exten-
-duced by the entire unit; nor does one part produce another part of similar sion, whose philosophical bases go back to Hartmann’s The Philosophy of the
+duced by the entire unit; nor does one part produce another part of similar sion, whose philosophical bases go back to HartmannСs The Philosophy of the
 kind. There is no watch that makes other watches. No part can replace itself. Unconscious and further back still to Schopenhauer, the earliest tools were
 And no machine can replace one of its own missing parts. And so, while a simply extensions of moving human organs. The flint, the club and the lever
 machine possesses motor power, it has no transformational energy that might extend and magnify the organic movement of the arm and its ability to strike.
 propagate itself or be transmitted to an object outside the machine itself. Kant This theory, like all theories, has its limits and runs into certain stumbling
 draws a distinction between human skill and technology, which are marked blocks, especially when it is used to explain fundamental inventions, such
 by intentionality, as opposed to involuntary life processes. But in an impor- as fire and the wheel. In these cases, we would search in vain for the body
-tant passage of the “Critique of Aesthetic Judgment,” Kant defines the origi- movements and the organs that fire and the wheel are supposed to prolong or
+tant passage of the “Critique of Aesthetic Judgment,Ф Kant defines the origi- movements and the organs that fire and the wheel are supposed to prolong or
 nality of human skill as it relates to knowledge: extend; but the explanation certainly works for instruments like the hammer
 Art, regarded as human skill, differs from science (as ability differs from knowledge) or the lever and all such related tools. In France, then, it was the ethnogra-
 in the same way that a practical aptitude differs from a theoretical faculty, as tech- phers who sought out and compiled not only the facts but also the hypotheses
 nique differs from theory. What one is capable of doing, as soon as we merely know from which a biological philosophy of technique could be constituted. The
-what ought to be done and therefore are sufficiently cognizant of the desired effect, philosophical path was laid out by the Germans*’ — for example, the theory
+what ought to be done and therefore are sufficiently cognizant of the desired effect, philosophical path was laid out by the Germans*С — for example, the theory
 is not called art. Only that which a man, even if he knows it completely, may not of the development of inventions based on the Darwinian notion of variation
 therefore have the skill to accomplish belongs to art. Camper describes very exactly and natural selection, as advanced by Alard Du Bois-Reymond in his Erfindung
 how the best shoes must be made, but he certainly could not make one.38 und Erfinder (1906), or again, by Oswald Spengler in Der Mensch und die Technik,
-This text is cited by Paul Krannhals in Der Weltsinn der Technik, and, following which presented the theory that machines are constructed as a “life tactic”
+This text is cited by Paul Krannhals in Der Weltsinn der Technik, and, following which presented the theory that machines are constructed as a “life tacticФ
 Kant, he acknowledges that all technique is essentially primordial, meaning that —and is taken up again, independently it seems, by André Leroi-Gourhan
 60 zone 61
 
@@ -462,18 +462,18 @@ the amoeba, which extends substances out beyond its mass so that it might each t
 seize and capture an object it wishes to digest: izing and ordering imposed by technology that makes us forget that machines
 If we are drawn to view the act of percussion as the fundamental technical activ- have their origin in the irrational. In this area as in all others, it is necessary to
 ity, it is because we witness an act of touch or contact in almost every technologi- know how to accommodate the irrational, even when — and especially when
-cal process; but even though the amoeba’s expansion always leads its prey through —we want to defend rationalism. °°
+cal process; but even though the amoebaСs expansion always leads its prey through —we want to defend rationalism. °°
 the same digestive process, there is no one way of explaining the working of that It must be added that the reversal of the relationship between the machine
 process — whether we view the material being digested or whether we approach and the organism, brought about by a systematic understanding of technical
 the question from any given view of technology — since our view must change inventions as if they were extensions of human behavior or life processes,
 | according to the circumstances, just as the digestive process itself might be like is in someway confirmed by the belief that the generalized use of machines
 | the various specialized grasping or striking organs.*5 has slowly imposed contemporary industrialized society on man. George
-In the last chapters of this work one finds a theory of machine that is alto- Friedmann has shown very clearly the steps by which “body” gradually
+In the last chapters of this work one finds a theory of machine that is alto- Friedmann has shown very clearly the steps by which “bodyФ gradually
 gether different from the traditional theories that, for lack of a better term, became a first-order term in the human machine-body equation.5! With
 I shall classify as Cartesian — where technical invention amounted to the Frederick Taylor and the first technicians to make scientific studies of work-
 application of a given system of knowledge. task movements, the human body was measured as if it functioned like a
 Traditionally, the locomotive is presented as a classic example of a “mar- machine. If we see their aim as the elimination of all unnecessary movement
-vel of science.” However, the construction of the steam engine is only under- and their view of output as being expressed only in terms of a certain num-
+vel of science.Ф However, the construction of the steam engine is only under- and their view of output as being expressed only in terms of a certain num-
 standable when placed in light of theoretical knowledge that preceded it, as ber of mathematically determined factors, then rationalization was, for all
 the culmination of an age-old problem, and a specifically technological one intents and purposes, a mechanization of the body. But the realization that
 at that — how to pump water out of mines. And so it would be necessary to technologically superfluous movements were biologically necessary move-
@@ -481,16 +481,16 @@ understand the natural history of the development of the pump, and to know ments
 about the fire pump (which at first did not rely at all on vapor but produced a on viewing the problem of human-body-as-machine in exclusively techno-
 vacuum via condensation under the pistons, thereby allowing the atmospheric logical terms. From here on, the systematic examination of certain physio-
 pressure acting as a motor to lower the piston) in order to see that the essen- logical, psychotechnological and even some psychological conditions (since
-tial “organ” in a locomotive is a cylinder and a piston.*6 a consideration of values leads inevitably to questions at the very center of
+tial “organФ in a locomotive is a cylinder and a piston.*6 a consideration of values leads inevitably to questions at the very center of
 | Tracing a similar progression of ideas, Leroi-Gourhan goes even further, the origin of human personality) finally culminated in a reversal, called an
-pointing back to the wheel as one of the locomotive’s ancestors, in the biolog- inevitable revolution by Friedmann, in which technology would adapt ma-
-ical sense of the word. “It is machines like the wheel,” he states, “that gave rise chines to the human body. As Friedmann saw it, this industrial technology
+pointing back to the wheel as one of the locomotiveСs ancestors, in the biolog- inevitable revolution by Friedmann, in which technology would adapt ma-
+ical sense of the word. “It is machines like the wheel,Ф he states, “that gave rise chines to the human body. As Friedmann saw it, this industrial technology
 to steam engines and modern-day motors. All of the highest technological appeared to take the form of a scientific rediscovery of the same entirely
 achievements of the most inventive minds of our time can be grouped around empirical procedures through which primitive peoples had always sought
-the circular movements of the crank, the pedal, the drive belt.”*7 He then goes to have their tools meet the highest organic norms: that is, their tools had to
+the circular movements of the crank, the pedal, the drive belt.Ф*7 He then goes to have their tools meet the highest organic norms: that is, their tools had to
 on to add: “The way inventions influenced each other has not been studied carry outa given action effectively while maintaining a biological economy;
-sufficiently and we don’t seem to take note of the fact that, without the wheel, and this occurred at the optimum level, when it most closely approximated
-we would not have the locomotive.”*8 Further on: the movement of the body at work, as when the body defends itself sponta-
+sufficiently and we donСt seem to take note of the fact that, without the wheel, and this occurred at the optimum level, when it most closely approximated
+we would not have the locomotive.Ф*8 Further on: the movement of the body at work, as when the body defends itself sponta-
 At the beginning of the nineteenth century no one had yet recognized how to make neously from becoming exclusively subordinate to the mechanical.5? In this
 use of the elemental forms that would later give birth to the locomotive, the auto- way, Friedmann could speak, without irony or paradox, of the legitimacy of
 mobile and the airplane. The underlying principles of mechanics were spread considering the industrial development of the West from an ethnographic
@@ -508,25 +508,25 @@ Machine and Organism
 autonomy of the arts and skilled crafts in relation to all forms of knowledge (Paris: Bailliére, 1870), vol. 2, p. 879.
 that are capable of annexing them or expanding on them; and, on the other 7. Gomez Pereira, Antoniana Margarita: Opus physicis, medicis ac theologis non minus
 hand, to inscribe the mechanical into the organic. It is no longer then, a ques- utile quam necessarium (Medina del Campo, 1555-58).
-tion of determining the extent to which an organism can be thought of as a 8. Alfred Espinas, “L’Organisation ou la machine vivante en Gréce au IV¢ sigcle avant
-machine, whether by virtue of its structure or of its functions. But it is neces- J.-C..” Revue de métaphysique et de morale (1903), pp. 702-15.
+tion of determining the extent to which an organism can be thought of as a 8. Alfred Espinas, “LСOrganisation ou la machine vivante en Gréce au IV¢ sigcle avant
+machine, whether by virtue of its structure or of its functions. But it is neces- J.-C..Ф Revue de métaphysique et de morale (1903), pp. 702-15.
 sary to find the reasons that gave rise to the opposite view, the Cartesian one. 9, P-M. Schuhl, Machinisme et philosophie (Paris: Alcan, 1938).
 I have attempted to shed light on this problem, suggesting that the mechanis- 10, Aristotle's Politics, trans. Hippocrates G. Apostle and Lloyd P. Gerson (Grinnel,
 tic conception of the body was no less anthropomorphic, despite appearances, Iowa: Peripatetic Press, 1986), bk. 1, ch. 2, secs. 4-7.
 than a teleological conception of the physical world. The answer I am tempted IL. Lucien Laberthonniére, Les Etudes sur Descartes (Paris: Vrin, 1935), especially the
-to offer would insist on showing that technology allows man to live in conti- appendix to volume 2: “La Physique de Descartes et la physique d’Aristote.”
+to offer would insist on showing that technology allows man to live in conti- appendix to volume 2: “La Physique de Descartes et la physique dСAristote.Ф
 nuity with life, as opposed to a solution that would see humankind as living 12. Franz Borkenau, Der Ubergang vom feudalem zum biirgerlichen Weltbild (Paris:
 in a state of rupture for which we ourselves are responsible because of sci- Alcan, 1934).
-ence. There is no doubt that this answer appears to lend credence to the list 13. Jean de la Fontaine's fable, “The Cobbler and the Businessman” (in La Fontaine:
+ence. There is no doubt that this answer appears to lend credence to the list 13. Jean de la Fontaine's fable, “The Cobbler and the BusinessmanФ (in La Fontaine:
 of accusations that all too many writers have offered up nostalgically from Selected Fables, trans. Jamie Michie [New York: Viking, 1979], pp. 188-91) is an excellent
 time to time, with no apparent regard to their lack of originality, as they point illustration of the two different conceptions of work and its remuneration.
 out the faults of technology and progress. I have no intention of rushing to 14. Henryk Grossmann, “Die gesellschaftlichen Grundlagen der mechanistischen
-support their cause. It is clear that if human society has embraced the idea of Philosophie und die Manufaktur,” Zeitschrift fiir Sozialforschung, 4th ser., vol. 2 (1935),
+support their cause. It is clear that if human society has embraced the idea of Philosophie und die Manufaktur,Ф Zeitschrift fiir Sozialforschung, 4th ser., vol. 2 (1935),
 a technology based on a mechanistic model, the implications are enormous, pp- 161-231.
-and the whole question cannot easily be treated lightly or recalled on demand. 15. “Mechanization” here means the generalized use of machines to replace human
-But that model is altogether different from the one just examined. labor. However, it was also used to describe Descartes’s theory of animals as machines
+and the whole question cannot easily be treated lightly or recalled on demand. 15. “MechanizationФ here means the generalized use of machines to replace human
+But that model is altogether different from the one just examined. labor. However, it was also used to describe DescartesСs theory of animals as machines
 before the nineteenth century when the above usage was in force — TRANS.
-Notes 16. In Descartes’s “Principles of Philosophy” (4.187 [AT 8A.314], Descartes: Selected
+Notes 16. In DescartesСs “Principles of PhilosophyФ (4.187 [AT 8A.314], Descartes: Selected
 1. After having been dogmatically accepted by biologists for many years, the mechanis- Philosophical Writings, trans. John Cottingham, Robert Stoothoff and Dugald Murdoch
 tic theory of the organism is now considered narrow and inadequate by those scientists who [New York: Cambridge University Press, 1988], pp. 199-200), there are a few passages
 call themselves dialectical materialists. But the fact that they still concern themselves with that reveal Descartes to be equally interested in gunpowder, but he did not look for an
@@ -536,12 +536,12 @@ must clothe itself in the hand-me-downs scientists have used and then discarded.
 my aim to show that the problem of machine and organism is much broader in scope and explodes in a harquebus. In the seventeenth century, Willis compared the nerves to pow-
 more philosophically important than is commonly thought; and that it is far more than a der lines in a manner that remains valid today in some quarters — most notably, W. M.
 theoretical and methodological dispute among biologists. Bayliss comes to mind. Nerves are a sort of Bickford cord. They produce a spark that will
-2. Julien Pacotte, La Pensée technique (Paris: Alcan, 1931). set off, in the muscle, an explosion that, in Willis’s view, is the only thing capable of ac-
+2. Julien Pacotte, La Pensée technique (Paris: Alcan, 1931). set off, in the muscle, an explosion that, in WillisСs view, is the only thing capable of ac-
 3. One example of the fundamental principles of a general theory of mechanisms un- counting for the phenomena of spasm and prolonged contraction observed by the doctor.
-derstood in this way can be found in Franz Reuleaux’s Theoretische Kinematik: Grundziige 17. “For there is within us but one soul, and this soul has within it no diversity of
-einer Theorie des Maschinwesen (Braunschweig: Vieweg, 1875). parts: it is at once sensitive and rational too, and all its appetites are volitions” (“The
-4. For everything concerning machines and mechanisms, see Pacotte, La Pensée tech- Passions of the Soul” 47, in Selected Philosophical Writings, p. 236).
-nique, ch. 3. 18. “Discourse on Method” 5 (AT 6.56ff.), in ibid., p. 44ff. Letter to the Marquis of
+derstood in this way can be found in Franz ReuleauxСs Theoretische Kinematik: Grundziige 17. “For there is within us but one soul, and this soul has within it no diversity of
+einer Theorie des Maschinwesen (Braunschweig: Vieweg, 1875). parts: it is at once sensitive and rational too, and all its appetites are volitionsФ (“The
+4. For everything concerning machines and mechanisms, see Pacotte, La Pensée tech- Passions of the SoulФ 47, in Selected Philosophical Writings, p. 236).
+nique, ch. 3. 18. “Discourse on MethodФ 5 (AT 6.56ff.), in ibid., p. 44ff. Letter to the Marquis of
 5. According to Marx, a tool is moved by human power while the machine is moved Newcastle, Nov. 23, 1646.
 by a natural force; see his Capital, trans. Samuel Moore and Edward Aveling (New York: 19. Letter to Morus, Feb. 21, 1649, in Descartes, Correspondance, ed. Charles Adam
 International Publishers, 1967), vol. 1, pp. 374-79. and Gérard Milhaud (Paris: P.U.F., 1963), vol. 8, pp. 121-39. In order to understand

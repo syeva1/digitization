@@ -9,7 +9,7 @@ Contents lists available at ScienceDirect
 
 Journal of Economic Behavior and Organization
 
-‘i
+Лi
 
 ¢ VIL
 ER journal homepage: www.elsevier.com/locate/jebo
@@ -19,8 +19,8 @@ ELSEVI
 Models of intragroup conflict in management: A literature
 review
 
-Matthew W. McCarter*>*, Kimberly A. Wade-Benzoni‘,
-Darcy K. Fudge Kamal“, H. Min Bang‘, Steven J. Hyde’, Reshma Maredia?
+Matthew W. McCarter*>*, Kimberly A. Wade-BenzoniЛ,
+Darcy K. Fudge Kamal“, H. Min BangЛ, Steven J. HydeС, Reshma Maredia?
 
 4 College of Business, University of Texas, One UTSA Circle, San Antonio, TX 78249, USA
 
@@ -72,10 +72,10 @@ complementarity of these models; and the future research directions.
 
 The study of conflict in management began at the field's inception with Dubin (1957) observing power conflicts between labor unions and managers within organizations. Thompson (1960) brought the study of conflict to the forefront
 when he observed that conflict is something ever-present in organizations and is to be avoided and controlled. Cyert and
-March’s (1963) seminal book, A Behavioral Theory of the Firm, built on Thompson's ideas, observing that conflict stems from
+MarchСs (1963) seminal book, A Behavioral Theory of the Firm, built on Thompson's ideas, observing that conflict stems from
 incompatible goals and information among people who constitute an organization. Litterer (1966) agreed with Thompson,
 Cyert, and March on the ubiquity and often burdensomeness of conflict in organizational life, but also noted that, because
-it “energizes people to activity” (p. 180), conflict can be a positive thing for organizations - especially when innovation
+it “energizes people to activityФ (p. 180), conflict can be a positive thing for organizations - especially when innovation
 and change are wanted. Consequently, Litterer urged organizations, and those who study them, to find ways to harness the
 
 * Corresponding author at: College of Business, University of Texas, One UTSA Circle, San Antonio, TX 78249, USA.
@@ -103,11 +103,11 @@ Organizational Science, and Organizational Behavior & Human Decision Processes, 
 and alliance - commonly associated with models of conflict in management. Web of Science searches for articles within the given journals with these
 terms in the title were performed on 29 September 2016.
 
-good and avoid the bad of conflict. Pondy (1967) complemented Litterer’s work by observing that conflict may be studied
+good and avoid the bad of conflict. Pondy (1967) complemented LittererСs work by observing that conflict may be studied
 between or within organizations, suggesting that models of conflict may have different assumptions and uses depending
 on the level of analysis. Since these early works, many fruitful research areas on conflict arose; focusing on the positives
 and negatives conflict brings to organizations. Fig. 1 provides an estimate of the rise and steady state of conflict research in
-top-tier management journals,’
+top-tier management journals,С
 
 The management field studies conflict at different levels of analysis. Conflict can be studied within a person such as when
 modeling role conflict (e.g. Rizzo et al., 1970) and cognitive dissonance (e.g. Festinger, 1962). Conflict can also be studied
@@ -140,7 +140,7 @@ suggested by the writings of Sullivan (2002) and Staw (1991): a group is any col
 generations - who are interdependently connected.
 
 3 Indeed, each of the models we review have their own reviews. The curious student may consider the following sample reviews that primarily describe
-each literatures’ findings: the diversity-conflict model (e.g. Mannix and Neale, 2005), social dilemma models (e.g. Van Lange et al., 2013), the behavioralnegotiation model (e.g. Thompson et al., 2010), the social exchange model (e.g. Cropanzano and Mitchell, 2005), and the transaction cost economics model
+each literaturesС findings: the diversity-conflict model (e.g. Mannix and Neale, 2005), social dilemma models (e.g. Van Lange et al., 2013), the behavioralnegotiation model (e.g. Thompson et al., 2010), the social exchange model (e.g. Cropanzano and Mitchell, 2005), and the transaction cost economics model
 (e.g. Silverman, 2002).
 
 
@@ -178,11 +178,11 @@ Salancik (1978)
 
 * Transaction cost economics model: Coase (1937) and Williamson (1975)
 
-Taken together, the intragroup conflict models reviewed herein present several insights. The first is how conflict is conceptualized. Conflict is a “dynamic process” whereby at least one agent feels, perceives, or behaves in opposition toward another agent (Pondy, 1967). The ideas of conflict being a perception or feeling - coupled with the possibility of it producing
-positive outcomes for organizations - distinguish management's study of the topic from other fields’. Whereas other fields -
+Taken together, the intragroup conflict models reviewed herein present several insights. The first is how conflict is conceptualized. Conflict is a “dynamic processФ whereby at least one agent feels, perceives, or behaves in opposition toward another agent (Pondy, 1967). The ideas of conflict being a perception or feeling - coupled with the possibility of it producing
+positive outcomes for organizations - distinguish management's study of the topic from other fieldsС. Whereas other fields -
 e.g. economics - consider an agent expending resources to harm another as a necessary condition of conflict (Garfinkel and
 Skaperdas, 2007), conflict as studied in management may be entirely a perception made by the individual agent in addition
-to it “manifesting” through behavior (Pondy, 1967).
+to it “manifestingФ through behavior (Pondy, 1967).
 
 The second insight is that intragroup conflict does not always result in a negative outcome, providing some additional
 parsimony between management's study of the topic and other's in the social sciences. Some disciplines - e.g. international
@@ -201,8 +201,8 @@ pot of scholars who develop and borrow theory from many disciplines in the socia
 any attempt to review every model of conflict in a single article would be futile.
 
 To give the curious student a survey of the forest and not the trees, we review the five intragroup conflict models most
-commonly studied in management. These five intragroup models were selected because they either “shifted” or “created
-consensus” about findings in conflict research (Hollenbeck, 2008). Section 2 reviews the models, and Section 3 reviews the
+commonly studied in management. These five intragroup models were selected because they either “shiftedФ or “created
+consensusФ about findings in conflict research (Hollenbeck, 2008). Section 2 reviews the models, and Section 3 reviews the
 recent literature using those models. Section 4 provides future research directions, and Section 5 concludes the review.
 Table 1 summarizes the main models of intragroup conflict and foundational papers.
 
@@ -229,7 +229,7 @@ model created consensus from a mass of publications showing inconsistent relatio
 performance, and it is based on three papers led by Karen Jehn. The Jehn papers show nuances about the nature of conflict
 and its role in understanding diversity and team performance.
 
-Jehn (1995): The first paper is Jehn’s (1995) field survey of workers in the logistics industry and examines two dimensions
+Jehn (1995): The first paper is JehnСs (1995) field survey of workers in the logistics industry and examines two dimensions
 of conflict in work teams: relational conflict and task conflict. Relational conflict is about interpersonal incompatibility and
 includes annoyance, agitation, and hostility among teammates, Task conflict is about team member incompatibility over
 ideas, the interpreting of information, and approaches to an organizational problem that the team is facing (Jehn, 1995).
@@ -239,14 +239,14 @@ is robustly detrimental to team performance. Further, the nature of the task mod
 the two conflict dimensions and team performance. In routine tasks, teams that experienced either form of conflict did not
 perform well, but in non-routine tasks, moderated levels of task conflict were a blessing, not a curse.
 
-Jehn (1997): The second paper is Jehn’s (1997) case study of tears in a household-goods-moving organization.
+Jehn (1997): The second paper is JehnСs (1997) case study of tears in a household-goods-moving organization.
 Jehn (1997) examined the relationship between relationship and task conflict dimensions with team performance and, more
 importantly, introduced the idea of process conflict. Process conflict is about incompatible preferences over how a task
 should be performed; e.g. how resources are allocated, who does what, and when (Jehn, 1997). Jehn (1997) introduced a
 new model of conflict with the different dimensions of conflict as antecedents, team performance as the outcome, and
 a host of team characteristics as moderators. Like relational conflict, process conflict had strong negative impact on team
 performance and teammate satisfaction. Process conflict ate up time the team could have used for the task and created
-uncertainty among teammates, motivating them to leave the team. Process conflict’s effect on team performance followed
+uncertainty among teammates, motivating them to leave the team. Process conflictСs effect on team performance followed
 an inverted-J shape: low levels of process conflict provided direction and solidarity to the team and consequently improved
 their performance, while medium and high levels of process conflict increasingly decreased team performance and teammate satisfaction.
 
@@ -263,26 +263,26 @@ Negotiation is a strategic process for navigating conflict and is broadly define
 parties decide what each will give and take in a relationship (Thompson, 2015). Within management, the dominant model
 used to study negotiation is the behavioral negotiation model. An interpersonal model, the behavioral negotiation model
 assumes the group of negotiators are bounded rationally in their cognitive abilities (Simon, 1982), leaving the negotiators
-susceptible to cognitive biases triggered by their interaction with the opponents and the deal’s context. The cognitive biases
+susceptible to cognitive biases triggered by their interaction with the opponents and the dealСs context. The cognitive biases
 undermine the information sharing process between the parties, thereby impacting the value created and claimed from the
 negotiation (Thompson, 1991). Like the diversity-conflict model, conflict is not seen as always being a burden, but rather
 than opportunity for parties to create value that could not be achieved acting alone. The pivotal works either introduced or
 integrated key ideas in negotiation from across several disciplines.
 
-Walton and McKersie (1965): Until Walton and McKersie’s (1965) book, negotiation scholarship was primarily descriptive
+Walton and McKersie (1965): Until Walton and McKersieСs (1965) book, negotiation scholarship was primarily descriptive
 and studied disparately in economics, political science, and labor relations. Little theory explained the various findings in
 labor disputes, arbitration, contract law, and traditional buyer-seller bargaining. Walton and McKersie (1965) introduced
 a central framework for thinking about negotiation by describing two different strategic approaches: distributive versus
 integrative negotiation. Distributive approaches focus on claiming as much value as possible for oneself and consist primarily
 of the use of threats and emotional appeals to influence counterparties to make concessions. Integrative approaches focus
 on creating and claiming value and consist of sharing information about interests and priorities and then finding tradeoffs
-to generate joint gains (Pruitt, 1981). Walton and McKersie’s (1965) were consensus shifter, providing conflict scholars a
+to generate joint gains (Pruitt, 1981). Walton and McKersieСs (1965) were consensus shifter, providing conflict scholars a
 package of context-specific models about how negotiators discover and divide resources.
 
 
 MW. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946 929
 
-Pruitt and Rubin (1986): The second work is Pruitt and Rubin’s (1986) book Social conflict. Therein, Pruitt and Rubin (1986) introduced the dual-concerns model. The dual-concern model maintains that a negotiator has concerns for their
+Pruitt and Rubin (1986): The second work is Pruitt and RubinСs (1986) book Social conflict. Therein, Pruitt and Rubin (1986) introduced the dual-concerns model. The dual-concern model maintains that a negotiator has concerns for their
 own outcome and the other party's. Contingent on the weight the negotiator places on each of these concerns constitutes
 the strategy she will use during the negotiation process. Negotiators with a high concern for the other's outcome and a
 low concern for themselves yield to requests from the opponent; when concern for the other and oneself is high then a
@@ -292,7 +292,7 @@ the negotiator will contend aggressively to further her interests. The power of 
 value of dual-concerns model was the idea of perceptions other than the focal negotiator when developing the now-popular
 behavioral negotiation model.
 
-Neale and Northcraft (1991): The last contribution is Neale and Northcraft’s (1991) dual-party behavioral negotiation
+Neale and Northcraft (1991): The last contribution is Neale and NorthcraftСs (1991) dual-party behavioral negotiation
 model. In presenting the model, Neale and Northcraft (1991) synthesize a sizable body of disparate empirical research into a
 model that predicts negotiation outcomes as a function of contextual and negotiator characteristics. Their main proposition
 is that any negotiation outcome is a function of the context the negotiators find themselves in and the characteristics of
@@ -300,7 +300,7 @@ the negotiators themselves. Contextual characteristics are fixed elements of the
 a rich, compared to lean, media such as face-to-face versus text messaging. Negotiator characteristics are visible behaviors
 such as mood and emotions, personality and physical appearance, communication methods, and non-visible cognitions such
 as information processing and biases. Further, compared to contextual characteristics, negotiator characteristics can be dynamic - as emotions, ways of communication, and information processing can change over time. The elegance of Neale and
-Northcraft’s (1991) model is that research can be categorized into one of these bins of characteristics.
+NorthcraftСs (1991) model is that research can be categorized into one of these bins of characteristics.
 
 2,3. Social dilemma models
 
@@ -309,17 +309,17 @@ though the whole group is better off cooperating. Such situations, in which indi
 that organizations continually face, involving multiple levels of social interaction. The key issue surrounding social dilemmas
 is whether individuals can cooperate and prioritize the interest of the collective over the personal benefit, and if so, how
 such cooperation and coordination can be achieved (e.g. Sally, 1995). Cooperation in social dilemmas is inherently difficult
-and risky. A traditional economic framework predicts that because rational individuals always attempt to maximize one’s
+and risky. A traditional economic framework predicts that because rational individuals always attempt to maximize oneСs
 utility and make decisions that provide the greatest benefit in their highest self-interest, cooperative solutions are unlikely
 or unstable (Luce and Raiffa, 2012). Like the models previously reviewed, social dilemma models view conflict as being either a negative or positive thing. Each article below was instrumental in developing the models of social dilemmas because
 they either were the first to introduce the model, create consensus out of disparate findings about how social dilemmas are
 solved, or shift consensus about how we think about conflict in social dilemmas,
 
 Dawes (1980): Dawes (1980) introduced the idea of social dilemmas and identified two outcome-relevant properties of
-them: (a) everyone receives the highest payoff for a selfish choice regardless of others’ choices, and (b) everyone ends up
+them: (a) everyone receives the highest payoff for a selfish choice regardless of othersС choices, and (b) everyone ends up
 receiving a lower payoff if all choose to defect rather than to cooperate. Therefore, a social dilemma is marked by a deficient
 equilibrium in which everyone has dominating strategies. Dawes coined the concept of the n-person prisoner's dilemma by
-introducing “give some” and “take some” games.° To the extent that social dilemmas involve interpersonal comparisons of
+introducing “give someФ and “take someФ games.° To the extent that social dilemmas involve interpersonal comparisons of
 payoffs, one way of eliciting cooperation is changing payoffs by introducing rewards and punishments. Dawes (1980) argues
 that this simple approach however raises an important question of who changes it and how to change it. The extent to
 which individuals value mutual benefits may be determined by other influences, such as altruism, norms and conscience
@@ -329,10 +329,10 @@ Messick and Brewer (1983): In addition to n-person dilemmas, Messick and Brewer 
 situations in which individuals pursue immediate gains that are seemingly beneficial, which in the long run lead to a larger
 loss for the whole group. For example, if all members continue to exploit a common resource for their individual benefit,
 the resources will eventually be depleted. On the other hand, social fences refer to situations in which members of a group
-are tempted to avoid an immediate cost for collective benefits such that individuals’ inaction and under-contribution hurt
+are tempted to avoid an immediate cost for collective benefits such that individualsС inaction and under-contribution hurt
 the group. They also discussed the temporal dimension of social dilemmas in which the outcome of the action is delayed. In
 this review, two types of solutions to social dilemmas were suggested. The first approach aims at influencing psychological
-and behavioral variables associated with actors’ cooperative behavior. For example, communication is one of the prominent
+and behavioral variables associated with actorsС cooperative behavior. For example, communication is one of the prominent
 solutions under this category. Encouraging communication among actors in social dilemmas allows them to exchange infor-
 
 5 Recent scholarship merged the ideas of give-some and take-some dilemmas into a hybrid social dilemma termed the give-or-take-some dilemma
@@ -345,11 +345,11 @@ Van Lange et al.'s (2013) review of the psychology of social dilemmas.
 
 mation about choices of others and creates a sense of group identity and feelings of identification. The second type of the
 solutions focuses on interventions that change the structural features of social dilemmas, such as the payoff structure and
-the group’s decision structure.
+the groupСs decision structure.
 
 Kollock (1998): Kollock (1998) further divided solutions to social dilemmas into three broad types depending on whether
 the solution assumes self-interested actors - motivational, strategic, and structural solutions. Motivational solutions assume
-that individuals can take their partners’ outcomes into account. Strategic solutions assume egoistic decision-makers and do
+that individuals can take their partnersС outcomes into account. Strategic solutions assume egoistic decision-makers and do
 not involve structural changes in social dilemmas. Because strategic solutions are contingent upon the decision of actors that
 influence the outcome and behavior of their partners, such a solution is restricted to repeated two-person dilemmas. For example, reciprocal or tit-for-tat strategies have been shown to maintain cooperation in a two-person social dilemma. Finally,
 structural solutions involve changes in the rules of social dilemmas. Specifically, Kollock (1998) highlighted the importance
@@ -360,10 +360,10 @@ Weber et al. (2004): The last paper challenged how we think about conflict in so
 (2004) paper draws from March's (1994) idea of the logic of appropriateness to provide alternative explanations for why
 people cooperate in social dilemmas. The appropriateness framework is more about perceptions than calculations. The
 framework maintains that - in addition to weighing the costs and benefits of a decision - individuals make decisions based
-on normative rules. Normative rules - e.g. “women and children first!” - are followed as a function of a person’s perception
-of what the decision’s context is and what their role in that situation is, In short, Weber et al. (2004) introduce the idea that
-individuals may not just ask “What are the positives and negatives of me cooperating in this social decision problem?” but
-also ask “What does a person like me (role) do (rules) in a situation like this (context)?” A core insight of the Weber et al.
+on normative rules. Normative rules - e.g. “women and children first!Ф - are followed as a function of a personСs perception
+of what the decisionСs context is and what their role in that situation is, In short, Weber et al. (2004) introduce the idea that
+individuals may not just ask “What are the positives and negatives of me cooperating in this social decision problem?Ф but
+also ask “What does a person like me (role) do (rules) in a situation like this (context)?Ф A core insight of the Weber et al.
 (2004) paper is that it suggests that the conflict between individual and collective preferences in social dilemmas does not
 always lead to a negative outcome that needs structural and psychological solutions (as maintained in the previous three
 reviewed papers); but rather can encourage people to cooperate and achieve collective action as a function of how the social
@@ -373,7 +373,7 @@ dilemma is framed.
 
 The social exchange model approaches conflict among organizational groups out of effectiveness rather than efficiency
 considerations. Specifically, the model crosses levels of analysis from between individuals and organizational groups by assuming institutions and structures are negotiated through social interaction (Blau, 1964}, Boundary spanning role representatives behave and act, on behalf of their organizations, as decision makers based upon the norms, values and constraints
-of their organization. In turn, the boundary spanners’ actions subsequently influence the collective beliefs their organization
+of their organization. In turn, the boundary spannersС actions subsequently influence the collective beliefs their organization
 holds towards the exchange partner (e.g. Zaheer et al., 1998; Ring and Van de Ven, 1994). Due to its broad perspective on
 effectiveness, which may be gained by power, to enhancing conflict outcomes, social exchange theory has become one the
 most prevalent paradigms in explaining conflict.
@@ -397,9 +397,9 @@ typically viewed as motives for terminating relationships, which might be viewed
 continuity (e.g. Polidoro et al., 2011). Broadly, this raises issues over sources of power which involve access to resources,
 availability of alternatives, political coercion or legitimacy, and conflicting ideologies over resources controlled by the powerful (Blau, 1964).
 
-Emerson (1962): Emerson’s (1962) classic conceptualization of power defines it in relational terms, as a function of an
-actor’s dependence on the other. The power of actor, Party A, over the other actor, Party B, formally, is defined as the
-inverse of Party B’s dependence on Party A. Dependence may arise from the need for resources, organizational size, and
+Emerson (1962): EmersonСs (1962) classic conceptualization of power defines it in relational terms, as a function of an
+actorСs dependence on the other. The power of actor, Party A, over the other actor, Party B, formally, is defined as the
+inverse of Party BСs dependence on Party A. Dependence may arise from the need for resources, organizational size, and
 bargaining alternatives. Emerson (1962) clarified that power is not isolated to an individual or group but as a relationship of
 one actor over another. Given the relative nature of power, it is important to consider who controls the resource in question
 
@@ -413,17 +413,17 @@ Blau (1964): Social exchange theory was initially conceptualized through the len
 explain social exchange. Although, he conceived of behavior in terms of costs and rewards, Blau maintained that behavior
 was determined by the rewards or costs the individual anticipates they will receive in the future rather than the rewards
 they received in the past, which is the opposite of behaviorism. Blau (1964) also contributed to the theory by establishing a link between micro-level behaviors and macro-level phenomena.® Blau and Scott (1962) saw the firm interacting in a
-context of an external environment consisting of an “organizational set”. Lastly, Blau (1964) defined power as “the ability
-of persons or groups to impose their will on others despite resistance through deterrence” (p. 117). Blau (1964) also notes
+context of an external environment consisting of an “organizational setФ. Lastly, Blau (1964) defined power as “the ability
+of persons or groups to impose their will on others despite resistance through deterrenceФ (p. 117). Blau (1964) also notes
 that relationships may exhibit equilibrium in one instance and yet face disequilibrium in others, For example, a supplier
 firm might control access to a key input needed to the buying firm, exerting power over the buying firm. However, the
 buying firm might be able to anticipate changes in the downstream market more quickly than the supplier firm, negating
-the supplier firm’s influence and control in the long-term. Thus, both the stability and instability of power become key areas
+the supplier firmСs influence and control in the long-term. Thus, both the stability and instability of power become key areas
 of interest to social exchange theories.
 
 Pfeffer and Salancik (1978): Social exchange theory evolved the study organizational conflict through resource dependency theory developed by Pfeffer and Salancik (1978). Drawing on social exchange theory assumptions, resource dependence seeks to understand why a firm may act beyond economic efficiency considerations. Firms manage the costs and
 benefits of their relationships in a give-and-take (Scott and Davis, 2003). Resource dependence identifies three important
-considerations. First, building on Blau and Scott's (1962) idea of the “organizational set,” Pfeffer and Salancik (1978) observe
+considerations. First, building on Blau and Scott's (1962) idea of the “organizational set,Ф Pfeffer and Salancik (1978) observe
 there is a social context in which organizations are responding to actions taken by other organizations. Organizations are
 not independently making decisions in isolation from each other. Second, organizations may draw on a much wider set of
 strategies to alleviate constraints in their environment beyond a binary market versus acquisition governance choices. Firms
@@ -431,34 +431,34 @@ invoke several social strategies such as using their board of directors, industr
 their need for autonomy. Third, drawing on Emerson (1962) an organization becomes effective and unconstrained by seeking
 power, rather than efficiency, to manage their external relationships. Scott and Davis (2003, p. 234) summarize the goal of
 the resource dependency approach as “organizations should choose the least constraining approach to coordinate relations
-with other organizations and to reduce the dependence that their exchanges create.”
+with other organizations and to reduce the dependence that their exchanges create.Ф
 
 2.5. Transaction cost economics
 
 Transaction cost economics has been broadly applied to study alliance relationships. Lumineau et al. (2015) noted that
 the central concept of opportunism in transaction cost theory comports well as a model understanding conflict among
-organizational groups due to its “emphasis on self-interest seeking with guile” (Williamson, 1985, p. 6, 47}. Specifically,
+organizational groups due to its “emphasis on self-interest seeking with guileФ (Williamson, 1985, p. 6, 47}. Specifically,
 without such noisy bargaining tactics, parties would coordinate on the open market efficiently, leaving costlier forms of
 governance such as joint ventures and acquisitions as less desirable forms of organizing. Early theorizing by Commons (1932,
 p. 4) also raised the link between conflict and transactions by suggesting that the unit of analysis, the transaction, exhibits
-three conditions ‘mutuality, conflict and order’, Williamson (2000, p. 599) notes the role of designing efficient forms of
-governance mechanisms are to “craft order, thereby to mitigate conflict and realize mutual gains.” Conflict would be largely
+three conditions Лmutuality, conflict and orderС, Williamson (2000, p. 599) notes the role of designing efficient forms of
+governance mechanisms are to “craft order, thereby to mitigate conflict and realize mutual gains.Ф Conflict would be largely
 viewed negatively in transaction cost economics due to the increased costs of governance required to mitigate risks of
 opportunism, However, management scholars integrate transaction cost approaches with other theories which might yield
 positive outcomes for firms through contracting capabilities (Argyres, 1996) as well as integrating trust into governance
 decisions (Poppo and Zenger, 2002).
 
-Coase (1937): Coase’s (1937) theorizing sought to answer the question of the nature of the firm. In a comparative assessment between the firm and the market he asked, ‘why would firms exist?’ He defined a firm as “the system of specialized
-relationships which comes into existence when the direction of resources is dependent on an entrepreneur” (p. 393). Such a
+Coase (1937): CoaseСs (1937) theorizing sought to answer the question of the nature of the firm. In a comparative assessment between the firm and the market he asked, Лwhy would firms exist?С He defined a firm as “the system of specialized
+relationships which comes into existence when the direction of resources is dependent on an entrepreneurФ (p. 393). Such a
 definition brought forth a relative comparison between the actions of the entrepreneur organizing within the boundaries of
 the firm versus the price available in the market. Specifically, Coase highlighted that under certain conditions transactions
 may be more efficiently carried out by the firm than the market. He identified that bargaining in the market might be costly
 due to uncertainty with writing contracts which may involve third-parties such as lawyers as well as time taken to negotiate
 (Scott and Davis, 2003).
 
-Williamson (1975): Williamson’s (1975) work on transaction cost economics is widely credited with giving the theory
-empirical traction. Building on Coase’s (1937) comparison between market and hierarchy efficiencies, Williamson (1981,
-p. 552) defines a transaction as an instance “when a good or service is transferred across a technologically separable interface.” This allowed for a study of contracts, or verbal agreements, between actors, such as two organizations’ respective boundary spanners, for the exchange of goods or services (Scott and Davis, 2003). The costs of arranging contracts,
+Williamson (1975): WilliamsonСs (1975) work on transaction cost economics is widely credited with giving the theory
+empirical traction. Building on CoaseСs (1937) comparison between market and hierarchy efficiencies, Williamson (1981,
+p. 552) defines a transaction as an instance “when a good or service is transferred across a technologically separable interface.Ф This allowed for a study of contracts, or verbal agreements, between actors, such as two organizationsС respective boundary spanners, for the exchange of goods or services (Scott and Davis, 2003). The costs of arranging contracts,
 such as planning and revising the agreement as well as overseeing the task through completion are known as transaction
 
 § The reader may find of interest work utilizing the social exchange model to understand intragroup in the context of organizational justice, workplace
@@ -467,7 +467,7 @@ politics, incivility, and abusive supervision (e.g. Cropanzano and Mitchell, 200
 
 932 MW. McCarter et al. /fournal of Economic Behavior and Organization 178 (2020) 925-946
 
-costs. Williamson (1975) further identified three conditions under which small numbers bargaining might arise increasing the costs for a transaction to take place in the market. First, Williamson, building on Coase’s notion of uncertainty as
+costs. Williamson (1975) further identified three conditions under which small numbers bargaining might arise increasing the costs for a transaction to take place in the market. First, Williamson, building on CoaseСs notion of uncertainty as
 well as incorporating ideas of bounded rationality (Simon, 1982), identified opportunism as a source of conflict in exchange
 (Williamson, 1975, 1985). This concern over behavioral uncertainty limits the extent to which exchange partners can identify
 all possible contingencies from the exchange. Second, Williamson identified the frequency of exchange, as the more often
@@ -483,28 +483,28 @@ models reviewed above. Because some topics straddle multiple domains in addition
 
 3.1. Trends using the diversity-conflict model
 
-Since Jehn’s seminal papers on conflict, management scholars have examined how the negative conflict dimensions - relational and process conflict - can be mitigated to improve team performance. The trend begins with Greer et al. (2011) field
+Since JehnСs seminal papers on conflict, management scholars have examined how the negative conflict dimensions - relational and process conflict - can be mitigated to improve team performance. The trend begins with Greer et al. (2011) field
 study of sales teams in the Dutch telecommunications industry. Greer et al. (2011) maintain that teams with high power
 or influence in an organization will encourage its teammates to seek more power and to maintain the power they have,
 competing with other power-hungry teammates, Consequently, teams in high power will experience more inter-personal
 conflict and sub-par performance compared to those teams in low power. They found evidence for relational and process
 conflict mediating the relationship between team power and performance. Further, the study went on to find that power
-congruence, teammate perceptions of each other’s power within the team, dampens the impact team power has on team
+congruence, teammate perceptions of each otherСs power within the team, dampens the impact team power has on team
 conflict. They found that process conflict was present in high power teams only when power congruence was low. In other
 words, managers can capitalize on powerful individuals working together in organizations if they align perceptions of the
 pecking order among powerful teammates.
 
-A second contribution is Nishii’s (2013) field study of workers in a biomedical firm. Nishii (2013) examines ways to
-reduce relational and task conflict in gender diverse teams through a climate of inclusion. Climate of inclusion is an individual’s perception that the team possesses fair procedures and distribution rules for rewards; an environment that embraces differences and ways to resolve them; and a system that involves teammates in the team decision-making process.
+A second contribution is NishiiСs (2013) field study of workers in a biomedical firm. Nishii (2013) examines ways to
+reduce relational and task conflict in gender diverse teams through a climate of inclusion. Climate of inclusion is an individualСs perception that the team possesses fair procedures and distribution rules for rewards; an environment that embraces differences and ways to resolve them; and a system that involves teammates in the team decision-making process.
 Nishii (2013) found that the negative effect of social categorical diversity on relational diversity and subsequent team performance was dampened when climate of inclusion was high compared to when it was low. A key insight here is that
-managers can reduce the devastating effects of relational conflict on teams - not by encouraging homophily at the team’s
+managers can reduce the devastating effects of relational conflict on teams - not by encouraging homophily at the teamСs
 design - but by changing how current teammates perceive each other.
 
 Another avenue of interest is how the leader perceives the team and their diversity. Tepper et al. (2011) field study of
 supervisor-subordinate relations in hospitals examined the roles of perceived deep-level diversity in values and ways of approaching problems between the supervisor and subordinate, relational conflict, and work performance on perceived abusive
 behavior from supervisors. They found that relational conflict mediated the positive relationship between the supervisor's
-perceived deep-level diversity and the subordinate’s perception of being abused by the supervisor; however, this was only
-the case when the subordinate’s performance was low. In other words, the Tepper et al. (2011) paper suggests that supervisors justify their ill treatment of subordinates who are different from them primarily when they perceive the subordinates
+perceived deep-level diversity and the subordinateСs perception of being abused by the supervisor; however, this was only
+the case when the subordinateСs performance was low. In other words, the Tepper et al. (2011) paper suggests that supervisors justify their ill treatment of subordinates who are different from them primarily when they perceive the subordinates
 as poor performers.
 
 Further, Klein et al. (2011) field study of volunteer humanitarian service teams in the USA investigated how leader behaviors impacted the relationship between team value diversity and team effectiveness - with team conflict as the mechanism.
@@ -512,20 +512,20 @@ The authors examined whether different leadership types - i.e. task-oriented and
 Leadership moderates the relationship between team diversity and performance through team conflict, but it depends on
 the type of diversity and leadership approach. Leaders whose behaviors are heavily task-oriented could reduce team conflict
 where there was high work-ethic diversity. Further, leaders whose behaviors are heavily person-oriented could reduce team
-conflict in morally diverse teams. In either case, the leadership style’s reduction of team conflict enabled diverse teams to
+conflict in morally diverse teams. In either case, the leadership styleСs reduction of team conflict enabled diverse teams to
 perform better compared to when leaders exhibit little attention to the task or the workers.
 
 Lount et al. (2015) investigated whether a leader's perceptions of categorical diversity in teams impacts their willingness
 to provide requested resources to assist them in their tasks, The experiments report that leaders perceive more relationship
 conflict in a racially diverse team compared to a homogeneous one, and the increased perception of relationship conflict
-affects the leaders’ generosity in supplying resources. Lount et al. (2015) complements the other papers by shifting the
+affects the leadersС generosity in supplying resources. Lount et al. (2015) complements the other papers by shifting the
 focus of inter-personal prejudice from the team to those looking from outside.
 
 
 M.W. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946 933
 
 A new source of conflict in teams has generated a new conversation among management scholars: status conflict.
-Bendersky and Hays’ (2012) study of MBA students introduce status conflict and examine its effect on team performance.
+Bendersky and HaysС (2012) study of MBA students introduce status conflict and examine its effect on team performance.
 Status conflict occurs there are disagreements among teammates over their relative amount of respect received in the team's
 social hierarchy. Bendersky and Hays (2012) provide several insights to the conversation about the diversity-conflict model.
 First, status conflict negatively affects team performance by discouraging information sharing among teammates. Also, team
@@ -547,17 +547,17 @@ The behavioral negotiation model separates negotiation influences into negotiato
 Biases: A substantial body of work in negotiations has looked at the role of cognition and biases in the negotiation process. Such biases included anchoring (Northcraft and Neale, 1987) and over-confidence (Neale and Bazerman, 1983). While
 early research was focused on cognition (e.g. Bazerman and Neale, 1992), later research focused on motivational biases.
 Egocentrism is a particularly pervasive bias in negotiation that leads negotiators to view themselves as entitled to more
-resources than their counterpart (Loewenstein et al., 1989). Egocentrism is especially pronounced when power is asymmetric (Wade-Benzoni et al., 1996) and this effect generalizes across cultures (Wade-Benzoni et al., 2002a) and generations (Wade-Benzoni et al., 2008). Further, egocentrism can skew people's expectations of others’ behaviors in negotiations
+resources than their counterpart (Loewenstein et al., 1989). Egocentrism is especially pronounced when power is asymmetric (Wade-Benzoni et al., 1996) and this effect generalizes across cultures (Wade-Benzoni et al., 2002a) and generations (Wade-Benzoni et al., 2008). Further, egocentrism can skew people's expectations of othersС behaviors in negotiations
 (Tenbrunsel, 1998). Consistent with this finding, in a recent series of experiments, Chambers and De Dreu (2014) showed
-strong evidence for the occurrence of egocentric misperception of the other side’s priorities and interests. The studies
-showed that participants judged their own interests to be more important than their opponent's, regardless of the opponent’s interest. They found that perceptions of the opponent's interests were often more closely related to one’s own
+strong evidence for the occurrence of egocentric misperception of the other sideСs priorities and interests. The studies
+showed that participants judged their own interests to be more important than their opponent's, regardless of the opponentСs interest. They found that perceptions of the opponent's interests were often more closely related to oneСs own
 interests than to the opponent's actual interests.
 
 Emotions: Seminal research by Carnevale and Isen (1986) introduced emotion into negotiation research by showing that
 negotiators experiencing positive affect were more cooperative and reached higher joint gains as opposed to a control group.
 More recent scholarship has turned their attention to studying the benefits and burdens of negative emotions. The expression of negative emotions - e.g. anger - in negotiations is found to produce lower joint gains (Antos et al., 2011), covert
 retaliation (Wang et al., 2012), and reduced trust (Cété et al., 2013). Van Kleef et al. (2010) introduced a model called Emotion as Social Information that predicts when anger and other negative emotions will lead to concessions and when they
-will not. Specifically, when anger provides information about a negotiator’s own higher limits, anger motivates the counterparty to make concessions (Van Kleef, et al., 2010; Sinaceur et al., 2011), Subsequent research has shown how the model is
+will not. Specifically, when anger provides information about a negotiatorСs own higher limits, anger motivates the counterparty to make concessions (Van Kleef, et al., 2010; Sinaceur et al., 2011), Subsequent research has shown how the model is
 contingent on other characteristics of the situation such as culture (Adam and Shirako, 2013; Adam et al., 2010), whether
 the anger is viewed as authentic (Tng and Au, 2014), and the competitiveness of the negotiation (Adam and Brett, 2015).
 
@@ -601,13 +601,13 @@ between same-sex, attractive opponents.
 3.2.2. Contextual characteristics
 
 Power: In negotiation, power is primarily determined by one's ability to induce the other party to settle for an outcome
-less than her maximum utility (Greenhalgh et al., 1985) and the strength of one’s best alternative to a negotiated agreement
-relative to one’s opponent (Pinkley et al., 1994). Best alternatives have been found to have several effects on negotiators.
+less than her maximum utility (Greenhalgh et al., 1985) and the strength of oneСs best alternative to a negotiated agreement
+relative to oneСs opponent (Pinkley et al., 1994). Best alternatives have been found to have several effects on negotiators.
 For example, negotiators with better alternatives set higher goals (Pinkley, 1995), behave more agentically (Galinsky et al.,
 2003), and are more likely to use threats (Lawler, 1992).
 
 Power associated with social status, the esteem and respect conferred by others, has its own set of effects on negotiation.
-For example, high status parties may treat others in more procedurally just ways, such as listening to their counterparts’ concerns and opinions, but only when the high-status parties also have a weaker alternative (Blader and Chen, 2012). Wolfe and
+For example, high status parties may treat others in more procedurally just ways, such as listening to their counterpartsС concerns and opinions, but only when the high-status parties also have a weaker alternative (Blader and Chen, 2012). Wolfe and
 McGinn (2005) demonstrated that objective power and perceived relative power have different effects on negotiation outcomes, They found that objective power drives individual payoffs, while perceived relative power exerts a strong effect on
 joint outcomes. Specifically, as perceived equality increases the potential for integration in the negotiation increases.
 
@@ -630,15 +630,15 @@ neither hurt nor hindered negotiation quality. When noncooperation was dominant,
 
 Time: Time plays a role in negotiation processes and outcomes in several ways. First, outcome delays - occurring when
 parties negotiate about future outcomes - moderate preferences and expectations. Research shows that outcome delays increase the efficiency reaching agreements due to perceptions of less contentious and aggressive opponents (Okhuysen et al.,
-2003). Time pressures have also been found to affect negotiators’ perceptions and abilities to reach efficient outcomes.
+2003). Time pressures have also been found to affect negotiatorsС perceptions and abilities to reach efficient outcomes.
 Agreements tend to favor the negotiator with less time pressure (Moore, 2004a) but informing the other party about a
 deadline can lead them to make concessions faster (Moore, 2004b). In addition, De Dreu (2003) found that time pressure
-reduces negotiators’ motivation to process information systematically, produces a greater reliance on cognitive heuristics,
+reduces negotiatorsС motivation to process information systematically, produces a greater reliance on cognitive heuristics,
 and leads to less integrative agreements.
 
 3.3. Trends using social dilemma models
 
-In the most recent review and analysis of social dilemmas in the organizational literature, Van Lange et al. (2013) conclude that the study of social dilemmas is “alive and kicking.” The review looks at different types of social dilemmas, recent
+In the most recent review and analysis of social dilemmas in the organizational literature, Van Lange et al. (2013) conclude that the study of social dilemmas is “alive and kicking.Ф The review looks at different types of social dilemmas, recent
 developments in the field, and makes suggestions for future studies. Topics include theoretical frameworks (interdependence,
 appropriateness, evolutionary), developments in structural, psychological and dynamic influences, and prospects for future
 social dilemmas, They suggest that moving forward scholars could explore further the role of emotions, construal processes,
@@ -649,7 +649,7 @@ MW. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925
 
 3.3.1. Structural influences
 
-De Cremer et al. (2012) discuss the integration between procedural justice, sanctioning systems, and public good dilemmas, Because there is little or no incentive for voluntary provisions in public goods dilemmas, it is in everyone’s benefit to
+De Cremer et al. (2012) discuss the integration between procedural justice, sanctioning systems, and public good dilemmas, Because there is little or no incentive for voluntary provisions in public goods dilemmas, it is in everyoneСs benefit to
 take advantage of them without contributing to their production. They found that the procedural justice of the sanction had
 greater influence when the group failed early in the game and the group members exhibited high group identification. If
 the group members did not identify with the group, the procedural justice of the sanction only influenced contributions if
@@ -659,7 +659,7 @@ Kugler and Bornstein (2013) investigate the role of conflict structure in social
 groups and an individual, such as a confrontation between an employer and group of workers, involve asymmetric and complex interactions, In computer-controlled experiments, individuals and non-cooperative groups interacted in social dilemmas
 games. This asymmetric competition was compared to symmetric control conditions in which both competitors were either
 individuals or groups. Results showed that individuals generally did better than non-cooperative groups, regardless of conflict type. In symmetric conditions, individuals showed more cooperation with other individuals as compared to cooperation
-between groups. In asymmetric conditions, individuals took advantage of the group’s difficulties and dominated.
+between groups. In asymmetric conditions, individuals took advantage of the groupСs difficulties and dominated.
 
 3.3.2. Psychological influences
 
@@ -674,8 +674,8 @@ expectations of the partner's behavior and a player's own behavior. This showed 
 human pro-sociality affected their own pro-social behavior.
 
 Social value orientation has also been found to be related to cooperative behaviors in social dilemmas. Fiedler et al.
-(2013) considered the underlying processes of this relationship. Decision time, number of fixations, the proportion of inspected information, the degree of attention toward the others’ payoffs and the number of transitions from and toward
-others’ payoffs increased with social value orientation deviation from a pure selfish orientation. Information search seems
+(2013) considered the underlying processes of this relationship. Decision time, number of fixations, the proportion of inspected information, the degree of attention toward the othersС payoffs and the number of transitions from and toward
+othersС payoffs increased with social value orientation deviation from a pure selfish orientation. Information search seems
 to underlie the relationship between social value orientation and cooperation.
 
 3.3.3. Intergenerational dilemmas
@@ -685,7 +685,7 @@ may create a conflict of interest between the present and future generations as 
 forego the consumption of desirable resources to maintain sustainable levels for the future. Economists have examined how
 to balance the interests of present and future generations such that efficiency is optimized (e.g., Kotlikoff, 1995; Portney and
 Weyant, 1999), In contrast to this normative approach, a burgeoning body of scholarship in teams of management scholars
-and social psychologists focus on identifying the psychological factors that affect intergenerational decisions (see WadeBenzoni and Tost, 2009, for a review). Most of this work centers on “intergenerational dilemmas,” defined as decisions in
+and social psychologists focus on identifying the psychological factors that affect intergenerational decisions (see WadeBenzoni and Tost, 2009, for a review). Most of this work centers on “intergenerational dilemmas,Ф defined as decisions in
 which the interests of present decision makers conflict with the interests of future others.
 
 An imperative in the study of intergenerational dilemmas has been to identify factors that influence the extent to which
@@ -698,7 +698,7 @@ interpersonal distance between decisions and outcomes (Wade-Benzoni, 2003; 2008)
 Subsequent empirical work on resource dependence models, building on social exchange theory, sought to understand
 bridging mechanisms (Thompson, 1967) which allow organizations to manage their constraints with other organizations.
 Pfeffer and Salancik (1978, p. 114) maintain that organizations use bridging mechanisms to “accomplish a restructuring of
-the organization's interdependencies, rather than for reasons of profitability or efficiency.” The earliest empirical work citing
+the organization's interdependencies, rather than for reasons of profitability or efficiency.Ф The earliest empirical work citing
 resource dependency identifying bridging mechanisms was carried out by Pfeffer and his colleagues (Pfeffer, 1972a, 1972b,
 1973; Pfeffer and Nowak, 1976; Salancik and Pfeffer, 1980).
 
@@ -747,11 +747,11 @@ alliance termination rates also remain similarly high at 50-70%, with these esti
 between changes in the external environment and alliance termination. Given the preponderance of alliance termination
 rates, Faems et al. (2008) extended prior work on alliance terminations to consider how alliance partners may use a failing
 relationship to successfully execute another alliance in tandem. Their case study of subsequent ink-jet printer R&D alliances
-between the same partners suggests that restructuring a prior alliance may be an alternate recourse for a firms’ adjusting
+between the same partners suggests that restructuring a prior alliance may be an alternate recourse for a firmsС adjusting
 to their external environment. Moreover, Mellewigt et al. (2017) reveal that - after an alliance has been terminated - the
 recurrence of the same partnership as another alliance or acquisition is impacted by the characteristics of the prior alliance.
 The characteristics which influence the likelihood of a subsequent alliance are partner-specific: trust, routines, and the focal
-firm’s understanding of the target firm's assets. Thus, knowledge gained about a former partner in a prior transaction may
+firmСs understanding of the target firm's assets. Thus, knowledge gained about a former partner in a prior transaction may
 be beneficial in subsequent relationships with the same partner.
 
 3.5. Trends using the transaction cost economics model
@@ -780,20 +780,20 @@ external environment (Osborn and Baughn, 1990) and institutional theory (Hughes 
 The role of opportunism played a role in transaction cost economics since its conceptualization. Many transaction hazards
 are exacerbated by an absence of trust due to the threat of opportunism. Specifically, Williamson (1993) argues in favor
 of calculative trust where actors are better served by guarding themselves against opportunism. This contrasts with other
-scholars’ view of trust as a willingness to be vulnerable to the other party (Zaheer et al., 1998), by entering an exchange with
+scholarsС view of trust as a willingness to be vulnerable to the other party (Zaheer et al., 1998), by entering an exchange with
 positive expectations (McCarter and Northcraft, 2007). Contracts moderate the trust-conflict relationship (e.g. Poppo and
-Zenger, 2002) by clarifying partners’ expectations and detail conflict resolution mechanisms. Where trust may be relatively
-weak initially, contracts may facilitate partners’ beliefs about trust in the other by enhancing transparency. Likewise, stronger
+Zenger, 2002) by clarifying partnersС expectations and detail conflict resolution mechanisms. Where trust may be relatively
+weak initially, contracts may facilitate partnersС beliefs about trust in the other by enhancing transparency. Likewise, stronger
 forms of trust may lessen the need for costlier forms of alliance relationships such as equity based arrangements that create
 mutual hostages which safeguard against conflict (Gulati and Nickerson, 2008), Recently, Lumineau and colleagues (Guo
 et al., 2017; Lumineau, 2017) argue that trust and distrust can co-exist simultaneously.
 
 3.5.2. Unpacking uncertainty
 
-The recent work of Weber and her co-authors develop transaction cost theorizing by focusing on the psychological elements of the exchange relationship surrounding uncertainty. Weber and Mayer (2014) introduced cognitive frames by theorizing about conflict due to uncertainty. They define uncertainty as any “unanticipated changes in circumstances surrounding an exchange” (Noordewier et al., 1990, p. 82). Traditionally, scholars have focused on how uncertainty in the external
+The recent work of Weber and her co-authors develop transaction cost theorizing by focusing on the psychological elements of the exchange relationship surrounding uncertainty. Weber and Mayer (2014) introduced cognitive frames by theorizing about conflict due to uncertainty. They define uncertainty as any “unanticipated changes in circumstances surrounding an exchangeФ (Noordewier et al., 1990, p. 82). Traditionally, scholars have focused on how uncertainty in the external
 environment increases transaction costs due to opportunism (Williamson, 1975) and information overload (Simon, 1957).
 Weber and Mayer (2014) expanded the theory that transaction costs and conflict arise from differing interpretations of the
-environment due to each party’s unique cognitive frames. In other words, they posit that if the parties involved have conflicting cognitive frames their interpretation of the unanticipated event will differ leading to divergent opinions of how to
+environment due to each partyСs unique cognitive frames. In other words, they posit that if the parties involved have conflicting cognitive frames their interpretation of the unanticipated event will differ leading to divergent opinions of how to
 respond to the event leading to conflict. Moreover, they argue that efficient governing mechanisms are those that facilitate congruent cognitive frames. Foss and Weber (2016) draw from the bounded rationality literature addressed a common
 critique of transaction cost economics: it fails to explain when hierarchies collapse or differ in efficiency.
 
@@ -809,7 +809,7 @@ parties occupy across the value chain.
 
 4, Future directions for conflict research in management
 
-Harnessing conflict’s advantages and navigating its burdens continues to be the focal interest of management scholars.
+Harnessing conflictСs advantages and navigating its burdens continues to be the focal interest of management scholars.
 In the current section, we summarize what we believe to be the important future research directions for each area of
 management research utilizing the six reviewed models of conflict.
 
@@ -820,21 +820,21 @@ among diversity, conflict types, and team performance (see De Dreu and Weingart,
 avenue with little traffic is to determine the model's practical significance. Most scholars on the diversity-conflict model ask
 Is there an effect between a diversity and team performance as mediated by conflict? The next question is to ask How much of an
 effect is there? In knowing the size of the science behind the diversity-conflict model will give us the model's “organizational
-significance” (Shaver, 2008). Surprisingly, our review of the diversity-conflict finds little examination of magnitude - at least
+significanceФ (Shaver, 2008). Surprisingly, our review of the diversity-conflict finds little examination of magnitude - at least
 when it comes to quantifiable outcomes. The neglect of putting size to the science is a lack of confidence in the model's
 
 
 938 MW. McCarter et al. /fournal of Economic Behavior and Organization 178 (2020) 925-946
 
 practical power (McCloskey and Ziliak, 1996). It is one thing for the diversity-conflict theorist to say to an executive “you can
-capitalize on the differences in teams through behavioral leadership training that reduces team conflict,” and it is another
+capitalize on the differences in teams through behavioral leadership training that reduces team conflict,Ф and it is another
 more meaningful thing to say, “Typically managers who are trained in how to be consistent in how they respectfully instruct
-and encourage their teams will see 20% fewer sick days and an 15% increase in sales from employees.” While there are
-multiple ways to assess a theory’s practical size, McCloskey and Ziliak’s (1996) assessment approach may be a good starting
+and encourage their teams will see 20% fewer sick days and an 15% increase in sales from employees.Ф While there are
+multiple ways to assess a theoryСs practical size, McCloskey and ZiliakСs (1996) assessment approach may be a good starting
 point.
 
-Another field ripe for picking involves finding strategies that encourage wanted conflict while not simultaneously encouraging unwanted conflict. For instance, encouraging a devil’s advocacy strategy in a team increases task conflict but
-it can also simultaneously increase relational conflict (Cosier and Rose, 1977). Carton and Tewfik’s (2016) recent review
+Another field ripe for picking involves finding strategies that encourage wanted conflict while not simultaneously encouraging unwanted conflict. For instance, encouraging a devilСs advocacy strategy in a team increases task conflict but
+it can also simultaneously increase relational conflict (Cosier and Rose, 1977). Carton and TewfikСs (2016) recent review
 of conflict strategies proposes that strategies used in isolation may do more harm than good. Rather, combinations of
 strategies are submitted by Carton and Tewfik (2016) to be more effective in successfully navigating diversity-stemmed
 conflict. Future scholarship may produce findings of high theoretical and practical significance by testing the arguments
@@ -850,8 +850,8 @@ Two areas have seen increasing development pertaining to the behavioral negotiat
 or ideologically or value-based issues play out differently than negotiations dealing with more traditional material interests
 (Harinck and De Dreu, 2004; Tenbrunsel et al., 2009; Wade-Benzoni et al., 2002b), When an issue involves a closely held
 value, people are less likely to be willing to make tradeoffs on that issue in exchange for something else. Naturally, this
-can interfere with the essential “logrolling” aspect of integrative negotiations. Research has revealed that opposing sides
-in ideological conflicts tend to exaggerate their opponents’ extremism (Keltner and Robinson, 1993; Robinson et al., 1995;
+can interfere with the essential “logrollingФ aspect of integrative negotiations. Research has revealed that opposing sides
+in ideological conflicts tend to exaggerate their opponentsС extremism (Keltner and Robinson, 1993; Robinson et al., 1995;
 Robinson and Kray, 2001). Sacred issues in negotiations tend to increase the likelihood of impasse, reduce the profitability of outcomes, and produce more negative perceptions of opponents - particularly when negotiators have a strong best
 alternative to a negotiated agreement (Tenbrunsel et al., 2009). More recently, Bendersky (2014) proposed a way to solve
 ideological conflict: affirming an opponent's status may help reduce defensiveness and resistance to compromising in ideological conflicts. In a study by Tuller et al. (2015), participants were asked to write about a controversial issue from the
@@ -880,7 +880,7 @@ soon, individuals may discount the future payoffs and the interest of others and
 
 The prospective of future interactions also involves possible encounters with others in the same network. Reputation
 matters in the interconnected society and discourages individuals from engaging in socially undesirable behavior. Knowing
-that today’s selfish or cooperative action may trigger a negative or positive feedback loop in future conflicts can encourage
+that todayСs selfish or cooperative action may trigger a negative or positive feedback loop in future conflicts can encourage
 individuals to contemplate their long-term reputations (McCarter et al., 2011b). A non-cooperative reputation can eventually
 lead to ostracism (Kerr et al., 2009). On a more psychological level, people are in fact aware of this effect of transparency and
 
@@ -889,9 +889,9 @@ M.W. McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 92
 
 more likely to cooperate with subtle signals of being watched by others (Bateson et al., 2006), Understanding such a reputational mechanism will also be informative in social dilemmas in larger settings, in which uncertainty and anonymity are
 the major obstacles to cooperation. For example, Weber and Murnighan (2008) find that a consistent contributor in social
-dilemmas creates cooperative perceptions of social norms, which facilitates fellow members’ cooperation. In this case, while
+dilemmas creates cooperative perceptions of social norms, which facilitates fellow membersС cooperation. In this case, while
 the emergence of contributors may underlie the role of individual difference factors, efforts to increase structural transparency and reputational effects are crucial to support and facilitate their positive influences on other members, Therefore,
-the lessons derived from understanding one’s perspective on relationships through time or across partners will be worthy
+the lessons derived from understanding oneСs perspective on relationships through time or across partners will be worthy
 of future investigation, providing prescriptive advice regarding paths to cooperation.
 
 4.4. The future of social exchange models
@@ -917,7 +917,7 @@ of these conflict types, the offending firm may have a divergent perception of w
 in pursuit of greater efficiency, the offending firm may utilize more resources than the other party perceives as appropriate
 and unintentionally cause conflict within the relationship. To that end, we add that the long-term impact on value creation
 versus the share of value captured by the partners (e.g. Elfenbein and Zenger, 2017), may be a promising avenue to pursue
-to understand each party’s costs and motivations in maintaining governance structures despite the presence of conflict.
+to understand each partyСs costs and motivations in maintaining governance structures despite the presence of conflict.
 
 5. An integration of intragroup conflict models
 
@@ -938,10 +938,10 @@ safeguards, thereby increasing use of costlier forms of organizing in alliance r
 A key difference rests in what these models say about positive outcomes from conflict. Diversity-conflict and behavioral
 negotiation models both predict that the work team or negotiating parties will be better off when conflict exists under
 certain conditions; e.g. moderate levels of task conflict and competing preferences where there are different values. Social dilemma and transaction cost models see intragroup conflict as primarily a negative event that can only be mitigated
-through structural or motivation solutions,’ Social exchange models suggest that firms can establish more independence by
+through structural or motivation solutions,С Social exchange models suggest that firms can establish more independence by
 using conflict to lessen their dependence on resources from other firms.
 
-7 The reader may find of interest Gary Bornstein’s work on increasing cooperation within groups by increasing conflict between them (e.g. Bornstein and
+7 The reader may find of interest Gary BornsteinСs work on increasing cooperation within groups by increasing conflict between them (e.g. Bornstein and
 Ben-Yossef, 1994; Bornstein et al., 1990}. These experiments are not reviewed in the current paper because they examine conflict between groups and not
 within them,
 
@@ -986,7 +986,7 @@ conflict as one-dimensional - leading to either a positive or negative outcome.�
 5.2, How conflict is conceptualized
 
 The volume of conflict research in management studies brings with it different views about intragroup conflict. Consequently, the models reviewed here define intragroup conflict differently. Transaction cost economics define intragroup
-conflict as “a destructive process, creating negative reactions” (White et al., 2007). Social dilemma models view conflict as
+conflict as “a destructive process, creating negative reactionsФ (White et al., 2007). Social dilemma models view conflict as
 a tension between individual and group interests, where an individual cannot do something to benefit themselves without
 harming the group (Kollock, 1998). Taken together, transaction cost economics and social dilemma models view intragroup
 conflict as always resulting in a negative outcome that should be either navigated or discouraged.
@@ -997,11 +997,11 @@ dimensions as task conflict being something to encourage and relational conflict
 1999). Behavioral negotiation models also view conflict as being a good thing or a bad thing depending on what issues
 the negotiators value, how much those issues are valued, and what information is shared among negotiating parties. The
 information exchange process helps both sides better understand each other's interests and thus make possible tradeoffs
-among integrative issues, thereby meeting all parties’ interests (Lewicki et al., 2010). Social exchange models suggest that,
+among integrative issues, thereby meeting all partiesС interests (Lewicki et al., 2010). Social exchange models suggest that,
 as firms continue to work together and resolve conflicts, they will begin to establish strong relational norms, trust, and
 commitment (Lumineau et al., 2015; Malhotra and Lumineau, 2011). Consequently, they will rely less on formal and costly
 governance mechanisms (e.g. contracts) to settle conflict as time passes (Gulati and Nickerson, 2008). The differences in the
-models’ definitions of conflict leave us with our broad definition of intragroup conflict that we began with in the current
+modelsС definitions of conflict leave us with our broad definition of intragroup conflict that we began with in the current
 review.
 
 8 Social dilemma models distinguish between opportunistic and defensive conflict or defection (e.g, McCarter et al., 2010; McCarter et al., 2011b; Rockmann and Northcraft, 2008). However, the multidimensionality of conflict here is between why a person chooses a course of action that harms the collective
@@ -1067,7 +1067,7 @@ Social exchange and transaction cost models both have been approached using mixe
 have turned their attention towards testing social exchange theory in the behavioral laboratory (e.g. Galinsky et al., 2015) but
 less so at an interorganizational level as much interorganizational research has been tested through survey and archival data.
 Thus, scholars have examined the direct application of social exchange models while also recently wanting higher control
-when testing the models’ relationships. In contrast, more recent laboratory-based studies of transaction cost economics
+when testing the modelsС relationships. In contrast, more recent laboratory-based studies of transaction cost economics
 complement years of field studies that examine the applicability of the models (e.g. Harmon et al., 2015; for reviews see
 McDowell and Voelker, 2008; Macher and Richmann, 2008).
 
@@ -1089,7 +1089,7 @@ of empirical and theory papers across the five models.
 While each model has been well-used and improved upon, many unanswered, important questions about conflict in and
 among organizations remains. Management scholars who want to make a significant impact in the study of conflict may
 consider problematizing the models or challenging core assumptions of a model while bringing alternative logics and models
-from the literature’s periphery into consideration (Alvesson and Sandberg, 2011). In doing so, management will increase its
+from the literatureСs periphery into consideration (Alvesson and Sandberg, 2011). In doing so, management will increase its
 collective wisdom about conflict. In other words, in knowing what it does not know or what it assumes it knows about
 conflict, management scholars will be better equipped to make order out of the chaos of conflict.
 
@@ -1134,12 +1134,12 @@ Bateson, M., Nettle, D., Roberts, G., 2006. Cues of being watched enhance cooper
 
 Bazerman, M.H., Neale, M.A., 1992. Negotiating Rationally. Free Press, New York, NY.
 
-Bendersky, C., 2014. Resolving ideological conflicts by affirming opponents’ status: The Tea Party, Obamacare and the 2013 government shutdown. J. Exp.
+Bendersky, C., 2014. Resolving ideological conflicts by affirming opponentsС status: The Tea Party, Obamacare and the 2013 government shutdown. J. Exp.
 Soc. Psychol. 53, 163-168.
 
 Bendersky, C., Hays, N.A., 2012. Status conflict in groups. Organ. Sci. 23, 323-340.
 
-Bercovitz, J.E., Tyler, B.B., 2014. Who I am and how I contract: the effect of contractors’ roles on the evolution of contract structure in university-industry
+Bercovitz, J.E., Tyler, B.B., 2014. Who I am and how I contract: the effect of contractorsС roles on the evolution of contract structure in university-industry
 research agreements. Organ. Sci. 25, 1840-1859.
 
 Bowles, H.R., Flynn, F., 2010. Gender and persistence in negotiation: a dyadic perspective. Acad. Manag. J. 53, 769-787.
@@ -1160,7 +1160,7 @@ Brouthers, K.D., Brouthers, LE., 2000. Acquisition or greenfield start-up? Insti
 
 Brown, G., Lawrence, T.B., Robinson, S.L., 2005. Territoriality in organizations. Acad. Manag. Rev. 30, 577-594.
 
-Budescu, D.V., McCarter, M.W., 2012. It’s a game of give and take: modeling behavior in a give-or-take-some social dilemma. Group Process. Intergroup
+Budescu, D.V., McCarter, M.W., 2012. ItСs a game of give and take: modeling behavior in a give-or-take-some social dilemma. Group Process. Intergroup
 Relat. 15, 649-667.
 
 Carnevale, PJ.D., Isen, A.M., 1986. The influence of positive affect and visual access on the discovery of integrative solutions in bilateral negotiation. Organ.
@@ -1190,7 +1190,7 @@ Cropanzano, R., Mitchell, M., 2005. Social exchange theory. J. Manag. 31, 874-90
 
 Cyert, R, March, J., 1963. A Behavioral Theory of the Firm. Prentice-Hall, Englewood Cliffs, NJ.
 
-D’aveni, R.A., Gunther, R., 2010. Hypercompetition. Free Press, New York, NY.
+DСaveni, R.A., Gunther, R., 2010. Hypercompetition. Free Press, New York, NY.
 
 Dalton, D., Kesner, 1, 1983. Insidefoutside succession and organizational size: the pragmatics of executive replacement. Acad. Manag. J. 26, 736-742.
 
@@ -1324,7 +1324,7 @@ Soc. Psychol. 38, 9-22.
 
 King, W.C., Hinson, T.D., 1994. The influence of sex and equity sensitivity on relationship preferences, assessment of opponent, and outcomes in a negotiation experiment. J. Manag. 20, 605-624.
 
-Klein, KJ., Knight, A.P., Ziegert, J.C. Lim, B.C., Saltz, J.L., 2011. When team members’ values differ: The moderating role of team leadership. Organ. Behav.
+Klein, KJ., Knight, A.P., Ziegert, J.C. Lim, B.C., Saltz, J.L., 2011. When team membersС values differ: The moderating role of team leadership. Organ. Behav.
 Hum. Decis. Process. 114, 25-36.
 
 Kollock, P., 1998. Social dilemmas: the anatomy of cooperation. Annu. Rev. Sociol. 24, 183-214.
@@ -1410,7 +1410,7 @@ Mellewigt, T., Thomas, A., Weller, I., Zajac, E., 2017. Alliance or acquisition?
 Messick, D., Brewer, M., 1983. Solving social dilemmas. In: Wheeler, L., Shaver, P. (Eds.). In: Review of Personality and Social Psychology, 4. Sage, Beverly
 Hills, CA, pp. 11-44.
 
-Mitchell, W., Singh, K., 1992. Incumbents’ use of pre-entry alliances before expansion into new technical subfields of an industry. J. Econ. Behav. Organ. 18,
+Mitchell, W., Singh, K., 1992. IncumbentsС use of pre-entry alliances before expansion into new technical subfields of an industry. J. Econ. Behav. Organ. 18,
 347-372.
 
 Moore, D.A., 2004a. Myopic prediction, self-destructive secrecy, and the unexpected benefits of revealing final deadlines in negotiation. Organ. Behav. Hum.
@@ -1501,7 +1501,7 @@ Rizzo, J.R., House, RJ., Lirtzman, $.1, 1970. Role conflict and ambiguity in com
 Robinson, RJ., Kray, LJ., 2001. Status versus quo: Naive realism and the search for social change and perceive legitimacy. In: Jost, J.T, Major, B. (Eds.), The
 Psychology of Legitimacy: Emerging Perspectives on Ideology, Justice, and Intergroup Relations. Cambridge University Press, Cambridge, pp. 135-154.
 
-Robinson, RJ., Keltner, D., Ward, A., Ross, L. 1995. Actual versus assumed differences in construal: ‘Naive realism’ in intergroup perception and conflict. J.
+Robinson, RJ., Keltner, D., Ward, A., Ross, L. 1995. Actual versus assumed differences in construal: ЛNaive realismС in intergroup perception and conflict. J.
 Personal. Soc. Psychol. 68, 404-417.
 
 Rubin, J.Z., Pruitt, D.G., Kim, $.H., 1994. Social conflict: Escalation, stalemate, and settlement. McGraw-Hill, New York, NY.
@@ -1556,7 +1556,7 @@ Sutcliffe, K., Zaheer, A.. 1998. Uncertainty in the transaction environment. Str
 Swaab, RI, Galinsky, A.D., Medvec, V., Diermeier, D.A., 2012. The communication orientation model: Explaining the diverse effects of sight, sound, and
 synchronicity on negotiation and group decision-making outcomes. Personal. Soc. Psychol. Rev. 16, 25-53.
 
-Tannen, D., 1990. You Just Don’t understand: Men and Women in Conversation. Ballantine Books, New York, NY.
+Tannen, D., 1990. You Just DonСt understand: Men and Women in Conversation. Ballantine Books, New York, NY.
 
 Tepper, BJ., Moss, S.E., Duffy, M.K., 2011. Predictors of abusive supervision: supervisor perceptions of deep-level dissimilarity, relationship conflict, and
 subordinate performance. Acad. Manag. J. 54, 279-294.
@@ -1626,7 +1626,7 @@ Wade-Benzoni, K.A., Tost, L-P., 2009. The egoism and altruism of intergeneration
 
 946 MLW, McCarter et al./fournal of Economic Behavior and Organization 178 (2020) 925-946
 
-Wade-Benzoni, K.A., Tost, LP., Hernandez, M., Larrick, R-P., 2012. It’s only a matter of time: death, legacies, and intergenerational decisions. Psychol. Sci. 23,
+Wade-Benzoni, K.A., Tost, LP., Hernandez, M., Larrick, R-P., 2012. ItСs only a matter of time: death, legacies, and intergenerational decisions. Psychol. Sci. 23,
 704-709.
 
 Walton, R., McKersie, R., 1965. A Behavioral Theory of Labor negotiations: An Analysis of a Social Interaction System. Cornell University Press, Ithaca, NY.
@@ -1673,7 +1673,7 @@ preference and expectations of prosociality. Organ. Behav. Hum. Decis. Process. 
 Zaheer, A., McEvily, B., Perrone, V., 1998. Does trust matter? Exploring the effects of inter-organizational and interpersonal trust on performance. Organ.
 Sci. 9, 141-159.
 
-Zellars, KL, Tepper, BJ., Duffy, M.K., 2002. Abusive supervision and subordinates’ organizational citizenship behavior. J. Appl. Psychol. 87, 1068-1076.
+Zellars, KL, Tepper, BJ., Duffy, M.K., 2002. Abusive supervision and subordinatesС organizational citizenship behavior. J. Appl. Psychol. 87, 1068-1076.
 
 Zeng, M., Chen, X.P., 2003. Achieving cooperation in multiparty alliances: A social dilemma approach to partnership management. Acad. Manage. Rev. 28,
 587-605.

@@ -43,7 +43,7 @@ Types of representativeness heuristic:
 
 EXAMPLES
 
-01. GAMBLER’S FALLACY
+01. GAMBLERСS FALLACY
 Misconception of chance
 
 02. MONTY HALL PROBLEM
@@ -53,7 +53,7 @@ Insensitivity to prior probability of outcomes
 The illusion of validity
 
 WHY GAMBLERS LOSE?
-Let’s play a game
+LetСs play a game
 
 • The gambler's fallacy, also known as the Monte Carlo fallacy, occurs when an individual erroneously believes that a certain random event is less likely or more likely to happen based on the outcome of a previous event or series of events.
 • This can also be implied towards the stock market when you are an aggressive trader.
@@ -68,7 +68,7 @@ HOW RACISM WORKS?
 
 In theory:
 • Racism is based on Pygmalion Effect.
-• The phenomenon of a person’s subconscious misconception of judging strangers founded on their appearance and person’s social experience.
+• The phenomenon of a personСs subconscious misconception of judging strangers founded on their appearance and personСs social experience.
 
 In practice:
 • Overall, black Americans are arrested at 2.6 times the per-capita rate of all other Americans.

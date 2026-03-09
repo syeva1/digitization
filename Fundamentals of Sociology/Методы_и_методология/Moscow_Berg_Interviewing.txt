@@ -37,7 +37,7 @@ Nachmias (1996), Nachmias and Nachmias (2000), Babbie (1992, 1998, 2001),
 Leedy (1993), Leedy and Ormrod (2001), and Marshall and Rossman (1999).
 
 Unfortunately, the consensus on how to conduct an interview is not
-nearly as high. Interviewing and training manuals vary from long lists of specific do’s and don’ts to lengthy, abstract, pseudotheoretical discussions on empathy, intuition, and motivation. The extensive literature on interviewing
+nearly as high. Interviewing and training manuals vary from long lists of specific doСs and donСts to lengthy, abstract, pseudotheoretical discussions on empathy, intuition, and motivation. The extensive literature on interviewing
 contains numerous descriptions of the interviewing process. In some cases,
 being a good interviewer is described as an innate ability or quality possessed
 only by certain people. Interviewing, from this perspective, has been described as an art rather than as a skill or a science. In other cases, interviewing has been described as a game in which the respondents receive intrinsic
@@ -71,10 +71,10 @@ This chapter is devoted to the latter effort and draws on the symbolic interacti
 
 DRAMATURGY AND INTERVIEWING
 
-This chapter attempts to illustrate dramaturgy’s beneficial effects on interviewing beyond the interviewer training stage. Discussions will include types
+This chapter attempts to illustrate dramaturgyСs beneficial effects on interviewing beyond the interviewer training stage. Discussions will include types
 of interview structures, survey construction, the interviewer role and the role
 of the interviewer (social roles played by the investigator), rapport, reactivity,
-and accessing difficult or sensitive materials.’
+and accessing difficult or sensitive materials.С
 
 It has been suggested by Denzin (2001, p. 26) that we inhabit a performance-based, dramaturgical culture. Indeed, even in research, the line between performer and audience sometimes blurs, and the whole process
 becomes a dramatic performance. In the broader context of society, there are
@@ -100,11 +100,11 @@ al., 1968; Gorden, 1987; Lofland, 1976; Shaffir et al., 1980; Taylor & Bogdan,
 1998). Regarding the latter, as this chapter will show, there are a number of
 ways you may go about making sense out of accessed information.
 
-Let us look at the process of interviewing, specifically the notion of interviewing, as an “encounter” (Goffman, 1967) or as a “face-to-face interactionary performance” (Babbie, 1992, 1998). All discussions of interviewing are
-guided by some model or image of the interview situation, and here interviewing is perceived as a “social performance” (Goffman, 1959), organized
+Let us look at the process of interviewing, specifically the notion of interviewing, as an “encounterФ (Goffman, 1967) or as a “face-to-face interactionary performanceФ (Babbie, 1992, 1998). All discussions of interviewing are
+guided by some model or image of the interview situation, and here interviewing is perceived as a “social performanceФ (Goffman, 1959), organized
 around the premise that interviewing is best accomplished if guided by a dramaturgical model (Burke, 1957, 1966).
 
-Dramaturgy, as a theoretical perspective, involves the elements and language of theater, stagecraft, and stage management. This theoretical perspective is derived in part from the symbolic interactionists’ general assumption
+Dramaturgy, as a theoretical perspective, involves the elements and language of theater, stagecraft, and stage management. This theoretical perspective is derived in part from the symbolic interactionistsС general assumption
 that humans perceive and interact in reality through the use of symbols.
 Drama, then, is a mode of symbolic action in which some individuals act symbolically for others who watch symbolically. In the case of the former, the term
 used to describe acting individuals is usually simply actors. In the case of the
@@ -142,7 +142,7 @@ closer to the creative interviewing model and the more reflexive performance int
 
 TYPES OF INTERVIEWS
 
-No consideration of interviewing would be complete without some acknowledgment of the major interview structures. These are sometimes teferred to as “the family of qualitative interviews” (Rubin é& Rubin, 1995).
+No consideration of interviewing would be complete without some acknowledgment of the major interview structures. These are sometimes teferred to as “the family of qualitative interviewsФ (Rubin é& Rubin, 1995).
 Some sources mention only two interview structures—namely, formal and informal (see, for example, Fitzgerald & Cox, 2002, pp. 118-119). Other sources
 tefer to this research process as either structured or unstructured (Fontana &
 Frey, 1994; Leedy & Ormrod, 2001). However, at least three major categories
@@ -162,7 +162,7 @@ to respond to each question, exactly as worded. The rationale here is to offer
 each subject approximately the same stimulus so that responses to questions,
 ideally, will be comparable (Babbie, 2001). Researchers using this technique
 have fairly solid ideas about the things they want to uncover during the interview (Merriam, 2001; Schwartz & Jacobs, 1979). In other words, researchers
-assume that the questions scheduled in their interview. instrument are sufficiently comprehensive to elicit from subjects all (or nearly all) information relevant to the study’s topic(s). They further assume that all questions have been
+assume that the questions scheduled in their interview. instrument are sufficiently comprehensive to elicit from subjects all (or nearly all) information relevant to the studyСs topic(s). They further assume that all questions have been
 worded in a manner that allows subjects to understand clearly what they are
 being asked. Stated in slightly different terms, the wording of each question is
 
@@ -196,12 +196,12 @@ pencil-and-papor survey.
 FIGURE 4.1 Interview Structure Continuum of Formality
 
 equally meaningful to every subject. Finally, they assume that the meaning of
-each question is identical for every subject. These assumptions, however, remain chiefly “untested articles of faith” (Denzin, 1978, p. 114).
+each question is identical for every subject. These assumptions, however, remain chiefly “untested articles of faithФ (Denzin, 1978, p. 114).
 
 Insum, standardized interviews are designed to elicit information using
-a set of predetermined questions that are expected to elicit the subjects’
-thoughts, opinions, and attitudes about study-related issues. Standardized interviews, thus, operate from the perspective that one’s thoughts are intricately
-related to one’s actions. A typical standardized interview might look like this
+a set of predetermined questions that are expected to elicit the subjectsС
+thoughts, opinions, and attitudes about study-related issues. Standardized interviews, thus, operate from the perspective that oneСs thoughts are intricately
+related to oneСs actions. A typical standardized interview might look like this
 diet history (J. Berg, 1986):
 
 1. When is the first time you eat or drink ona typical day?
@@ -269,21 +269,21 @@ beyond the answers to their prepared standardized questions.
 Again, certain assumptions underlie this strategy. First, if questions are
 to be standardized, they must be formulated in words familiar to the people
 being interviewed (in vocabularies of the subjects). Police officers, for example, do not speak about all categories of persons in a like manner. Special
-terms they use include “scrots” (derived from the word scrotum), used as a
-derogatory slur when describing an assortment of bad guys; “skinners,” used
-to describe rapists; “dips” to describe pickpockets; and “clouters,” used to describe persons who break into automobiles to steal things. Questions used in
+terms they use include “scrotsФ (derived from the word scrotum), used as a
+derogatory slur when describing an assortment of bad guys; “skinners,Ф used
+to describe rapists; “dipsФ to describe pickpockets; and “clouters,Ф used to describe persons who break into automobiles to steal things. Questions used in
 a semistandardized interview can reflect an awareness that individuals understand the world in varying ways. Researchers, thus, approach the world
-from the subject’s perspective. Researchers can accomplish this by adjusting
+from the subjectСs perspective. Researchers can accomplish this by adjusting
 the level of language of given scheduled questions or through unscheduled
 probes (described in greater detail in the following interview excerpt) that
 arise from the interview process itself.
 
 One study of Latino men who have sex with other men (B. Berg et al.,
 2003) used a semistandardized interview schedule. Although many of the primary questions asked each of the 35 subjects derived from the predetermined
-schedule, the men’s perceptions were often more fully elaborated after being
+schedule, the menСs perceptions were often more fully elaborated after being
 asked an unscheduled probe. For example, after being asked a question, the
-subject might have responded with a brief “yes” or “no.” In order to elicit additional information, the interviewer would then ask, “And then?” or “Uh
-huh, could you tell me more about that?” or some similar simple inquiry.
+subject might have responded with a brief “yesФ or “no.Ф In order to elicit additional information, the interviewer would then ask, “And then?Ф or “Uh
+huh, could you tell me more about that?Ф or some similar simple inquiry.
 
 On other occasions the interviewer might have asked another full question
 seeking additional information. An example of these scheduled and unscheduled probes from interview number 14 illustrates this (B. Berg, 2002). All questions were asked and answered in Spanish and later translated into English.
@@ -301,7 +301,7 @@ sisters, etc.) think about your participation with sex between same
 masculine genders?
 
 Subject: Okay, my parents found out because I told my sister that I
-was homosexual, because one of my father’s brothers had raped me.
+was homosexual, because one of my fatherСs brothers had raped me.
 
 
 CHAPTER FOUR
@@ -331,7 +331,7 @@ crying, she hugged me and said that she loved me. She then told my
 father and he made me confront my uncle. My father thought I was
 lying to him, but my uncle could not lie, he lowered his head and admitted that he had raped me. My father questioned him on why he
 did it and his response was that I wanted to do it with a homosexual.
-But J always ask myself, “Why me?”
+But J always ask myself, “Why me?Ф
 
 Interviewer [Unscheduled Probe]: How old was your uncle?
 
@@ -345,7 +345,7 @@ THE INTERVIEW SCHEDULE
 Traditionally, the term survey refers to both interviews-and pencil-and-paper
 questionnaires. In this text, the term survey, unless otherwise indicated, is exclusively used in the context of interviewing. Typically, the choice to use an
 interviewing technique rather than a survey questionnaire technique is based
-on the selected procedure’s ability to provide maximum opportunity for complete and accurate communication of ideas between the researcher and the re-
+on the selected procedureСs ability to provide maximum opportunity for complete and accurate communication of ideas between the researcher and the re-
 
 A DRAMATURGICALLOOK AT INTERVIEWING 83
 
@@ -376,7 +376,7 @@ explains:
 Because of the nature of the information collected, applied researchers who develop community relations plans are best advised to use interviews and interviewers. Questionnaires lack the flexibility that is required to capture the subtle
 character of risk definition, especially a risk that is often defined ambiguously
 within a community. Risks such as those associated with Superfund sites are a
-major part of the community’s social structure, but are less crystallized than risk
+major part of the communityСs social structure, but are less crystallized than risk
 associated with crime, or even natural environmental risk.
 
 Conversely, Miller (1986) found that in her study of female street hustlers, an
@@ -391,7 +391,7 @@ many of my questions changed over time.
 84 CHAPTER FOUR
 
 Ellis, Kiesinger, and Tillmann-Healy (1997, p. 121) wanted to gain a more
-reflexive and intimate understanding of women’s emotional experiences, and
+reflexive and intimate understanding of womenСs emotional experiences, and
 decided to use an interactive approach and a more or less unstructured interviewing style:
 
 [We] view interviewing as a collaborative communication process occurring be-
@@ -443,10 +443,10 @@ nnn nee eee ee een neni ocne ee eee
 A DRAMATURGICAL LOOK AT INTERVIEWING 85
 
 forth. Under police-related questions we asked, “What would you say are the
-teasons you joined the reserve officers unit?” “How long have you been a reserve officer?” “Have you ever served as a regular police officer anywhere?”
+teasons you joined the reserve officers unit?Ф “How long have you been a reserve officer?Ф “Have you ever served as a regular police officer anywhere?Ф
 and so on. The purpose of these questions was to elicit information about how
 
-the subjects’ relationships corresponded to various attitudes and behaviors
+the subjectsС relationships corresponded to various attitudes and behaviors
 described elsewhere in the interviews. -
 
 Question Order, Content, and Style
@@ -466,21 +466,21 @@ but they are geared toward eliciting specific desired information. For example, 
 Jewish community. Consequently, essential questions addressing this specific
 theme were sprinkled throughout the 144-structured-question survey instrument. For instance, among a series of questions about friends and people the
 family feels proud of, the following question was introduced: “Has anyone in
-the family ever thought anyone else drank too much?” Later during the interview, among general questions about ceremonial participation in the Jewish holiday of Passover, the interviewer systematically asked:
+the family ever thought anyone else drank too much?Ф Later during the interview, among general questions about ceremonial participation in the Jewish holiday of Passover, the interviewer systematically asked:
 
 There is a question that we are a little curious about, because there seems to be
 some confusion on it. During the Passover story, there are seven or eight places
 it speaks about lifting a glass of wine. And there are three or four places which
-speak directly of drinking the wine. In some people’s homes they drink a cup
+speak directly of drinking the wine. In some peopleСs homes they drink a cup
 
-each time, and in some people’s homes they count a sip as a cup. How is it done
+each time, and in some peopleСs homes they count a sip as a cup. How is it done
 in your home?
 
 Another regularly scheduled question during this segment of the interview
 asked: “Another question that interests us is, what becomes of the cup of wine
-for Elijah [ceremonially poured for the Angel Elijah]?” Later, during a series
+for Elijah [ceremonially poured for the Angel Elijah]?Ф Later, during a series
 of questions centering on Chanukkah observance styles, the interviewer
-asked: “What drinks are usually served during this time?”
+asked: “What drinks are usually served during this time?Ф
 
 
 86 CHAPTER FOUR
@@ -507,7 +507,7 @@ of cooling out the subject (Becker, 1963; Goffman, 1967). On these occasions,
 a throw-away question (or a series of them) may be tossed into an interview
 whenever subjects indicate to the interviewers that a sensitive area has been
 entered. The interviewer offhandedly says something to the effect of, “Oh,
-by the way, before we go any further, I forgot to ask you. . . .” By changing
+by the way, before we go any further, I forgot to ask you. . . .Ф By changing
 the line of questions, even for only a few moments, the interviewer moves
 away from the sensitive area and gives the interviewee a moment to cool
 out.
@@ -520,12 +520,12 @@ quently ask subjects to elaborate on what they have already answered in
 
 response to a given question—for example, “Could you tell me more about
 
-that?” “How long did you have that?” “What happened next?” “Who else has
+that?Ф “How long did you have that?Ф “What happened next?Ф “Who else has
 
-ever said that about you?” or simply, “How come?” Along similar lines,
+ever said that about you?Ф or simply, “How come?Ф Along similar lines,
 _ Lofland and Lofland (1984, p. 56) write:
 
-Ininterview|s] . . . the emphasis is on obtaining narratives or accounts in the person’s own terms. You want the character and contour of such accounts to be set
+Ininterview|s] . . . the emphasis is on obtaining narratives or accounts in the personСs own terms. You want the character and contour of such accounts to be set
 by the interviewees or informants. You might have a general idea of the kinds of
 things that will compose the account but still be interested in what the inter-
 
@@ -533,8 +533,8 @@ A DRAMATURGIGAL LOOK AT INTERVIEWING 87
 viewees provide on their own and the terms in which they do it. As the informants speak, you should be attentive to what is mentioned and also to what is
 not mentioned but which you feel-might be important. If something has been
 mentioned about which you want to know more, you can ask, “You mentioned
-; could you tell me more about that?” For things not mentioned, you
-might ask, “Did 2” or “Was a consequence?”
+; could you tell me more about that?Ф For things not mentioned, you
+might ask, “Did 2Ф or “Was a consequence?Ф
 
 Often interviewers incorporate a structured series of probes triggered
 by one or another type of response to some essential question. Probes, then,
@@ -544,7 +544,7 @@ question.
 Wording of Questions. In order to acquire information while interviewing,
 researchers must word questions so that they will provide the necessary data.
 Thus, you must ask questions in such a manner as to motivate respondents to
-answer as completely and honestly as possible. As in the saying about computers, “garbage in, garbage out,” so it is in interviewing. If the wrong questions are asked or if questions are asked in a manner that inhibits or prevents
+answer as completely and honestly as possible. As in the saying about computers, “garbage in, garbage out,Ф so it is in interviewing. If the wrong questions are asked or if questions are asked in a manner that inhibits or prevents
 a respondent from answering fully, the interview will not be fruitful—garbage
 will come out. Denzin offers the following guidelines for formulating interview questions (Denzin, 1970, p. 129):
 
@@ -561,5 +561,5 @@ questions that catch him up, or reveal to him and the interviewer that his previ
 COMMUNICATING EFFECTIVELY
 
 Perhaps the most serious problem with asking questions is how to be certain the intentions of the questions have been adequately communicated.
-Researchers must always be sure they have clearly communicated to the subjects what they want to know. The interviewers’ language must be understandable to the subject; ideally, interviews must be conducted at the level or
+Researchers must always be sure they have clearly communicated to the subjects what they want to know. The interviewersС language must be understandable to the subject; ideally, interviews must be conducted at the level or
 language of the respondents.

@@ -25,7 +25,7 @@ Warm up
 
 The concept of rationality plays an important role in Economics
 Rationality is defined in a very particular way in Consumer Choice Theory
-If certain assumptions about consumers’ preferences are satisfied,
+If certain assumptions about consumersС preferences are satisfied,
 then such consumers are considered to be rational
 Rationality in Economics
 
@@ -48,7 +48,7 @@ what is better, what is worse
 Consumer Choice
 
 And this is it for rationality!
-As long as consumers’ preferences satisfy completeness and transitivity,
+As long as consumersС preferences satisfy completeness and transitivity,
 such consumers are considered to be rational
 More generally, the concept of preferences is a cornerstone of Microeconomics
 Note that:
