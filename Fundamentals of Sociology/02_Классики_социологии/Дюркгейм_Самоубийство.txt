@@ -1,0 +1,988 @@
+# Тема: Fundamentals of Sociology
+# Источник: Дюркгейм Самоубийство
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
+
+Suicide I
+
+A STUDY IN SOCIOLOGY
+
+by Emile Durkheim
+
+TRANSLATED BY JOHN A. SPAULDING AND GEORGE SIMPSON
+
+EDITED WITH AN INTRODUCTION BY GEORGE SIMPSON
+
+
+THE FREE PRESS
+A Division of Macmillan, Inc.
+NEW YORK
+
+Maxwell Macmillan Canada
+TORONTO
+
+
+Copyright ©1951 by The Free Press, a Corporation
+
+All rights reserved. No part of this book may be reproduced or transmitted in
+
+any form or by any means, electronic or mechanical, including photocopying, re-
+
+cording, or by any information storage and retrieval system, without permission in
+weiting from the Publisher.
+
+The Free Press
+A Division of Macmillan, Inc.
+866 Third Avenue, New York, N.Y. 10022
+
+Maxwell Macmillan Canada, Inc.
+1200 Eglinton Avenue East
+Suite 200
+Don Mills, Ontario M3C 3N1
+
+Macmillan, Inc. is part of the Maxwell Communication
+Group of Companies.
+
+First Free Press Paperback Edition 1966
+
+Printed in the United States of America
+
+25 26 27 28 29 30
+
+To Those Who, with Durkheim, Understand
+the Life of Reason As Itself a Moral
+Commitment, and Especially to Arthur
+D. Gayer in Economics; Sol W. Ginsburg in Psychiatry; Robert S. Lynd in
+Sociology; and Arthur E. Murphy in
+Philosophy
+
+
+INTE
+
+|
+
+ODUCTION, os
+
+=~
+INCE the word “suicideФ recurs constantly in the course of conation, it might be thought that its sense is universally known and
+definition is superfluous. Actually, the words of everyday lanze, like the concepts they express, are always susceptible of more
+1 one meaning, and the scholar employing them in their accepted
+without further definition would risk serious misunderstanding.
+only is their meaning so indefinite as to vary, from case to case,
+1 the needs of argument, but, as the classification from which they
+ve is not analytic, but merely translates the confused impressions
+he crowd, categories of very different sorts of fact are indistinctly
+bined under the same heading, or similar realities are differy named. So, if we follow common use, we risk distinguishing
+t should be combined, or combining what should be distinhed, thus mistaking the real affinities of things, and accordingly
+apprehending their nature. Only comparison affords explanation.
+cientific investigation can thus be achieved only if it deals with
+patable facts, and it is the more likely to succeed the more cerly it has combined all those that can be usefully compared. But
+e natural affinities of entities cannot be made clear safely by such
+erficial examination as produces ordinary terminology; and so the
+lar cannot take as the subject of his research roughly assembled
+ups of facts corresponding to words of common usage. He himmust establish the groups he wishes to study in order to give
+n the homogeneity and the specific meaning necessary for them
+e susceptible of scientific treatment. Thus the botanist, speaking
+42 SUICIDE
+
+of flowers or fruits, the zoologist of fish or insects, employ these
+various terms in previously determined senses.
+
+Our first task then must be to determine the order of facts to be
+studied under the name of suicides. Accordingly, we must inquire
+whether, among the different varieties of death, some have common
+qualities objective enough to be recognizable by all honest observers,
+specific enough not to be found elsewhere and also sufficiently kin
+to those commonly called suicides for us to retain the same term
+
+without breaking with common usage. If such are found, we shall .
+
+combine under that name absolutely all the facts presenting these
+distinctive characteristics, regardless of whether the resulting class
+fails to include all cases ordinarily included under the name or includes others usually otherwise classified. The essential thing is not
+to express with some precision what the average intelligence terms
+suicide, but to establish a category of objects permitting this classification, which ate objectively established, that is, correspond to a
+definite aspect of things.
+
+Among the different species of death, some have the special quality of being the deed of the victim himself, resulting from an act
+whose author is also the sufferer; and this same characteristic,.on the
+other hand, is certainly fundamental to the usual idea of suicide. The
+intrinsic nature of the acts so resulting is unimportant. Though suicide is commonly conceived as a positive, violent action involving
+some muscular energy, it may happen that a purely negative attitude
+or mete abstention will have the same consequence. Refusal to take
+food is as suicidal as self-destruction by a dagger or fire-atm, The
+subjectСs act need not even have been directly antecedent to death
+for death to be regarded as its effect; the causal relation may be indirect without that changing the nature of the phenomenon. The
+iconoclast, committing with the hope of a martytСs palm the crime of
+high treason known to be capital and dying by the executionerСs
+hand, achieves his own death as truly as though he had dealt his own
+death-blow; there is, at least, no reason to classify differently these
+two sorts of voluntary death, since only material details of their execution differ. We come then to our first formula: the term suicide is
+applied to any death which is the direct or indirect result of a positive or negative act accomplished by the victim himself.
+
+But this definition is incomplete; it fails to distinguish between
+
+RODUCTION. sl, ~ 43
+very different sorts of death. The same classification and treatt cannot be given the death of a victim of hallucination, who
+ws himself from an upper window thinking itСon a level with
+ground, and that of the sane person who strikes while knowing
+t he is doing. In one sense, indeed, few cases of death exist
+ch are not immediately or distantly due to some act of the subThe causes of death are outside rather than within us, and are
+ctive only if we venture into their sphere of activity.
+hall suicide be considered to exist only if the act resulting in
+th was performed by the victim to achieve this result? Shall only
+be thought truly to slay himself who has wished to do so, and
+ide be intentional self-homicide? In the first place, this would
+ne suicide by a characteristic which, whatever its interest and sigcance, would at least suffer from not being easily recognizable,
+it is not easily observed. How discover the agentСs motive and
+ther he desired death itself when he formed his resolve, or had
+e other purpose? Intent is too intimate a thing to be more than
+roximately interpreted by another. It even escapes self-observa-
+.. How often we mistake the true reasons for our acts! We contly explain acts due to petty feelings or blind routine by generous
+sions or lofty considerations.
+esides, in general, an act cannot be defined by the end sought
+the actor, for an identical system of behavior may be adjustable to
+many different ends without altering its nature. Indeed, if the intion of self-destruction alone constituted suicide, the name suicide
+Id not be given to facts which, despite apparent differences, are
+damentally identical with those always called suicide and which
+Id not be otherwise described without discarding the term. The
+Jier facing certain death to save his regiment does not wish to die,
+1 yet is he not as much the author of his own death as the manuturer or merchant who kills himself to avoid bankruptcy? This
+ds true for the martyr dying for his faith, the mother sacrificing
+self for her child, etc. Whether death is accepted merely as an
+fortunate consequence, but inevitable given the purpose, or is
+ually itself sought and desired, in either case the person renounces
+stence, and the various methods of doing so can be only varieties
+a single class. They possess too many essential similarities not to
+combined in one generic expression, subject to distinction as the
+
+
+44 SUICIDE
+
+species of the genus thus established. Of Лcourse, in common terms,
+suicide is pre-eminently the desperate act of one who does not care
+to live. But actually life is none the less abandoned because one
+desires it at the moment of renouncing it; and there are common
+traits clearly essential to all acts by which a living being thus renounces the possession presumably most precious of all. Rather, the
+diversity of motives capable of actuating these resolves can give rise
+only to secondary differences. Thus, when resolution entails certain
+sacrifice of life, scientifically this is suicide; of what sort shall be
+seen later.
+
+The common quality of all these possible forms of supreme renunciation is that the determining act is performed advisedly; that
+at the moment of acting the victim knows the certain result of his
+conduct, no matter what reason may have led him to act thus. All
+mortal facts thus characterized are clearly distinct from all others
+in which the victim is either not the author of his own end or else
+only its unconscious author. They differ by an easily recognizable
+feature, for it is not impossible to discover whether the individual
+did or did not know in advance the natural results of his action.
+Thus, they form a definite, homogeneous group, distinguishable
+from any other and thetefore to be designated by a special term.
+Suicide is the one appropriate; there is no need to create another,
+
+for the vast majority of occurrences customarily so-called belong to
+
+this group. We may then say conclusively: the tetm suicide is ap plied
+to all cases of death resulting directly or indirectly from a positive
+
+or negative act of the victim himself, which he knows will produce .
+
+this. result. Ao attempt is an act thus defined but falling short of
+actual .death.
+
+This definition excludes from our study everything related to the
+suicide of animals. Our knowledge of animal intelligence does not
+really allow us to attribute to them an understanding anticipatory
+of their death nor, especially, of the means to accomplish it. Some,
+to be sure, are known to refuse to enter a spot where others have
+been killed; they seem to have a presentiment of death. Actually,
+however, the smell of blood sufficiently explains this instinctive
+reaction. All cases cited at all authentically which might appear true
+suicides may be quite differently explained. If the irritated scorpion
+pierces itself with its sting (which is not at all certain), itis probably
+
+TRODUCTION oo 45
+
+mean dlitomatic, unreflecting reaction. The motive energy aroused
+his irritation is discharged by chance and at random; the creatute
+ppens to become its victim, though it cannot. beС said to have had
+sreconception of the result of its action. On the other hand, if some
+gs refuse to take food on losing their masters, it is because the
+Iness into which they are thrown has automatically caused lack
+hunger; death has resulted, but without having been foreseen.
+sither fasting in this case nor the. wound in the other have been
+ed as means to a known effect. So the special characteristics of
+icide as defined by us are lacking. Hence in the following we shall
+at human suicide only.!
+But this definition not only forestalls erroneous combinations and
+bitrary exclusions; it also gives us at once an idea of the place of
+icide in moral life as a whole. It shows indeed that suicides do not
+rm, as might be thought, a wholly distinct group, an isolated class
+monstrous phenomena, unrelated to other forms of conduct, but
+ther are related to them by a continuous series of intermediate
+ses. They are merely the exaggerated form of common practices.
+icide, we say, exists indeed when the victim at the moment he
+mmits the act destined to be fatal, knows the norma! result of it
+ith certainty. This certainty, however, may be greater or less.
+troduce a few doubts, and you have a new fact, not suicide but
+osely akin to it, since only a difference of degree exists between
+em. Doubtless, a man exposing himself knowingly for another's
+ke but without the certainty of a fatal result is not a suicide, even
+he should die, any more than the daredevil who intentionally
+ys with death while seeking to avoid it, or the man of apathetic
+mperament who, having no vital interest in anything, takes no
+re of health and so imperils it by neglect. Yet these different ways
+f acting are not radically distinct from true suicide. They result
+om similar states of mind, since they also entail mortal risks not
+nknown to the agent, and the prospect of these is no deterrent;
+1e sole difference is a lesser chance of death. Thus the scholar who
+
+2 A very small but highly suspicious number of cases may not be explicable in
+is way. For instance as reported by Aristotle, that of a horse, who, realizing that
+» had been made to cover his dam without knowing the fact and after repeated
+fusals, flung himself intentionally from a cliff (History of Animals, EX, 47).
+orse-breeders state that horses are by no means averse to incest. On this whole
+sestion see Westcott, Suicide, p. 174-179.
+
+
+46 SUICIDE
+
+dies from excessive devotion to study is currently and not wholly
+unreasonably said to have killed himself by his labor. All such facts
+form a sort of embryonic suicide, and though it is not methodologically sound to confuse them with complete and full suicide, their
+close relation to it must not be neglected. For suicide appears quite
+another matter, omce its unbroken connection is recognized with
+acts, on the one hand, of courage and devotion, on the other of
+imprudence and clear neglect. The lesson of these connections will
+be better understood in what follows.
+But is the fact thus defined of interest to the sociologist? Since
+suicide is an individual action affecting the individual only, it must
+seemingly depend exclusively on individual factors, thus belonging
+to psychology alone. Is not the suicideСs resolve usually explained by
+his temperament, character, antecedents and private history?
+
+The degree and conditions under which suicides may be legitimately studied in this way need not now be considered, but that they
+may be viewed in an entirely different light is certain. If, instead of
+seeing in them only separate occurrences, unrelated and to be separately studied, the suicides committed in a given society during a
+given period of time are taken as a whole, it appears that this total
+is not simply a sum of independent units, a collective total, but is
+-itselé. a new fact sui generis, with its own unity, individuality and
+consequently its own nature-—a naturé, furthermore, dominantly
+social. Indeed, provided too long a period is not considered, the
+statistics for one and the same society are almost invariable, as
+appears in Table I. This is because the environmental circumstances
+attending the life of peoples remain relatively unchanged from year
+to year. To be sure, more considerable variations occasionally occur;
+but they are quite exceptional. They are also clearly always contemporaneous with some passing crisis affecting the social state?
+Thus, in 1848 there occurred an abrupt decline in all European states.
+
+If a longer period of time is considered, more serious changes are
+observed. Then, however, they become chronic; they only prove that
+the structural characteristics of society have simultaneously suffered
+profound changes. It is interesting to note that they do not take place
+
+2 The numbers applying to these exceptional years we have put in-parentheses.
+
+.
+
+ITRODUCTION Л me 47
+ith Лthe-extieme Лslowness that quite a large number of observers
+s attributed to them, but are both abrupt and progressive. After a
+ties of years, during which these figures have varied within very
+arrow limits, a rise suddenly appears which, after repeated vacillaon, is confirmed, grows and is at last fixed. This is because every
+reach of social equilibrium, though sudden in its appearance, takes
+
+ABLE I—Stability of Suicide in the Principal European Countries (absolute figures)
+
+Yeors France Prussia England Saxony Bavaria Denmork
+1841 2,814 1,630 290 337
+1842 2, 1,598 318 317
+1843 3,020 1,720 420 301
+1844 2,973 1,575 335 244 285
+1845 3,082 1,700 338 250 290
+1846 3,102 1,707 373 220 376
+1847 (3,647) (1,852) 377 2i7 4
+1848 43,301) (1,649) 398 2 (305)
+1849 S83 (1,527) (328) a9) 33С
+1850 3,596 1736 390 340
+1851 3,598 1,809 402 260 401
+1852 3,676 2,073 530 226 426
+1853 3,415 1,942 431 263 ay
+1854 3,700 2,198 547 318 363
+1855 3,810 2,351 568 307 399
+1856 4,189 2,377 550 338 426
+1857 3,967 2,038 1,349 48s 286 427
+1853 3,903 2,126 1,275 491 329 457
+1859 3,899 2,146 1,248 507 387 451
+1 4,050 2,105 1,365 548 339 468
+1864 4,454 2,185 1,347 (643)
+1862 4,770 2,112 1,317 557
+1863 4613 2,374 1,315 643
+1864 4,521 2,203 340 (545) au
+1865 946 2,361 1,392 619 4s)
+1866 5,119 2483 1,329 704 410
+1867 017 3,628 ¥,316 152 an 469
+8 (5,547) 3,658 1,508 453 ad
+1869 ALLY 344 1,588 710 425 462
+1870 3,270 4,5: até
+1871 3,135 1,495
+1872 3,467 1,514
+
+Лime to produce all its consequences. Thus, the evolution of suicide
+is composed of undulating movements, distinct and successive, which
+occur spasmodically, develop for a time, and then stop only to begin
+again. On the above table one of these waves is seen to have occurred
+almost throughout Europe in the wake of the events of 1848, or
+about the yeats 1850-1853 depending on the country; another began
+in Germany after the war of 1866, in France somewhat earlier, about
+1860 at the height of the imperial government, in England about
+3868, or after the commercial revolution caused by contemporary
+commercial treaties. Perhaps the same cause occasioned the new
+recrudescence observable in France about 1865. Finally, a new for-
+
+
+48 SUICIDE
+
+ward movement began after the war of 1870 which is still evident
+and fairly general throughout Europe.*
+
+At each moment of its history, therefore, each society has a definite
+aptitude for suicide. The relative intensity of this aptitude is measured
+by taking the proportion between the total number of voluntary
+deaths and the population of every age and sex. We will call this
+numerical datum the rate of mortality through suicide, characteristic
+of the society under consideration. Xt is generally calculated in proportion to a million or a hundred thousand inhabitants.
+
+Not only is this rate constant for long periods, but its invariability
+is even greater than that of leading demographic data. General mortality, especially, varies much more often from year to year and the
+variations it undergoes are far greater. This is shown assuredly by
+comparing the way in which both phenomena vary in several periods.
+This we have done in Table II. To manifest the relationship, the
+rate for each year of both deaths and suicides, has been expressed
+as a proportion of the average rate of the period, in percentage form.
+Thus the differences of one year from another or with reference to
+the average rate are made comparable in the two columns. From this
+comparison it appears that at each period the degree of variation is
+much greater with respect to general mortality than to suicide; on
+the average, it is twice as great. Only the minimum difference between two successive years is perceptibly the same in each case during
+the last two periods. However, this minimum is exceptional in the
+column of mortality, whereas the annual variations of suicides differ
+from it rarely. This may be seen by a comparison of the average
+differences.*
+
+To be sure, if we compare not the successive years of a single
+period but the averages of different periods, the variations observed
+in the rate of mortality become almost negligible. The changes in
+one or the other direction occurring from year to year and due to
+temporary and accidental causes neutralize one another if a more
+extended unit of time is made the basis of calculation; and thus
+disappear from the average figures which, because of this elimination,
+
+3 In the table, ordinary figures and heavy type figures represent respectively the
+series of numbers indicating these different waves of movement, to make each group
+stand out in its distinctiveness.
+
+ЛWagner had already compared mortality and marriage in this way. (Die
+Gesetzmassigheit, etc., P.,87-)
+
+IN"
+
+TA
+
+L
+
+Am LN AO
+
+[RODUCTION Л Tos, 49
+
+BLE 1i-Comparotive Variations of the Rate of Mortality by
+Suicide and the Rate of General Mortality -
+
+A. ABSOLUTE FIGURES
+
+Suicides Deaths Suicides Deaths Suicides Deaths
+per per per per per per
+100,000 1,000 100,000 = 1,000 100,000 = 1,000
+eriod inhabi- Inhobi- Period inhabi- inhabi- Period {nhobi- Inhabi41-46 tants tants 1849-55 tants tants 1656-60 ~ tants tants
+1841 8.2 23.2 1849 10.0 . 27. 1856 16 23.1
+1842 3.3 24.0 1850 10.1 21.4 1857 10.9 23.7
+1843 8.7 23.1 1851 10.0 22.3 1858 10.7 24.1
+1844 3.5 22.3 1852 10.5 22.5 1859 Wd 26.8
+1845 8.8 21.2 1853 24 22.0 1860 19 21.4
+1846 8.7 23.2 1854 10.2 27.4
+1855 10.5 25.9
+Averages 8.5 22.8 Averages 10.1 24.1 Averages 11.2 23.8
+
+B. ANNUAL RATE RELATED TO THE AVERAGE IN
+PERCENTAGE FORM
+
+1841 96 101.7 1849 98.9 113.2 1856 103.5 37
+1842 7 105.2 1850 100 88.7 1887 97.3 99.3
+3843 102 101.3 1851 98.9 92.5 1858 95.5 101.2
+1844 100 96.9 1852 103.8 93.3 1859 99.1 V2.6
+1845 103.5 92.9 1853 93 912 1860 106.0 89.9
+1846 102.3 101.7 1854 100.9 113.6
+1855 103 107.4
+Averages 100 100 Averages 100 109 Averages 100 100
+C. DEGREE OF DIFFERENCE
+Between Two Con- Above and Below
+secutive Years the Average
+Greatest Least Average Greatest Greatest
+Difference Difference Difference Below Above
+Per. 1841-46
+eneral mortality 8.8 25 49 Ww 4.0
+vicide-rate 5.0 1 25, 4 28
+Per. 1849-55
+ieneral mortality 24.5 0.8 10.6 13.6 11.3
+icide-rate 10.8 i 4.48 3.8 70
+Per. 1856-60
+senerat mortolity 22.7 19 9.57 12.6 10.1
+uicide-rate 69 1.8 4.82 6.0 45
+
+show much more invariability. For example, in France from 1841 to
+1870, it was in each successive ten-year period 23.18; 23.72; 22.87.
+But, first, it is already remarkable that from one year to its successor
+suicide is at least as stable, if not more so, than general mortality
+taken only from period to period. The average rate of mortality,
+
+
+50 SUICIDE
+
+furthermore, achieves this regularity only by being general and impersonal, and can afford only a very imperfect description of a given
+society. It is in fact substantially the same for all peoples of approximately the same degree of civilization; at least, the differences are
+very slight. In France, for example, as we have just seen, it oscillates,
+from 184r to 1870, around 23 deaths per 1,000 inhabitants; during
+the same period in Belgium it was successively 23.93, 22.5, 24.04;
+in England, 22.32, 22.21, 22.68; in Denmark, 22.65 (1845-49),
+20.44 (1855-59), 20.4 (1861-68). With the exception of Russia,
+which is still only geographically European, the only large European
+countries where the incidence of mortality differs somewhat more
+widely from the above figures are Italy, where even between 1861
+and 1867 it rose to 30.6, and Austria, where it was yet greater
+(32.52).5 On the contrary, the suicide-rate, while showing only
+slight annual changes, varies according to society by doubling, tripling, quadrupling, and even more (Table HI below). Accordingly,
+to a much higher degree than the death-rate, it is peculiar to each
+social group where it can be considered as a characteristic index. It is
+even so closely related to what is most deeply constitutional in each
+national temperament that the order in which the different societies
+
+TABLE Ull—Rate of Suicides per Million Inhabitants in the
+Different European Countries
+
+Period Numerical Position in the
+3866-70 «1871-75 1874-78 ~—'1 period «= period =—$._ period
+
+italy 30 3 38 1 iJ 1
+Belgium 66 69 78 2 3 4
+Englond 67 69 3 2 2
+Norway 76 73 4 4 3
+Austria 78 94 130 5 7 7
+iweden 85 8t 9 6 3 s
+8avoria 90 ot 100 7 6 6
+Лronce 135 150 8 9 9
+Prussia 142 334 152 9 8 8
+denmark 277 258 255 10 10 wv
+joxony 293 267 334 n nN nH
+
+appear in this respect remains almost exactly the same at very different periods. This is proved by examining this same table. During
+the three periods there compared, suicide has everywhere increased,
+out in this advance the various peoples have retained their respective
+
+5 According to Bertillon, article Mortalité in the Dictionnaire Encyclopedique des
+ciences medicals, V. LXI, p. 738.
+Л
+
+RODUCTION z . . 51
+anrces ffom one another. Each has its own peculiar coefficient of
+leration. : ;
+he suicide-rate is therefore a factual order, unified and definite,
+s shown by both its permanence and its variability. For this persence would be inexplicable if it were not the result of a group
+listinct characteristics, solidary one with another, and simultanely effective in spite of different attendant circumstances; and this
+ability proves the concrete and individual quality of these same
+racteristics, since they vary with the individual character of society
+If. In short, these statistical data express the suicidal tendency
+h which each society is collectively afflicted. We need not state
+actual nature of this tendency, whether it is a state. su? generis
+the collective mind,* with its own reality, or represents merely a
+1 of individual states. Although the preceding considerations are
+d to reconcile with the second hypothesis, we reserve this problem
+treatment in the course of this work.? Whatever oneСs opinion
+this subject, such a tendency certainly exists under one heading or
+ther. Each society is predisposed to contribute a definite quota of
+untary deaths. This predisposition may therefore be the subject
+a special study belonging to sociology. This is the study we are
+ng to undertake.
+We do not accordingly intend to make as nearly complete an
+entory as possible of all the conditions affecting the origin of
+lividual suicides, but merely to examine those on which the definite
+t that we have called the social suicide-rate depends. The two
+sstions are obviously quite distinct, whatever relation may neverless exist between them. Certainly many of the individual condins are not general enough to affect the relation between the total
+mber of voluntary deaths and the population. They may perhaps
+se this or that separate individual to kill himself, but not give
+jiety as a whole a greater or lesser tendency to suicide. As they
+not depend on a certain state of social organization, they have no
+Лial repercussions. Thus they concern the psychologist, not the
+iologist. The latter studies the causes capable of affecting not
+
+ЛBy the use of this expression we of course do not at all intend to hypostasize
+collective conscience. We do not recognize any more substantial a soul in society
+n in the individual. But we shall revert to this point.
+
+Bk. Il, Chap. 1.
+
+
+52 SUICIDE
+
+separate individuals but the group. Therefore among the factors of
+suicide the only ones which concern him are those whose action is
+felt by society as a whole. The suicide-rate is the product of these
+factors. This is why we must limit our attention to them.
+
+Such is the subject of the present work, to contain three parts.
+
+The phenomenon to be explained can depend only on extra-social
+causes of broad generality or on causes expressly social. We shall
+seatch first for the influence of the former and shall find it nonexistent or very inconsiderable.
+
+Next we shall determine the nature of the social causes, how they
+produce their effects, and their relations to the individual states asso-
+
+“dated with the different sorts of suicide.
+
+After that, we shall be better able to state precisely what the social
+element of suicide consists of; that is, the collective tendency just
+referred to, its relations to other social facts, and the means that can
+be used to counteract it.®
+
+® Whenever necessary, the special bibliography of the particular questions treated
+will be found at the beginning of each chapter, Below are references on the general
+bibliography of suicide:
+
+I. Official statistical publications forming our principal sources: Oesterreichische
+Statistik (Statistik des Sanititswesens).—Annuaire Statistique de la Belgique—
+Zeitschrift des Koeniglisch Bayerischen statistischen Bureau.—Preussische Statistik
+(Sterblichkeit nach Todesursachen und Altersklassen der Gestorbenen) —Wiirtembiirgische Jahrbiicher fiir Statistik und Landeskunde—Badische Statistik.—Tenth
+Census of the United States. Report on the mortality and vital statistics of the United
+States, 1880, rxth part—Annuario statistico Italiano—Statistica delle cause delle
+Morti in tutti i communi del Regno—Relazione medico-statistica sulle conditione
+sanitarie dellС Exercito Italiano.—Statistische Nachrichten des Grossherzogthums
+Oldenburg.—Compte-rendu general de IСadministration de la justice criminelle en
+France.
+
+Statistisches Jahrbuch der Stadt Berlin.—Statistik der Stadt Wien.—Statistisches
+Handbuch fir denС Hamburgischen Staat.—Jahrbuch fiir die amtliche Statistik der
+Bremischen Staaten.—Annuaire statistique de la ville de Paris,
+
+Other useful information will be found in the following articles: Platter, Ueber
+die Selbstmorde in Oesterreich in den Jabren 1819-1872, In Statist. Monatsh , 1876.
+—Brattassevic, Die Selbstmorde in Oesterreich in den Jabren 1873-77, in Stat.
+Monatsh., 1878, p. 429.—Ogle, Suicides in England and Wales in relation to Age,
+Sex, Season and Occupation. In Journal of the Statistical Society, 1886.—Rossi, If
+Suicidio nella Spagna nel 1884. Arch. di psychiatria, Turin, 1886.
+
+Tl. Studies on suicide in general: De Guerry, Statistique morale de la France, Paris,
+1835, and Statistique morale comparée de la France et de V Angleterre, Patis, 1864.—
+Tissot, De la manie du suicide et de esprit de révolte, de leurs causes et de leurs
+remédes, Paris, 1841.—Etoc-Demazy, Recherches statistiques sur le suicide, Pais,
+1844.—Lisle, Du suicide, Paris, 1856.—Wappaus, Allgemeine Bevalkerangsstatistik,
+
+INT
+
+Leip
+men:
+cide
+
+mori
+dans
+3rd |
+Ueb
+Mile
+Selb
+sory,
+189¢
+—M
+Seg
+thes
+
+RODUCTION = —— 53
+
+zipy 186¥—Wagner, Die Gesetamdssigheit in den scheinbar willkiirlichen
+chlichen Handlungen, Hamburg, 1864, Part 2—Brierre de Boismont, Du suiet de la folie-suicide, Paris, Germer Bailliere, 1865.—Douay, Le suicide on la
+volontaire, Pais, 1870.—Leroy, Etude sur le suicide et les maladies mentales
+le department de Seine-et-Marne, Paris, 1870 —Oettingen, Die Moral statistik,
+Ed., Exlangen, 1882, p. 786-832 and accompanying tables 103-120,—By the same,
++ acuten und chronischen Selbstmord, Dorpat, 1881—Morselli, I suicidio,
+n, 1879.~—Legoyt, Le suicide ancien et moderne, Paris, 1881.-—Masaryk, Der
+tmord als sociale Massenerscheinung, Vienna, 1881. —Westcott, Suicide, its bis-
+- Hiterature, etc, London, 1885.—Motta, Bibliografia del Suicidio, Bellinzona,
+».—Corre, Crime et suicide, Paris, 1891.—Bonomelli, I! suicidio, Milan, 1892.
+layt, Selbstmordstatistik, In Handwiorterbuch der Staatswissenschaften, herausben von Conrad, Erster Supplementband, Jena, 1895.—Hauviller, D., Suicide,
+
+is, 1898-99.
+
+
+ED
+ED
+PR
+
+pty
+
+Cu
+
+Tl
+
+a8
+
+*
+«
+
+~ Darkhuans Suicide
+
+TAILED TABLE OF CONTENTS
+
+ITOR'S PREFACE 9
+
+ITORСS INTRODUCTION 13
+EFACE 35
+TRODUCTION 4l
+
+Need to establish the subject of study by an objective definition. Objective definition of suicide. How it evades arbitrary exclusions and
+illusory comparisons; elimination of animal suicide. How the definition shows the relation of suicide to the ordinary forms of conduct.
+
+Difference between suicide as an individual and as a collective phenomenon, The social suicide-rate; its definition. Its stability and specific
+character beyond those of general mortality. The social suicide-rate
+is therefore a phenomenon sui generis; this is the subject of the present
+study. Divisions of the work. General bibliography.
+
+Book One: Extra-social Factors
+APTER 1 SUICIDE AND PSYCHOPATHIC STATES 57
+
+Principal extra-social factors having a possible influence on the social
+suicide-rate: individual tendencies sufficiently general in character,
+states of physical environment.
+
+Theory that suicide is only a consequence of insanity. Two ways of
+proving it: (1) suicide a monomania sui generis; (2) a syndrome
+of insanity, not found elsewhere.
+
+Is suicide a monomania? Existence of monomanias no longer admitted.
+Clinical and psychological reasons against this hypothesis.
+
+Is suicide a specific incident of madness? Reduction of all vesanic
+Suicides to four types. Existence of reasonable suicides not falling
+under these groups.
+
+
+400 DETAILED TABLE OF CONTENTS
+
+IV But may suicide, without being a product of insanity, be intimately
+dependent upon neurasthenia? Reasons for believing the neurasthenic
+type is the commonest psychological type among suicides. Influence
+of this individual condition on suicide-rate still to be determined.
+Method to determine it: discover whether the suicide-rate varies with
+that of insanity. No relation between variations of the two phenomena
+with sex, faith, age, country, degree of civilization. Explanation of
+this lack éf relation: uncertainty of effects implied by neurasthenia.
+
+V_ Amore direct relation with the rate of alcoholism? Comparison with the
+geographical distribution of drunken misdemeanors, alcoholic insanity,
+consumption of alcohol. Negative results of this comparison.
+
+CHAPTER 2 SUICIDE AND NORMAL PSYCHOLOGICAL STATES
+—RACE, HEREDITY 82
+
+I Necessity of defining race. Definable only as an hereditary type; but
+
+; then the word takes an indefinite meaning. Thus need for great reserve.
+
+Il Three great races distinguished by Morselli. Very great diversity of
+suicidal aptitude among the Slavs, Celto-Romans, and Germanic
+nations. Only the Germans have a generally intense tendency, but
+lose it outside of Germany. The supposed relationship between suicide
+and stature; result of a coincidence.
+
+Hl Race can be a factor in suicide only if it is essentially hereditary; insufficiency of proofs of this heredity: (1) the relative frequency of
+cases imputable to heredity unknown; (2) possibility of another
+explanation; influence of insanity and imitation. Reasons against this
+special heredity: (a) why should suicide be less often transmitted
+to women? (b) suicideСs evolution with age irreconcilable with this
+hypothesis,
+
+CHAPTER 3 SUICIDE AND COSMIC. FACTORS 104
+
+I Climate has no influence.
+
+Ir Temperature. Seasonal variations of suicide; their very general character.
+Italian schoolСs explanation of them by temperature. ,
+
+Ill Contestable conception of suicide at the basis of this theory. Examination of facts: influence of abnormal heat or cold proves nothing; no
+relation between suicide-rate and seasonal or monthly temperature;
+suicide rare in many hot countries, Hypothesis that the first hot
+periods are harmful. Irreconcilable: (1) with the continuity of the
+curve of suicides in rise and descent; (2) with fact that first cold
+periods which should have same effect are harmless.
+
+IV Nature of causes on which these variations depend. Perfect parallelism
+between monthly variations of suicide and that of Jength of days;
+confirmed by the fact that suicides occur especially by day. Reason
+for this parallelism: during the day social life is in full activity. Explanation confirmed by fact that suicide is maximum at days and
+
+DETAILED TABLE OF CONTENTS . 401
+
+** hours when social activity is maximum. How it accounts for seasonal
+variations of suicide; various confirmative proofs. Monthly variations
+of suicide therefore depend on social causes,
+
+CHAPTER 4 IMITATION 123
+
+Imitation is a phenomenon of individual psychology. Usefulness of discovering whether it has any influence on the sacial suicide-rate.
+
+I Difference between imitation and several other phenomena with which
+it has been confused. Definition of imitation.
+
+II Numerous cases where suicides ate communicated by contagion from
+Person to person; distinction between the facts of contagion and
+epidemics. Problem of the possible influence of imitation on suiciderate unsolved.
+
+Wl This influence must be studied through geographical distribution of
+suicides, Criteria by which it may be known. Application of this
+method to the map of suicides in France by arrondissements, the map
+by communes of Seine-et-Marne, the map of Europe in general, No.
+clear trace of imitation in the geographical distribution. Experiment
+Suggested: does suicide increase with number of readers of newspapers? Reasons for the contrary opinion.
+
+IV Reason why imitation has no appreciable effects on suicide-rate: because
+not an original factor, but merely reinforcing the influence of others.
+Practical consequence of this discussion: that there is no occasion to
+forbid publicity for judicial interpretations of suicide. Theoretical consequence: imitation lacks the social effectiveness ascribed to it.
+
+Book Two: Social Causes and Social Types
+
+CHAPTER 1 HOW TO DETERMINE SOCIAL CAUSES AND
+SOCIAL TYPES 145
+
+I Presumed usefulness of morphological classification of types of suicide
+as a way to trace their causes; impossibility of this classification.
+Only practicable method consists of classifying suicides by causes, Why
+this is more appropriate than any other for a sociological study of
+suicide. '
+
+II How discover these causes? Information given by statistics on assumed
+reasons for suicides ¢1) are suspect, (2) do not give true causes. Only
+effective method is to discover how the suicide-rate varies in terms of
+different social concomitants.
+
+CHAPTER 2 EGOISTIC SUICIDE 152
+
+I Suicide and religions. General aggravation due to Protestantism; immunity of Catholics and especially of Jews.
+
+II Immunity of Catholics not due to their minority status in Protestant
+countries, but to their lesser religious individualism, that is, to the
+t
+402 DETAILED TABLE OF CONTENTS
+
+greater integration of the Catholic church, Application of this explanation to the Jews.
+
+Ill Verification of this explanation: (1) relative immunity of England with
+relation to other Protestant countries is connected with stronger integration of Anglican church; (2) teligious individualism varies with
+desire for knowledge: a) desire for knowledge stronger among Protestant peoples than among Catholics, b) desire for knowledge varies
+with suicide whenever corresponding to Progress in religious individualism, Confirmation of the law by the exception of the Jews.
+
+IV Consequences of this chapter: (1) science the remedy but not the cause
+of the evil symptomized by the progtess of suicide; (2) while religious
+
+. Society protects against suicide, it is only because it is a strongly
+integrated society.
+
+CHAPTER 3 EGOISTIC SUICIDE (continued) 171
+
+I General immunity of married persons as calculated by Bertillon. Inconveniences of the method he had to follow. Need to separate more completely the influences of age and civil status. Tables in which this
+Separation is made. Laws derived from them.
+
+I Explanation of these laws. The coefficient of Preservation of married
+Petsons unconnected with matrimonial selection. Proofs: (1) reasons
+4 priori; (2) reasons of fact drawn from: a) variations of coefficient
+at different ages; b) unequal immunity of husbands and wives. Is
+this immunity due to marriage or the family? Reasons contrary to the
+former hypothesis: (1) contrast between the stationary condition of
+marriage rate and progress of suicide; (2) slight immunity of husbands without children; (3) aggravation among wives without children.
+
+IH Is slight immunity of married men without children due to conjugal
+selection? Contrary proof from aggravation of childless wives. Explanation of partial persistence of this coefficient among childless widowers
+without reference to conjugal selection. General theory of widowhood.
+
+IV_ Recapitulatory table of the above results, Almost all the immunity of
+husbands and all that of wives due to the influence of the family. It
+increases with family density, that is, with its degree of integration,
+
+V_ Suicide and political and national crises. Its regression at such times is
+real and general. Due to the group's acquisition of a stronger integration during these crises.
+
+VI General conclusion of the chapter. Direct relation between suicide and
+the degree af integration of social groups; of whatever sort. Cause of
+this relation; why and under what conditions society is necessary to
+the individual. How suicide develops when he lacks it. Confirmative
+proofs of this explanation. Constitution of egoistic suicide,
+
+CHAPTER 4 ALTRUISTIC SUICIDE , 217
+
+TI Suicide among lower societies: its distinguishing characteristics con-
+
+DETAILED, TABLE OF CONTENTS 403
+
+trasted with those of egoistic suicide. Constitution of obligatory altruistic suicide. Other forms of this type. ,
+
+IE Suicide in European armies; general character of the aggravation resulting from military service. It is independent of the non-marital
+state, and alcoholism. Not due to disgust with the service. Proofs: (1)
+it grows with the duration of service; (2) it is stronger among volun- j
+teers and re-enlisted men; (3) among officers and non-commissioned i
+officers than among privates. It is due to military spirit and the state
+of altruism it involves. Confirmative proofs: (1) it is stronger the less
+inclination peoples have to egoistic suicide; (2) it is maximum among i
+elite troops; (3) it decreases to the degree that egoistic suicide de- i
+
+velops. i
+Til How the above results justify the method followed. :
+CHAPTER 5 ANOMIC SUICIDE 241 |
+
+I Suicide grows with economic crises. This progression is sustained during I
+crises of prosperity: examples of Prussia and Italy. International expositions. Suicide and wealth. '
+
+Il Explanation of this relation, Man can live only if his needs are in harmony with his means; which implies a limitation of the latter. Society
+limits them; how this moderating influence is normally exercised. How !
+it is prevented by crises; whence come irregularity, anomy, suicides. !
+Confirmation from the relations of suicide with wealth.
+
+III Anomy is at present chronic in the economic world. Suicides resulting I
+from it. Constitution of anomic suicide, i
+
+IV Suicides due to conjugal anomy. Widowhood. Divorce. Parallelism
+between divorces and suicides. Due to a matrimonial constitution \
+acting in opposite senses on husbands and wives; proofs, Nature |
+of this matrimonial constitution. The weakening of matrimonial discipline implicit in divorce aggravates the tendency of men to suicide
+and diminishes that of women. Reason for this opposition. Proofs in
+confirmation of this explanation. Conception of marriage emerging
+from this chapter.
+
+CHAPTER 6 (INDIVIDUAL FORMS OF THE DIFFERENT TYPES ;
+
+OF SUICIDE 277
+Utility and possibility of completing the above aetiological classification
+by a morphological one. i
+
+I Fundamental forms assumed by the three suicidogenetic currents in their i
+individual embodiments. Mixed forms resulting from the combination
+of these fundamental forms. :
+
+IE Is the chosen instrument of death to be considered in this classification?
+This choice depends on social causes. But these causes are independent
+of those determining suicide. They are therefore unconnected with the
+present study. Synoptic table of the different types of suicides,
+
+
+404 DETAILED TABLE OF CONTENTS
+
+Book Three: General Nature of Suicide as a Social Phenomenon
+
+CHAPTER 1 THE SOCIAL ELEMENT OF SUICIDE 297
+
+I Results of the above. Lack of telations between the suicide-rate and cosmic or biological phenomena, Definite telations to social facts. The
+social rate therefore corresponds to a collective tendency of society,
+
+I Stability“and individuality of this rate not otherwise explicable. Theory
+of Quetelet to account for it: the average man. Refutation: regularity of statistical data found also in facts outside the average. Necessity
+to admit a collective force or group of collective forces the intensity of
+
+. which the social suicide-rate expresses,
+
+I What this collective force must mean: a reality external to and above the
+individual, Sketch and examination of objections made to this conception: (1) Objection that a social fact can only be transmitted by interindividual traditions. Answer: the Suicide-rate cannot be so trans.
+mitted. (2) Objection that the individual is the only reality of society.
+Answer: a2) how material things external to individuals are erected
+into social facts and play a role sui generis in this Capacity; b) those
+social facts not thus objectivized unparalleled by individual consciousness. Their substratum is the aggregate of social consciences combined
+in society, This conception has nothing ontological about it.
+
+IV Application of these ideas to suicide.
+
+CHAPTER 2 RELATIONS OF SUICIDE WITH OTHER SOCIAL
+PHENOMENA 326
+
+Method to determine whether suicide should be classed among moral
+or immoral facts.
+
+I Historical sketch of juridical or moral regulations in use in different soCieties with respect to suicide. Steady progress of the reprobation of
+it, except in periods of decadence, Reason for this reprobation; it is
+more than ever founded on the normal constitution of modérn societies,
+
+If Relations of suicide to other forms Лof immorality. Suicide and crimes
+against property; no relation, Suicide and homicide; theory that both
+consist of a single organic-psychic state, but depend on opposite social
+conditions,
+
+TI Discussion of the first part of the proposition. Sex, age, temperature do
+not affect the two phenomena in the same way.
+
+IV Discussion of the second part. Cases in which the antagonism is not verified. More numerous cases of its verification. Explanation of these ap-
+
+parent contradictions: existence of different types of suicide, some ex-
+
+cluding homicide, while others depend on the same social conditions,
+Nature of these types; why the former are now more numerous than
+the latter. on
+
+DETAILED TABLE OF CONTENTS . 405
+
+How the above throws light on the question of the historical relationship of egoism and altruism. ¢
+
+CHAPTER 3 PRACTICAL CONSEQUENCES 361
+
+I Solution of the practical problem vaties as the present state of suicide is
+regarded as normal or abnormal. Statement of the question regardless
+of suicideСs immoral nature. Reasons why a moderate suicide-rate may
+not be morbid. But why the present rate among European peoples is
+the index of a pathological state.
+
+II Means suggested to obviate the evil: (x) repressive measures. What
+measures are possible. Why they could have only a limited efficacy;
+(2) education, Being énly a reflection of the moral state of society, it
+cannot reform it. Necessity of reaching the causes of the suicidogenetic
+currents themselves; though altruistic suicide, not in an abnormal state,
+may be disregarded.
+
+Remedy for egoistic suicide: to achieve greater consistency in the groups
+which enfold the individual. Which are best suited for the role?
+Neither political society, too far removed from the individual—nor
+religious society, which socializes only by withdrawing liberty of
+thought—nor the family, which tends to be reduced to the married
+couple. The suicides of married persons are growing, as well as those
+of the unmarried.
+
+Il The occupational group. Why it alone can fulfill this function. What
+it must become, for the purpose. How it may constitute a moral environment. How it may also restrain anomic suicide. Cases of conjugal anomy. Antinomial statement of the problem: antagonism of the
+sexes. Means of remedy.
+
+IV Conclusion. Present state of suicide is the index of a poverty of morals.
+ЛWhat is meant by a moral affection of society, The proposed reform
+demanded by the whole of our historical evolution. Disappearance of
+all intermediate social groups between the individual and the State;
+necessity for reconstituting them. Occupational decentralization contrasted with territorial decentralization; why it is the necesgary basis
+for social organization. Importance of the question of suicide; its
+solidarity with the greatest practical problems of the present time.
+
+APPENDICES 393
+
+I Suicides and alcoholism in France (4 maps)
+
+II Suicides in France by arrondissements
+
+TIE Suicides in central Europe
+
+IV Suicides and family density in France (2 maps)
+
+V Suicides and wealth in France (2 maps)
+
+VI Table of suicides by age of spouses and the widowed of both sexes, with
+or without children, in French departments except the Seine, in absohate figures, for the years 1889-91.
+i

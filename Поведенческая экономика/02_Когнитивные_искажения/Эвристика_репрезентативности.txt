@@ -1,0 +1,77 @@
+# Тема: Поведенческая экономика
+# Источник: Эвристика репрезентативности
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
+
+--- Slide 1 ---
+
+GROUP
+GROUP
+GROUP
+GROUPBREPRESENTATIVENESS HEURISTIC
+Kursov Barsukov Vodolatskyy
+
+--- Slide 2 ---
+
+WHAT IS IT?
+DEFINITION
+
+Mental shortcut for judging the probability of an outcome in terms of how well it seems to represent or match a particular prototype
+What is the probability that object A belongs to class B?
+What is the probability that event A originates from process B?
+What is the probability that process B will generate event A?
+
+--- Slide 3 ---
+
+ORIGINS
+Tversky, A.; Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and Biases*
+
+Tversky, Amos; Kahneman, Daniel (1971). Belief in the law of small numbers. Psychological Bulletin**
+FOUNDATION
+ESTABLISHMENT
+HISTORY
+*   185(4157), 1124–1131. doi:10.1126/science.185.4157.1124
+** 76(2), 105–110. doi:10.1037/h0031322
+
+--- Slide 4 ---
+
+WRITE IT DOWN!
+Types of representativeness heuristic
+Insensitivity to prior probability of outcomes
+ Insensitivity to sample size
+ Misconceptions of chance
+ Insensitivity to predictability
+ The illusion of validity
+ Misconceptions of regression
+
+--- Slide 5 ---
+
+GAMBLERСS FALLACY
+Misconception of chance
+PIGMALION EFFECT
+The illusion of validity
+MONTY HALL PROBLEM
+Insensitivity to prior probability of outcomes
+EXAMPLES
+EXAMPLES
+EXAMPLES
+EXAMPLES
+
+--- Slide 6 ---
+
+WHY GAMBLERS LOSE?
+LetСs play a game
+The gambler's fallacy, also known as the Monte Carlo fallacy, occurs when an individual erroneously believes that a certain random event is less likely or more likely to happen based on the outcome of a previous event or series of events.
+This can also be implied towards the stock market when you are an aggressive trader.
+
+--- Slide 7 ---
+
+Y SHOULD U SWITCH DOOR?
+
+--- Slide 8 ---
+
+HOW RACISM WORKS?
+Racism is based on Pygmalion Effect. The phenomena of personСs subconscious misconception of judging strangers founded on their appearance and personСs social experience.
+In theory
+In practice
+Overall, black Americans are arrested at 2.6 times the per-capita rate of all other Americans, and this ratio is even higher for murder (6.3 times) and robbery (8.1 times).

@@ -1,0 +1,760 @@
+# Тема: Fundamentals of Sociology
+# Источник: Социальные сети
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
+
+STRUCTURAL ANALYSIS IN THE SOCIALSCIENCES | 8
+
+Л
+
+Social Network
+Analysis
+- Methods and Applications
+
+Stanley Wasserman and Katherine Faust
+
+~
+——
+
+Roem caatteripsehneranni at «A
+Social Network Data: Collection and
+Applications
+
+
+This chapter discusses characteristics of social network data, with an
+emphasis on how to collect such data sets. We categorize network data
+in a variety of ways, and illustrate these categories with examples. We
+also describe the data sets that we use throughout the book. As noted
+in Chapter 1, the most important difference between social network
+data and standard social and behavioral science data is that network
+data include measurements on the relationships between social entities.
+Most of the standard data collection procedures known to every social
+scientist are appropriate for collecting network data (if properly applied),
+but there are a few techniques that are specific to the investigation of
+social networks. We highlight these similarities and differences in this
+chapter.
+
+2.1 Introduction: What Are Network Data?
+
+Social network data consist of at least one structural variable measured §
+on a set of actors. The substantive concerns and theories motivating 4
+a specific network study usually determine which variables to measure, 3
+and often which techniques are most appropriate for their measurement. ;
+For example, if one is studying economic transactions between countries, §
+one cannot (easily) rely on observational techniques; one would probably ;
+use archival records to obtain information on such transactions. On @
+the other hand, friendships among people are most. likely studied using 3
+questionnaires or interviews, rather than using archival or historical q
+records. In addition, the nature of the study determines whether the q
+entire set of actors can be surveyed or whether a sample of the actors :
+must be taken.
+
+
+.
+so «
+
+2.1 Introduction: What Are Network Data? - 29
+
+The nature ofthe structural variables also determines which analytic
+éthods are appropriate for their study. Thus, it is crucial to understand
+¢ nature of these variables. The data collection techniques described
+te determine, to some degree, the characteristics of the relations.
+
+2.1.1 Structural and Composition Variables-
+
+here are two types of variables that can be included in a network data
+t: structural and composition. Structural variables are measured on
+irs of actors (subsets of actors of size 2) and are the cornerstone of
+cial network data sets. Structural variables measure ties of a specific
+nd between pairs of actors. For example, structural variables can
+easure business transactions between corporations, friendships between
+Лople, or trade between nations. Actors comprising these pairs usually
+long to a single set of actors.
+
+Composition variables are measurements of actor attributes. Compoion variables, or actor attribute variables, are of the standard social
+id behavioral science variety, and are defined at the level of individual
+tors. For example, we might record gender, race, or ethnicity for peo-
+¢, or geographical location, after-tax profits, or number of employees
+r corporations. Some of the methods we discuss allow for simultaneous
+alyses of structural and composition variables.
+
+2.1.2 Modes
+
+e will use the term “modeФ to refer to a distinct set of entities on
+hich the structural variables are measured (Tucker 1963, 1964, 1966;
+roonenberg 1983; Arabie, Carroll, and DeSarbo 1987). Structural
+riables measured on a single set of actors (for example, friendships
+nong residents of a neighborhood) give rise to one-mode networks.
+le most common type of network is a one-mode network, since all
+tors come from one set.
+
+There are types of structural variables that are measured on two (or
+en more) sets of entities. For example, we might study actors from
+0 different sets, one set consisting of corporations and a second set
+nsisting of non-profit organizations. We could then measure the flows
+Лfinancial support flows from corporations to non-profit actors. A
+twork data set containing two sets of actors is referred to as a twonde network, to reflect the fact that there are two sets of actors. A
+o-mode network data set contains measurements on which actors from
+
+
+30 Social Network Data
+
+one of the sets have ties to actors in the other set. Usually, not all
+actors can initiate ties. Actors in one of the sets are “senders,Ф while
+those in the other are “receiversФ (although the relation itself need not
+be directional). We will consider one-mode and two-mode, and even
+mention higher-mode, social networks in this book.
+,
+2.1.3 Affiliation Variables
+
+A special type of two-mode network that arises in social network studies
+is an affiliation network. Affiliation networks are two-mode, but have
+only one set of actors. The second mode in an affiliation network is
+a set of events (such as clubs or voluntary organizations) to which the
+actors belong. Thus, in affiliation network data the two modes are the
+actors and the events. In such data, the events are defined not on pairs
+of actors, but on subsets of actors. These subsets can be of any size. A
+subset of actors affiliated with an affiliation variable is that collection of
+actors who participate in a specific event, belong to a given club, and so
+forth. Each affiliation variable is defined on a specific subset of actors.
+
+For example, consider a set of actors, and three elite clubs in some city.
+We can define an affiliation variable for each of these three clubs. Each
+of these variables gives us a subset of actors — those actors belonging
+to one of the clubs.
+
+The collections of individuals affiliated with the events can be found
+in a number of ways, depending on the substantive application. When
+events are clubs, boards of directors of corporations, or committees, the
+membership lists or rosters give the actors affiliated with each event.
+Often events are informal social occasions, such as parties or other
+gatherings, and observations or attendance or interactions among people
+provide the affiliations of the actors (Bernard, Killworth, and Sailer 1980,
+1982; Freeman and Romney 1987). One of the earliest, and now classic,
+examples of an empirical application is the study of Davis, Gardner,
+and Gardner (1941) of the cohesive subgroups apparent in the social
+
+activities of women in a Southern city. Using newspaper records and 4
+interviews, they recorded the attendance of eighteen women at fourteen
+
+social events. .
+Л
+
+2.2 Boundary Specification and Sampling
+A number of concerns arise in network studies that must be addressed
+
+prior to gathering any network data. Typically, a researcher must first 3
+ry
+
+wee «
+
+22 Boundary Specification and ЛSampling som, 31
+
+lentify the popilation to be studied, and if sampling is necessary, worry
+bout how to sample actors and relations. These issues are considered
+ere. .
+
+2.2.1 What Is Your Population?
+
+. very important concern in a social network study is which actors
+) include. That is, who are the relevant actors? Which actors are in
+¢ population? In the case of small, closed sets of actors (such as all
+uployees at a service station, faculty in an academic department, or
+rporations headquartered in a major metropolitan area), this issue is
+latively easy to deal with. For other studies, the boundary of the set of
+tors may be difficult (if not impossible) to determine. The boundary of
+set of actors allows a researcher to describe and identify the population
+ider study.
+Actors may come and go, may be many in number and hard to
+lumerate, or it may be difficult even to determine whether a specific
+tor belongs in a set of actors, For example, consider the study of
+tes in a community. The boundary of the set, including all, and
+ly, the elites within the community, may be difficult, or impossible, to
+termine. However, frequently there will be a clear “externalФ definition
+the boundary of the set which enables the researcher to determine
+lich actors belong in it.
+In some instances it is quite plausible to argue that a set of actors
+relatively bounded, as for example, when there is a fairly complete
+mbership roster. In such a case, the entire set of members can
+ike up the actor set. However, there are other instances when drawing
+undaries around a set is somewhat arbitrary. In practice, while network
+earchers recognize that the social world consists of many (perhaps
+inite) links of connection, they also find that effective and reasonable
+its can be placed on inclusion. Network researchers often define actor
+boundaries based on the relative frequency of interaction, or intensity
+ties among members as contrasted with non-members,
+Laumann, Marsden, and Prensky (1989) describe two different apaches to boundary specification in social network studies. The first
+y, which they refer to as the realist approach, focuses on actor set
+indaries and membership as perceived by the actors themselves. For
+mple, a street-corner gang is acknowledged as a social entity by its
+mbers (it may even have a name — “JetsФ or “SharksФ) and the memship of the gang is the collection of people the members acknowledge
+
+
+32 Social Network Data
+
+as belonging to the gang. The second way of specifying network bound- to
+aries, which Laumann, Marsden, and Prensky refer to as the nominalist th:
+approach, is based on the theoretical concerns of the researcher. For act
+example, a researcher might be interested in studying the flow computer me
+messages among researchers in a scientific specialty. In such a study, the tio
+list of actors | might be the collection of people who published papers on pr.
+the topic in Лthe previous five years. This list is constructed for the ana- the
+lytical purposes of the researcher, even though the scientists themselves is ¢
+might not perceive the list of people as constituting a distinctive social set
+-entity. Both of these approaches to boundary specification have been act
+used in social network studies. I
+Consider now two specific examples of how researchers have defined off
+network boundaries. The first example illustrating the problem of iden- anc
+tifying the relevant population of actors comes from a study of how 4 def
+information or new ideas diffuse through a community. Coleman, Katz, _ suc
+and Menzel (1957) studied how a new drug was adopted by physicians. ¥ inte
+Their solution to the problem of boundary identification is as follows: Kn
+It was decided to include in the sample, as nearly as possible, all the inte
+local doctors in whose specialities the new drug was of major potential q less
+significance. This assured that the “othersФ named by each doctor in § I
+answer to the sociometric questions were included in the sample. (page @ plir
+254) : icks
+The second example comes from the study of community leaders by § 195
+Laumann and Pappi (1973). They asked community leaders to define the a Far
+boundary by identifying the elite actors in the community of Altneustadt. 3a Exa
+These leaders were asked to PY
+.. name all persons [who] are now in general very influential in Alt- q 7 an
+neustadt.
+From these lists, each of which can be considered a sample of the relevant
+actors in the elite network, the actor set was enumerated. 3
+Many naturally occurring groups of actors do not have well- defined mE Son
+boundaries. However, all methods must be applied to a specific set off int
+data which assumes not only finite actor set size(s), but also enumerableg B take
+set(s) of actors. Somehow, in order ta study the network, we must@ & fron
+enumerate a finite set of actors to study. F sam
+For our purposes, the set of actors consists of all social units on which i EW
+we have measurements (either structural variables, or structural and co e are
+positional variables). Social network analysis begins with measureme Ewell
+ona set of actors. Researchers using methods described here must be a F acto
+
+. *
+
+2.2 Boundary Specification and Sampling om, 33
+
+make such an Лassumption. We assume, pridr to any data gathering,
+it we can obtain relevant information on all substantively important
+Лors; such actors will be included in the actor set. ЛHowever, some actors
+'y be left out unintentionally or for other reasons, Thus, the constitun of the actor set (that is, its size and composition) depends on both
+ctical and theoretical concerns. The reason for the assumption that
+actor set consists of all social units on which we have measurements
+juite simple — the methods we discuss here cannot handle amorphous
+boundaries. We will always start our analyses with a set (or sets) of
+ors, and we must be able to enumerate (or label) all members.
+
+Many network studies focus on small collectivities, such as classrooms,
+ces, social clubs, villages, and even, occasionally, artificially created
+i manipulated laboratory groups. All of these examples have clearly
+ined actor set boundaries; however, recent network studies of actors
+h as elite business leaders in a community (Laumann and Pappi 1976),
+rorganizational networks in a community (Galaskiewicz 1979, 1985;
+oke 1983; Knoke and Wood 1981; Knoke and Kuklinski 1982), and
+rorganizational networks across an entire nation (Levine 1972) have
+well-defined boundaries.
+
+n several applications, when the boundary is unknown, special samig techniques such as snowball sampling (Goodman 1949, 1961; Eron 1978) and random nets (first proposed by Rapoport 1949a, 1949b,
+0, and especially 1963: recently resurrected by Fararo 1981, 1983, and
+aro and Skvoretz 1984) can be used to define actor set boundaries.
+mples of social network studies using snowball sampling include:
+nson (1990) and Johnson, Boster, and Holbert (1989) on commercial
+ermen; Moore (1979) and Alba and Moore (1978) on elite networks.
+h sampling techniques are discussed in the next section.
+
+2.2.2 Sampling
+
+letimes, it may not be possible to take measurements on all the actors
+he relevant actor set. In such situations, a sample of actors may be
+n from the set, and inferences made about the “populationФ of actors
+1 the sample. Typically, the sampling mechanism is known, and the
+ple is a good, probability sample (with known selection probabilities).
+e will not assume in this book that the actors in the actor set(s)
+samples from some population. Most network studies focus on
+defined, completely enumerated sets, rather than on samples of
+ts from larger populations. Methodology for the latter situation is
+
+
+34 Social Network Data
+
+considerably different from methods for the former. With a sample, one
+usually views the sample as representative of the larger, theoretically
+interesting population (which must have a well-defined boundary and }
+hence, a known size), and uses the sampled actors and data to make @&
+inferences about the population. For example, in a study of major 4 j
+corporate actors in a national economy, a sample of corporations may E
+be taken in order to keep the size of the problem manageable; that is, it
+might take too much time and/or too many resources actually to take a
+census of this quite large population.
+
+There is a large literature on network sampling, both applied and
+theoretical. The primary focus of this literature is on the estimation of
+network properties, such as the average number of ties per actor (see
+Chapter 4), the degree of reciprocity present (see Chapter 13), the level
+of transitivity (see Chapters 6 and 14), the density of the relation under
+study (see Chapter 5), or the frequencies of ties between subgroups of
+actors (see Chapter 7) based on the sampled units.
+
+Frank (1977a, 1977b, 1977c, 1978b, 1979a, 1979b, 1980, 1985) is the
+most widely known and most important researcher of sampling for social
+networks. His classic work (Frank 1971) and more recent review papers
+(Frank 1981, 1988) present the basic solutions to the problems that arise
+when the entire actor set is not sampled. Erickson and Nosanchuk (1983)
+review the problems that can arise with network sampling based on a
+large-scale application of the standard procedures to a network of over!
+700 actors. Various other sampling models are discussed by Hayashi
+(1958), Goodman (1961), Bloemena (1964), Proctor (1967, 1969, 1979}
+Capobianco (1970), Sheardon (1970), and Cabobianco and Frank (198
+
+One very clever network sampling idea originated with Goodmat
+(1961). A snowball network sample begins when the actors in a sey
+of sampled respondents report on the actors to whom they have ties
+of a specific kind. All of these nominated actors constitute the “firsts
+
+orderФ zone of the network. The researcher then will sample all
+
+actors in this zone, and gather all the additional actors (those nominat
+
+by the actors in the first-order zone who are not among the origing
+respondents or those in this zone). These additional actors consti
+
+the “second-orderФ zone. This snowballing proceeds through severgg
+zones. Erickson (1978) and Frank (1979b) review snowball sampli :
+with the goal of understanding how other “chain methodsФ (meth
+designed to trace ties through a network from a source to an end;
+for example, Granovetter 1974, and Useem 1973, for applications)
+be used in practice. Chain methods include snowball sampling andi]
+
+*
+
+2.3 Types of Networks , mo 35
+
+small world teéhnique discussed below. Erickson also discusses at length
+Лthe differences between standard network sampling and chain methods.
+
+In some network sampling situations, it is not clear what the relevant
+sampling unit should be. Should one sample actors, pairs of actors, triples
+of actors, or perhaps even subsets of actors? Granovetter (1977a, 1977b)
+and Morgan and Rytina (1977) have sensitized the network community to
+these issues (see also Erickson, Nosanchuk, and Lee 1981, and Erickson .
+and Nosanchuk 1983). In other situations, one might sample actors,
+and have them report on their ties and the ties that might exist among
+the actors they choose or nominate. Such samples give rise to “egocenteredФ networks (defined later in this chapter). With a sample of
+ego-centered networks, one usually wants to make-inferences about the
+entire population of such networks (see for example, the epidemiological
+networks discussed by Klovdahl 1985; Laumann, Gagnon, Michaels,
+Michael, and Coleman 1989; and Morris 1989, 1990). Statistically,
+sampling dyads or ego-centered networks leads to sampling designs which
+are not simple; the sampling is actually clustered, and one must adjust
+the standard statistical summaries to allow for possible biases (Reitz and
+Dow 1989).
+
+2.3 Types of Networks
+
+There are many different types of social networks that can be studied.
+We will categorize networks by the nature of the sets of actors and
+the properties of the ties among them. As mentioned earlier in this
+chapter, we define the mode of a network as the number of sets of
+entities on which structural variables are measured. One-mode networks,
+the predominate type of network, study just a single set of actors, while
+two-mode networks focus on two sets of actors, or one set of actors and
+one set of events. One could even consider three- (and higher) mode
+networks, but rarely have social network methods been designed for such
+complicated data structures. Our discussion in this section is organized
+by the number of modes in the network. We will first discuss one-mode
+networks (with a single set of actors), then discuss two-mode networks,
+first with two sets of actors and then with one set of actors and one set
+Лof events. Applications of these three types of networks are the focus for
+Лmethods presented in this book.
+~~ The number of modes in a network refers to the number of distinct
+kinds of social entities in the network. This usage is slightly different from
+use of the term “modeФ in the psychometric literature (Tucker 1964;
+
+
+36 Social Network Data
+
+Carroll and Arabie 1980). In that literature, mode refers to a “particular
+class of entitiesФ (Carroll and Arabie 1980, page 610). Thus, a study in
+which subjects respond to a set of stimuli (such as questionnaire items)
+gives rise to two modes: the subjects and the stimulus items. In the
+standard sociometric data design, a number of actors are presented with
+a list of the names of other people in the actor set, and asked to rate
+
+each other person in terms of how much they “likeФ that person. In N
+a non-network context one could view these data as two-mode: the # °*
+people as respondents are the first mode, and the names of the people 2 }
+“as stimulus (questionnaire) items are the second mode. However, as a 4 t
+social network, these data contain only a single set of actors, and thus, 4 tc
+in our terminology, it is a one-mode network in which the relation of m
+friendship is measured on a single set of people. One might very well be 4 fy
+interested in studying the set of respondents making evaluations of the j q
+other people, in addition to studying the people as the “stimuliФ that are 4
+being evaluated. In that case one would consider respondents and stimuli °
+as two different modes (Feger and Bien 1982; Noma 1982b; Kumbasar, “
+Romney, and Batchelder n.d.). a “
+We first categorize networks by how many modes the network has (one B
+or two), and by whether affiliational variables are measured. There are Л u
+however, other kinds of relational data that are not one of these types. 8
+
+One example is data arising from an ego-centered network design. Dati
+on such networks are gathered using special sampling strategies thal
+allow the researcher to focus on a specific set of respondents, and the:
+ties that these respondents have to particular others. We briefly describe ¥
+special ego-centered networks and special dyadic designs at the end of
+this section.
+
+We turn now to a discussion of one-mode, two-mode, and then affili
+tional, and egocentric and special networks.
+
+2.3.1 One-Mode Networks
+Suppose the network under study is one-mode, and thus involves meaz
+
+surements on just a single set of actors. Consider first the nature of the se
+actors involved in such networks. 3
+
+* . game al
+
+Actors. The actors themselves can be of a variety of types se
+
+Specifically, the actors may be 3 N
+
+e People
+
+.
+- .
+
+23 Types of Networks Л : ; 37
+
+e Subgroups Л
+© Organizations
+e Collectives/Aggregates:
+
+— Communities
+
+~ Nation-states
+
+ote that subgroups usually consist of people, organizations usually
+mnsist of subgroups of people, while communities and nation-states are
+rger entities, containing many organizations and subgroups. Thus,
+ere is a natural progression of types of actors from sets of people,
+collections or aggregates. Throughout this book, we will illustrate
+ethodology with examples consisting of social network data on different
+pes of actors.
+
+Relations. The relations measured on the single set of actors in a
+ne-mode network are usually viewed as representing specific substantive
+nections, or “relational contentsФ (Knoke and Kuklinski 1982). These
+nections, measured at the level of pairs of actors, can be of many types.
+arnes (1972) distinguishes, quite generally, between attitudes, roles, and
+ansactions. Knoke and Kuklinski (1982) give a more extensive list of
+sneral kinds of relations. Specifically, the kinds of relations that we
+ight study include:
+
+e Individual evaluations: friendship, liking, respect, and so forth
+
+e Transactions or transfer of material resources: lending or borrowing; buying or selling
+
+e Transfer of non-material resources: communications, sending/
+receiving information ,
+
+e Interactions
+
+© Movement: physical (migration from place-to-place), social
+(movement between occupations or statuses)
+
+e Formal roles
+
+e Kinship: marriage, descent
+
+ne or more of these types of relations might be measured for a single
+t of actors.
+
+Individual evaluations are usually measurements of positive or negative
+fect of one person for another. Sometimes, these relations are labeled
+ntiment, and classically were the focus of the early sociometricians (see
+loreno 1934; Davis 1970; Davis and Leinhardt 1972). Without question,
+ch relations historically have been the most studied.
+
+
+38 Social Network Data
+
+Transactions, or transfers of material resources, include business transactions, imports and exports of goods, specific forms of social support,
+such as lending and borrowing, contacts made by one actor of another in
+order to secure valuable resources, and transfer of goods. Such relations
+include exchange of gifts, borrowing or lending items, and sales or purchases (Galaskiewicz and Marsden 1978; Galaskiewicz 1979; Laumann,
+Galaskiewicz, and Marsden 1978). Social support ties are also examples
+of transactions (Wellman 1992b).
+
+Transfers of non-material resources are frequently communications
+Лbetween actors, where ties represent messages transmitted or information
+
+received. These ties involve sending or receiving messages, giving or =
+receiving advice, passing on gossip, and providing novel information (Lin 2%
+
+1975; Rogers and Kincaid 1981; Granovetter 1974). Information about 3
+innovations is frequently diffused over such communication channels -g
+(Coleman, Katz, and Menzel 1966; Rogers 1979; Michaelson 1990). q
+Interactions involve the physical interaction of actors or their presence 4
+in the same place at the same time. Examples of interactions include: @
+sitting next to each other, attending the same party, visting a personСsЛ#
+home, hitting, hugging, disciplining, conversing, and so on. j
+Movement can also be studied using network data and processes.
+Individuals moving between communities can be counted, as well asС
+workers changing jobs or people changing statuses (see, for example,q
+Breiger 1981c). :
+Formal roles, such as those dictated by power and authority, are also
+relational. Ties can represent authority of one actor over others, especially,
+in a management setting (White 1961). Example of formal roles include
+boss/employee, teacher/student, doctor/ patient, and so on. a
+Lastly, kinship relations have been studied using network methods for:
+many years. Ties can be based on marriage or descent relationships andj
+marriage or family relationships can be described using social netwo
+methods (for example, see White 1963; Boyd 1969).
+
+the
+
+e net
+
+the actors. Such measurements of actor attribute variables constitute
+composition of the social network. : :
+These variables have the same nature as those measured in nog
+network studies. People can be queried about their age, gender, race
+socioeconomic status, place of residence, grade in school, and so «
+For corporate actors, one can measure their profitability, revenues, g¢og
+
+. . . «
+
+2.3 Types of Networks , so 30
+
+Лaphical location, purpose of business, and s6 on. The “size, shape, and
+
+ivorФ of the actors constituting the network can be measured in many
+ays. .
+
+2.3.2 Two-Mode Networks
+
+ippose now that the network under study is two-mode, and thus involves
+casurements on two sets of actors, or on a set of actors and a set of
+ents. We will first consider the case in which relations are measured
+| pairs of actors from two different actor sets. We will then discuss a
+
+ecial kind of two-mode network in which measurements are taken on
+bsets of actors. :
+
+Two Sets of Actors. Relations in a two-mode network measure
+s between the actors in one set and actors in a second set. We call such
+works dyadic two-mode networks, since these relations are functions
+dyads in which the first actor and the second actor in the dyad are
+m different sets.
+With respect to the different types of actors, the types of relations,
+i the types of actor attribute variables, all of our discussion about
+--mode networks is relevant. Note, however, that there can be multiple
+
+es of actors, and we can have a unique collection of attribute variables
+each set of actors,
+
+Actors. In a two-mode network that contains two sets of actors,
+@ actors can be of the general types as described for one-mode
+works. However, the two sets of actors may be of different types.
+
+Relations. In a two-mode network with two sets of actors, at
+t one relation is measured between actors in the two sets. In a more
+nsive two-mode network data set, relations can also be defined on
+ts within a set. However, for the network to be truly two-mode with
+sets of actors, at least one relation must be defined between the two
+of actors,
+n example of such a network can be found in Galaskiewicz and
+serman (1989). The data analyzed there consisted of two sets of
+ts: a collection of corporations headquartered in the Minneapolis/St.
+metropolitan area, and the non-profit organizations (such as the Red
+8s, United Way, public radio and television stations) which rely on
+ributions from the public sector for their Operating budgets. The
+
+
+40 Social Network Data
+
+primary relation was the flow of donations from the corporations to
+the non-profit organizations, clearly a two-mode relation. Also, it is 3
+important to note that this relation is unidirectional since it flows from g
+actors in one set to actors in the other set, but not the reverse. In addition, q
+the analysis by Galaskiewicz and Wasserman considered a number of 4
+relations defined just for the corporations (such as shared country club 3
+memberships among the chief executive officers) and several just for the
+non-profits (such as interlocking boards of directors). A part of this data
+
+set will be discussed in more detail later in this chapter. :
+
+—_| «se 1 om!
+
+One Set of Actors and One Set of Events. The next type off
+two-mode social network, which we refer to as an affiliation network,
+arises when one set of actors is measured with respect to attendance at,
+or affiliation with, a set of events or activities. The first mode in ang
+affiliation network is a set of actors, and the second is a set of events@
+which affiliates the actors. 4
+
+An example comes from Davis, Gardner, and Gardner (1941), asq
+described and analyzed by Homans (1950) and Breiger (1974). A set ai
+women attended a variety of social functions, and this attendance was
+recorded over a period of several months. Each social function can
+viewed as a variable, and a binary measurement made as to whether a!
+specific actor attended the specific function. These variables are termed
+affiliational. Such data and networks are called affiliation networks, of
+sometimes, membership networks. And since the affiliations are measured
+on subsets of actors, such networks are non-dyadic, two-mode network:
+
+]
+
+!
+Actors. In an affiliation network, we have a first set of actorsi : |
+and a second set of events or activities to which the actors in the first _
+set attend or belong. The types of actors in affiliation networks can ,
+exactly the same as those in one-mode and two-mode networks. The only
+requirement is that the actors must be affiliated with one or more events Л
+
+Events. In affiliation networks, actors (the first mode) are rela
+to each other through their joint affiliation with events (the second mode
+The events are often defined on the basis of membership in clubsФ)
+voluntary organizations (McPherson 1982), attendance at social eve
+(Davis, Gardner, and Gardner 1941), sitting on a board of directors,-o#
+socializing in a small group (Bernard, Killworth, and Sailer 1980, 1983
+Wilson 1982).
+
+*
+- + «
+
+2.3 Types af Networks , an 41
+
+The nature of the events, which affiliate the actors, depends on the
+ype of actors involved. People may attend social functions or belong to
+thletic clubs, subgroups of people may attend various committee meetngs (for example, departments at a major university send representatives
+0 college committee meetings), organizations may be represented on
+rious boards of directors in a community, or countries might belong
+o treaty organizations, and so on. -
+
+Attributes. We can have actor attribute variables that are of
+he same types as those for one-mode and two-mode networks. In
+dition, the events themselves may have characteristics associated with
+hem which can be measured and included in the. network data set.
+“or example, clubs will be of a particular size or located in a specific
+eographical area. Events usually occur at discrete points in time, as
+yell as in particular geographical places. Thus, there can be two sets of
+tribute variables in an affiliation network data set: attributes of the
+ctors, and attributes of the events.
+
+Methods for analyzing affiliation network data are described in Chaper 8, and are applied to a network data set giving the memberships of
+1 set of chief executive officers of major corporations in Minneapolis/St.
+Paul in a set of exclusive clubs.
+
+2.3.3 Ego-centered and Special Dyadic Networks
+
+Not all structural data give rise to standard social network data sets. With
+tandard network data (regardless of how many modes the network has),
+ne enumerates not only the actors, but the relevant pairs as well. All
+actors (theoretically) can relate to each other in one-mode networks.
+[n two-mode networks with two sets of actors, all actors in the first
+mode can (theoretically) relate to all in the second. However, some data
+collection designs gather structural information on some pairs but not
+others. An example of such data arises in studies of couples. Each partner
+in the couple can interact with the other but with no other person during
+ounseling sessions. Interactions during these sessions are then recorded.
+When interest centers on a collection of pairs (husband-wife, father-son,
+and so forth), one frequently samples from a large population of such
+pairs. We will refer to these non-network relational data as special dyadic
+designs,
+
+An actor may also relate to a limited number of “specialФ other
+actors. For example, one might observe mothers interacting with their
+
+
+42 Social Network Data
+
+own children in an experimental situation. In this case, mothers only
+interact with their own children, and children only interact with their j
+own mother. Thus, the partners for one person (either mother or child) @
+are different from the partners for another. In this situation, the design a
+of the experiment constrains the interactions among the set of people so
+that all people cannot, theoretically, interact with all others.
+
+Another related design is an ego-centered network. An ego-centered
+network consists of a focal actor, termed ego, as set of alters who have ties
+to ego, and measurements on the ties among these alters. For example,
+when studying people, one samples respondents, and each respondent 4
+reports on a set of alters to whom they are tied, and on the ties among F
+these alters. Such data are often referred to as personal network dat:
+Clearly these data are relational, but limited, since ties from each actor 4
+are measured only to some (usually only a few) alters. For example,4 :
+in 1985 the General Social Survey conducted by the National Opinion: a:
+Research Center (see Burt 1984, 1985) asked respondents: 4
+
+am Ff!
+
+Looking back over the last six months —- who are the people wit
+whom you discussed matters important to you? (1984, page 119)
+
+Respondents also reported on the ties between the people they list
+Bernard, Johnsen, Killworth, McCarty, Shelley, and Robinson (19
+Killworth, Johnsen, Bernard, Shelley, and McCarty (1990), Huang and
+Tausig (1990), Burt (1984, 1985), Marsden (1987, 1990b), Wellman (1993)
+as well as Campbell, Marsden, and Hurlbert (1986) discuss measuremen
+of such personal, ego-centered networks. a
+Ego-centered networks have been widely used by anthropologiststg
+study the social environment surrounding individuals (Boissevain 19
+or families (Bott 1957). Ego-centered networks are also used quite 0
+in the study of social support. The term “social supportФ has been u
+to refer to social relationships that aid the health or well-being of.
+individual. The emphasis on relationships has allowed researchers
+study support using social networks. Such networks are of great inte!
+in clinical and community psychology, as well as in sociology. A vat
+of hypotheses (see Hammer 1983; Cohen and Syme 1985) have b
+offered to explain how personal relationships, as reflected by suc! ,
+centered networks, can affect the emotional and physical well-be'
+an individual. .
+The methods described in this book assume that there are no,
+retical limitations on interactions among actors. A social network. af
+when all actors can, theoretically, have ties to all relevant actors. T
+
+2.4 Network Data, Measurement and Collection 43
+
+nary object of dtudy for methods discussed in this book is this complete
+ollection of actors (one or more sets) and the ti ties among them:
+
+2.4 Network Data, Measurement and Collection
+
+Ne now turn to issues concerning the measurement and collection of
+etwork data, the accuracy, validity, and error associated with these
+lata, and particular design considerations that can arise in network
+tudies.
+
+2.4.1 Measurement
+
+social network data differ from standard social and behavioral science
+lata in a number of important ways. Most importantly, social network
+lata consist of one (or more) relations measured among a set of actors.
+The presence of relations has implications for a number of measurement
+ssues, including the unit of observation (actor, pair of actors, relational
+ie, or event), the modeling unit (the actor, dyad, triad, subset of acors, or network), and the quantification of the relations (directional vs.
+hondirectional; dichotomous vs. valued). We will discuss each of these
+ssues in turn.
+
+Social network data can be studied at a number of different levels: the
+individual actor, the pair of actors or dyad, the triple of actors or triad,
+Лsubset of actors, or the network as a whole. We will refer to the level
+at which network data are studied as the modeling unit. However, social
+network data often are gathered at a level that is different from the level
+at which they are modeled. We discuss the unit of observation and the
+modeling unit in the next two sections.
+
+Unit of Observation. The unit of observation is the entity on
+Which measurements are taken. Most often social network data are
+pallected by observing, interviewing, or questioning individual actors
+out the ties from these actors to other actors in the set. Thus, the unit
+f-observation is an actor, from whom we elicit information about ties.
+the:dyad is the unit of observation when one measures ties among pairs
+Pactors directly. For example,-one could record instances of aggression
+hong pairs of children on a playground. When affiliation network data
+Лcollected, the unit of observation is often the event. The researcher
+sects events or social occasions, and for each event, records the actors
+e affiliated with it.

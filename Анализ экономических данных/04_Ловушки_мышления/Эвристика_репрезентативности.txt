@@ -1,0 +1,77 @@
+# Тема: Анализ экономических данных
+# Источник: Эвристика репрезентативности
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
+DOCUMENT TITLE: REPRESENTATIVENESS HEURISTIC
+Authors: Kursov, Barsukov, Vodolatskyy
+Total slides: 8
+
+GROUP B
+REPRESENTATIVENESS HEURISTIC
+Kursov Barsukov Vodolatskyy
+
+WHAT IS IT?
+DEFINITION
+Mental shortcut for judging the probability of an outcome in terms of how well it seems to represent or match a particular prototype
+
+Questions:
+• What is the probability that object A belongs to class B?
+• What is the probability that event A originates from process B?
+• What is the probability that process B will generate event A?
+
+ORIGINS
+FOUNDATION / ESTABLISHMENT / HISTORY
+
+Tversky, A.; Kahneman, D. (1974).
+Judgment under Uncertainty: Heuristics and Biases
+Science, 185(4157), 1124–1131.
+doi:10.1126/science.185.4157.1124
+
+Tversky, Amos; Kahneman, Daniel (1971).
+Belief in the law of small numbers.
+Psychological Bulletin, 76(2), 105–110.
+doi:10.1037/h0031322
+
+WRITE IT DOWN!
+Types of representativeness heuristic:
+• Insensitivity to prior probability of outcomes
+• Insensitivity to sample size
+• Misconceptions of chance
+• Insensitivity to predictability
+• The illusion of validity
+• Misconceptions of regression
+
+EXAMPLES
+
+01. GAMBLERСS FALLACY
+Misconception of chance
+
+02. MONTY HALL PROBLEM
+Insensitivity to prior probability of outcomes
+
+03. PIGMALION EFFECT
+The illusion of validity
+
+WHY GAMBLERS LOSE?
+LetСs play a game
+
+• The gambler's fallacy, also known as the Monte Carlo fallacy, occurs when an individual erroneously believes that a certain random event is less likely or more likely to happen based on the outcome of a previous event or series of events.
+• This can also be implied towards the stock market when you are an aggressive trader.
+
+Y SHOULD U SWITCH DOOR?
+Monty Hall Problem visual explanation with three doors:
+Door 1 – ?
+Door 2 – ?
+Door 3 – Goat (revealed)
+
+HOW RACISM WORKS?
+
+In theory:
+• Racism is based on Pygmalion Effect.
+• The phenomenon of a personСs subconscious misconception of judging strangers founded on their appearance and personСs social experience.
+
+In practice:
+• Overall, black Americans are arrested at 2.6 times the per-capita rate of all other Americans.
+• This ratio is higher for:
+  - Murder: 6.3 times
+  - Robbery: 8.1 times

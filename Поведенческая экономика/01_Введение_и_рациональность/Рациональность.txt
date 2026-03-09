@@ -1,0 +1,970 @@
+# Тема: Поведенческая экономика
+# Источник: Рациональность
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
+
+Behavioral
+
+Rationality and |
+
+BBA program
+
+Economics
+
+Decision-making
+
+Dr. Alexander Usvitskiy
+
+
+Warm up
+
+O Let us play a simple game first
+
+
+Rules are the following:
+
+. You pick a whole number, from
+. We calculate the average of all.
+. The winning number is the num
+
+In fact, this game is directly tot
+We are going to discuss the res
+
+0 to 100
+numbers
+iber closest to 2/3 of the average
+
+he concept of rationality
+ults later
+
+
+Rationality in Economics
+
+0 The concept of rationality plays
+
+0 Rationality is defined in a very 5
+
+O If certain assumptions about co
+then such consumers are consi
+
+an important role in Economics
+
+articular way in
+Consumer Choice Theory
+
+nsumersС preferences are satisfied,
+dered to be rational
+
+
+Consumer Choice
+
+Let us consider som
+(imagine carts in a superma
+
+yD
+0 O
+
+I. Completeness
+
+Oo Consumers can determine whet
+[B is preferred to A], or there is:
+
+© In other words, consumers can
+
+e bundles of goods
+rket with the same overall cost)
+
+=
+
+0°
+
+her [A preferred to B], or
+an [indifference between A and B]
+
+compare bundles
+
+
+Consumer Choice
+
+. Transitivity
+O Consider an example —
+
+0 The transitivity assumption
+states that coffee must be
+
+preferred to tea
+
+0 Why is this assumption important
+
+0 Allows to establish the order of of
+what
+
+| is preferred over
+
+is preferred over Gp
+
+—
+What about | VS Gy ?
+
+?
+
+tions (alternatives):
+(is better, what is worse
+
+
+Consumer Choice
+
+0 And this is it for rationality!
+
+© As long as consumersС preferen
+transitivity, such consumers are
+
+© More generally, the concept of ¢
+
+O Note that
+(1) we did not assume anything
+(2) we did not even introduce m
+
+ces satisfy completeness and
+» considered to be rational
+
+references is a cornerstone of
+Microeconomics
+
+specific about bundles
+oney (pure preferences)
+
+
+Consumer Choice
+
+oO One more important assumptio!
+
+Ill. Continuity
+0 In fact, continuity = no discontir
+
+Discontinuity appears when a c
+(and prefers even the smallest é
+
+0 This last assumption gives ecor
+models
+
+O However, itdoes NOT imply tha
+
+tg actially have mathamatical rn
+
+1uity in preferences
+
+onsumer cares only about one good
+mounts to everything else)
+
+1omists the ability to construct
+
+t economists assume people
+
+INdal in their mindc!
+
+
+Selfishness
+
+O A key notion discussed around
+O Moreover, these two terms are c
+© However, this is not so simple
+
+Oo Such new areas of economics a
+
+Experimental Economics, amon
+selfishness
+
+rationality is selfishness
+
+yften used interchangeably
+
+s Behavioral Economics and
+g other things, investigate
+
+
+Selfishness
+
+\e)
+
+Let us imagine that one bundle
+are going to be donated to the Ii
+
+© Does it necessarily make such |
+
+\e)
+
+Can a rational consumer pick st
+
+\e)
+
+If yes, does it break the rational
+
+\e)
+
+Actually, modern economics wo
+
+now contains some books, which
+brary (if the bundle is chosen)
+
+©)
+
+undle worse? v
+ich bundle?
+
+ity-selfishness link?
+
+nСt have any problems with that
+
+
+Selfishness
+
+O If you prefer (in other words, yo
+this is something valuable to yo
+
+0 Thus, doing itis both selfish an
+
+0 Incurring costs (money, time, ef
+is also not a problem
+
+0 In principle, volunteering shoulc
+differently than buying an apple
+(as long as you enjoy both volu
+
+u like) to care about others, then
+u
+
+d rational ©)
+fort) to help others V
+1 not be treated
+
+for yourself
+nteering and apples)
+
+
+Rationality
+
+O Now let us consider a so-called
+
+1. Player 1 proposes a way to spli
+(that is, how much player 1 wou
+
+2. Player 2 can either (A) acce
+(R) refu
+3. Game ends
+
+iA
+
+“ultimatum gameФ
+
+t $10 (“a pieФ) with player 2
+Id get; player 2 would get)
+spt — split happens
+
+se — both players get $0
+
+
+Rationality
+
+O Let us limit the proposal option:
+O For example, player 1 can eithe!
+
+(8/2) means that player 1 gets 8,
+O What would you do as player 17
+oO What would you do as player 2 |
+
+oO What would you do as player 2 |
+
+5 (player 1) to
+just two of them
+
+Л offer (8/2) or (5/5)
+and player 2 gets 2
+
+f you get the (8/2) offer?
+
+if you get the (5/5) offer?
+
+
+Rationality
+O Let us limit the proposal option:
+
+O For example, player 1 can eithe!
+(8/2) means that player 1 gets 8,
+
+Now we will consider 4 separate
+
+. Player 1 can offer (8/2) or (5/5)
+. Player 1 can offer (8/2) or (2/8)
+. Player 1 can offer (8/2) or (8/2)
+. Player 1 can offer (8/2) or (10/0)
+
+m@OQNM=— o
+
+5 (player 1) to
+just two of them
+
+Л offer (8/2) or (5/5)
+and player 2 gets 2
+
+> Games:
+
+
+Rationality
+
+im GN —
+
+What happens when real people
+with real money? (Falk, Fehr, and
+
+What is the rejection rate for the
+
+. Player 1 can offer (8/2) or (5/5)
+. Player 1 can offer (8/2) or (2/8)
+. Player 1 can offer (8/2) or (8/2)
+. Player 1 can offer (8/2) or (10/0)
+
+play these games
+Fischbacher, 2003)
+
+» (8/2) offer across games?
+
+45% refused (8/2)
+2/% refused (8/2)
+18% refused (8/2)
+9% refused (8/2)
+
+
+Rationality
+
+O What these results show is that
+affect our decision-making
+
+0 That is, people take such eleme
+O Then they are also parts of bun
+
+O For example, good or bad servi
+can change your preference orca
+
+O This can be considered as a rat
+
+even intentions of others can
+
+nts into consideratio fy
+ties
+
+se at a restaurant
+lering
+
+ional choice
+
+
+Guessing game
+
+O Let us play the initial guessing «
+© Rules are the following:
+. You pick a whole number, from
+
+. We calculate the average of all.
+. The winning number is the num
+
+OQ) N =
+
+yame again
+
+0 to 100
+numbers
+iber closest to 2/3 of the average
+
+
+Guessing game
+
+© How is this game related to the
+
+0 Rationality is frequently conside
+intelligent (similarly to being se
+
+O When this game is played with t
+people frequently choose
+0 67 (2/3 of 100)
+O 44 (2/3 of 67)
+0 30 (2/3 of 45)
+0 20 (2/3 of 30)
+O ...
+
+concept of rationality?
+
+sred to be a synonym to being
+fish, which we discussed)
+
+eal incentives (money prizes),
+
+
+Guessing game
+
+© Note that numbers from 0 to 10
+(in other words, shopping carts
+
+© The results can be directly linke
+which will be considered later ir
+O Level of reasoning
+
+© Common knowledge of
+
+) are your alternatives
+
+!)
+
+d to the following concepts
+1 the course
+
+rationality
+
+
+Summary
+
+© So far, we discussed:
+
+© How rationality is define
+to the choices of altern<
+
+© Rationality & Selfishnes
+© Rationality & Intelligenc
+
+© Moreover, we touched upon the
+one economic agent and rationé
+
+2d through assumptions related
+atives (preferences)
+
+1S
+e
+
+relations between rationality of
+lity of another economic agent
+
+
+Future
+
+0 Ultimately, what we discussed v
+
+1.
+(standard ¢
+
+2.
+(modern modifications bette
+
+© What about the future?
+
+O Generally, there is an unresolve
+preferences (they can change o
+
+Oo One somewhat related concept
+flexibilityФ
+
+yas about
+
+Past
+>conomic theory)
+
+Present
+2r incorporating real human behavior)
+
+d issue with instability of
+ver time)
+
+is so-called “preference for
+
+
+Rationality
+
+O Moreover, there is a point of vie
+O These are referred to as “ration:
+0 Two rational orders exist simult
+1. Constructivist ratic
+2. Ecological rational
+
+0 What do you think these mean?
+
+w concerning two forms of rationality
+al ordersФ
+
+aneously
+
+onality
+
+lity
+
+
+Constructivist rationality
+
+O The theory is intensively constr
+© Good theory does useful work
+0 It provides predictions for
+
+0 It provides possible under
+mechanisms
+
+O Consider two observations: win
+
+0 Physical theories provide expla
+trees to shake
+
+uctivist
+
+something that has never happened
+
+lying explanations and/or
+
+d blowing and trees shaking
+
+nations for HOW wind can cause
+
+
+Constructivist rationality
+
+© Theory should be (and is being)
+
+0 In the laboratory
+Economics)
+
+© Through observations “in
+Economics)
+
+© Moreover, theory is usually info
+observations
+
+tested:
+(Experimental
+
+the fieldФ (Applied
+
+rmed (or motivated) by the
+
+
+Two forms of rationality
+
+O Hayek (1899 — 1992) linked cons
+rationality with Rene Descartes
+Francis Bacon and Thomas Hok
+believed and argued that all wo!
+institutions were and should be
+conscious deductive processes
+reason
+
+structivist
+(also Sir
+ybes), who
+Лthwhile social
+created by
+/of human
+
+
+Two forms of rationality
+
+O Hayek (1973):
+
+The first constructivist view of rati
+
+“... gives us a sense of unlimited p
+holds that human institutions will s¢
+been deliberately designed for tt
+existence] . . . is evidence of its h
+always that we should so re-desigr
+actions will be guided by known purt
+This view is rooted...ina... pror
+regularity ... as the result of the des
+
+onality ...
+
+ower to realize our wishes ... [and] ...
+srve human purposes only if they have
+ese purposes. . . . [An _institutionСs
+aving been created for a purpose, and
+1 society and its institutions that all our
+oses....
+
+ensity of primitive thought to interpret all
+ign of a thinking mindФ
+
+
+Two forms of rationality
+
+Roughly, we ...
+
+© associate constructivism wi
+informally, rational individual ac
+systems
+
+(in cont
+
+© link ecological rationality wit!
+group processes of discovery iI
+
+th attempts to model, formally or
+tion and to invent or design social
+
+rast)
+
+n adaptive human decision and with
+1 natural social systems
+
+
+Two forms of rationality
+
+O Every business decision is som
+appropriate action
+
+© Whether that decision is ecolog
+forces far beyond the originator
+
+© And so the ecological rationalit'
+evolutionary, and/or historical b
+
+eoneСs constructivist idea of a best or
+ically fit is up to socioeconomic
+
+y always has an empirical,
+asis
+
+
+Two forms of rationality
+
+© Note 1: it works similarly in biol
+reasonable to have many eyes f
+certain species actually ended |
+evolutionary stable feature)
+
+© Note 2: even though artificial int
+models yet, its theory-driven re:
+poorly in the real world
+
+ogy — while it might look very
+or better awareness [theory], only
+ip having such feature (as an
+
+telligence (Al) is not building “realФ
+sults might also perform incredibly
+
+
+Two forms of rationality
+
+oO When constructivist rationality ;
+lead to some form of implement
+
+acceptability, fitness, and/or mo
+
+O The sooner a constructivist pro
+filtering, the sooner people lear
+
+0 Thus, pilot episodes of shows a
+
+and its specific abstract propositions
+ation, those must survive tests of
+dification
+
+gram is subjected to ecological
+n how it will fare in surviving
+
+re being created
+
+
+Two forms of rationality
+
+O Frequently, we naturally recogn
+is so firmly a part of the human.
+anthropocentric need to think it
+
+(anthropocentric ~ hum
+
+0 In contrast, emergent rational o
+perception, intellectual curiosity
+
+O Therefore, they are not a natura
+professional investigations com
+constructs of what it means to t
+seen as a deliberate self-conscli
+
+ize only one rational order because it
+1ess of our reason and our mindСs
+is in control
+
+an central)
+
+rders are not plainly visible to our
+/, and reason
+
+| part of economistsС theoretical and
+imitted to developing analytical
+yehave rationally, which is plainly
+ously aware form of action
+
+
+Behavioral Economics
+
+0 In particular, “fathersФ of moder
+
+O People are rational and make de
+maximize their well-being and b
+
+O Humans are «homo economicu:
+
+¢ rational and self-interested
+
+¢ always strive to maximize utili
+¢ learning from experience
+«having stable and consistent ¢
+
+n economics claimed that ...
+
+cisions based on what they think will
+ring them the most financial gain
+Adam Smith (1723 - 1790)
+
+>»:
+
+VAG
+
+references
+John Stuart Mill (1806-1873)
+
+
+Behavioral Economics
+
+O However, the development of Be
+Psychology) lead to the discove
+
+0 That is, people might be making
+
+O Moreover, this is the human nat
+systematic way
+
+oO And in many cases, it involves ¢
+making process
+
+0 Bounded rationality is the theor
+rational decision makina. driver
+
+s>havioral Economics (and Economic
+ry of numerous heuristics and biases
+
+| sub-optimal choices
+ure which generates these ina
+
+»pting out of the costly decision-
+
+y that consumers have limited
+1 by three main factors — cognitive
+
+
+Heuristic:
+
+BBA program
+
+; & Biases
+
+Dr. Alexander Usvitskiy
+
+
+Behavioral Economics
+
+f
+
+“Thinking,
+ners
+fast ~~
+andslow -
+DANIEL
+KAHNEMAN
+
+THE MOST INFLUENTIAL BOOK YOU'LL READ THIS YEAR
+
+NOW A MAJOR BESTSELLER
+
+Daniel Kahn
+the most fan
+discovering
+them now
+
+In terms of t
+slowФ, deci:
+
+Systen
+or
+Systen
+
+eman (born March 5, 1934) — one of
+
+nous researchers responsible for
+
+heuristics and biases as we know
+[Nobel Prize 2002]
+
+CahnemanСs book “Thinking fast and
+sions are driven by either
+
+11, immediate, quick and unreflexive,
+
+1 2, considerate, slow, and reflective
+
+
+Behavioral Economics
+
+O Suppose you are a medical doc
+strategies of coping with heavy
+people for sure unless you intet
+
+OA 400 people will die
+0B With probability 1/3, 0 p
+with probability 2/3, 600
+
+tor, and you must choose among two
+infectious disease that will kill 600
+Лvene
+
+eople will die, and
+people will die
+
+
+Behavioral Economics
+
+O Suppose you are a medical doc
+strategies of coping with heavy
+people for sure unless you intet
+
+oC 200 people will be savec
+oD With probability 1/3, all |
+with probability 2/3, nok
+
+tor, and you must choose among two
+infectious disease that will kill 600
+Лvene
+
+|
+600 people will be saved, and
+ody will be saved
+
+
+Behavioral Economics
+
+O Suppose you are a medical doctor, al
+of coping with heavy infectious diseé
+you intervene
+
+Oo A 400 people will die
+
+o B With probability 1/3, 0 peop
+with probability 2/3, 600 pec
+
+oC 200 people will be saved
+
+o D With probability 1/3, all 600
+
+with probability 2/3, nobody
+
+© Both formulations are clearly identic:
+option A was chosen by 22% of respc
+option C was chosen by 72% vs. 28%
+
+1d you must choose among two strategies
+ise that will kill 600 people for sure unless
+
+le will die, and
+yple will die
+
+people will be saved, and
+
+will be saved
+
+al, yet in Tversky and Kahneman (1986),
+yndents vs. 78% for option B, while
+
+for option D “Framing effectФ !!!
+
+
+Framing
+
+O Framing effects occur when pec
+options are framed (that is, wor
+O There are many kinds of framing
+O In 2007, the Associated Pres
+was likely to lose his license
+(112 mph) in a 100 km/h (62
+O However, the judge reduced
+seemed Лvery excessive,С bu
+
+into miles per hour.Ф
+O The judgeСs assessment ap}
+speeding was described int
+
+ypleСs preferences depend on how the
+ded)
+
+j effects
+
+$s reported that Irishman David Clarke
+
+2 after being caught driving 180 km/h
+mph) zone.
+
+the charge, “saying the speed [in km/h]
+it did not look Лas badС when converted
+
+years to depend on whether ClarkeСs
+erms of km/h or mph.
+
+
+Framing
+
+oO Framing matters in many domai
+
+O For example, people traveling tc
+sometimes fall prey to what is c
+
+© Even if you know that 1 British |
+pounds for a drink might strike
+
+oO Framing works because people
+passive decision makers
+
+© As a result, reframing the quest
+
+ns
+
+» countries with a different currency
+alled money illusion
+
+sound = 1.5 US dollars, paying 2
+you as better than paying 3 dollars
+
+tend to be somewhat mindless,
+
+ions might produce different answers
+
+
+More heuristics & biases
+
+Non-exhaustive list:
+
+Opportunity cost ignorance
+Sunk cost fallacy
+Overconfidence
+
+Availability heuristic
+Representativeness heuristic
+Anchoring
+
+Endowment effect
+
+Decoy effect
+
+. Confirmation bias
+
+10. Self-serving bias
+
+OHONOUIPwWNhH =
+
++ more heuristics & biases in risk-
+
+related and time-related topics
+

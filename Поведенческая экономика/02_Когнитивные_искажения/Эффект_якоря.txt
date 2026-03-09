@@ -1,0 +1,76 @@
+# Тема: Поведенческая экономика
+# Источник: Эффект якоря
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
+
+--- Slide 1 ---
+
+Anchoring effect
+Team A:
+Chumakov Andrey Prohorov Roman
+Zimin Maxim
+
+--- Slide 2 ---
+
+Introduction
+Anchoring effect is one the most common cognitive biases. The essence of it is that people tend to exaggerate the importance of previous information when making decision even if this information is not connected to current situation.
+
+--- Slide 3 ---
+
+One illustrative example
+
+--- Slide 4 ---
+
+“FathersФ and development
+First notion - by Slovic (1967), who studied descriptions of preference reversals (as cited in Chapman and Johnson, 1999)[2]
+Anchoring-and-adjustment heuristics by Tversky and Kahneman (1974) in their pioneering work on judgment under uncertainty[2]
+
+--- Slide 5 ---
+
+Classical Experiment
+Two randomly generated numbers between 10 and 65
+Two groups and questions:
+Is the share of African countries among the UN members greater or less than the number you just got? In your opinion, what proportion do African countries make up among the UN members?
+Average answers were 25% and 45% accordingly. [1]
+
+--- Slide 6 ---
+
+Our Research
+Questions:
+Is the length of the Bosphorus greater or less than 7.5 km? And what is its length in your opinion?
+8 answers, overage - 8.8 km
+Is the length of the Bosphorus greater or less than 78 km? And what is its length in your opinion?
+10 answers, overage - 60.7 km
+
+--- Slide 7 ---
+
+Reasons of anchoring effect
+There are two things which leads to anchoring. They are associated with two different systems of our brain:
+
+--- Slide 8 ---
+
+Anchoring effect as an attempt of adjustment
+From this side this effect is a strategy for estimating unknown values: we start with the number-anchor, assess how small or large it is, and gradually adjust our own assessment, mentally «departing from the anchor». But we usually start to doubt at some moment (Eldar Shafir and Tom Gilovich proved it)
+
+--- Slide 9 ---
+
+Anchoring as a part of priming effect
+System 1 understands sentences and tries to make them true. Selective activation of suitable thoughts generates a whole set of mistakes, making us prone to a belief in any of our ideas (Thomas Mussveiler and Fritz Strack demonstrated it)
+
+--- Slide 10 ---
+
+Anchoring index
+The anchoring effect can be measured, which is very rare thing, and the results are all impressive.
+Index will be 100% for those who submit to an anchor as an assessment, and zero for those who are able to ignore it. 55% - is a typical result
+
+--- Slide 11 ---
+
+Everyday examples:
+
+--- Slide 12 ---
+
+Literature
+[1] - Judgment under Uncertainty: Heuristics and Biases (Amos Tversky, Daniel Kahneman) - https://www.jstor.org/stable/1738360
+[2] - A literature review of the anchoring effect - https://clck.ru/35aLy8
+[3] - Thinking, fast and slow (Daniel Kahneman)
+[4] - An introduction to the anchoring problem (Silvia Coradeschi)

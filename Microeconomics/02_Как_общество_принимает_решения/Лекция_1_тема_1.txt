@@ -1,0 +1,258 @@
+# Тема: Microeconomics
+# Источник: Лекция 1 тема 1
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
+Microeconomics — Topic 1
+Social Choice Welfare: Preferences, Aggregation, Welfare Measures
+Shahir Safi
+New Economic School (NES)
+September 11, 2025
+Total slides: 20
+
+
+Microeconomics — Topic 1
+Social Choice Welfare: Preferences, Aggregation, Welfare Measures
+Shahir Safi
+New Economic School (NES)
+September 11, 2025
+Page 1 / 20
+
+TodayСs Agenda (90 min)
+• Preferences: foundations of choice (20 min)
+• Aggregating preferences: the social choice problem (25 min)
+• Welfare measures: efficiency vs equity (25 min)
+• Practice Q→A (15–20 min)
+Page 2 / 20
+
+What Are Preferences?
+Preferences describe how an individual ranks alternatives.
+Notation: a ≽ b means “a is weakly preferred to b.Ф
+Completeness: any two alternatives can be compared.
+Transitivity: rankings are consistent (no cycles).
+With completeness & transitivity, preferences can be represented by a utility function.
+Page 3 / 20
+
+Practice Question 1
+Q1. Define completeness and transitivity in preferences.
+Why are they important for rational choice?
+Page 4 / 20
+
+Answer 1
+Completeness:
+For any two alternatives a, b, either a ≽ b or b ≽ a (or both ⇒ a ∼ b).
+Transitivity:
+If a ≽ b and b ≽ c, then a ≽ c.
+These properties ensure coherent, predictable choices (no preference cycles).
+Page 5 / 20
+
+From Individuals to Society
+A social choice rule combines individual rankings into a social ranking.
+Examples:
+• Majority rule
+• Borda count
+• (Extreme) dictatorship
+Issue: heterogeneous preferences can yield cycles/inconsistencies.
+Page 6 / 20
+
+Practice Question 2 — Majority Rule with 3 Voters
+Three voters rank Pizza (P), Salad (S), Burger (B):
+
+Voter 1:
+1st: P
+2nd: S
+3rd: B
+
+Voter 2:
+1st: S
+2nd: B
+3rd: P
+
+Voter 3:
+1st: B
+2nd: P
+3rd: S
+
+Using majority rule, determine the winner for:
+• P vs S
+• S vs B
+• B vs P
+
+What do you conclude?
+Page 7 / 20
+
+Answer 2
+P vs S:
+Voters 1 & 3 prefer P → P wins (2–1).
+S vs B:
+Voters 1 & 2 prefer S → S wins (2–1).
+B vs P:
+Voters 2 & 3 prefer B → B wins (2–1).
+
+Conclusion:
+P ≻ S, S ≻ B, B ≻ P — a Condorcet cycle.
+SocietyСs preferences can be intransitive even if each individual is rational.
+Page 8 / 20
+
+ArrowСs Impossibility Theorem (Informal)
+No aggregation rule satisfies all at once:
+• Unrestricted domain (any rational profiles allowed)
+• Pareto efficiency
+• Independence of irrelevant alternatives (IIA)
+• Non-dictatorship
+
+Implication:
+Every reasonable rule sacrifices at least one desideratum.
+Page 9 / 20
+
+Measuring Social Welfare
+Utilitarian social welfare function (SWF):
+W = Σ ui  (maximize total utility)
+
+Rawlsian (Max–Min) SWF:
+W = min ui  (focus on the worst-off)
+
+Pareto efficiency:
+No feasible change can make someone better off without making someone else worse off.
+
+Efficiency vs equity trade-offs are central.
+Page 10 / 20
+
+Practice Question 3 — Welfare Comparison
+Income allocations ($):
+
+Allocation A:
+Alice: 100
+Bob: 20
+
+Allocation B:
+Alice: 70
+Bob: 70
+
+Questions:
+• Which allocation does utilitarian welfare prefer?
+• Which does Rawlsian welfare prefer?
+Page 11 / 20
+
+Answer 3
+Utilitarian totals:
+A = 120
+B = 140
+→ Utilitarian prefers B.
+
+Rawlsian minima:
+min(A) = 20
+min(B) = 70
+→ Rawlsian prefers B.
+
+Both criteria select B, but for different reasons (sum vs worst-off).
+Page 12 / 20
+
+Practice Question 4 — Adding a Third Allocation
+Add allocation C:
+
+Allocation A:
+Alice: 100
+Bob: 20
+
+Allocation B:
+Alice: 70
+Bob: 70
+
+Allocation C:
+Alice: 90
+Bob: 90
+
+Rank A, B, C under:
+• Utilitarian welfare
+• Rawlsian welfare
+Page 13 / 20
+
+Answer 4
+Utilitarian sums:
+A = 120
+B = 140
+C = 180
+→ Ranking: C ≻ B ≻ A.
+
+Rawlsian minima:
+min(A) = 20
+min(B) = 70
+min(C) = 90
+→ Ranking: C ≻ B ≻ A.
+
+Both agree here: C dominates.
+In general, the two criteria can diverge.
+Page 14 / 20
+
+Practice Question 5 — When Criteria Diverge
+Consider:
+
+Allocation D:
+Alice: 100
+Bob: 100
+Carol: 0
+
+Allocation E:
+Alice: 60
+Bob: 60
+Carol: 60
+
+Questions:
+• Which allocation is preferred by utilitarian welfare?
+• Which by Rawlsian welfare?
+Page 15 / 20
+
+Answer 5
+Utilitarian totals:
+D = 200
+E = 180
+→ Utilitarian prefers D.
+
+Rawlsian minima:
+min(D) = 0
+min(E) = 60
+→ Rawlsian prefers E.
+
+Here the criteria diverge:
+Utilitarian favors higher total.
+Rawlsian protects the worst-off.
+Page 16 / 20
+
+Practice Question 6 — Pareto Efficiency
+Allocations:
+
+Allocation F:
+Alice: 80
+Bob: 60
+
+Allocation G:
+Alice: 85
+Bob: 55
+
+Question:
+Are the allocations Pareto comparable?
+Is either allocation Pareto dominated?
+Page 17 / 20
+
+Answer 6
+G makes Alice better off (85 vs 80),
+but Bob worse off (55 vs 60).
+
+Neither F nor G Pareto dominates the other.
+Both are Pareto efficient relative to one another.
+Page 18 / 20
+
+Key Takeaways
+• Individual rationality requires completeness and transitivity.
+• Aggregation can generate cycles (Condorcet).
+• Arrow shows no perfect aggregation rule.
+• Welfare criteria: utilitarian vs Rawlsian.
+• Pareto efficiency and equity–efficiency trade-offs.
+• Different criteria can agree or diverge depending on distributions.
+Page 19 / 20
+
+Next Steps
+• Read Geanakoplos (2005) for concise proofs of ArrowСs theorem.
+• Design a simple aggregation rule and identify which Arrow condition it violates.
+• Bring one real policy example where utilitarian and Rawlsian rankings might conflict.
+Page 20 / 20

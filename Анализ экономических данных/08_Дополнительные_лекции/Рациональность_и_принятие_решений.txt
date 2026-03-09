@@ -1,0 +1,258 @@
+# Тема: Анализ экономических данных
+# Источник: Рациональность и принятие решений
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
+Document title: Rationality and Decision-making
+Program: BBA program, SKOLKOVO
+Course: Behavioral Economics
+Instructor: Dr. Alexander Usvitskiy
+Total slides: 41
+
+BBA program
+Behavioral Economics
+Rationality and Decision-making
+Dr. Alexander Usvitskiy
+
+Let us play a simple game first
+Rules are the following:
+• You pick a whole number, from 0 to 100
+• We calculate the average of all numbers
+• The winning number is the number closest to 2/3 of the average
+In fact, this game is directly to the concept of rationality
+We are going to discuss the results later
+Warm up
+
+The concept of rationality plays an important role in Economics
+Rationality is defined in a very particular way in Consumer Choice Theory
+If certain assumptions about consumersС preferences are satisfied,
+then such consumers are considered to be rational
+Rationality in Economics
+
+Let us consider some bundles of goods
+(imagine carts in a supermarket with the same overall cost)
+I. Completeness
+Consumers can determine whether:
+[A preferred to B], or
+[B is preferred to A], or
+[there is an indifference between A and B]
+In other words, consumers can compare bundles
+Consumer Choice
+
+What about VS?
+II. Transitivity
+The transitivity assumption states that coffee must be preferred to tea
+Why is this assumption important?
+Allows to establish the order of options (alternatives):
+what is better, what is worse
+Consumer Choice
+
+And this is it for rationality!
+As long as consumersС preferences satisfy completeness and transitivity,
+such consumers are considered to be rational
+More generally, the concept of preferences is a cornerstone of Microeconomics
+Note that:
+(1) we did not assume anything specific about bundles
+(2) we did not even introduce money (pure preferences)
+Consumer Choice
+
+One more important assumption
+III. Continuity
+Continuity = no discontinuity in preferences
+Discontinuity appears when a consumer cares only about one good
+(and prefers even the smallest amounts to everything else)
+This last assumption gives economists the ability to construct models
+However, it does NOT imply that economists assume people
+to actually have mathematical model in their minds!
+Consumer Choice
+
+A key notion discussed around rationality is selfishness
+Moreover, these two terms are often used interchangeably
+However, this is not so simple
+Such new areas of economics as Behavioral Economics and
+Experimental Economics investigate selfishness
+Selfishness
+
+Let us imagine that one bundle now contains some books,
+which are going to be donated to the library (if the bundle is chosen)
+Does it necessarily make such bundle worse?
+Can a rational consumer pick such bundle?
+If yes, does it break the rationality-selfishness link?
+Modern economics has no problem with that
+Selfishness
+
+If you prefer to care about others, then this is valuable to you
+Thus, doing it is both selfish and rational
+Incurring costs (money, time, effort) to help others is not a problem
+Volunteering should not be treated differently than buying an apple
+(as long as you enjoy both)
+Selfishness
+
+Ultimatum game:
+• Player 1 proposes a way to split $10 with player 2
+• Player 2 can accept (split happens) or refuse (both get $0)
+• Game ends
+Rationality
+
+Proposal options:
+(8/2) or (5/5)
+What would you do as player 1?
+What would you do as player 2?
+Rationality
+
+Four games:
+1. (8/2) or (5/5)
+2. (8/2) or (2/8)
+3. (8/2) or (8/2)
+4. (8/2) or (10/0)
+Rationality
+
+Experimental results (Falk, Fehr, Fischbacher, 2003)
+Rejection rates for (8/2):
+• 45%
+• 27%
+• 18%
+• 9%
+Rationality
+
+Intentions of others affect decision-making
+They become part of the bundle
+Example: service quality in a restaurant
+This can still be rational choice
+Rationality
+
+Guessing game repeated:
+Pick number 0–100
+Average calculated
+Winning number is closest to 2/3 of average
+Guessing game
+
+People often choose:
+67 → 44 → 30 → 20 → ...
+Illustrates level of reasoning
+Guessing game
+
+Alternatives are numbers 0–100
+Concepts:
+• Level of reasoning
+• Common knowledge of rationality
+Guessing game
+
+Summary:
+• Rationality via preferences
+• Rationality vs selfishness
+• Rationality vs intelligence
+• Interaction of rational agents
+Summary
+
+Past, present, future of rationality
+Problem: instability of preferences
+Concept: preference for flexibility
+Future
+
+Two forms of rationality:
+1. Constructivist rationality
+2. Ecological rationality
+Rationality
+
+Constructivist rationality:
+Theory explains mechanisms
+Provides predictions
+Example: wind and trees
+Constructivist rationality
+
+Theory testing:
+• Lab experiments
+• Field observations
+Theory informed by observation
+Constructivist rationality
+
+Hayek linked constructivism to Descartes, Bacon, Hobbes
+Institutions as deliberate designs
+Two forms of rationality
+
+Hayek (1973) quote:
+Institutions seen as deliberately designed
+Rooted in primitive interpretation of order
+Two forms of rationality
+
+Constructivist vs ecological rationality
+Ecological linked to adaptation and group processes
+Two forms of rationality
+
+Business decisions:
+Constructivist ideas tested by ecological reality
+Evolutionary and historical filters apply
+Two forms of rationality
+
+Biology analogy:
+Not all reasonable traits survive
+AI models may fail in real world
+Two forms of rationality
+
+Implementation must survive ecological filtering
+Pilot episodes analogy
+Two forms of rationality
+
+Humans perceive only constructivist rationality
+Emergent orders less visible
+Two forms of rationality
+
+Classical economics:
+Adam Smith, John Stuart Mill
+Homo economicus:
+• rational
+• self-interested
+• utility-maximizing
+Behavioral Economics
+
+Behavioral Economics:
+Heuristics and biases
+Bounded rationality
+Cognitive limitations
+Behavioral Economics
+
+Heuristics & Biases
+BBA program
+Dr. Alexander Usvitskiy
+
+Daniel Kahneman
+Nobel Prize 2002
+System 1 vs System 2
+Behavioral Economics
+
+Medical decision problem:
+A: 400 die
+B: probabilistic outcomes
+Behavioral Economics
+
+Equivalent framing:
+C: 200 saved
+D: probabilistic saving
+Behavioral Economics
+
+Different choices despite identical outcomes
+Framing effect
+Behavioral Economics
+
+Framing definition
+Example: km/h vs mph speeding case
+Framing
+
+Money illusion example
+Framing affects perception
+Framing
+
+List of heuristics & biases:
+• Opportunity cost ignorance
+• Sunk cost fallacy
+• Overconfidence
+• Availability heuristic
+• Representativeness heuristic
+• Anchoring
+• Endowment effect
+• Decoy effect
+• Confirmation bias
+• Self-serving bias
+More heuristics & biases
+
+Q & A

@@ -1,0 +1,149 @@
+# Тема: Анализ экономических данных
+# Источник: Предвзятость подтверждения выдержки
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
+CONFIRMATION BIAS
+Presented by:
+BBA
+Bugaeva Maria
+Glagolev Matvei
+Sadykov Airat
+
+Total slides: 10
+
+Presented by:
+CONFIRMATION
+BBA
+BIAS
+
+Bugaeva Maria
+Glagolev Matvei
+Sadykov Airat
+
+BBA
+
+YOUR TASK IS TO TURN OVER AS FEW CARDS AS POSSIBLE IN ORDER TO TEST THE FOLLOWING STATEMENT:
+EVERY CARD THAT HAS A VOWEL ON ONE SIDE HAS AN EVEN NUMBER ON THE OTHER SIDE.
+
+figure out the order!
+
+A   B   2   3
+
+Basically, itТs good idea to turn over card «AФ or «2Ф / «BФ or «3Ф !
+
+But concept to open the «2Ф or «AФ / «3Ф or «BФ is unuseful...
+
+Because!
+As long as the presence of a vowel on the back of the card corresponds to an observation that confirms the hypothesis, turning the card over will neither disprove nor confirm the statement.
+
+Instead, to refute the statement, you must select and turn over card «3Ф / «2Ф
+
+First, people tend to look for confirming evidence rather than refuting evidence.
+This tendency is called confirmation bias.
+
+Second, confirmation bias can be exacerbated when unfounded assumptions make disconfirming evidence less likely.
+
+*In the 1960s, Peter Wason
+
+BBA
+
+BBA
+
+Only seeking out information that confirms your beliefs and ignoring or discredit information that doesn't support them.
+Looking for evidence that confirms what you already think is true, rather than considering all of the evidence available.
+Relying on stereotypes or personal biases when assessing information.
+Selectively remembering information that supports your views while forgetting or discounting information that doesn't.
+Having a strong emotional reaction to information (positive or negative) that confirms your beliefs, while remaining relatively unaffected by information that doesn't.
+
+CONFIRMATION
+BIAS
+is the tendency of people to favor information that confirms or strengthens their beliefs or values and is difficult to dislodge once affirmed.
+
+SIGNS:
+*Definition and context - wikipedia
+
+BBA
+
+TYPES OF CONFIRMATION BIAS:
+
+Biased attention
+This is when we selectively focus on information that confirms our views while ignoring or discounting data that doesn't.
+
+Biased interpretation
+This is when we consciously interpret information in a way that confirms our beliefs.
+
+Biased memory
+This is when we consciously interpret information in a way that confirms our beliefs.
+
+* «рост П., Кейси Б., Гриффин К., Раймундо Л., «аррелл С., Кэрриган Р.
+Влияние предвзятости подтверждения на память и мониторинг источников.
+J Gen Psychol. 2015;
+
+Example: Wason selection card and etc.
+Example: debate and etc.
+Example: citation and etc.
+
+HOW DOES IT WORKS?
+SLOW SYSTEM AND FAST SYSTEM.
+
+OUR BRAIN QUICKLY COMBINES NEW AND OLD FACTS, OR CAN FOCUS ON ONE THING AT A TIME.
+
+THE GREEK HISTORIAN THUCYDIDES FIRST MENTIONED CONFIRMATION BIAS IN THE PELOPONNESIAN WAR:
+
+»... FOR IT IS THE HABIT OF MANKIND TO TRUST CARELESS HOPE TO WHAT THEY STRIVE FOR, AND TO USE SOVEREIGN REASON TO DISCARD WHAT THEY DO NOT LIKE»
+
+BBA
+
+SOME HISTORY
+
+1) ITALIAN POET DANTE ALIGHIERI (1265–1321) NOTED IT IN THE DIVINE COMEDY,
+IN WHICH ST. THOMAS AQUINAS CAUTIONS DANTE UPON MEETING IN PARADISE,
+
+»OPINIONЧHASTYЧOFTEN CAN INCLINE TO THE WRONG SIDE, AND THEN AFFECTION FOR ONE'S OWN OPINION BINDS, CONFINES THE MIND»
+
+2)
+
+3) IN THE 1960S, PETER WASON FIRST DESCRIBED THIS PHENOMENON AS CONFIRMATION BIAS.
+AND HE WROTE ABOUT THE SELECTION TASK.
+
+BBA
+
+HOW TO AVOID CONFIRMATION BIAS?
+
+ADMIT THE EXISTENCE OF CONFIRMATION BIAS.
+LOOK AT OTHER POINTS OF VIEW AND LISTEN TO THE OTHER SIDE OF THE ARGUMENT WITH AN OPEN MIND.
+SURROUND OURSELVES WITH PEOPLE WHOSE OPINIONS DIFFER FROM OURSELVES TO CHALLENGE EXISTING IDEAS.
+ACKNOWLEDGE THAT WE DO NOT KNOW EVERYTHING AND THAT NEW INFORMATION CAN HELP US UNDERSTAND THE WORLD.
+UNDERSTAND THAT OUR VIEWS SHOULD AND COULD CHANGE OVER TIME DUE TO LIMITED INFORMATION.
+BE OPEN TO CHANGE AND DIFFERENT IDEAS TO AVOID CONFIRMATION BIAS.
+
+BBA
+
+OUR IDEAS!
+INVESTMENT DECISIONS
+
+AN INVESTOR WHO IS OPTIMISTIC ABOUT A PARTICULAR COMPANY MAY LOOK FOR INFORMATION CONFIRMING HIS POSITIVE OUTLOOK, IGNORING THE WARNING SIGNS.
+THIS BIAS MAY LEAD TO THE INABILITY TO CAREFULLY EVALUATE ALL AVAILABLE INFORMATION AND MAKE INFORMED INVESTMENT DECISIONS.
+
+EMPLOYEE PERFORMANCE ASSESSMENT
+
+CONFIRMATION BIAS CAN ALSO AFFECT WORKPLACE PERFORMANCE EVALUATION.
+IF A MANAGER HAS A PRECONCEIVED IDEA ABOUT THE ABILITIES OR WORK ETHIC OF A PARTICULAR EMPLOYEE, HE CAN SELECTIVELY INTERPRET OR MEMORIZE EXAMPLES CONFIRMING HIS BELIEFS, IGNORING EVIDENCE TO THE CONTRARY.
+THIS CAN LEAD TO BIASED ASSESSMENTS AND POTENTIALLY UNFAIR TREATMENT OF EMPLOYEES.
+
+BBA
+
+OUR IDEAS!
+MARKETING AND ADVERTISING.
+
+COMPANIES OFTEN RELY ON CONFIRMATION BIAS TO INFLUENCE CONSUMER PERCEPTIONS AND PURCHASE DECISIONS.
+FOR EXAMPLE, A COMPANY MAY SELECTIVELY PROVIDE POSITIVE FEEDBACK OR CUSTOMER REVIEWS TO ENHANCE THE PERCEPTION OF PRODUCT QUALITY.
+THIS CAN CREATE A BIASED IMPRESSION AND INFLUENCE THE CHOICE OF CONSUMERS.
+
+COMPETITOR ANALYSIS
+
+CONFIRMATION BIAS CAN BE A PITFALL WHEN CONDUCTING COMPETITOR ANALYSIS.
+IF A BUSINESS HAS A PRE-EXISTING PERCEPTION THAT THEIR COMPETITORS ARE INFERIOR IN CERTAIN ASPECTS, THEY MAY ACTIVELY SEARCH FOR INFORMATION THAT REINFORCES THIS BELIEF WHILE DISREGARDING OR UNDERESTIMATING EVIDENCE OF THEIR COMPETITORS' STRENGTHS.
+THIS BIAS CAN LEAD TO A SKEWED UNDERSTANDING OF THE COMPETITIVE LANDSCAPE AND HINDER EFFECTIVE STRATEGIC DECISION-MAKING.
+
+BBA

@@ -1,0 +1,1501 @@
+# Тема: Психология
+# Источник: Кноблих Инсайт и декомпозиция
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
+
+ResearchGate
+
+ЛSee discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/232588278
+Constraint Relaxation and Chunk Decomposition in Insight Problem Solving
+Article in Journal of Experimental Psychology Learning Memory and Cognition - November 1999
+539, 5,685,
+A authors including
+
+stellan ohisson Hide Haider
+
+University of Illinois at Chicago University of Cologne
+All content following this page was uploaded by Stellan Ohlsson on 09 April 2015.
+
+
+Journal of Experimental Eyal: Copyright 1999 by the American Paychologial Assosiaton Jos,
+1999, Vol. 25, No. 6, 1534-1555
+Constraint Relaxation and Chunk Decomposition
+in Insight Problem Solving
+Giinther Knoblich Stellan Ohlsson
+Max-Planck-Institut fiir psychologische Forschung University of Illinois at Chicago
+Hilde Haider and Detlef Rhenius
+Universitat Hamburg
+Insight problem solving is characterized by impasses, states of mind in which the thinker does
+not know what to do next. The authors hypothesized that impasses are broken by changing the
+problem representation, and 2 hypothetical mechanisms for representational change are
+described: the relaxation of constraints on the solution and the decomposition of perceptual
+chunks. These 2 mechanisms generate specific predictions about the relative difficulty of
+individual problems and about differential transfer effects. The predictions were tested in 4
+experiments using matchstick arithmetic problems. The results were consistent with the
+predictions. Representational change is a more powerful explanation for insight than
+alternative hypotheses, if the hypothesized change processes are specified in detail.
+Overcoming impasses in insight is a special case of the general need to override the
+imperatives of past experience in the face of novel conditions.
+
+Experience is both a help and a hindrance. On the one _— suggested by past experience. When success does not
+hand, human beings have no choice but to consider each new _follow, he or she enters an impasse, a state of mind that is
+situation, task, or problem in light of past experience. There accompanied by a subjective feeling of not knowing what to
+is no other resource for understanding the present and do and the cessation of overt problem-solving behavior.
+anticipating the future. On the other hand, life is complex, Continued attention to the problem sometimes leads to the
+and there is no guarantee that tomorrow will be like appearance of a new idea, solution, or approach in consciousyesterday. Past experience is necessarily misleading part of ness. If the insight turns out to be unhelpful, the impasse
+the time. | | continues. However, if the new idea does point the way to a
+
+Problem solving often unfolds in a way that reflects the solution, goal attainment is likely to be purposeful and swift,
+need to overcome the imperatives of past experience. The in marked contrast to the hesitation and passivity of the
+thinker begins by exploring the approaches to the problem impasse phase.
+
+Although the exploration—impasse-insight-execution se-
+= quence was first identified in the context of scientific
+
+Giinther Knoblich, Arbeitsgruppe Kognition und Handlung, discovery (Helmholz, 1896; Poincaré, 1908/1952), it can be
+Max Planck Institut for psychologische Forschung, Munich, Ger. reliably elicited by relatively simple problems. It was
+Minis a Chicago: Hil de Haider and Dee Rhenius, Psycholo- introduced into laboratory research on problem solving by
+gisches Institut I, Universitit Hamburg, Hamburg, Germany. the Gestalt psychologists (Duncker, 1945; Koffka, 1935;
+
+This research was supported, in part, by a grant from the German Kohler, 1925; Wertheimer, 1945/1959; see Ohlsson, 1984a,
+Research Foundation (Graduiertenkolleg Kognitionswissenschaft, for a review). Wallas (1926) independently arrived at a
+Hamburg, Germany). Experiment 2 was conducted during a visit similar formulation. After a hiatus in the 1960s and 1970s, a
+by Giinther Knoblich to the University of Illinois at Chicago. The resurgence of interest in insight has occurred in the past
+visit was made possible by a grant from the German Academic decade (Bowers, Regehr, Balthazard, & Parker, 1990; DorfExchange Service (HSPIVAUFE). This research was also SupФ man, Shames, & Kihlstrom, 1996; Fiore & Schooler, 1998;
+ported, in part, by a grant from the Cognitive Science Program of . . :
+the Office of Naval Research, The opinions expressed in this article Kaplan & Simon, 1990; Keane, 1989, 1996; Lung &
+are not necessarily those of the sponsoring agencies, and no  Dominowski, 1985; Metcalfe, 1986a, 1986b; Metcalfe &
+endorsement should be inferred. Wiebe, 1987; Ohlsson, 1984a, 1984b, 1990, 1992b; Patalano
+
+ЛWe thank Mark Keane, Janet Metcalfe, and Steven Smith for  & Seiffert, 1994; Schooler, Ohlsson, & Brooks, 1993;
+their helpful comments; Fredrik Wartenberg, Barbara Kaup, and Simonton, 1988; Smith, Ward, & Finke, 1995; Stemberg &
+Constanze Clauser for their helpful discussions; and Silke Wehr, Davidson, 1995; Yaniv & Meyer, 1987).
+gnaw Halpern, Irmgard Hagen, Ginther Heilmeier, and Eva The insight sequence cries out for explanation. If a
+
+Лeigerschmidt for their help in collecting the data. .
+
+Correspondence concerning this article should be addressed to. Problem is solved eventually, then the problem solver was,
+Giinther Knoblich, Max-Planck-Institut fir psychologische Forsch-___ by definition, competent to solve it. If so, why does he or she
+ung, Amalienstrasse 33, 80799 Munich, Germany. Electronic mail encounter an impasse? In contrast, if he or she initially
+may be sent to knoblich @mpipf-muenchen.mpg.de. encounters an impasse, how is the problem solved? What
+
+
+CONSTRAINTS, CHUNKS, AND INSIGHT 1535
+mental mechanism can explain both the occurrence of an _ ties than of redefining what to search for. To break through a
+impasse and its eventual resolution (Ohlsson, 1984b)? locked door in time, one should perhaps search for an ax
+In previous work, Ohlsson (1992b) proposed that past _rather than a key.
+experience biases the initial representation of a problem or a We do not claim that constraint relaxation is deliberate or
+situation in particular ways. The initial representation acti- voluntary. Instead, we propose that expanding the set of
+vates potentially useful. knowledge elements (categories, options to be considered by relaxing constraints is one of the
+chunks, concepts, constraints, methods, operators, proce- mindСs responses to persistent failure.
+dures, rules, schemas, etc.). These knowledge elements Task difficulty. At any one moment in time, several
+implicitly define a space of possible solutions. If past constraints are likely to be active, and they are unlikely to be
+experience is not helpful vis-a-vis the problem, that initial relaxed all at once. It is more plausible that some constraints
+problem space does not contain a workable solution, andan _ have a higher probability of being relaxed than others.
+impasse will result. We hypothesize that the probability that a constraint be
+The impasse can be broken by changing the representa- _relaxed is inversely proportional to its scope. The scope of a
+tion of the problem. A new problem representation shifts the constraint is determined by how much a problem representadistribution of activation over long-term memory, possibly tion is affected if that constraint is relaxed. If problem
+activating dormant but relevant knowledge elements. The _ representations are analogous to parse trees and if a coneffect is to alter or extend the space of possibilities that are straint applies at some node in such a tree, then scope is
+considered. If the new problem space contains a solutionand _—_ determined by the height of that node. A constraint has a
+if that solution is short and simple to execute, the solution — wider scope the higher the node at which it applies.
+will be completed quickly and unhesitantly (Ohlsson, 1984b, | Cognitive economy dictates that constraints of narrow scope
+1992b). should have a higher probability of being relaxed than
+To turn this idea into a precise and testable theory, we constraints of wide scope because the resulting revisions in
+must describe how, by which processes, problem representa- the problem representation are more circumscribed. The
+tions are changed. The purpose of this article is to present idea that knowledge structures tend to undergo local,
+empirical evidence for two such processes: constraint relax- _ peripheral, or superficial changes before they undergo
+ation (Knoblich & Haider, 1996; Ohlsson, 1992b) and chunk global, central, or fundamental changes has been proposed
+decomposition (Ohlsson, 1990). In this article, we define _ in cognitive psychology (Chi, 1992), developmental psycholthese processes, predict relative problem difficulty and ogy (Vosniadou, 1994), and social psychology (Rokeach,
+differential transfer effects in the domain of matchstick 1970).
+arithmetic, report four experiments that tested those predic- To use the constraint relaxation hypothesis to predict the
+tions, and discuss alternative explanations for our results. relative difficulty of individual problems, one needs to (a)
+identify the constraints that apply in each problem, (b) rank
+order the constraints with respect to scope, and (c) identify
+General Theory which constraints need to be relaxed to solve the problems.
+. . Everything else being equal, a solution that violates narrow
+Constraint Relaxation constraints should be easier to think of than a solution that
+To understand a problem is, in part, to understand what _—- Violates wide constraints, and a solution that violates few
+does and does not count as a solution. Knowledge of this sort _ Constraints should be easier to think of than one that violates
+consists of constraints (Mitrovich & Ohlsson, in press, Several constraints. .
+Ohlsson, 1992a, 1996; Ohlsson & Rees, 1991). For example, Transfer. Once a problem representation has been
+opening a door is normally subject to the constraint that the changed, the change should persist and so should transfer to
+door should not become damaged in the process. all relevant subsequent problems. Hence, differences in
+Faced with an unfamiliar problem, the problem solver initial difficulty due to the need to relax constraints should
+knows neither what to do nor what to avoid. If the problem —_ disappear. That is, all problems should become as easy as the
+reminds him or her of some problem encountered in the past, simplest problem.
+constraints relevant to that problem are likely to be acti- .
+vated. Those constraints may or may not be adaptive iti
+vis-a-vis the unfamiliar problem (Anderson, 1989; Isaak & C1Ф Decomposition
+Just, 1995; Keane, 1996; Ohlsson, 1992b; Richard, Poitre- Familiarity with a class of objects or events leads to the
+naud, & Tijus, 1993). If not, then the space of options _ creation of patterns that capture recurring constellations of
+circumscribed by the set of active constraints might not _ features or components. This process is generally referred to
+contain any solution to the current problem. as chunking. Expert problem-solving performance is associImpasses caused by an overly constrained solution space ated with a large repertoire of problem-relevant chunks
+can be broken by relaxing the inappropriate constraints (Ericsson & Lehmann, 1996; Holding, 1985, pp. 113-120).
+(saak & Just, 1995; Knoblich & Haider, 1996; Knoblich & When faced with an unfamiliar task, the problem solver
+Wartenberg, 1998; Richard et al., 1993; Shultz & Lepper, cannot know which chunks acquired in past experience are
+1996). In an emergency, it might be necessary to break relevant for the solution. However, the application of
+through a locked door. In this type of situation, problem _ perceptual chunks is an automatic process (Brewer, 1988;
+solving might be less a matter of searching among possibili- | Devine, 1989; Purdue & Gurtman, 1990). If a chunk is
+
+
+1536 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
+available in a personСs memory, he or she will automatically _ of than a problem solution that requires the decomposition
+recognize instances of that chunk in the environment. of a loose chunk.
+
+If the available chunk repertoire does not parse the Transfer. Once a chunk has been decomposed, it ought
+problem situation in a way that is helpful vis-a-vis finding to stay decomposed. A single encounter with a particular
+the solution, an impasse might result. This type of impasse problem should be sufficient to remove any difficulty
+can be broken by decomposing the inappropriate chunks into _ associated with the need to decompose chunks that are
+their component features and so paving the way for an _ inappropriate for that problem. Hence, differences in initial
+alternative parse of the problem situation (Knoblich & difficulty should disappear.
+
+Wartenberg, 1998; Ohlsson, 1990). Researchers have stud-
+
+ied the formation of chunks (Anderson, 1993; Koedinger & Application
+Anderson, 1990; Rosenbloom, Laird, & Newell, 1989), but . . .
+
+there are no models of chunk decomposition in the cognitive | Matchstick Arithmetic
+
+literature. js i Лi A
+
+We do not claim that chunk decomposition is under A eee Ean male IT
+conscious, voluntary control. Rather, we suggest that mov-—etc.), arithmetic operations (+, —), and equal signs con.
+ing to a more fine-grained perceptual representation by structed out of matchsticks. Figure 1 shows two example
+breaking up familiar perceptual pattems (chunks) is one of problems in the format in which they were presented to the
+the mindСs responses to persistent failure. . participants in our experiments. The goal is to move a single
+
+Task difficulty. When a thinker studies a problem situa- stick in such a way that the initial false statement is
+tion, many chunks are likely to be active. If the problem transformed into a true arithmetic statement. A move
+solver enters an impasse, the perceptual system cannot consists of grasping a single stick and moving it, rotating it,
+unpack all chunks into their components at once. Presum- or sliding it. The rules are that (a) only one stick is to be
+ably, the result of such a process would be experienced moved; (b) a stick cannot be discarded, that is, it can be
+subjectively as a state of kaleidoscopic confusion or stimu- moved only from one position in the equation to another;
+lus overload. It is more probable that some chunks are and (c) the result must be a correct arithmetic statement. An
+decomposed before others. . additional rule is that slanted sticks cannot be interpreted as [
+
+We propose that the probability that a chunk will be and that the symbols V and X always consist of two slanted
+decomposed is inversely proportional to the tightness of the sticks. We refer to the initial and goal statements as
+chunk. We distinguish between tight and loose chunks onthe — “equationsФ even though they do not contain variables.
+basis of whether their components are themselves chunks, —_ Each problem has a unique solution.
+that is, meaningful perceptual patterns. A chunk with For example, the false equation in Figure 1A can be
+components that are themselves chunks is loose; a chunk _ transformed into the true equation
+with components that are not themselves chunks is tight.
+
+For example, experienced chess players perceive a chess- VI=I0+ I
+board configuration in terms of perceptual patterns that have
+meaning within the game (Chase & Simon, 1973; Holding, hy removing the left-most stick from JV and putting it
+1985). This does not imply that chess players have lost their immediately to the right of the remaining V.
+ability to perceive individual chess pieces. Each piece All matchstick arithmetic problems considered in this
+remains a meaningful unit by itself even though it appears aS article consist of three roman numerals separated by two
+acomponent of one or more familiar patterns. Achess chunk arithmetic signs and are solved with a single move. Hence,
+istherefore aloose chunk. . differences in difficulty are solely a function of how hard it is
+
+In contrast, consider the original example of chunking: to think of the right move.
+recoding binary digits into digits of base 10 (Miller, 1956).
+
+This process produces tight chunks. For example, recoding
+
+111, as 7; does not retain the three 7 symbols as visible
+
+parts of the 7 symbol. Therefore, it is a tight chunk. We do
+
+not want to imply that tight chunks are not decomposable. | V ——— | | | + | | |
+The arabic digit 7 could be further decomposed in a
+
+horizontal and a diagonal line. However, those lines would
+
+not be meaningful in the context of numbers. ®
+
+We hypothesize that chunk decomposition begins with
+loose chunks. Only if the failure persists will the process
+continue with the decomposition of tight chunks. To predict | | | — | | | = | | |
+the relative difficulty of any two problems, one needs to (a)
+identify which chunks are likely to be active, (b) classify
+them with respect to tightness, and (c) decide which chunks oo
+need to be decomposed to find the relevant solutions.
+
+Everything else being equal, a problem solution that requires Figure J. Two matchstick arithmetic problems in the format used
+the decomposition of a tight chunk is more difficult to think _in the experiments.
+
+
+CONSTRAINTS. CHUNKS, AND INSIGHT 1537
+Constraints in Matchstick Arithmetic transformed into predictions about the relative difficulty of
+roblems (or types of problems).
+
+Problem solvers who are familiar with arithmetic and P (or typ p »
+algebra but who are novices with respect to matchstick . . . .
+arithmetic are likely to assimilate the latter to their knowl- _ Chunks in Matchstick Arithmetic
+edge of the former. However, if the constraints of arithmetic The composite numerals (II, IV, VII, XI, etc.) are loose
+and algebra are adhered to, matchstick arithmetic problems chunks in the technical sense introduced in the General
+are unsolvable (Knoblich & Haider, 1996). The problem Theory section. For example, although the composite nusolvers must relax one or more of the following three meral VIT is perceived as a symbol for the number 7, it is also
+constraints: perceived as consisting of the symbol V, followed by two
+
+1, Value constraint: A numerical value cannot be changed _ tokens of the symbol /. Even though V// is a chunk, its parts
+except through operations that produce compensating changes (V, I, and J) are chunks as well.
+in other values, as when the same quantity is added to or In contrast, the three numerals I, V, and X and the minus
+subtracted from both sides of an equation. ; sign are tight chunks. For example, a V sign is perceived as a
+
+2. Operator constraint: An arithmetic function (e.g., single unit. There are few contexts (other than matchstick
+addition or subtraction) cannot be arbitrarily deleted, intro- _ arithmetic) in which it is useful to perceive a V or an X as
+duced, or altered, except through operations that make consisting of separate lines. Hence, this decomposition has
+corresponding changes elsewhere in the equation. The same _little basis in prior experience. In addition, V and X do not
+is true of the equal sign. decompose into meaningful units. Slanted sticks do not have
+
+3. Tautology constraint: Arithmetic statements are sup- a meaning in matchstick arithmetic.
+posed to have the general form The plus sign and the equal sign share some features with
+
+both loose and tight chunks. On the one hand, they
+
+X=f(¥,Z), decompose into potentially meaningful components. The
+
+plus sign has two perceptually obvious components: a
+
+where f is addition, subtraction, or some other arithmetic vertical line and a horizontal line. In the context of
+function, because their purpose is to specify a calculationto matchstick arithmetic, the vertical line is equivalent to the
+be performed. Tautological statements of the general form symbol J for unity, and the horizontal line can be seen as a
+X = X are meaningless. (They have their uses in more Minus sign. Hence, the plus sign decomposes into two
+advanced mathematics, e.g., as starting points for proofs, but meaningful chunks. The equal sign decomposes into two
+not in elementary arithmetic.) perceptually obvious components, one of which can be
+
+We assume that the visual system parses matchstick interpreted as a minus sign. (It is unclear how the second
+arithmetic problems into a representation with three levels: | COmponent might be interpreted in this case.) On the other
+numerals (I, H, III, etc.), functional terms (I+ V, I-11, hand, neither plus signs nor equal signs are commonly
+etc.), and entire equations (VI = V + I, I = III, etc.). The analyzed in this way, so these decompositions have little
+higher the level at which a change is introduced, the more  SuPPort from prior experience. Hence, we tentatively asencompassing is the resulting revision of the representation. signed the plus and equal signs to a category of “intermedi-
+
+The three constraints map onto the three representational MEChunKSФ . .
+levels as follows: (a) The value constraint applies at the level _ Ditterent matchstick arithmetic moves Tequire decomposi-
+
+. a % tion of different chunks. For example, moving a stick from a
+of numerals; (b) the operator constraint applies at the level of bol like VI ires that the chunk for VII is decomfunctional terms; and (c) the tautology constraint applies to SY™DO. IKE P" requires that Toe cone oom
+changes that transform the structure of an entire equation, posed into its components, V, /, and J. Similarly, changing a
+fe 8 fe fi i Tosical f equation, —_ plus sign into an equal sign by rotating the vertical stick
+
+for example, from a regular to a tautological form, or vice requires that the source chunk “+Ф is decomposed into its
+versa. : . . two matchstick components, “—Ф and “|,Ф and that the
+
+We hypothesize that constraints are more difficult to relax target chunk “=Ф is decomposed into its components. We
+the higher the level at which they apply. That is. we predict hypothesize that tight chunks have a lower probability of
+that the tautology constraint has a lower probability of being being decomposed than intermediate chunks, which in tum
+relaxed than the operator constraint, which in turn has @ have a lower probability of being decomposed than loose
+lower probability of being relaxed than the value constraint. hunks.
+
+To solve a matchstick arithmetic problem, one needs to By mapping moves onto chunk types, one can predict, for
+relax one or more constraints, but different problems require any two moves, which move is easier. For example, moving
+relaxation of different constraints. For example, moving 4 the numeral J from one composite numeral to another
+stick from one numeral to another requires that the value respects the integrity of all tight chunks. Moving a matchconstraint be relaxed, whereas changing a plus sign into an _stick froma tight chunk to a composite numeral or vice versa
+equal sign by rotating the vertical stick requires that the should be more difficult. A move that removes a matchstick
+operator constraint be relaxed. The mapping between con- from a tight chunk, changes its orientation or location, and
+straints and moves allows one to predict for any two moves _adds it again to the same chunk, thus changing the symbol
+which move is easier. By considering which moves are into another, is a special case. Such a move requires the
+required to solve particular problems, these predictions are decomposition of a single numeral, but it requires the
+
+
+1538 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
+decomposition of two chunk types: the source chunk and the _ constraints. In addition, it requires decomposition of both
+target chunk. the plus sign and the equal sign. Hence, problems of Type C
+
+By considering which moves are required to solve particu- _ should be more difficult than problems of Type B. Problem
+lar problems, one can predict the relative difficulty of | Types A through C form a ladder where the constraints
+individual matchstick arithmetic problems. Everything else become wider or the chunks tighter for each rung.
+being equal, the tighter the chunks that need to be decom- 4. Type D (value constraint; tight chunks). The solution to
+posed, the lower the probability of thinking of the corresponding move. By considering which move is required to solve a XI = D+ U1
+particular problem, one can convert such predictions into
+predictions about the relative difficulty of particular prob- is to slide one of the matchsticks that make up the symbol X
+Jems (or problem types). so as to change the latter into the symbol V, giving the result
+Problem Types Vi= 01 + I.
+
+The purpose of this section is to define four types of This move violates the value constraint but no other
+matchstick arithmetic problems and to rank order them with Constraint. However, it requires that the two tight chunks X
+respect to difficulty. We describe each type in terms of the | and V are decomposed into their components. Hence,
+constraints that need to be relaxed and the tightness of the problems of Type D should be more difficult than problems
+chunks that need to be decomposed. of Type A. Without an interval scale for measuring difficulty,
+
+1. Type A (value constraint; loose chunks). The problem we could not predict the relative difficulty of Type D versus
+
+ЛType B or C. The purpose of including Type D problems in
+
+VI=VI+I the study was to ascertain the effect of chunk decomposition
+
+independently of constraint relaxation by comparing perfor-
+
+is solved by moving one matchstick from the numeral Vito | mance on Type D problems with performance on Type A
+the numeral VI to produce the equation problems.
+Vit = VI + I. Transfer
+
+This move requires relaxation of the value constraint (but no A single encounter with a matchstick problem of a given
+
+other constraint). In addition, it requires decomposition of _ type should be sufficient to remove the sources of difficulty
+
+the source chunk V/ and the target chunk VI, both of which associated with that problem type. Hence, there should be no
+
+are loose chunks. significant differences in difficulty among the four problem
+
+2. Type B (value and operator constraints; loose and types on a second encounter. Specifically, removing sources
+intermediate chunks). The solution to the problem of difficulty should reduce the difficulty of Problem Types B,
+
+C, and D to the difficulty level of Problem Type A, the
+I=0+1 simplest problem type. This argument predicts an interaction
+between initial difficulty and transfer, with the simplest
+is to remove one stick from the plus sign, thereby changing _ problem type (Type A) showing the least amount of transfer
+addition into subtraction, and add that stick to the first term and the most difficult (Types C and D) the largest.
+to the right of the equal sign. The result is
+I=m-2 Experiment 1A
+
+The purpose of Experiment 1A was to verify that conThis move violates the value and operator constraints. In _ straint relaxation and chunk decomposition influence perforaddition, it requires decomposition of the plus sign (the mance on matchstick arithmetic problems. The need for both
+source chunk) and the numeral //J (the target chunk). Hence, _ processes was systematically varied across problems in a
+problems of Type B should be more difficult than problems _ within-participant design. The participants solved two blocks
+of Type A. of problems. The problems within each block exemplified
+
+3. Type C (operator and tautology constraints; intermedi- _the four different Problem Types A through D. The problems
+ate chunks). The solution to in the second block were matched to the problems in the first
+
+block with respect to type. The following hypotheses were
+W=M+m tested:
+
+1. Constraint relaxation hypothesis: The probability of
+is to remove the arithmetic operation by rotating the vertical _ relaxing a constraint is lower the wider the scope of the
+stick of the plus sign, producing the following solution: constraint. Given a limit on the amount of time available to
+
+find a solution, the frequency of solution is highest for Type
+I = Wl = UL. A, lower for Type B, and lowest for Type C on the first block
+of problems. Solution times in Block 1 are highest for Type
+This solution violates both the operator and tautology — C, lower for Type B, and still lower for Type A.
+
+
+CONSTRAINTS, CHUNKS, AND INSIGHT 1539
+Table 1
+Matchstick Arithmetic Problems Used in Experiment 1A by Type and Block
+Block 1 Block 2
+Type Problem Solution Problem Solution
+A - VI=VO+I Vil= Vi+1 W=W+I1 m=0+1
+A IvV=l+m VI = I + Ot Ix = VII + IL XI = VII + It
+B I=0+T I=m-0 Mm=V +i I= VI -
+B IV=MI-1I IV-M-=I V=m-0 V-M=1
+c M=m+m M=mW=m IV=IV+IV IV=IvV=IvV
+D XI = 1+ M1 VI = Wl + VI = VI + I XI = Vil + Tt
+2. Chunk decomposition hypothesis: The probability of Results
+decomposing a chunk is lower if tight chunks have to be . . .
+decomposed than if only loose chunks have to be decom- The dependent variables of this experiment were the
+posed. Given a time limit, the frequency of solution should frequency of problems solved within the 5-min limit and
+be higher for Type A than for Type D on the first block of Solution times. The results are reported separately for each
+problems. Solution times in the first block should be higher _Variable. . .
+for Type D problems. Solution frequencies. The results showed the predicted
+3. Transfer hypothesis: Once relaxed, constraints stay  fder of task difficulty for the first block of problems.
+relaxed; once decomposed, tight chunks stay decomposed. Problems that required the relaxation of constraints with
+That is, there are no significant differences with respect to Wider scope were solved less frequently (Type C < Type
+frequency of solution and solution time among the four B < Type A). Figure 2 shows the cumulative frequencies of
+Problem Types A through D on the second block of Solutions for Types A through C. The predicted ordering of
+problems. Furthermore, there is an interaction between the problem types held at each interval. Problems that
+problem type and encounter, such that performance on more _ЛTequired decomposition of tight chunks were solved less
+difficult problem types changes more from the first to the frequently than problems that required only decomposition
+second block of problems. of loose chunks (Type D < Type A). Figure 3 shows the
+cumulative frequencies of solutions for Types A and D. The
+Method predicted rank ordering held at each 1-min interval.
+There were no significant differences in difficulty among
+Participants. Twenty undergraduates (13 women and 7 men)
+from the University of Hamburg participated in the study for course
+credit. They ranged in age from 19 to 45 years. We selected only 0
+participants who were familiar with Roman numerals. Because
+there were only within-participant treatments in this experiment, all
+participants were assigned to the same condition. The participants
+were seen individually.
+Procedure, materials, and design. The participants first went _through a training phase aimed at reducing individual differencesin 2 !5 “
+how fast they could recognize Roman numerals. Each participant 2 ae
+looked at numerals presented on a computer screen, pushed a 3 a
+button as soon as he or she had identified the value of the presented S a
+numeral, and then said the value out loud. No feedback was given. ze va
+There were five training blocks, with 75 trials per block. Within 2 10
+each block, all Roman numerals / and XV were presented fivetimes © cet Qeeeenceeenes
+each in random order. 2° Qe
+In the experimental phase, there were two blocks of six = o
+matchstick arithmetic problems. Each block contained two in- 2 ra
+stances of Type A, two instances of Type B, one instance of TypeC, SO a hea
+and one instance of Type D (see Table 1). The six problems were Fa —o— Tre
+presented in random order within blocks. A new random order was o —o-~ Type B
+generated by the computer for each participant. ° segues Type
+The problems were presented on a computer screen. Participants ype
+pushed a button as soon as they knew the correct solution and said
+it out aloud afterward. If the solution was correct, they were 0
+presented with the next task. If the solution was not correct, they ] 2 3 4 5
+continued to work on the same problem until they found another Time (min)
+solution or until they reached the time limit of 5 min. If participants
+did not solve a problem within 5 min, the trial was interrupted, and Figure 2. Cumulative solution rates for Problem Types A-C in
+they were told the solution. Block 1 of Experiment 1A.
+
+
+1540 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
+20 the contrast between Figures 2 and 3, on the one hand, and
+Figure 4, on the other hand, shows the predicted interaction
+between initial difficulty and transfer: The upward displacement of the curves in Figure 4 as compared with Figures 2
+and 3 is larger the more difficult the problem type.
+2 & . _— An alpha level of .05 was used for all statistical tests. A
+3 as ~ 4 X 2 analysis of variance (ANOVA) with the variables
+a . “ problem type (A, B, C, or D; within participants) and block
+cs Pa (1 vs. 2; within participants) was computed on solution
+H 10 4 frequency. The main effect of problem type was significant,
+Fs “ F(3, 57) = 7.11, MSE = 0.0838, p < .001. Post hoc
+5 a comparisons revealed that significantly fewer problems of
+3 yi, Type B were solved than of Type A (p < .05) and signifiA v4 cantly fewer problems of Type C than of Type B (p < .01).
+os y, A further comparison revealed that problems of Type D were
+fo solved less frequently than problems of Type A (p < .05). In
+é summary, the differences were C <B <AandA<D.
+—~o-—- TypeD Furthermore, there was a significant main effect of block,
+F(1, 19) = 14.41, MSE = 0.1253, p < .01. More problems
+0 were solved during Block 2. There were no significant
+1 2 3 4 5 differences among problem types during the second block
+ЛTime (min) (all ps > .10).
+Consequently, there was a significant two-way interaction
+Figure 3. Cumulative solution rates for Problem Types A and D in between problem type and block, F(3, 57) = 3.24, MSE =
+Block 1 of Experiment 1A. 0.0984, p < .05. The amount of transfer between blocks
+differed for different problem types. Post hoc comparisons
+. revealed a significant transfer effect for those problems that
+the four problem types in the second block of problems. were solved less frequently during the first block, namely,
+Figure 4 shows the cumulative frequencies of solutions on Type B (p < .05) and Type C (p < .001). No significant
+the second block across 1-min intervals for each problem transfer was observed for problems of Type A (p = .80). The
+type. The four curves are almost superimposed. In addition, transfer effect for problems of Type D (75% solved on Block
+1 vs. 90% solved on Block 2) did not reach statistical
+significance (p = .13).
+Solution times. In a next step, solution times for prob20 ee es lems of Types A through D were analyzed. For problems that
+4 were not solved, the solution time was replaced with the
+V4 ee en upper time limit of 5 min. The resulting measure was a
+a ee ae conservative estimate of the actual solution time because the
+on of a solution time was underestimated for problems that were not
+zg Is Jot solved.
+g on Because the distribution of solution times was highly
+S skewed, we report medians and quartiles and used ordinal
+s tests to assess statistical significance. Table 2 shows medians
+= and lower and upper quartiles for problems solved in Block
+: 10 1. The medians were consistent with the rank ordering
+= predicted on the basis of the scope of the relevant constraints
+2 (Type A < Type B < Type C) as well as the rank ordering
+é 5 —o— TypeaA
+oo Bee Table 2
+wroms Typec Solution Times (in Seconds) for Block 1
+te TypeD of Experiment 1A (N = 20)
+0 Problem type
+i 2 3 Л 5 Statistic A B c D
+Time (min) eee
+Figure 4, Cumulative solution rates for Problem Types AD in Lower Q
+Block 2of Experiment 1A. wpe __UpperO ot 190300290
+
+
+CONSTRAINTS, CHUNKS, AND INSIGHT 1541
+predicted on the basis of tightness of the chunks (Type numerals. The fact that tight chunks add an increment of
+A <TypeD). difficulty independently of constraint relaxation (Type D is
+
+ЛWe computed single Wilcoxon tests to assess the statis- more difficult than Type A) supports the hypothesis that we
+tical significance of the differences observed in Block have identified two separate sources of difficulty in match1. Problems of Type A were solved significantly faster than _ stick arithmetic problems.
+problems of Type B, N = 20, T = 12, p < .001, and pro- Without an interval scale for measuring amount of
+blems of Type B were solved significantly faster than pro- _ difficulty, we could not predict the difficulty of Type D
+blems of Type C, N =.20, T = 41, p < .05. Moreover, _ problems in relation to Types B and C because we had no
+problems of Type A were solved significantly faster than way of calculating the trade-off between the need for
+problems of Type D, N = 20, T = 10, p < .001. All dif- _ constraint relaxation and the need for chunk decomposition.
+ferences predicted by the constraint relaxation and chunk __The data show that problems of Type D were approximately
+decomposition hypotheses were statistically significant. as difficult as problems of Type B.
+
+The solution times for Block 2 did not exhibit the rank The strength of the transfer effect observed in Experiment
+ordering observed in Block 1 (see Table 3). Single Wilcoxon —_1A is noteworthy. A single exposure to a problem of Type B,
+tests revealed no significant differences between problems _C, or D was sufficient to make those problems as simple as
+of Types A, B, and C and problems of Types A and D (all _ problems of Type A. The only deviation from our predictions
+ps > .10). was that transfer was not significant for Type D problems in
+
+To test our transfer predictions, we compared solution the analysis of solution frequency. However, the analysis of
+times in the first and second blocks for each problem type. solution times showed that Type D problems became
+Single Wilcoxon tests showed significant transfer for prob- _ significantly easier when encountered for the second time.
+lems of Type B, N = 20, T = 14, p <.001; Type C, N = 20,
+
+T = 23, p < .01; and Type D, N = 20, T = 32, p < .05, but .
+not for problems of Type A, N = 20, T = 102,p = 91. Experiment 1B
+
+In short, problems that required the relaxation of wider In Experiment 1A, participants solved only one instance
+constraints took longer to solve, as did problems that — of each problem type. Hence, the observed differences in
+tequired the decomposition of tight chunks. After the first task difficulty may not have been due to the scope of
+encounter with the relevant problem types, these differences constraints and the tightness of chunks as proposed in the
+disappeared. Amount of transfer from a first to a second _ theoretical analysis but rather to material effects related to
+encounter was a function of initial difficulty, with more the specific tasks used in Experiment 1A. We conducted
+difficult problem types exhibiting larger transfer effects. another experiment to support the generality of the problem
+
+type effect by assessing the relative difficulty of two
+Discussion additional problems of each type.
+
+The results of Experiment 1A are consistent with the
+hypotheses that constraint relaxation and chunk decomposi- Method
+tion affect performance on matchstick arithmetic problems. Participants. The 38 paid participants, 17 male and 21 female
+The frequency and speed of solution depend on which, and were recruited by advertising at the University of Munich campus
+how many, constraints have to be relaxed to find the solution —_and in the local newspapers. They ranged in age from 20 to 36
+and whether the perceptual chunks that have to be decom- _years. They were randomly assigned to two experimental condiposed are loose, intermediate, or tight, in the technical sense _ tions. Participants in the first condition solved Version 1 of each
+defined in the General Theory section. problem type; participants in the second condition solved Version 2
+
+The results verify that it is easier to realize that one can _of each problem type.
+arbitrarily change values in matchstick arithmetic than to Procedure, materials, and design. The procedure was the same
+realize that one also can change the operators, which in turn _ 8 that used in Experiment 1A with the exception that participants
+is easier than to realize that one can transform an equation solved only one block of matchstick arithmetic problems. Table 4
+into a tautology. It is easier to decompose multidigit roman shows the two versions of each problem type that were used in
+
+. xperiment 1B. As in Experiment 1A, the dependent variables
+numerals into their component numerals than to decompose were the frequency of problems solved within the 5-min limit and
+plus signs, minus signs, equal signs, and single-digit roman _the solution times.
+
+Table 3 Results
+Solution Times (in Seconds) for Block 2 Solution frequencies. The results showed the same patof Experiment 1A (N = 20) tern as that in Experiment 1A. Problems that required the
+Problem type relaxation of constraints with wider scope were solved less
+. are frequently (Type C < Type B < Type A). Figure 5 shows
+Statistic ABO the cumulative frequencies of solutions across 1-min interMdn 33 38 10 42 vals for problems of Types A through C collapsed over both
+Lower Q B 7 a oo experimental conditions. The predicted ordering of the
+Upper problem types held at each interval. Furthermore, problems
+
+
+1542 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
+Table 4
+Problems Used in Experiment IB
+Version 1 Version 2
+Type Problem Solution Problem Solution
+A IV=I+IV VI=0+IV M=Iv-I0 MM = Vi- mm
+A vo = 0+ I VI= + I XI=1+ XI XH=I+ XI
+B IV=VI+I IV =VI-IL =V+Iv U=VI-Iv
+B Vill = VI - Vill ~ VI = It VI=IV-I VI-IV=1
+c IV=IV+IV IV=IV=IV VI = VI+ VI VI = VI= VI
+D IV=II + VI IX = I+ VI IV=V+IvV IX=V+Iv
+that required the decomposition of tight chunks were solved _ problems of Type A, the predicted difference failed to reach
+less often than problems that required the decomposition of _ statistical significance (p = .12). A further comparison
+loose chunks (Type D<Type A). Figure 6 shows the revealed that problems of Type D were solved less frecumulative frequencies of solutions across 1-min intervals quently than problems of Type A (p < .05). The pattern of
+for problems of Types A and D collapsed over both results is almost the same as that in Experiment 1A, with the
+experimental conditions. The predicted ordering of the differences being C <B =AandA<D.
+problem types held at each interval. Solution times. In a second step, solution times for
+A 2 X 4 ANOVA with the variables experimental problems of Types A through D were analyzed. For probcondition (Version 1 vs. Version 2; between participants) and _ lems that were not solved, the solution time was replaced
+problem type (A, B, C, or D; within participants) was _ with the upper time limit of 5 min. Again, the distribution of
+computed on solution frequency. There was no main effect solution times was highly skewed. Therefore, we report
+for experimental condition, F(1, 36) = 0.39, MSE = 0.1503, medians and quartiles and used ordinal tests to assess
+p = .52; that is, there were no overall differences in difficulty _ statistical significance.
+between the two problem versions. Post hoc comparisons Table 5 shows that the medians and upper quartiles of
+revealed that there was no significant difference between the —_ each problem type followed the rank ordering predicted by
+two versions in any of the problem types (all ps >.10). __ the scope of constraints (Type A < Type B < Type C). The
+However, the main effect of problem type was significant, medians also followed the rank ordering predicted by the
+F(4, 144) = 10.03, MSE = 0.1533, p < .001. Post hoc —_ chunk decomposition hypothesis (Type A < Type D).
+comparisons showed that significantly fewer problems of We conducted single U tests to detect differences in
+Type C were solved than problems of Type B (p < .001). _ solution times between the two versions of each problem
+Although fewer problems of Type B were solved than
+40 40
+2 30 —_—s 2
+& en g ——#
+z= a 2 a
+3 a“ 3 _
+ic on S oe
+z 2 4 - /
+& 4 igen & /
+z ees @ /
+6 on 3
+10 Type A 10 Z
+—~o— TypeB —o— TypeA
+sone Type soe TypeD
+0. °
+1 2 3 4 5 I 2 3 4 5
+Time (min) Time (min)
+Figure 5. Cumulative solution rates for Problem Types AC in Figure 6, Cumulative solution rates for Problem Types A and D in
+Experiment 1B. Experiment 1B.
+
+
+CONSTRAINTS, CHUNKS, AND INSIGHT 1543
+
+Table 5 mulated the identical elements hypothesis in terms of
+
+Solution Times (in Seconds) in Experiment 1B production rules.
+
+Problem type The hypothesis that a problem representation can be
+
+_ Oe a ae changed by constraint relaxation and chunk decomposition
+Statistic A B c D implies that those changes should affect performance on
+Mdn 430. 126 300 104 other problems in which the same constraints and chunks are
+Lower Q 23 37 30 63 relevant. Therefore, the concept of representational change
+Upper 0 76 165 500 300 adds an additional source of transfer, over and above
+problem similarity. Once a problem representation has
+
+changed in a particular way, the change persists and so
+
+soe . transfers to subsequent problems for which that representa-
+
+Pe. None et them Showed a. significant difference (at tion is relevant. In particular, relaxing a constraint affects
+
+tn diffe ). We pene single ilcoxon tests to tedeath performance on any task for which that constraint would
+
+significant. "problems of Type A Wee solved significantФ have blocked the correct solution, had it remained active.
+faster than problems of Type B, N = 38, T= 107, p <.001, For example, relaxing the constraint against arbitrarily
+aan changing an operator in an equation has the potential to
+
+and problems of Type B were solved significantly faster than a
+
+_ _ affect performance on any task for which some operator
+
+problems of Type C, N = 38, T = 160, p < .01. Moreover, + ss .
+
+Type A problems were solved significantly faster than Type plays an important role. Similarly, decomposing a tight
+
+D _ _ « chunk has the potential to affect performance on any task for
+problems, N = 38, T = 96, p < .001. As in Experiment . A .,
+
+. . a . which that chunk is relevant. For example, decomposing a
+1A, problems that required relaxation of wider constraints " ne
+a see . number symbol like X into its component symbols \ and / has
+and problems that required decomposition of tight chunks .
+the potential to affect performance on any problem that
+took longer to solve. Pp P
+° involves that symbol.
+
+Di . The main purpose of Experiment 2 was to investigate the
+escussion relative contributions of similarity and representational
+The results of Experiment 1B show that the main problem _ Change to the transfer effects observed in Experiment 1A. To
+
+type effect reported in Experiment 1A does not depend on Separate these effects, we varied surface similarity orthogospecific material effects. The difficulty of two more versions _ Bally to the need to relax constraints and decompose chunks.
+of each problem type followed the predicted pattern. The We varied similarity along two dimensions: the order of
+frequency of solution depends on the scope of constraints _the initial equation (i.c., the sequence of the symbols, the
+that must be relaxed to find a solution and the tightness of _ocation of the equal sign and the function term) and the
+perceptual chunks to be decomposed. No differences were Specific numerals that appeared in that equation. The matchobserved between experimental groups that solved different Stick arithmetic domain allows us to vary both order and
+versions of each problem type. The results of Experiment 1B numerals orthogonally to each other. For example, consider
+support the categorization of problem types according to the e Type A problem
+
+constraint relaxation and chunk decomposition hypotheses.
+
+The only deviation from our predictions was the lack of a IV=V-I, (Problem 1)
+
+significant difference in solution frequency between prob- , ,
+
+lems of Type B and Type A. This nonsignificant difference is Which has the solution IV = VI — II. It can be solved by
+
+probably due to a ceiling effect. The higher the likelihood mowing one matchstick from the symbol IIT "e the symbol ¥
+
+that a certain problem type is solved within the given time is move violates the value constraint (but no other
+interval, the higher the likelihood of obtaining nonsignifi- one a regis tte decomposition of loose crunk
+cant effects in solution frequency. The huge and highly ut no tight chunks). A second encounter wit lem
+
+reliable difference in solution times between problems of obviously maximizes similarity of both numerals and order.
+
+ЛTypes A and B shows clearly that the predicted difference in e refer to a second presentation of a previously encoun-
+
+task difficulty was present in Experiment 1B. Having shown _ tered problem as a “Лsame-same problem.Ф
+
+that the main problem type effect is not due to the specific The Type A problem
+
+tasks used in Experiment 1A, we examined the large transfer
+
+effect obtained in that experiment. V-M-=Iv (Problem 2)
+
+Experiment 2 consists of the same numerals as Problem 1, but they are
+presented in a different order. We refer to Problem 2 as a
+Historically, the term transfer has been used to refer to “Лsame-numerals problemФ (with respect to Problem 1).
+improvement in a personСs performance on Task B by prior The Type A problem
+
+exposure to Task A. The key issue always has been what
+
+properties of Tasks A and B mediate transfer effects. Ik=x-Il (Problem 3)
+
+Thorndike (1903, 1913) proposed the first systematic theory
+
+of transfer. His identical elements hypothesis claimed that _ contains different numerals than Problem 1, but the order is
+
+the amount of facilitation is a function of the similarity similar. We refer to Problem 3 as a “same-order problemФ
+
+between the two tasks. Singley and Anderson (1989) refor- (with respect to Problem 1).
+
+
+1544 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
+Finally, consider the Type A problem As expected, the participants in Experiment 2 (American students)
+had less prior familiarity with Roman numerals than their counterX-IN=Ix, (Problem 4) Parts in Experiment 1A (German students). The average time to
+complete a training trial was 561 ms in Experiment 2 as compared
+. an a. ith 457 ms in Experiment 1A.
+which contains different numerals in a different order than With oxPe cs
+. pyr In the experimental phase, participants encountered two blocks
+those in Problem 1. We refer to Problem 4 asa “different- — o¢ matchstick arithmetic problems. Each block contained two
+different problemС (with respect to Problem 1). instances of Type A, two instances of Type B, one instance of Type
+_ The matchstick arithmetic domain allows us to vary both _C, and one instance of Type D. The six problems in Block 1 were
+dimensions of similarity within each problem type. For each _ identical in the four experimental conditions. These six problems
+of the four Problem Types A through D (see the Application _appear in the second column in Table 6.
+section), we can construct problem sets that vary both order The four experimental conditions differed in how the six
+and numerals in the way illustrated by Problems 1 through 4 _ problems in Block 2 related to the problems in Block 1. In the
+(see the Method section of this experiment). same-same condition, the participants solved the same six prob-
+
+If similarity is the main determinant of the transfer effects ems as those in Block we the Same-nomerals condition, the
+
+observed in Experiments 1A and 1B, then the transfer effects P#rticipants solved six problems that contained the same numerals
+
+ould be stnaliest f lems, intermediate in @8the Problems in Block 1 but presented in a different order. These
+should be smallest for same-same problems, intermediate in obiems are shown in the third column in Table 6. In the
+size for same-numerals and same-order problems, and same-order condition, the participants solved six problems that
+largest for different—different problems, regardless of prob- presented different numerals in the same order as the problems in
+lem type. In contrast, if constraint relaxation and chunk _ Block 1. These problems are shown in the fourth column in Table 6.
+decomposition are the main determinants of the observed _ Finally, in the different-different condition, the participants solved
+transfer effects, then those effects should vary with problem problems that presented different numerals in different orders.
+type but be equal across levels of similarity. ЛThese problems are displayed in the fifth column in Table 6.
+
+In Experiment 2, we attempted a modest generalization to Problems were presented in random order within blocks. A new
+an American sample. Because Roman numerals are common ЛFandom order was Senerated by the computer for each participant.
+in Germany but rare in the United States, we expected The problems were presented on a computer screen. Participants
+different levels of farwiliarity with thi Л aL The Pusheda button as soon as they knew the correct solution and then
+
+erent levels of familiarity with this type of numeral. The a4 it out loud. If the solution was correct, they worked on the next
+pattern of effects observed in Experiments 1A and 1B should problem. If the solution was not correct, they continued to work on
+be robust with respect to this variable. the same problem until they announced another solution or
+encountered the 5-min time limit. If participants did not solve a
+
+Method problem within 5 min, they were told the solution.
+
+Participants. Seventy-eight undergraduates (45 women and 33
+men) from the University of Illinois at Chicago participated in the Results
+study for course credit. They ranged in age from 18 to 38 years. . . .
+
+They were randomly assigned to the four experimental conditions. The frequency of solution and the time to solution were
+
+Procedure. The training phase of Experiment 2 was identical the dependent variables. The results from each variable are
+in purpose and procedure to the training phase of Experiment 1A. reported separately.
+
+Table 6
+Problems Used in Experiment 2 by Type and Condition
+Experimental condition
+Problem type  Same-same  Same-numerals  Same-order _Different-different
+A
+Problem W=V-M V-M=iV K=x-t X-M=Kx
+Solution IV=VI-0Z VI-H=Iv' IK=xXI-I xXI-N=Ix
+A
+Problem IV=+M O+M=IV W=n+KV U+Iv=1v
+Solution Vi=I+M M+M=WI Vi=n+IV I+IV=Vi
+B
+Problem I=1+0 u+U=1 m=Vv+i Vv+m=m
+Solution I=I-0 -m=1 M=VIi-mM™ vi-mM=
+B
+Problem IvV=I-I I-IV=M VIl=V-I WW - vil = Vv
+Solution IV-W=1 I=IV-tl vll-VvV=m m= Vi-Vv
+c
+Problem W=M+0 m+m=m W=IWV+IV. W+iIv=lv
+Solution W=W=M M=m=0 W=IV=IV_ W=IvV=Iv
+D
+Problem XI=M+M W+M=xl ikx=I+m I+mM=Kx
+Solution VI=M+M W+M=vVi iW=i+m I+M=IV
+
+
+CONSTRAINTS, CHUNKS, AND INSIGHT 1545
+Table 7 80
+Percentage Solutions in Experiment 2 by
+Condition and Block
+Block
+Condition - 1 2 M 2
+Same-same 67 96 82 3
+Same-numerals - 64 99 82 3 .
+Same-order 64 95 80 s
+Different—different 1 95 83 2
+3 40.
+M 66 96 82 £
+- g
+3 ind
+
+Solution frequencies. Table 7 shows the frequency of  & a
+solution for the four similarity conditions. There were 20 oe
+minimal differences across conditions. Hence, similarity _ —a— TypeA
+appears not to have been a strong determinant of transfer nal om TypeD
+effects in this task domain.
+
+However, the results for Block 1 showed the order of task 6.
+difficulty predicted by the constraint relaxation and chunk 1 2 3 4 5
+decomposition hypotheses. Fewer problems were solved 1
+within the time limit if the constraints to be relaxed had a "me (min)
+wider scope (Type C < Type B < Type A). Figure 7 shows Figure 8, Cumulative solution rates for Problem Types A and D in
+the cumulative frequencies of solutions for 1-min intervals Block | of Experiment 2.
+for Types A through C. The predicted rank ordering of the
+problem types held at each interval.
+
+Problems that required decomposition of tight chunks There was a transfer effect from Block 1 to Block 2. The
+were solved less often than problems that required decompo- _ size of the effect did not differ among the four experimental
+sition of loose chunks only (Type D < Type A). Figure 8 conditions. However, the transfer effect was larger for more
+compares the cumulative solution frequencies for I-min difficult problem types. Figure 9 shows the cumulative
+intervals for Types D and A. The differences were in the frequency of solution for all four problem types on the
+predicted direction at each interval. second block, aggregated across the four experimental
+
+80 80
+ad OT pe
+eo a VY,
+60 60
+2 Ma
+& a g a
+3 a 3
+= JL S
+5 40 fo : 2 40
+z é é.
+z eee z
+Zz “on B —o— Typed
+E a Лype.
+2 —o— TypeA —o— Type B
+ssQuee Type a TypeD
+0 0
+1 2 3 4 5 1 2 3 4 5
+Time (min) Time (min)
+Figure 7. Cumulative solution rates for Problem Types A-C in Figure 9. Cumulative solution rates for Problem Types A-D in
+Block 1 of Experiment 2. Block 2 of Experiment 2.
+
+
+1546 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
+
+conditions. The relative lack of differences between problem _— Table 8
+
+types in Block 2 is reflected in the overlap between the Solution Times (in Seconds) for Block 1 of Experiment 2
+curves. The larger transfer effects for more difficult problem problem type SSS
+types are reflected in the upward shifts of the curves for . el a
+Types B, C, and D (compared with the corresponding curves Statistic A B c D
+
+in Figures 7 and 8) and the relative lack of such a shift for Mdn 61 95 300 300
+Type A. Lower Q 28 46 126 157
+
+An alpha level of .05 was used for all statistical tests. A Upper Q 116 166 300 300
+4 X 4 X 2 ANOVA with the variables similarity (samesame, same-numerals, same-order, or different—different;
+between participants), problem type (A, B, C, or D; within —_ Table 8 shows medians and lower and upper quartiles of the
+participants), and block (1 vs. 2; within participants) was _ solution times for problems solved in Block 1. The medians
+computed on solution frequency. There was no significant exhibited the predicted rank ordering (Type A < Type
+main effect for similarity, F(3, 74) = 0.34, MSE = 0.0791, _ B < Type C). The solution times were longer for problems
+p=.79. of Type D than for problems of Type A.
+
+The main effect of problem type was significant, F(4, We computed single Wilcoxon tests to assess if the
+222) = 46.45, MSE = 0.0782, p < .001; that is, some —_ observed differences were statistically reliable. Problems of
+problem types were more difficult than others. Post hoc Type A were solved significantly slower than problems of
+comparisons between problem types in Block | revealed that © Type B, N = 78, T = 913, p < .01; problems of Type B
+the predicted difference between problems of Type A and significantly slower than problems of Type C, N = 78, T=
+ЛType B failed to reach statistical significance (p = .14). 264, p < .001; and problems of Type D significantly slower
+However, problems of Type B were solved significantly less _ than problems of Type A, N = 78, T = 151, p < .001. These
+often than problems of Type C (p < .001). A further post _results replicate those of Experiments 1A and 1B. Solution
+hoc comparison revealed that problems of Type A were times were higher for problems that required relaxation of
+solved significantly less often than problems of Type D wider constraints and problems that required decomposition
+(p < 001). of tight chunks.
+
+There was a significant main effect of the block variable, The rank ordering of solution times for problems of Types
+F(1, 74) = 177.97, MSE = 0.0778, p < .001. More A through D observed in Block 1 did not persist in Block 2
+problems were solved during the second block. Post hoc _ (see last three rows of Table 9). Unexpectedly, there were
+comparisons revealed significant transfer for problems of _ significant differences between problem types in Block 2.
+Types C (p < .001) and D (p < .001), thatis, problems that Wilcoxon tests showed that Type C problems were solved
+required relaxation of the most fundamental constraint and _ significantly faster than problems of Type A, N = 78, T =
+problems that required decomposition of tight chunks. No 595, p < .001, and Type B, N = 78, T = 581, p < .001.
+significant transfer was observed in problems of Type A Furthermore, problems of Type D were solved faster than
+(p = .89). Contrary to our expectations, no significant problems of Type A, N = 78, T = 1,008, p < .01.
+transfer was observed for problems of Type B (p = .14).
+
+As these results imply, there was a significant two-way
+interaction between problem type and block, F(4, 222) = Table 9
+39.99, MSE = 0.0888, p < .001. Problem types that were Solution Times (in Seconds) for Block 2 of Experiment 2
+more difficult in the first block were solved more often in the Problem type
+second block than in the first block. Consequently, there oe . Co
+were no significant differences in solution frequency be- Condition and statistic A B cD
+tween problem types in the second block (all ps > .10); all Same-same (n = 19)
+problems were reduced to the difficulty level of the simplest Mdn 47 39 6 16
+problems. The two-way interactions between similarity and tree u 3 3 6
+problem type and between similarity and block and the “gaye Sh arals n = 20)
+three-way interaction between similarity, problem type, and Mdn 40 43 8 10
+block were not significant. Lower Q 31 23 5 8
+
+In a further post hoc comparison, we compared the s Upper O =19 ad ma 16 27
+difficulty of problem types in the second block in the Same-order (n= 19) “50k
+same-same and different—different conditions. We found no Lower Q 27 33 6 B
+significant differences between these two conditions for Upper Q 57 139 14 73
+Problem Type A (p = .98), B (p = .60), C (p = .30), or D Different-different (n = 20)
+
+(p=). Man 54 57 19 «17
+. . opty oe . . Lower 26 39 8 8
+
+Solution times. The distribution of solution times was Upper O 118 98 «464007
+highly skewed. Therefore, we report medians and quartiles All (N = 78)
+and used ordinal tests to assess statistical significance. First, Mdn 45 48 8 18
+we analyzed the main effect of task difficulty in the first Lower Q 26 32 Fd 8
+block of problems, and then we analyzed the transfereffects, ___UpperQ 84 HBT
+
+
+CONSTRAINTS, CHUNKS, AND INSIGHT 1547
+These differences were not due to the persistence of the | Experiment 1A. Similarity had no measurable effect on
+differences observed in Block 1. The statistically significant solution frequency, whereas the size of the transfer effect
+differences in Block 2 reversed the direction of the differ- varied as a function of initial problem difficulty. Problem
+ences in Block 1. Therefore, the differences were unex- _ types that were more difficult when encountered for the first
+pected but not inconsistent with our theory. time yielded larger transfer effects. The only nonsignificant
+The lack of differences between the experimental groups outcome was the lack of the predicted difference in solution
+in the analysis of solution frequencies may be partly due to frequency between a first and a second encounter of
+ceiling effects. To address this problem, we conducted a _ problems of Type B. We think that this is also due to a ceiling
+further analysis of solution times in the transfer block, which _ effect. All in all, the analysis of solution frequency suggests
+provide a more sensitive measure to detect effects of that the transfer effects are mainly due to representational
+similarity on transfer. Table 9 shows the solution times for change. .
+each problem type in each group. _The pattern of solution times followed the pattern preWe conducted Kruskal-Wallis ANOVAs to assess the _ Лlicted by the representational change hypothesis. Solution
+effect of similarity on transfer for each problem type. times were reduced on a second encounter for all problem
+Solution times in the experimental conditions did not differ tyPeS- Furthermore, the reduction was larger for problem
+significantly for transfer problems of Type A, H(3, N= types that were more difficult on a first encounter. Unexpect78) = 1.91, p = .59, and Type B, H(3, N = 78) = 5.71, p = edly, problems of Types C and D yielded even shorter
+.13. However, transfer problems of Type C were solved Solution times than the other problem types in Block 2.
+faster when they were more similar to the problem solved in Although our theory predicted larger transfer effects for
+Block 1, H(3, N = 78) = 11.05, p < .05. A similar effect. Fe difficult problems, it predicted a leveling of problem
+was seen in problems of Type D, but it was only marginally difficulty, not a reversal. Also, similarity between a problem
+significant, H(3, N = 78) = 6.88, p = .08. So, there was solved in the first block and the corresponding transfer
+some effect of similarity on transfer in the problem types that PY bem in Block 2 had a weak effect on transfer (measured
+were most difficult in Block 1. Note, however, that problems poe lution on oo jose oe “th y ipees ts. Fi er all
+of Types C and D were solved very fast in the transfer block. [NONE & tn exp aia Donibletne Ite hey
+Even in the conditions of lowest similarity, the solution that als were the same in Type D problems. It is plausible
+. jat this distinctive feature helped speed up recognition of
+times for those problem types were faster than the solution Type D problems. Second, the difference between the left
+ee Types A and B in the conditions of highest and right sides of the equation was always equal to five in
+To test our transfer predictions, we compared solution problems of Type E, and it is possible that participants
+times in the first and second blocks for each problem type. To s * ari , the results of Experiment 2 support the
+As Tables 8 and 9 show, solution limes were shorter in Block conclusion that constraint relaxation and chunk decomposi2 for all problem types. Problems with longer solution times tion are stronger determinants of transfer effects in matchin Block 1 showed larger transfer effects. Single Wilcoxon stick arithmetic than surface similarity between problems.
+Лsts showed significant transfer for problems of Type A, Systematic variations of similarity had only weak effects.
+N= 78, T = 1,108, p < .05; Type B, N = 78, T= 699.7 < Hence, the transfer observed in matchstick arithmetic prob001; Type C, N = 78, T = 81, p < .001; and TypeD,N= Jems is mainly a function of representational change and
+78, T = 95, p < 001. cannot be explained by the identical elements theory alone.
+The replications of the main effects of Experiments 1A and
+Discussion 1B show that these effects generalize across levels of
+familiarity with Roman numerals.
+The results replicated the main findings from Experiments
+1A and 1B. Problem type, as defined by the need to relax :
+constraints and decompose chunks, was the main determi- . Experiment 3
+nant of problem difficulty in the first block. The predicted The purpose of Experiment 3 was to provide additional
+order of problem difficulty was present in the analysis of support for the hypothesis that we have identified two
+solution frequency as well as in the analysis of solution time. _ separate dimensions of difficulty in insight problem solving.
+As in Experiment 1B, there was one nonsignificant outcome; Experiments 1A and 1B, and 2 showed that matchstick
+that is, problems of Type B were not solved significantly less__arjthmetic problems of Types C and D are more difficult than
+frequently than problems of Type A within the given time —_ problems of Types A and B (see Figures 2, 3, 5, 6, 7, and 8).
+limit. At the same time, there was a statistically reliable According to our theory, this quantitative similarity hides a
+difference in solution time between these two problem types. qualitative difference.
+Therefore, it is likely that the nonsignificant outcome is due The difficulty of Type C problems is due to the need to
+to aceiling effect (96% of the Type A and 90% of the Type B _relax constraints on meaningful arithmetic statements, so
+problems were solved). that equations of the familiar regular form
+The transfer effects between the first and the second block
+of problems followed the same pattern as that observed in X=Y¥+Z
+
+
+1548 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
+can be transformed into equations of the unfamiliar tautologi- _ tested with problems like
+cal form
+VI = VIl=V,
+X=Y=Z.
+with solution VI = VI = VI. The corresponding predictions
+The difficulty of Type D problems, in contrast, is caused _ for problems of Type B cannot be tested because there is no
+by the need to decompose perceptual chunks like Vand X _tautological form of this problem type.
+into their components so that the problem solver can
+consider changing a V symbol into an X (or vice versa) by Method
+horizontally sliding either the \ or the / component. _. .
+Ifproblems of Types C and D are difficult for qualitatively _ Participants. Thirty-four undergraduates (18 women and 16
+different reasons, it should be possible to manipulate one men) from the University of Hamburg and the University of
+. 7 . lunich participated in this study for course credit. They ranged in
+source of difficulty without affecting the other. The fact that age from 19 to 42 years.
+the transformation between the regular form and the tauto- Materials, design, and procedure. There were two sets of
+logical form of Type C problems is reversible provides an _ problems. The regular set consisted of six regular problems: two of
+opportunity to test this hypothesis. Consider the problem Type A, two of Type B, one of Type C, and one of Type D. The
+tautological set consisted of four tautological problems: two of
+VI=l =I, ЛType A, one of Type C, and one of Type D.
+
+The participants were randomly assigned to either of the two
+with solution VI = III + III. The move required to solve this seth ato Ret eo had 1S parkchean Each eroup
+problem is the reverse of the move required to solve the solved two blocks of problems. In the regular-first group, the
+regular Type C problems: Lift one of the matchsticks that _ participants solved the problems with the regular structure in the
+make up the second equal sign, rotate it, and put it down first block and the problems with the tautological structure in the
+again, thereby transforming the equal sign into a plus sign _ second block. In the tautology-first group, the participants solved
+and, indirectly, the tautological form into the regular form. the two sets of problems in the opposite order. Problems were
+
+If the tautological form constitutes the initial state of a Tandomized within each block for both groups. The experimental
+Type C problem, constraints from arithmetic or algebra Procedure was in other respects the same as that used in the
+should not interfere with its solution. There are no con- Previous three experiments.
+straints that rule out the regular form, so moves that produce
+the regular form should not be difficult to think of. Hence, Results
+tautological Type C problems should be easier than regular Solution frequencies. An alpha level of .05 was used for
+Type C problems on a first encounter. Once the problem _ all statistical tests. Only the data from Problem Types A, C,
+solver has seen the tautological form, and thus implicitly and D were relevant for the hypotheses being tested.
+been told that this form is valid and can be useful, the Table 10 shows the solution frequencies. As observed in
+tautology constraint ought to be relaxed. Once relaxed, it Experiments 1A and 2, the regular form of Type C problems
+should no longer interfere with the solving of regular Type C was difficult for the participants. Only 61% of Type C
+problems. Hence, we predicted a facilitating effect of prior problems were solved in Block | in the regular-first group.
+exposure to tautological Type C problems on the solutionsto _—ЛIn contrast, the tautological form of these problems was
+regular Type C problems. easy. All tautological Type C problems were solved in Block
+
+Our theory makes different predictions for problems of
+ЛType D. For these problems, equation structure is irrelevant.
+
+The difficulty of Type D problems is due to the need to pate 19
+decompose chunks like V and X into their / and \ compo- P ee . . eae
+
+es, ercentage Solutions in Experiment 3 by Condition,
+nents. Hence, tautological Type D problems should be as Problem Type, and Block
+difficult as regular Type D problems, and prior exposure to. | ————————__—__—
+the tautological form should have little effect on the Block
+performance of regular Type D problems. These predictions Condition 1 2
+can be tested by presenting Type D problems of the A
+following sort: ype
+
+Regular-first 94 100
+XI = VI= VI, Tautology-first 97 91
+Type C
+
+with solution VI = VI = VI. Regular-first 61 100
+
+The same logic applies to Type A problems. Because ЛTautology-first 100 94
+equation structure is not the determinant of the difficulty of DS
+these problems, we predicted that the difference between the ype
+regular and tautological forms should have little impact on Regular-fiet 8 94
+the performance of Type A problems. This prediction can be ___Tawtology-first 8B
+
+
+CONSTRAINTS, CHUNKS, AND INSIGHT 1549
+
+Table 11 predicted ordering of the three relevant Problem Types A, C,
+Solution Times (in Seconds) in Experiment 3 and D. Two Wilcoxon tests showed that Type C problems
+for Regular Problems were solved significantly slower than Type A problems, n =
+lene 18, T = 3, p < .001. Moreover, Type D problems were
+_—__Problemtype solved significantly slower than Type A problems, n = 18,
+
+Group and statistic A Cc D T=17,p<.0l.
+
+Regular-first The pattern of results in the tautology-first group was
+Man 32 175 193 quite different. Solution times for the regular Type A and
+Lower Q “20 113 83 Type D problems were longer than those for Type C
+
+tan ees 59 300 300 problems. Two Wilcoxon tests showed that the difference
+Man 37 u 46 between Type A and Type C problems was significant, n =
+Lower Q 17 7 21 16, T = 16, p < .01, as was the difference between Type C
+Upper 0 79 17 135 and Type D problems, n = 16, T = 16, p < .O1. The
+
+difference between Type A and Type D problems was not
+. significant (p = .50). Prior exposure to tautological prob1 in the tautology-first group. The difference between the lems made regular Type C problems easier than either Type
+groups in Block 1 was significant x2(1, N = 34) = 12.59,  AorTypeD problems. .
+p < 001. As predicted by the constraint relaxation hypoth- To further examine the impact of prior exposure to the
+esis, tautological Type C problems were easier than regular _tautological form on the solution times for regular problems,
+ЛType C problems on a first encounter. we compared the solution times from Block 1 in the
+ЛThere was transfer from the tautological to the regular regular-first condition with the solution times from Block 2
+Type C problems. All Type C problems were solved in Block in the tautology-first condition. Single U tests showed that
+2 in the regular-first group. The difference between the two __ the difference between these conditions was not significant
+blocks was significant for that group, x(1, N= 18) = for Type A problems, U = 128, Z = —0.53, p = .59.
+13.85, p < .001. This result is in accordance with our | However, the difference was significant for Type C probhypothesis that prior exposure to tautological Type C lems, U = 8, Z= 4.67, p < .001, and Type D problems, U =
+problems removed the constraint that hinders the solution of 65, Z = 2.71, p < .O1. Prior exposure to tautological
+regular Type C problems. problems caused a facilitating effect for Type C problems
+ЛThe impact of prior exposure to tautological problems on and Type D problems but not for Type A problems.
+the solutions to regular problems could not be ascertained The median solution times and the lower and upper
+because of a ceiling effect. All problems were solved in quartiles for the tautological problems in both experimental
+Block 1 for that group, leaving no room for improvement on —_-SfOups are shown in Table 12. As predicted, tautological
+Block 2. Type C problems were easier than regular Type C problems
+In contrast, the initial difficulty of Type D problems was On first exposure, U = 28, Z = 4.02, Pp <.001. Tautological
+almost unaffected by the difference between regular and Type D problems were as difficult as regular Type D
+tautological equation forms. In Block 1, 61% of the prob- problems on an initial encounter; the numerical difference
+lems were solved in the regular-first group and 69% in the Was far from significant, U = 116, Z = 0.96, p = .33.
+tautology-first group, a nonsignificant difference, y2(1, Unexpectedly, participants took somewhat longer to solve
+N = 34) = 0.22, p = .64. Performance improved in both tautological ЛType A problems than regular Type A problems;
+groups by approximately the same amount. In Block 2,92% the difference was marginally significant, U = 34, Z =
+versus 94% of the problems were solved. The effect was —1.17, p = .09. . —
+significant for the regular-first group, x2(1, N = 18) = 5.79, We conducted further Wilcoxon tests to determine if there
+p < .05, and marginally significant for the tautology-first Were significant differences between the three problem types
+group, x*(1, N = 16) = 3.28, p = .07. These results are in the tautology-first condition. Tautological problems of
+consistent with the hypothesis that the tautological form
+does not affect initial difficulty and transfer in problems of -
+Type D. Table 12 ; ; ;
+As predicted, the initial difficulty of Type A problems was Solution Times (in Seconds) in Experiment 3
+also unaffected by the experimental manipulation. The [27 Tautological Problems
+solution percentages for Block 1 were 94% and 97% in the Problem type
+two groups. Because of the ceiling effect, the impact of prior Seti "ee oD.
+exposure to tautological problems on the solution rate for __Groupand statistic A
+regular problems could not be ascertained. Tautology-first
+Solution times. As in the former experiments, we report Man 0 3 a 196
+medians and quartiles and used ordinal tests in our analysis Upper 0 m 53 300
+because the distribution of solution times was far from Regular-first
+normal. The median solution times and the lower and upper Mdn 12 18 21
+quartiles for the regular problems in both groups are shown Lower Q % 13 12
+in Table 11. The regular-first group once again replicated the __UPPeT@ 6 35M
+
+
+1550 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
+Type C were solved significantly faster than problems of The results also support our predictions about the effects
+Type A, n = 16, T = 27, p < .05, and problems of Type D, _ of prior exposure to tautological problems on the solution of
+n= 16, T = 27,p < .05. Although problems of Type Awere _ regular problems. Regular problems of Type C were solved
+solved faster than problems of Type D, the difference did not _—_ more often and faster if tautological Type C problems had
+reach statistical significance, n = 16, T = 38, p = .21. been solved before, whereas the difficulty of tautological
+To examine the impact of prior exposure to the regular — Type C problems was unaffected by prior solution of regular
+form on the solution times for tautological problems, we | Type C problems. There was transfer in both directions
+compared the solution times from Block 1 in the tautology- _ between the tautological and the regular Type D problems
+first condition with the solution times from Block 2 in the (with the small restriction that the transfer was only marginregular-first condition. Tautological Type A problems were _ally significant in the tautology-first group). Although solvsolved significantly faster when regular Type A problems __ ing tautological Type A problems first had no impact on the
+had been encountered earlier, U = 54, Z= —3.10,p <.01. _ later solution of regular Type A problems, solving regular
+Tautological Type D problems were solved marginally Type A problems first helped to solve tautological Type A
+significantly faster when regular Type D problems had been _ problems later. The latter result was unexpected, but it can
+encountered earlier, U = 89, Z = —1.88, p = .06. Solving _ be understood by the same logic that explains the higher
+regular Type C problems first had no impact on the solution _ difficulty of the tautological Type A problems. Problem
+times of later encountered tautological Type C problems, solvers who have solved the regular form of Type C
+U=113,Z = 1.07, p = .28. problems know that it can be useful to produce the tautological form. Therefore, they do not prefer moves that produce
+Discussion the regular form, whereas those problem solvers who do not
+have experience with the regular form do.
+The results of Experiment 3 bore out the predictions that
+the initial difficulty of Type C problems would be affected by General Discussion
+the tautological form, whereas the initial difficulty of
+tautological Type D problems would be unaffected, and that The constraint relaxation and chunk decomposition hypothprior exposure to tautological problems would have a _ eses are powerful tools for understanding both the relative
+different effect on regular problems of Type C than on difficulty of individual problems and transfer effects. Table
+problems of either Type A or Type D. 13 gives an overview of the effects of task difficulty
+The solution frequencies and the solution times support observed in Experiments 1A, 1B, and 2.
+the prediction that tautological Type C problems were less Our analysis of the need to relax constraints predicted the
+difficult than regular Type C problems on a first encounter. _rank ordering of three types of superficially similar matchThey were even easier than the tautological form of Type A __ stick arithmetic problems with respect to initial difficulty.
+and Type D problems. In contrast, tautological problems of We predicted that problems of Type A would be less difficult
+Type D were as difficult as regular Type D problems. than problems of Type B, which in turn would be less
+Tautological problems of Type A were solved as often as _ difficult than problems of Type C (see Tables 1, 4, and 6 for
+regular Type A problems, but unexpectedly, the solution _ several instances of each problem type). Rows 1, 2, 4, and 5
+times for tautological problems were significantly higher _ in Table 13 illustrate that the predicted order was observed in
+than the solution times for regular problems. One possible ad _ all three experiments that assessed the main effect of task
+hoc explanation for this effect is that problem solvers first difficulty (Experiments 1A, 1B, and 2) in both dependent
+tried to manipulate the equal signs in the tautological form —_variables—solution frequency and solution time. Problems
+because their initial goal included the constraint that the of Types A and B did not differ significantly in the analysis
+solution consisted of the regular form. Only if the manipula- _of solution frequencies in Experiments 1B and 2. However,
+tion of the equal signs did not lead to a solution did they start at the same time, the differences in solution times were
+to manipulate values within the irregular form. highly significant. Therefore, it is likely that the nonsignifiTable 13
+Main Effects of Task Difficulty in Experiments 1A, IB, and 2
+Experiment 1A Experiment 1B Experiment 2
+Predicted Predicted Predicted
+Prediction order P order P order P
+% solved
+A>B Yes <.05 Yes 12 Yes 4
+B>C Yes <.01 Yes <.001 Yes <.001
+A>D Yes 13 ЛYes <.05 Yes <.001
+Time
+A<B Yes <.001 Yes <.001 Yes <.01
+B<C Yes <.05 Yes <.01 ЛYes <.001
+A<D Yes <.001 Yes <.001 Yes <.001
+
+
+CONSTRAINTS, CHUNKS, AND INSIGHT 1551
+cant outcomes in the analysis of solution frequency are due Type B problems in Experiment 2 was more than 80%.
+to ceiling effects (more than 75% of the Type B problems Therefore, there was little room for improvement in the
+were solved in Experiments 1B and 2). second block.
+
+The chunk decomposition hypothesis predicts that prob- The constraint relaxation and chunk decomposition hypothlems that require the decomposition of tight perceptual _eses predict not only transfer for more difficult problem
+chunks (i-e., chunks with components that are not them- __ types but also an interaction such that problems with higher
+selves chunks) are more difficult than problems that require _ initial difficulty exhibit larger transfer effects. We found this
+the decomposition of intermediate and loose chunks (i.e., interaction in all four experiments. The effect of task
+chunks with components that are themselves chunks). This _ difficulty observed on a first encounter always disappeared
+led to the prediction that problems of Type D would be more when the same problem types were encountered a second
+difficult than problems of Type A (see Tables 1,4, and6 for time. The leveling out of task difficulty on a second
+several instances of each problem type). Rows 3 and 6 in _ encounter is best seen when comparing Figures 2 and 3 with
+Table 13 show that the predicted order of task difficulty was Figure 4 (Experiment 1A) and comparing Figures 7 and 8
+present in Experiments 1A, 1B, and 2, in both solution —_ with Figure 9 (Experiment 2).
+frequencies and solution times. The solution frequencies in Experiment 3 provided additional support for the hypothExperiment 1A did not differ significantly between problems __ esis that the need to relax constraints and the need to
+of Types D and A. Again, the difference in solution time was decompose chunks are different sources of difficulty in
+highly significant, making it likely that the nonsignificant _insight problem solving. Although presenting problems of a
+outcome is due to a ceiling effect and the relatively small _tautological form completely removed the former source of
+sample size in Experiment 1. difficulty, it did not affect the latter.
+
+The constraint relaxation and chunk decomposition hypoth- To summarize, our experiments provide some evidence
+eses also predict large transfer effects for the more difficult that constraint relaxation and chunk decomposition are the
+problem types, namely, Types B, C, and D. Table 14 givesan main determinants of task difficulty and transfer in the
+overview of the transfer effects obtained in Experiments 1A domain of matchstick arithmetic problems. The predicted
+and 2. order of task difficulty was never violated, and the predicted
+
+The predicted order of task difficulty for the first and transfer was always present, at least numerically. The few
+second encounters of a problem type was never violated. _ nonsignificant results we obtained are likely due to ceiling
+Although transfer for the easiest Type A problems was seen _ effects. In the next section, we discuss whether alternative
+only in the solution times of Experiment 2 (probably theories of insight can explain our results.
+because of the large sample size), significant transfer for
+problems of Types B, C, and D was present in Experiments - 5
+1A and 2 in both solution frequencies and solution times.  4/ternative Explanations
+There were two deviations from this general pattern. There Theories of insight fall into two broad classes: theories
+was no significant effect of transfer on solution frequencies that explain why insight is at all possible and theories that
+for problems of Type D in Experiment 1 and problems of explain why insight is difficult to attain. Also, there are
+ЛType B in Experiment 2. However, we observed significant theories of thinking based on alternative assumptions about
+differences in solution time in both cases. The lack of — knowledge representation.
+significant effects is once again likely to be due to ceiling How is insight possible? According to the Gestalt
+effects. The solution frequency for Type D problems in psychologists (Kéhler, 1924, 1925; Wertheimer, 1945/
+Experiment 1 was already 75% during the first block, and —_ 1959), a solution appears in consciousness when the percepthe sample size was quite small. The solution frequency for _tual field reorganizes itself into a better, more harmonious or
+
+balanced state (Ohlsson, 1984a). In the terminology of
+
+Table 14 oon Wee oa nae i the cestalt psychologists
+
+. . especially Kohler, saw insight as an instance of
+Transfer in Experiments JA and 200 self-organization.
+
+Experiment 1A Experiment 2 Ata general level, the gestalt concept of reorganization is
+
+Predicted Predicted certainly applicable to matchstick arithmetic. However, it
+
+Prediction order P order Pp cannot explain particular effects. For example, why does
+
+“@sNwed Teorganization of the perceptual field take longer in prob-
+
+A(1) SA(2) Yes 80 Yes 89 lems of Types C and D than in problems of Type A? The
+
+B(I) <B (2) Yes <.05 Yes 14 reorganization concept has not been specified at the level of
+
+Cc) <CQ) Yes <.001 Yes <.001 detail that is required to answer such questions.
+
+Te <M ЛYes 13 ЛYes <.001 The hypothesis of variation and selection claims that
+
+ACL) =A(2) Yes 91 Yes <05 novel solutions are constructed by creating more or less
+
+B(1) >B(2) Yes <.001 Yes <.001 random variants of existing solutions until one is found that
+
+C(I) >C(2) Yes <.01 Yes <.001 solves the current problem (Johnson-Laird, 1989). This idea
+
+D()>D@) Yes <05 ЛYes <.001 has been proposed many times under different names: blind
+Note. Numbers in parentheses refer to experiment numbers Variation and selective retention (Campbell, 1960), chance
+(1 = Experiment 1A; 2 = Experiment 2). permutations and configuration formation (Simonton, 1988),
+
+
+1552 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
+generate and test (Newell & Simon, 1972), generation and _ the problems involved matches. Also, the functional fixedexploration (Finke, 1995; Finke, Ward, & Smith, 1992), and _ ness hypothesis explains why impasses arise but not how
+trial and error (Thorndike, 1903, 1913). they are resolved. People must have some process by which
+As a general characterization of problem solving, the they eventually come to think of the unfamiliar function;
+variation-selection hypothesis is certainly correct. Whatelse otherwise they would fail to solve insight problems in
+can a problem solver do if one solution fails than try another general and matchstick arithmetic problems in particular,
+one? In particular, it is plausible that our participants kept _ contrary to our observations.
+generating different possible moves until they found one that The mental ruts hypothesis claims that insight problems
+worked. However, without auxiliary assumptions that pre- are difficult because initial exploration of an unsuccessful
+dict the order in which the possible moves are considered, search path adds activation to that path, which in tum
+the variation-selection principle cannot explain why it takes _increases the probability of further exploration of that path
+longer to generate the right move for some problems than and therefore decreases the probability of thinking of
+others. Also, it is not clear how the variation-selection idea another path. This type of explanation has been expressed in
+by itself can explain differential transfer effects for different different terminologies: Einstellung (Luchins, 1942), familtypes of problems. * iarization and selective forgetting (Simon, 1966), mental
+In contrast to both the reorganization and variation~ _ruts (Smith, 1995a, 1995b), set and forgetting (Weisberg,
+selection hypotheses, Bowers, Farfolden, and Mermigis 1986, p. 30), and false starts and absence of interference
+(1995), Perkins (1981), Weisberg (1986, 1993, 1995), Weis- (Woodworth, 1938, p. 823).
+berg and Alba (1981), and others have described creative The mental ruts hypothesis claims that our participants
+problem solving as a gradual transformation of past experi- _ did not immediately think of the right move because they
+ence. Detailed analyses of creative processes have revealed _ kept considering the same wrong move (or moves) over and
+how artistic and creative products are rooted in such over again. This is indeed a potential cause of impasses.
+experience (Weisberg, 1993). However, the mental ruts hypothesis also predicts that
+The gradual transformation view is implausible with problem solvers, once entrenched in a false solution, cannot
+respect to matchstick arithmetic. Our participants solved the recover without a pause. The main way to escape from a
+experimental problems in a matter of seconds or minutes, _ mental rut is to set the problem aside for a while so that the
+and, unlike the artists and scientists studied by Weisberg _ activation of the unsuccessful path can decay to the point
+(1993) and others, they did not produce and repeatedly where alternative paths can compete during retrieval and
+revise a creative product. The gradual transformation hypoth- _ decision making (Ohlsson, 1992b). But our participants did
+esis is consistent with what is known about temporally not have the opportunity to take a pause; yet, they often did
+extended creative enterprises, but it does not explain why _ resolve their impasses. Another possibility is that an external
+some single-step problems take longer to solve than others __ stimulus shakes the problem-solving process out of a mental
+nor why such problems exhibit differential transfer effects. rut. But the display never changed while participants solved
+These three hypotheses fail to explain our data because a task, so the information in the problem environment
+they do not provide any mechanism for explaining why _ remained constant. Also, the mental ruts hypothesis cannot
+impasses occur and hence cannot explain why an impasse _ explain why the tendency to become stuck in a mental rut is
+lasts longer in one problem than in another. We next consider _— stronger for some matchstick arithmetic problems than
+theories explaining impasses but not insights. others. Nor can this hypothesis explain differential transfer
+Why is insight difficult? The functional fixednesshypoth- _ effects for different problem types.
+esis claims that mental representations of objects are associ- Alternative knowledge representations. Other alternaated with the common functions for those objects. Aninsight tive hypotheses differ from ours by assuming that the
+problem that requires a familiar object to be used in an _ relevant knowledge is encoded in some other format than
+unfamiliar way is difficult to solve because the unfamiliar constraints and chunks. For example, the remote associausage of the object is blocked by the spontaneous retrievalof _ tions hypothesis claims that the participants have an associaits more familiar function. This hypothesis has empirical __ tive hierarchy for matchstick arithmetic problems such that
+support (Adamson, 1952; Birch & Rabinowitz, 1951; certain actions or operations are more likely to be accessed
+Duncker, 1945; Flavell, Cooper, & Loiselle, 1958). Two _ than others (Smith, 1995a, 1995b). Priming of the relevant
+computer models of functional fixedness have been de- associations might produce short-term transfer effects.
+scribed in Keane (1989) and in an unpublished report by It is highly unlikely that the majority of the participants in
+Greeno and Berger (1987); both are reviewed in Ohlsson _ our experiments had a well-developed hierarchy of associa-
+(1992b, pp. 25-27). tions for matchstick arithmetic problems. Although some of
+With respect to matchstick arithmetic, the functional them might conceivably have seen a matchstick problem ina
+fixedness hypothesis suggests that our participants did not —_ psychology textbook or a collection of brain teasers, solving
+immediately think of the right move because they were matchstick problems is not, in our experience, a common
+distracted by spontaneous recall of more familiar uses of _ pastime among college students either in the United States
+matches or spontaneous recall of the normal meaning of _ or in Germany. Also, an explanation for our data in terms of
+arithmetic symbols. This hypothesis is plausible but cannot _ association hierarchies requires auxiliary assumptions to
+explain the differences among problem types with respect to _ explain why the associations needed to solve some problem
+either initial difficulty or amount of transfer because all of types are more remote than others.
+
+
+CONSTRAINTS, CHUNKS, AND INSIGHT 1553
+The related differential recall hypothesis claims that task 9.1, p. 284). The constraint construct is also useful in
+knowledge is encoded in procedures (e.g., collections of explaining how people solve the Tower of Hanoi puzzle>
+production rules; Anderson & Lebiere, 1998) and that (Richard et al., 1993), how problem solvers identify the most
+different procedures are associated with different speeds _ fruitful mapping between a target and many possible sources
+because of different degrees of familiarity. Although the in analogical reasoning (Holyoak & Thagard, 1989), how
+participants in our experiments probably did not possess _ learners detect and correct their own errors during skill
+specific procedures for miatchstick arithmetic problems, they acquisition (Mitrovich & Ohlsson, in press; Ohlsson, 1992a,
+obviously did possess general procedures or motor programs 1996; Ohlsson, Ernst, & Rees, 1992; Ohlsson & Rees,
+for manipulating physical objects. To explain our findings, 1991), and how cognitive dissonance is reduced (Shultz &
+this hypothesis must be augmented with auxiliary assump- Lepper, 1996).
+tions to explain why procedures for sliding or rotating an The usefulness of the chunk construct for understanding
+object are recalled slower than procedures for moving an _noninsight problem solving was demonstrated by Chase and
+object. Everyday experience contains enough instances of — Simon (1973). They found that chess masters perceive a
+objects being rotated or pushed sideways so that this complex chessboard in terms of well-known configurations
+hypothesis is an unlikely explanation for why one set of _ of chess pieces rather than in terms of single chessmen, as
+procedures would take tens of seconds—in some cases the novice player does. These results have been replicated
+several minutes—longer to recall. with respect to other board games (Reitman, 1976), electronic circuit diagrams (Egan & Schwartz, 1979), and other
+Generality domains (Ericsson, 1985). Chunking effects also have been
+observed in geometry proof finding (Koedinger & Anderson,
+The hypotheses that impasses are caused by unhelpful 1990; Ohlsson, 1990). The chunk construct is also a central
+constraints and chunks acquired in past experience and that component in explanations of skill acquisition (Rosenbloom
+impasses are resolved through constraint relaxation and et _al., 1989), training effects in working memory (see
+chunk decomposition presuppose that at least some knowl- Ericsson & Lehmann, 1996, pp. 292-296, for a review), the
+edge is encoded in constraints and chunks. Our theory would _ perception of reversible figures (Attneave, 1971; Hochberg
+be strengthened by independent evidence for this assump-  & Brooks, 1960; Toppino & Long, 1987), and social
+tion. At the task-specific level, we are certain that the stereotypes (Hamilton, 1994; Hilton & Hippel, 1996).
+participants in our experiments initially assimilated match- In short, the two constructs of constraints and chunks are
+stick arithmetic problems to their prior knowledge of useful in understanding a wide variety of psychological
+arithmetic; the number symbols, the arithmetic operations, | phenomena. An explanation of insight in terms of constraint
+and the equation format make this highly plausible. How- _ relaxation and chunk decomposition is thus consistent with a
+ever, we do not have independent evidence that this knowl- _large body of psychological research.
+edge is encoded in constraints. Our chunks hypotheses are In general, the concept of representational change is
+on stronger ground. Our training procedure (see the Method _ consistent with the fact that every problem is both like and
+section in Experiment 1A) explicitly instructed the partici- _ unlike past problems. Hence, human beings have no choice
+pants to see symbols like VII as complex patterns and Jas a _ but to extrapolate the past in their efforts to make sense of
+subpattern of VII, and it is highly likely that their past the present, and in most situations, past experience is indeed
+experience had biased them against seeing / and \ as _ more help than hindrance. However, there is no guarantee
+meaningful subpatterns of V and X. In short, our experiments that any particular extrapolation will succeed, and the
+tested the specific form that our general hypotheses took complexity and the variability of the environment ensure
+when articulated vis-a-vis the domain of matchstick arith- _ that individuals will encounter problems and situations in
+metic problems, as opposed to the general hypotheses | which past experience is misleading. To act successfully
+themselves. vis-a-vis such situations, the mind must override the imperaHowever, the generality of constraints and chunks is tives of experience by changing its representation of the
+supported by a wide range of studies. Constraints that need
+to be relaxed for successful problem solving have been
+identified in many other insight problems than matchstick 1 Nine dots form a3 X 3 square on a piece of paper. Draw a line
+arithmetic. For example, the Nine Dots Problem! is difficult _with a pencil that goes through all nine dots, without duplicating
+because people try to keep their lines inside the square _any part of the path and without lifting the pencil from the paper.
+formed by the dots, a constraint that prohibits the solution 2 This interpretation of performance on the Nine Dots Problem
+from being found (Scheerer, 1963, p. 120)? The Six has been criticized by Weisberg and Alba (1981, 1982). We
+Matches Problem? is difficult because people implicitly disagree with their critique for reasons stated in Ohlsson (1992b,
+assume that the figure is supposed to be two-dimensional Ps our equilateral triangles out of six matches.
+(Bogoyavlenskaya, 1972; Scheerer, 1963, p. 120). Similarly, 4 A steel pyramid is perfectly balanced upside down on a steel
+itis plausible that the Inverted Pyramid Problem* is difficult taije, its tip resting on a $100 bill. Remove the bill without
+because people implicitly assume that the $100 bill is not to disturbing the pyramid.
+be destroyed. The source of this constraint in everyday life is 5 There are N disks stacked in order of decreasing size on one of
+obvious. Isaak and Just (1995) specified the constraints that three pegs. Move the stack to another peg by moving one disk at a
+need to be relaxed for 21 different insight problems (Table __ time and without ever putting a larger disk on a smaller one.
+
+
+1554 KNOBLICH, OHLSSON, HAIDER, AND RHENIUS
+problem by relaxing constraints; decomposing chunks; and, tions to creative problem solving: Converging evidence for
+presumably, by other, yet to be discovered, processes. divergent thinking. In M. Beeman & C. Chiarello (Eds.), Right
+hemisphere language comprehension (pp. 349-371). Mahwah,
+NJ: Erlbaum.
+References Flavell, J. H., Cooper, A., & Loiselle, R. H. (1958). Effect of
+number of pre-utilization functions on functional fixedness in
+Adamson, R. E. (1952).-Functional fixedness as related to problem problem solving. Psychological Reports, 4, 343-350.
+solving. Journal of Experimental Psychology, 44, 288-291. Greeno, J. G., & Berger, D. (1987). A model of functional
+Anderson, J. R. (1989). The analogical origins of errors in problem knowledge and insight (Tech. Rep. No. GK-1). Berkeley:
+solving. In D. Klahr & K. Kotovsky (Eds.), Complex information University of California, Schoo! of Education.
+processing (pp. 343-371). Hillsdale, NJ: Erlbaum. Hamilton, D. (1994). Stereotypes. In R. Wyer & T. Srull (Eds.),
+Anderson, J. R. (1993). Rules of the mind, Hillsdale, NJ: Erlbaum. Handbook of social cognition: Applications (2nd ed., Vol. 2, pp.
+Anderson, J. R., & Lebiere, C. (1998). The atomic components of 1-68). Hillsdale, NJ: Erlbaum.
+thought. Mahwah, NJ: Erlbaum. Helmholz, H. von. (1896). Vortréige und reden [Lectures and talks,
+Attneave, F. (1971). Multistability in perception. Scientific Ameri- Vol. 1]. Brunswick, Germany: Friedrich Viehweg und Sohn.
+can, 225, 62-71. . Hilton, J., & Hippel, W. von. (1996). Stereotypes. Annual Review of
+Birch, H. G., & Rabinowitz, H. S. (1951). The negative effect of Psychology, 47, 237-211.
+previous experience on productive thinking. Journal of Experi- Hochberg, J., & Brooks, V. (1960). The psychophysics of form:
+mental Psychology, 41, 121-125. Reversible-perspective drawings of spatial objects. American
+Bogoyavlenskaya, D. B. (1972). Replacement of the model of the Journal of Psychology, 73, 337-354.
+problem situation in the problem-solving process. In V. N. Holding, D. H. (1985). The psychology of chess skill. Hillsdale, NJ:
+Pushkin (Ed.), Problems of heuristics (pp. 114-171). Jerusalem: Erlbaum.
+Israel Program for Scientific Translations. card, P. . ei i
+antecedents of insight. In S. M. Smith, T. B. Ward, & RA. Finke Jeaak, M.I., & Just, M.A. (1995). Constraints on thinking in insight
+eal Ane creative cognition approach (pp. 73-99). Cam- and invention, In R. J. Stemberg & J. E. Davidson (Eds.), The
+: z nature of insight (pp. 281-325). Cambridge, MA: MIT Press.
+Bowers, IC S., Regehr G. Balthazard, on & Parker, i, C998). Johnson-Laird, P. N. (1989). Analogy and the exercise of creativity.
+Pell o in the context of discovery. Cognitive lsychology, 22, In S. Vosniadou & A. Ortony (Eds.), Similarity and analogical
+Brewer, M. B. (1988). A dual process model of impression reasoning (pp. 313-331). New York: Cambridge University
+formation. In T. K. Srull & R. S. Wyer, Jr. (Eds.), Advances in . . i
+social cognition (Nol. 1, pp. 1~36). Hillsdale, NJ: Erlbaum, Keplan, C A., & Simon, H. A. (1990). In search of insight.
+Campbell, D. T. (1960). Blind variation and selective retention in Лognitive Psychology, 22, 374-419. a
+ampre * ) Keane, M. (1989). Modelling problem solving in Gestalt “insight
+creative thought as in other knowledge processes. Psychological * ° 8 P g 2
+ЛReview, 67, 380-400. problems. Irish Journal of Psychology, 10, 201-215. ;
+Chase, W., & Simon, H. A. (1973). The mindСs eye in chess. In W, Keane, M. (1996). On adaptation in analogy: Tests of pragmatic
+Chase (Ed.), Visual information processing (pp. 251-281). New importance and adaptability in analogical problem solving.
+York: Academie Press. Quarterly Journal of Experimental Psychology, 49A(4), 1062~
+Chi, M. T. H. (1992). Conceptual change within and across 1085. . oo
+ontological categories: Examples from learning and discovery in Knoblich, G., & Haider, H. (1996). Empirical evidence for
+science. In R. N. Giere (Ed.), Cognitive models of science (pp. constraint relaxation in insight problem solving. In G. W.
+129-186). Minneapolis: University of Minnesota Press. Cottrell (Ed.), Proceedings of the Eighteenth Annual Conference
+Devine, P. G. (1989). Stereotypes and prejudice: Their automatic of the Cognitive Science Society (pp. 580-585). Mahwah, NJ:
+and controlled components. Journal of Personality and Social Erlbaum.
+Psychology, 56, 5-18. Knoblich, G., & Wartenberg, F. (1998). Unbemerkte LésungshinDorfman, J., Shames, V. A., & Kihlstrom, J. F. (1996). Intuition, weise begiinstigen Verinderungen der Problemreprisentation
+incubation, and insight: Implicit cognition in problem solving. In {Unnoticed hints facilitate representational change in problem
+G. Underwood (Ed.),:Jmplicit cognition (pp. 257-296). Oxford, solving]. Zeitschrift fiir Psychologie, 206, 207-234.
+England: Oxford University Press. Koedinger, K., & Anderson, J. (1990). Abstract planning and
+Duncker, K. (1945). On problem solving. Psychological Mono- _-_ perceptual chunks: Elements of expertise in geometry. Cognitive
+graphs, 68(5, Whole No. 270). Science, 14, 511-550.
+Egan, D., & Schwartz, B. (1979), Chunking in the recall of  Koffka, K. (1935). Principles of Gestalt psychology. London:
+symbolic drawings. Memory & Cognition, 7, 149-158. Routledge & Kegan Paul.
+Ericsson, K. A. (1985). Memory skill. Canadian Journal of _ Kéhler, W. (1924). Die physischen gestalten in ruhe und im
+Psychology, 39, 188-231. stationdren zustand [The physical shapes in rest and in stationary
+Ericsson, K. A., & Lehmann, A. C. (1996). Expert and exceptional state]. Erlangen, Germany: Verlag der Philosophischen Akadperformance: Evidence of maximal adaptation to task con- emie.
+straints. Annual Review of Psychology, 47, 273-305. Kohler, W, (1925). The mentality of apes. New York: Liveright.
+Finke, R. A. (1995). Creative insight and preinventive forms. In Luchins, A. (1942). Mechanization in problem solving: The efR. J. Stemberg & J. E. Davidson (Eds.), The nature of insight fect of Einsteliung. Psychological Monographs, 54(Whole No. 6).
+(pp. 255-280). Cambridge, MA: MIT Press. Lung, C. T., & Dominowski, R. L. (1985). Effect of strategy
+Finke, R., Ward, T., & Smith, S. (1992). Creative cognition. instructions and practice on nine-dot problem solving. Journal of
+Cambridge, MA: MIT Press. Experimental Psychology: Learning, Memory, and Cognition,
+Fiore, S. M., & Schooler, J. W, (1998). Right hemisphere contribu- 11, 804-811.
+
+
+CONSTRAINTS, CHUNKS, AND INSIGHT 1555
+
+Metcalfe, J. (1986a). Feeling of knowing in memory and problem beyond words: When language overshadows insight. Journal of
+solving. Journal of Experimental Psychology: Learning, Memory, Experimental Psychology: General, 122, 166-183.
+and Cognition, 12, 288-294. Schultz, T. R., & Lepper, M. R. (1996). Cognitive dissonance
+
+Metcalfe, J. (1986b). Premonitions of insight predict impending reduction as constraint satisfaction. Psychological Review, 103,
+error. Journal of Experimental Psychology: Learning, Memory, 219-240.
+and Cognition, 12, 623-634. Simon, H. A. (1966). Scientific discovery and the psychology of
+
+Metcalfe, J., & Wiebe, D: (1987). Intuition in insight and nonin- problem solving. In R. Colodny (Ed.), Mind and cosmos (pp.
+sight problem solving. Memory & Cognition, 15, 238-246. 22-40). Pittsburgh, PA: University of Pittsburgh Press.
+
+Miller, G. A. (1956). The- magical number seven, plus or minus Simonton, D. K. (1988). Scientific genius. Cambridge, England:
+two: Some limits on our capacity for processing information. Cambridge University Press.
+
+Psychological Review, 63, 81-97. Singley, M., & Anderson, J. (1989). The transfer of cognitive skill.
+
+Mitrovich, A., & Ohlsson, S. (in press). Evaluation of a constraint- Cambridge, MA: Harvard University Press.
+based tutor for a database language. International Journal of Smith, S. M. (1995a). Fixation, incubation, and insight in memory
+Artificial Intelligence and Education. and creative thinking. In S. M. Smith, T. B. Ward, & R. A. Finke
+
+Newell, A., & Simon, H. A. (1972). Human problem solving. (Eds.), The creative cognition approach (pp. 135-156). CamEnglewood Cliffs, NJ: Prentice Hall. bridge, MA: MIT Press.
+
+Ohlsson, S. (1984a). Restructuring revisited: I. A summary and Smith, S. M. (1995b). Getting into and out of mental ruts: A theory
+critique of the Gestalt theory of problem solving. Scandinavian of fixation, incubation and insight. In R. J. Sternberg & J. E.
+Journal of Psychology, 25, 67-78. Davidson (Eds.), The nature of insight (pp. 229-251). Cam-
+
+Ohlsson, S. (1984b). Restructuring revisited: II. An information bridge, MA: MIT Press.
+processing theory of restructuring and insight. Scandinavian Smith, S. M., Ward, T. B., & Finke, R. A. (Eds.). (1995). The
+Journal of Psychology, 25, 117-129. creative cognition approach, Cambridge, MA: MIT Press.
+
+Ohlsson, S. (1990). The mechanism of restructuring in geometry.In Sternberg, R. J., & Davidson, J. E. (Eds.). (1995). The nature of
+Proceedings of the Twelfth Annual Conference of the Cognitive insight. Cambridge, MA: MIT Press.
+
+Science Society (pp. 237-244). Hillsdale, NJ: Erlbaum. Thorndike, E. L. (1903). Educational psychology. New York:
+
+Ohlsson, S. (1992a). Constraint-based student modeling. Journal of Lemcke and Buechner.
+
+Artificial Intelligence and Education, 3, 429-447. Thorndike, E. L. (1913). Educational psychology (Vol. 2). New
+
+Ohlsson, S. (1992b). Information-processing explanations of in- York: Columbia University, Teachers College.
+sight and related phenomena. In M. Keane & K. Gilhooley _Toppino, T. C., & Long, G. M. (1987). Selective adaptation with
+(Eds.), Advances in the psychology of thinking (pp. 1-44). reversible figures: DonСt change that channel. Perception &
+London: Harvester-Wheatsheaf. Psychophysics, 42, 37-48.
+
+Ohlsson, S. (1996). Learning from performance errors. Psychologi- _ Vosniadou, S. (1994). Capturing and modeling the process of
+cal Review, 103, 241-261. conceptual change. Learning and Instruction, 4, 45-69.
+
+Ohlsson, S., Ernst, A. M., & Rees, E. (1992). The cognitive  Wallas, G. (1926). The art of thought. New York: Harcourt Brace
+complexity of learning and doing arithmetic. Journal for Re- Jovanovich.
+search in Mathematics Education, 23, 441-467. Weisberg, R. W. (1986). Creativity, genius and other myths. New
+
+Ohlsson, S., & Rees, E. (1991). The function of conceptual York: Freeman.
+understanding in the leaming of arithmetic procedures, Cogni- Weisberg, R. W. (1993). Creativity. New York: Freeman.
+tion and Instruction, 8, 103-179. Weisberg, R. W. (1995). Case studies of creative thinking: Repro-
+
+Patalano, A. J., & Seiffert, C. M. (1994), Memory for impasses duction versus restructuring in the real world. In S. M. Smith,
+during problem solving. Memory & Cognition, 22, 234-242. T. B. Ward, & R. A. Finke (Eds.), The creative cognition
+
+Perkins, D. (1981). The mindСs best work. Cambridge, MA: approach (pp. 53-72). Cambridge, MA: MIT Press.
+
+Harvard University Press. Weisberg, R. W., & Alba, J. W. (1981). An examination of the
+
+Poincaré, H. (1952). Science and method. New York: Dover. alleged role of “fixationФ in the solution of several “insightФ
+(Original work published 1908). problems. Journal of Experimental Psychology: General, 110,
+
+Purdue, C. W., & Gurtman, M. B. (1990). Evidence for the 169-192.
+automaticity of ageism. Journal of Experimental Social Psychol- Weisberg, R. W., & Alba, J. W. (1982). Problem solving is not like
+ogy, 26, 199-216. perception: More on Gestalt theory. Journal of Experimental
+
+Reitman, J. (1976). Skilled perception in Go: Deducing memory Psychology: General, Il, 326-330.
+structures from inter-response times. Cognitive Psychology, 8, Wertheimer, M. (1959). Productive thinking. New York: Harper &
+336-356. Row. (Original work published 1945).
+
+Richard, J.-F., Poitrenaud, S., & Tijus, C. (1993). Problem-solving Woodworth, R. (1938). Experimental psychology. New York:
+restructuration: Elimination of implicit constraints. Cognitive Henry Holt.
+
+Science, 17, 497-529. Yaniy, I., & Meyer, D. E. (1987). Activation and metacognition of
+
+Rokeach, M. (1970). Beliefs, attitudes and values, San Francisco: inaccessible stored information: Potential bases for incubation
+Jossey-Bass. effects in problem solving. Experimental Psychology: Learning,
+
+Rosenbloom, P., Laird, J., & Newell, A. (1989). The chunking of Memory, and Cognition, 13, 187-205.
+skill and knowledge. In B. Elsendoorn & H. Bouma (Eds.),
+
+Working models of human perception (pp. 391-410). London:
+Academic Press. .
+
+Scheerer, M. (1963). Problem solving. Scientific American, 208, Received May 15, 1998
+118-128. Revision received May 10, 1999
+
+Schooler, J. W., Ohlsson, S., & Brooks, K. (1993). Thoughts Accepted May 10, 1999 =

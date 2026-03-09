@@ -1,0 +1,127 @@
+# Тема: Анализ экономических данных
+# Источник: Введение в поведенческую экономику
+# Содержание: Материал курса. Подробнее — в README папки или по названию файла.
+
+Document title: Behavioral Economics – Introduction
+Program: BBA program, SKOLKOVO
+Course: Behavioral Economics
+Instructor: Dr. Alexander Usvitskiy
+Total slides: 11
+
+
+BBA program
+Behavioral Economics
+Introduction
+Dr. Alexander Usvitskiy
+
+Both are advanced, and relatively new (≈50 years), areas of Economics
+Nobel Prizes: 1994, 2002, 2017, 2019, 2021
+Both are naturally linked to non-Economics areas:
+• Psychology
+• Cognitive Science
+• Neuroscience
+• Sociology
+
+Why are we bringing the Experimental Economics (i.e., why is there “andФ)?
+• It is difficult to clearly distinguish between the two
+• However, we can try
+
+Experimental and Behavioral Economics
+
+Sidenote 1:
+Why is it important to advance our knowledge in the field of economics?
+- To increase the efficiency of resource management!
+
+Sidenote 2:
+By the way, what is a single reason for the existence of economics (as well as business & finance)?
+- Limited resources!
+
+Experimental and Behavioral Economics
+
+Experimental Economics
+
+It offers, and continuously develops, a specific methodology
+“economic experimentsФ
+
+In principle, the experiments can be designed around classic models,
+without any non-classic behavioral consideration
+
+However, “behavioral deviationsФ will be inevitable observed
+→ Behavioral Economics
+
+Experimental and Behavioral Economics
+
+Behavioral Economics
+
+It studies and explores behavioral deviations from the standard economic theory
+
+By doing so, it contributes to the development of:
+(i) new models
+(ii) modifications and upgrades of the existing theories
+
+However, Лfood for thoughtС frequently comes from the experiments,
+which are also necessary for testing (and fine-tuning) the models
+→ Experimental Economics
+
+Experimental and Behavioral Economics
+Experimental and Behavioral Economics
+
+Experimental Economics
+Behavioral Economics
+Psychology
+Game Theory
+Microeconomics
+Personnel Economics
+Finance
+Industrial Organization
+
+At this point, Experimental and Behavioral Economics have penetrated most
+(if not all) areas of Economics, including Macroeconomics and Labor Economics
+
++ Organizational Theory, Management, Marketing, etc.
++ so-called “field experimentsФ in such areas as Development Economics
+(we will discuss them later)
+
+Behavioral Economics
+
+Basic schedule
+10:00 – 11:30 Class 1
+11:40 – 13:10 Class 2
+13:10 – 13:45 Break
+13:45 – 15:15 Class 3
+15:30 – 17:00 Class 4
+
+Behavioral Economics
+
+Tentative topic list
+• Rationality and Decision-making
+• Heuristics & Biases
+• Strategic Interactions
+• Choice under Risk and Uncertainty
+• Basics of Experimental Economics
+• Intertemporal Choice
+• Social Preferences
+
+Behavioral Economics
+
+Grade structure
+Presentations 10%
+Models and papers 10%
+Groupwork 10%
+Homework 10%
+Quiz 10%
+Final test 25%
+→ 75%
+
+Interdisciplinary component 25%
+Course total = 100%
+
+Behavioral Economics
+
+Basic expectations
+• Taking notes
+• Following the deadlines
+• Being a team player
+• Coming to classes and meetings on time
+
+Questions before we proceed?
